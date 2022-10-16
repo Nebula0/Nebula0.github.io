@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>galactic disk on Explosion Group Paper collection</title>
-    <link>http://explosion.org/categories/galactic-disk/</link>
+    <link>https://nebula0.github.io/categories/galactic-disk/</link>
     <description>Recent content in galactic disk on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://explosion.org/categories/galactic-disk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/galactic-disk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dynamics of hot galactic winds launched from non-uniform starburst cores</title>
-      <link>http://explosion.org/article/dynamics_of_hot_galactic_winds_launched_from_non-uniform_starburst_cores/</link>
+      <link>https://nebula0.github.io/article/dynamics_of_hot_galactic_winds_launched_from_non-uniform_starburst_cores/</link>
       <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://explosion.org/article/dynamics_of_hot_galactic_winds_launched_from_non-uniform_starburst_cores/</guid>
+      <guid>https://nebula0.github.io/article/dynamics_of_hot_galactic_winds_launched_from_non-uniform_starburst_cores/</guid>
       <description>First author: Dustin D. Nguyen
 The galactic wind model of Chevalier1985 (CC85) assumes $\textit{uniform}$ energy and mass-injection within the starburst galaxy nucleus. However, the structure of nuclear star clusters, bulges, and star-forming knots are inherently non-uniform. We generalize to cases with non-uniform energy/mass injection that scale as $r^{-\Delta}$ within the starburst volume $R$, providing solutions for $\Delta = 0$, 1/2, 1, 3/2, and 2. In marked contrast with the CC85 model ($\Delta=0$), which predicts zero velocity at the center, for a singular isothermal sphere profile ($\Delta=2$), we find that the flow maintains a $\textit{constant}$ Mach number of $\mathcal{M}=\sqrt{3/5} \simeq 0.</description>
     </item>
     
     <item>
       <title>Using debris disk observations to infer substellar companions orbiting within or outside a parent planetesimal belt</title>
-      <link>http://explosion.org/article/using_debris_disk_observations_to_infer_substellar_companions_orbiting_within_or_outside_a_parent_planetesimal_belt/</link>
+      <link>https://nebula0.github.io/article/using_debris_disk_observations_to_infer_substellar_companions_orbiting_within_or_outside_a_parent_planetesimal_belt/</link>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://explosion.org/article/using_debris_disk_observations_to_infer_substellar_companions_orbiting_within_or_outside_a_parent_planetesimal_belt/</guid>
+      <guid>https://nebula0.github.io/article/using_debris_disk_observations_to_infer_substellar_companions_orbiting_within_or_outside_a_parent_planetesimal_belt/</guid>
       <description>First author: T. A. Stuber
 Aims. We analyze whether the effects of secular perturbations, originating from a substellar companion, on the dust dynamics in a debris disk can be investigated with spatially resolved observations. Methods. We numerically simulated the collisional evolution of narrow and eccentric cold planetesimal belts around a star of spectral type A3V that are secularly perturbed by a companion that orbits either closer to or farther from the star than the belt.</description>
     </item>
     
     <item>
       <title>Establishing the accuracy of asteroseismic mass and radius estimates of giant stars III. KIC4054905, an eclipsing binary with two 10 Gyr thick disk RGB stars</title>
-      <link>http://explosion.org/article/establishing_the_accuracy_of_asteroseismic_mass_and_radius_estimates_of_giant_stars_iii._kic4054905_an_eclipsing_binary_with_two_10_gyr_thick_disk_rgb_stars/</link>
+      <link>https://nebula0.github.io/article/establishing_the_accuracy_of_asteroseismic_mass_and_radius_estimates_of_giant_stars_iii._kic4054905_an_eclipsing_binary_with_two_10_gyr_thick_disk_rgb_stars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://explosion.org/article/establishing_the_accuracy_of_asteroseismic_mass_and_radius_estimates_of_giant_stars_iii._kic4054905_an_eclipsing_binary_with_two_10_gyr_thick_disk_rgb_stars/</guid>
+      <guid>https://nebula0.github.io/article/establishing_the_accuracy_of_asteroseismic_mass_and_radius_estimates_of_giant_stars_iii._kic4054905_an_eclipsing_binary_with_two_10_gyr_thick_disk_rgb_stars/</guid>
       <description>First author: K. Brogaard
 Eclipsing binary stars with an oscillating giant component allow accurate stellar parameters to be derived and asteroseismic methods to be tested and calibrated. To this aim, suitable systems need to be firstly identified and secondly measured precisely and accurately. KIC 4054905 is one such system, which has been identified, but with measurements of a relatively low precision and with some confusion regarding its parameters and evolutionary state.</description>
     </item>
     
     <item>
       <title>Iterative Angular Differential Imaging (IADI): An exploration of recovering disk structures in scattered light with an iterative ADI approach</title>
-      <link>http://explosion.org/article/iterative_angular_differential_imaging_iadi_an_exploration_of_recovering_disk_structures_in_scattered_light_with_an_iterative_adi_approach/</link>
+      <link>https://nebula0.github.io/article/iterative_angular_differential_imaging_iadi_an_exploration_of_recovering_disk_structures_in_scattered_light_with_an_iterative_adi_approach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://explosion.org/article/iterative_angular_differential_imaging_iadi_an_exploration_of_recovering_disk_structures_in_scattered_light_with_an_iterative_adi_approach/</guid>
+      <guid>https://nebula0.github.io/article/iterative_angular_differential_imaging_iadi_an_exploration_of_recovering_disk_structures_in_scattered_light_with_an_iterative_adi_approach/</guid>
       <description>First author: L. M. Stapper
 Distinguishing signal of young gas rich circumstellar disks from stellar signal in near infrared light is a difficult task. Current techniques such as Angular Differential Imaging (ADI) and Polarimetric Differential Imaging (PDI) cope with drawbacks such as self-subtraction. To address these drawbacks we explore Iterative Angular Differential Imaging (IADI) techniques to increase signal throughput in total intensity observations. This work aims to explore the effectiveness of IADI to recover the self-subtracted regions of disks by applying ADI techniques iteratively.</description>
     </item>
     
     <item>
       <title>Multi-wavelength study of the galactic PeVatron candidate LHAASO J2108&#43;5157</title>
-      <link>http://explosion.org/article/multi-wavelength_study_of_the_galactic_pevatron_candidate_lhaaso_j2108&#43;5157/</link>
+      <link>https://nebula0.github.io/article/multi-wavelength_study_of_the_galactic_pevatron_candidate_lhaaso_j2108&#43;5157/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://explosion.org/article/multi-wavelength_study_of_the_galactic_pevatron_candidate_lhaaso_j2108&#43;5157/</guid>
+      <guid>https://nebula0.github.io/article/multi-wavelength_study_of_the_galactic_pevatron_candidate_lhaaso_j2108&#43;5157/</guid>
       <description>First author: S. Abe
 LHAASO J2108+5157 is one of the few known unidentified Ultra-High-Energy (UHE) gamma-ray sources with no Very-High-Energy (VHE) counterpart, recently discovered by the LHAASO collaboration. We observed LHAASO J2108+5157 in the X-ray band with XMM-Newton in 2021 for a total of 3.8 hours and at TeV energies with the Large-Sized Telescope prototype (LST-1), yielding 49 hours of good quality data. In addition, we analyzed 12 years of Fermi-LAT data, to better constrain emission of its High-Energy (HE) counterpart 4FGL J2108.</description>
     </item>
     
     <item>
       <title>Non-gaussianity of optical emission lines in SDSS star-forming galaxies and its implications on galactic outflows</title>
-      <link>http://explosion.org/article/non-gaussianity_of_optical_emission_lines_in_sdss_star-forming_galaxies_and_its_implications_on_galactic_outflows/</link>
+      <link>https://nebula0.github.io/article/non-gaussianity_of_optical_emission_lines_in_sdss_star-forming_galaxies_and_its_implications_on_galactic_outflows/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://explosion.org/article/non-gaussianity_of_optical_emission_lines_in_sdss_star-forming_galaxies_and_its_implications_on_galactic_outflows/</guid>
+      <guid>https://nebula0.github.io/article/non-gaussianity_of_optical_emission_lines_in_sdss_star-forming_galaxies_and_its_implications_on_galactic_outflows/</guid>
       <description>First author: B. P. Brian Yu
 The shape of emission lines in the optical spectra of star-forming galaxies reveals the kinematics of the diffuse gaseous component. We analyse the shape of prominent emission lines in a sample of ~53,000 star-forming galaxies from the Sloan Digital Sky Survey, focusing on departures from gaussianity. Departures from a single gaussian profile allow us to probe the motion of gas and to assess the role of outflows.</description>
     </item>
     
     <item>
       <title>The impact of environment on the lives of disk galaxies as revealed by SDSS-IV MaNGA</title>
-      <link>http://explosion.org/article/the_impact_of_environment_on_the_lives_of_disk_galaxies_as_revealed_by_sdss-iv_manga/</link>
+      <link>https://nebula0.github.io/article/the_impact_of_environment_on_the_lives_of_disk_galaxies_as_revealed_by_sdss-iv_manga/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://explosion.org/article/the_impact_of_environment_on_the_lives_of_disk_galaxies_as_revealed_by_sdss-iv_manga/</guid>
+      <guid>https://nebula0.github.io/article/the_impact_of_environment_on_the_lives_of_disk_galaxies_as_revealed_by_sdss-iv_manga/</guid>
       <description>First author: Shuang Zhou
 Environment has long been known to have significant impact on the evolution of galaxies, but here we seek to quantify the subtler differences that might be found in disk galaxies, depending on whether they are isolated, the most massive galaxy in a group (centrals), or a lesser member (satellites). The MaNGA survey allows us to define a large mass-matched sample of 574 galaxies with high-quality integrated spectra in each category.</description>
     </item>
     
     <item>
       <title>The metallicity&#39;s fundamental dependence on both local and global galactic quantities</title>
-      <link>http://explosion.org/article/the_metallicitys_fundamental_dependence_on_both_local_and_global_galactic_quantities/</link>
+      <link>https://nebula0.github.io/article/the_metallicitys_fundamental_dependence_on_both_local_and_global_galactic_quantities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://explosion.org/article/the_metallicitys_fundamental_dependence_on_both_local_and_global_galactic_quantities/</guid>
+      <guid>https://nebula0.github.io/article/the_metallicitys_fundamental_dependence_on_both_local_and_global_galactic_quantities/</guid>
       <description>First author: William M. Baker
 We study the scaling relations between gas-phase metallicity, stellar mass surface density ($\Sigma $), star formation rate surface density ($\Sigma {SFR}$), and molecular gas surface density ($\Sigma{H_2}$) in local star-forming galaxies on scales of a kpc. We employ optical integral field spectroscopy from the MaNGA survey, and ALMA data for a subset of MaNGA galaxies. We use Partial Correlation Coefficients and Random Forest regression to determine the relative importance of local and global galactic properties in setting the gas-phase metallicity.</description>
     </item>

@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>supernovae on Explosion Group Paper collection</title>
-    <link>http://explosion.org/categories/supernovae/</link>
+    <link>https://nebula0.github.io/categories/supernovae/</link>
     <description>Recent content in supernovae on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://explosion.org/categories/supernovae/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/supernovae/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Probing the low-mass end of core-collapse supernovae using a sample of strongly-stripped Calcium-rich Type IIb Supernovae from the Zwicky Transient Facility</title>
-      <link>http://explosion.org/article/probing_the_low-mass_end_of_core-collapse_supernovae_using_a_sample_of_strongly-stripped_calcium-rich_type_iib_supernovae_from_the_zwicky_transient_facility/</link>
+      <link>https://nebula0.github.io/article/probing_the_low-mass_end_of_core-collapse_supernovae_using_a_sample_of_strongly-stripped_calcium-rich_type_iib_supernovae_from_the_zwicky_transient_facility/</link>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://explosion.org/article/probing_the_low-mass_end_of_core-collapse_supernovae_using_a_sample_of_strongly-stripped_calcium-rich_type_iib_supernovae_from_the_zwicky_transient_facility/</guid>
+      <guid>https://nebula0.github.io/article/probing_the_low-mass_end_of_core-collapse_supernovae_using_a_sample_of_strongly-stripped_calcium-rich_type_iib_supernovae_from_the_zwicky_transient_facility/</guid>
       <description>First author: Kaustav K. Das
 The fate of stars in the zero-age main-sequence (ZAMS) range $\approx 8-12$ Msun is unclear. They could evolve to form white dwarfs or explode as electron-capture supernovae (SNe) or iron core-collapse SNe (CCSNe). Even though the initial mass function indicates that this mass range should account for over 40% of all CCSNe progenitors, few have been observationally confirmed, likely owing to the faintness and rapid evolution of these transients.</description>
     </item>
     
     <item>
       <title>Three-dimensional core-collapse supernovae with complex magnetic structures: II. Rotational instabilities and multimessenger signatures</title>
-      <link>http://explosion.org/article/three-dimensional_core-collapse_supernovae_with_complex_magnetic_structures_ii._rotational_instabilities_and_multimessenger_signatures/</link>
+      <link>https://nebula0.github.io/article/three-dimensional_core-collapse_supernovae_with_complex_magnetic_structures_ii._rotational_instabilities_and_multimessenger_signatures/</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://explosion.org/article/three-dimensional_core-collapse_supernovae_with_complex_magnetic_structures_ii._rotational_instabilities_and_multimessenger_signatures/</guid>
+      <guid>https://nebula0.github.io/article/three-dimensional_core-collapse_supernovae_with_complex_magnetic_structures_ii._rotational_instabilities_and_multimessenger_signatures/</guid>
       <description>First author: Matteo Bugli
 The gravitational collapse of rapidly rotating massive stars can lead to the onset of the low $T/|W|$ instability within the central proto-neutron star (PNS), which leaves strong signatures in both the gravitational wave (GW) and neutrino emission. Strong large-scale magnetic fields are usually invoked to explain outstanding stellar explosions of rapidly rotating progenitors, but their impact on the growth of such instability has not yet been cleared.</description>
     </item>
     
     <item>
       <title>Explosive nucleosynthesis with fast neutrino-flavor conversion in core-collapse supernovae</title>
-      <link>http://explosion.org/article/explosive_nucleosynthesis_with_fast_neutrino-flavor_conversion_in_core-collapse_supernovae/</link>
+      <link>https://nebula0.github.io/article/explosive_nucleosynthesis_with_fast_neutrino-flavor_conversion_in_core-collapse_supernovae/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://explosion.org/article/explosive_nucleosynthesis_with_fast_neutrino-flavor_conversion_in_core-collapse_supernovae/</guid>
+      <guid>https://nebula0.github.io/article/explosive_nucleosynthesis_with_fast_neutrino-flavor_conversion_in_core-collapse_supernovae/</guid>
       <description>First author: Shin-ichiro Fujimoto
 Fast neutrino -flavor conversion (FFC) is a possible game-changing ingredient in core-collapse supernova (CCSN) theory. In this Letter, we examine the impact of FFC on explosive nucleosynthesis by including the effects of FFC in conjunction with asymmetric neutrino emission into nucleosynthetic computations in a parametric way. We find that the ejecta compositions are not appreciably affected by FFC for elements lighter than Co, while the compositions are influenced by FFC for the heavier elements.</description>
     </item>
     
     <item>
       <title>Pre-maximum spectroscopic diversity of hydrogen-poor superluminous supernovae</title>
-      <link>http://explosion.org/article/pre-maximum_spectroscopic_diversity_of_hydrogen-poor_superluminous_supernovae/</link>
+      <link>https://nebula0.github.io/article/pre-maximum_spectroscopic_diversity_of_hydrogen-poor_superluminous_supernovae/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://explosion.org/article/pre-maximum_spectroscopic_diversity_of_hydrogen-poor_superluminous_supernovae/</guid>
+      <guid>https://nebula0.github.io/article/pre-maximum_spectroscopic_diversity_of_hydrogen-poor_superluminous_supernovae/</guid>
       <description>First author: Réka Könyves-Tóth
 We search for the reasons behind the spectroscopic diversity of hydrogen-poor superluminous supernovae (SLSNe-I) in the pre-maximum phase. Our analysis is a continuation of the paper of \citet{ktr21}, who disclosed two new subtypes of SLSNe-I characterized by the presence/absence of a W-shaped absorption feature in their pre-maximum spectra between 4000 and 5000 \AA (called Type~W and Type~15bn, respectively). However, the physical cause of this bimodality is still uncertain.</description>
     </item>
