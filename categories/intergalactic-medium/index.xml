@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>intergalactic medium on Explosion Group Paper collection</title>
+    <link>http://explosion.org/categories/intergalactic-medium/</link>
+    <description>Recent content in intergalactic medium on Explosion Group Paper collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://explosion.org/categories/intergalactic-medium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The small-scale dynamo in a multiphase supernova-driven medium</title>
+      <link>http://explosion.org/article/the_small-scale_dynamo_in_a_multiphase_supernova-driven_medium/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://explosion.org/article/the_small-scale_dynamo_in_a_multiphase_supernova-driven_medium/</guid>
+      <description>First author: Frederick A. Gent
+Magnetic fields grow quickly, even at early cosmological times, suggesting the action of a small-scale dynamo (SSD) in the interstellar medium (ISM) of galaxies. Many studies have focused on idealized, isotropic, homogeneous, turbulent driving of the SSD. Here we analyze more realistic simulations of supernova-driven turbulence to understand how it drives an SSD. We find that SSD growth rates are intermittently variable as a result of the evolving multiphase ISM structure.</description>
+    </item>
+    
+    <item>
+      <title>A lower bound on intergalactic magnetic fields from time variability of 1ES 0229&#43;200 from MAGIC and Fermi/LAT observations</title>
+      <link>http://explosion.org/article/a_lower_bound_on_intergalactic_magnetic_fields_from_time_variability_of_1es_0229&#43;200_from_magic_and_fermi_lat_observations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://explosion.org/article/a_lower_bound_on_intergalactic_magnetic_fields_from_time_variability_of_1es_0229&#43;200_from_magic_and_fermi_lat_observations/</guid>
+      <description>First author: MAGIC Collaboration
+Extended and delayed emission around distant TeV sources induced by the effects of propagation of gamma rays through the intergalactic medium can be used for the measurement of the intergalactic magnetic field (IGMF). We search for delayed GeV emission from the hard-spectrum TeV blazar 1ES 0229+200 with the goal to detect or constrain the IGMF-dependent secondary flux generated during the propagation of TeV gamma rays through the intergalactic medium.</description>
+    </item>
+    
+    <item>
+      <title>Life cycle of cosmic-ray electrons in the intracluster medium</title>
+      <link>http://explosion.org/article/life_cycle_of_cosmic-ray_electrons_in_the_intracluster_medium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://explosion.org/article/life_cycle_of_cosmic-ray_electrons_in_the_intracluster_medium/</guid>
+      <description>First author: F. Vazza
+We simulate the evolution of relativistic electrons injected into the medium of a small galaxy cluster by a central radio galaxy, studying how the initial jet power affects the dispersal and the emission properties of radio plasma. By coupling passive tracer particles to adaptive-mesh cosmological MHD simulations, we study how cosmic-ray electrons are dispersed as a function of the input jet power. We also investigate how the latter affects the thermal and non-thermal properties of the intracluster medium, with differences discernible up to $\sim$ Gyr after the start of the jet.</description>
+    </item>
+    
+    <item>
+      <title>Scattering variability detected from the circumsource medium of FRB 20190520B</title>
+      <link>http://explosion.org/article/scattering_variability_detected_from_the_circumsource_medium_of_frb_20190520b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://explosion.org/article/scattering_variability_detected_from_the_circumsource_medium_of_frb_20190520b/</guid>
+      <description>First author: S. K. Ocker
+Fast radio bursts (FRBs) are millisecond-timescale radio transients, the origins of which are predominantly extragalactic and likely involve highly magnetized compact objects. FRBs undergo multipath propagation, or scattering, from electron density fluctuations on sub-parsec scales in ionized gas along the line-of-sight. Scattering observations have located plasma structures within FRB host galaxies, probed Galactic and extragalactic turbulence, and constrained FRB redshifts. Scattering also inhibits FRB detection and biases the observed FRB population.</description>
+    </item>
+    
+  </channel>
+</rss>

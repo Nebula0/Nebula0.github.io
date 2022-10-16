@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>galaxy merger on Explosion Group Paper collection</title>
+    <link>http://explosion.org/categories/galaxy-merger/</link>
+    <description>Recent content in galaxy merger on Explosion Group Paper collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://explosion.org/categories/galaxy-merger/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optical measurement of superluminal motion in the neutron-star merger GW170817</title>
+      <link>http://explosion.org/article/optical_measurement_of_superluminal_motion_in_the_neutron-star_merger_gw170817/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://explosion.org/article/optical_measurement_of_superluminal_motion_in_the_neutron-star_merger_gw170817/</guid>
+      <description>First author: Kunal P. Mooley
+The afterglow of the binary neutron star merger GW170817 gave evidence for a structured relativistic jet and a link between such mergers and short gamma-ray bursts. Superluminal motion, found using radio very long baseline interferometry (VLBI), together with the afterglow light curve provided constraints on the viewing angle (14-28 degrees), the opening angle of the jet core (less than about 5 degrees), and a modest limit on the initial Lorentz factor of the jet core (more than 4).</description>
+    </item>
+    
+    <item>
+      <title>Ironing the folds: The phase space chevrons of a GSE-like merger as a dark matter subhalo detector</title>
+      <link>http://explosion.org/article/ironing_the_folds_the_phase_space_chevrons_of_a_gse-like_merger_as_a_dark_matter_subhalo_detector/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://explosion.org/article/ironing_the_folds_the_phase_space_chevrons_of_a_gse-like_merger_as_a_dark_matter_subhalo_detector/</guid>
+      <description>First author: Elliot Y. Davies
+Recent work uncovered features in the phase space of the Milky Way&amp;rsquo;s stellar halo which may be attributed to the last major merger. When stellar material from a satellite is accreted onto its host, it phase mixes and appears finely substructured in phase space. For a high-eccentricity merger, this substructure most clearly manifests as numerous wrapping chevrons in $(v_r, r)$ space, corresponding to stripes in $(E, \theta_r)$ space.</description>
+    </item>
+    
+  </channel>
+</rss>

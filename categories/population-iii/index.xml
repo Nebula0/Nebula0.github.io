@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Population III on Explosion Group Paper collection</title>
+    <link>http://explosion.org/categories/population-iii/</link>
+    <description>Recent content in Population III on Explosion Group Paper collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://explosion.org/categories/population-iii/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Quenched Satellite Population Around Milky Way Analogs</title>
+      <link>http://explosion.org/article/the_quenched_satellite_population_around_milky_way_analogs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://explosion.org/article/the_quenched_satellite_population_around_milky_way_analogs/</guid>
+      <description>First author: Ananthan Karunakaran
+We study the relative fractions of quenched and star-forming satellite galaxies in the Satellites Around Galactic Analogs (SAGA) survey and Exploration of Local VolumE Satellites (ELVES) program, two nearby and complementary samples of Milky Way-like galaxies that take different approaches to identify faint satellite galaxy populations. We cross-check and validate sample cuts and selection criteria, as well as explore the effects of different star-formation definitions when determining the quenched satellite fraction of Milky Way analogs.</description>
+    </item>
+    
+  </channel>
+</rss>

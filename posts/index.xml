@@ -2,18 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Explosion Group Paper collection</title>
-    <link>http://example.org/posts/</link>
+    <link>http://explosion.org/posts/</link>
     <description>Recent content in Posts on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Aug 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://explosion.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Example article title</title>
-      <link>http://example.org/posts/test_post/</link>
-      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      <title>README</title>
+      <link>http://explosion.org/posts/test_post/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/test_post/</guid>
-      <description></description>
+      <guid>http://explosion.org/posts/test_post/</guid>
+      <description>What is this for A website containing papers related to Ken’s group research topics.
+What are the topic The keywords are listed below, if group member wants to add keywords, please contact me.
+query_list = [ &amp;#34;cosmology&amp;#34;, &amp;#34;early universe&amp;#34;, &amp;#34;galaxies&amp;#34;, &amp;#34;high-redshift&amp;#34;, &amp;#34;intergalactic medium&amp;#34;, &amp;#34;Population III&amp;#34;, &amp;#34;supernovae&amp;#34;, &amp;#34;radiative transfer&amp;#34;, &amp;#34;nuclear reactions&amp;#34;, &amp;#34;hydrodynamics&amp;#34;, &amp;#34;Active galactic nucleus&amp;#34;, &amp;#34;AGN&amp;#34;, &amp;#34;galaxy merger&amp;#34;, &amp;#34;accretion model&amp;#34;, &amp;#34;dwarf galaxy&amp;#34;, &amp;#34;chemical evolution&amp;#34;, &amp;#34;SMBH&amp;#34;, &amp;#34;blackhole physics&amp;#34;, &amp;#34;galactic bugle&amp;#34;, &amp;#34;galactic disk&amp;#34;, &amp;#34;dynamics of bar&amp;#34; ] To-do Currently, the math expression is still not working QQ.</description>
     </item>
     
   </channel>

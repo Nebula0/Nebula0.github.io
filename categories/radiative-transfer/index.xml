@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>radiative transfer on Explosion Group Paper collection</title>
+    <link>http://explosion.org/categories/radiative-transfer/</link>
+    <description>Recent content in radiative transfer on Explosion Group Paper collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://explosion.org/categories/radiative-transfer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evaluation of different recipes for chromospheric radiative losses in solar flares</title>
+      <link>http://explosion.org/article/evaluation_of_different_recipes_for_chromospheric_radiative_losses_in_solar_flares/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://explosion.org/article/evaluation_of_different_recipes_for_chromospheric_radiative_losses_in_solar_flares/</guid>
+      <description>First author: J. Tian
+Context. Radiative losses are an indispensable part in the numerical simulation of flares. Detailed calculations could be computationally expensive, especially in the chromosphere. There have been some approximate recipes for chromospheric radiative losses in flares, yet their feasibility in flare simulations needs further evaluation. Aims. We aim to evaluate the performance of different recipes for chromospheric radiative losses in flare simulations. Methods. We compare the atmospheric structure and line profiles in beam-heated flares calculated with detailed radiative losses and the approximate recipes.</description>
+    </item>
+    
+    <item>
+      <title>Air-sea interactions on Titan: effect of radiative transfer on the lake evaporation and atmospheric circulation</title>
+      <link>http://explosion.org/article/air-sea_interactions_on_titan_effect_of_radiative_transfer_on_the_lake_evaporation_and_atmospheric_circulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://explosion.org/article/air-sea_interactions_on_titan_effect_of_radiative_transfer_on_the_lake_evaporation_and_atmospheric_circulation/</guid>
+      <description>First author: Audrey Chatain
+Titan&amp;rsquo;s northern high latitudes host many large hydrocarbon lakes. Like water lakes on Earth, Titan&amp;rsquo;s lakes are constantly subject to evaporation. This process strongly affects the atmospheric methane abundance, the atmospheric temperature, the lake mixed layer temperature, and the local wind circulation. In this work we use a 2D atmospheric mesoscale model coupled to a slab lake model to investigate the effect of solar and infrared radiation on the exchange of energy and methane between Titan&amp;rsquo;s lakes and atmosphere.</description>
+    </item>
+    
+  </channel>
+</rss>

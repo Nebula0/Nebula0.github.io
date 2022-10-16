@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>early universe on Explosion Group Paper collection</title>
+    <link>http://explosion.org/categories/early-universe/</link>
+    <description>Recent content in early universe on Explosion Group Paper collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://explosion.org/categories/early-universe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing afterglow models of FRB 200428 with early post-burst observations of SGR 1935&#43;2154</title>
+      <link>http://explosion.org/article/testing_afterglow_models_of_frb_200428_with_early_post-burst_observations_of_sgr_1935&#43;2154/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://explosion.org/article/testing_afterglow_models_of_frb_200428_with_early_post-burst_observations_of_sgr_1935&#43;2154/</guid>
+      <description>First author: A. J. Cooper
+We present LOFAR imaging observations from the April/May 2020 active episode of magnetar SGR 1935+2154. We place the earliest radio limits on persistent emission following the low-luminosity fast radio burst FRB 200428 from the magnetar. We also perform an image-plane search for transient emission and find no radio flares during our observations. We examine post-FRB radio upper limits in the literature and find that all are consistent with the multi-wavelength afterglow predicted by the synchrotron maser shock model interpretation of FRB 200428.</description>
+    </item>
+    
+    <item>
+      <title>Probing the distant universe with a very luminous fast radio burst at redshift 1</title>
+      <link>http://explosion.org/article/probing_the_distant_universe_with_a_very_luminous_fast_radio_burst_at_redshift_1/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://explosion.org/article/probing_the_distant_universe_with_a_very_luminous_fast_radio_burst_at_redshift_1/</guid>
+      <description>First author: Stuart D. Ryder
+Fast radio bursts are millisecond-duration pulses of radio emission that have been found to originate at extragalactic distances. The bursts show dispersion imparted by intervening plasma, with the bulk attributed to the intergalactic medium. Here we report the discovery of a burst, FRB20220610A, in a complex host galaxy system at a redshift of $z=1.016 \pm 0.002$. The relationship between its redshift and dispersion confirm that the bulk of the baryonic matter was ionized and in the intergalactic medium when the universe was almost half its present age.</description>
+    </item>
+    
+    <item>
+      <title>XMM-Newton view of the shock heating in an early merging cluster, CIZA J1358.9$-$4750</title>
+      <link>http://explosion.org/article/xmm-newton_view_of_the_shock_heating_in_an_early_merging_cluster_ciza_j1358.9-4750/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://explosion.org/article/xmm-newton_view_of_the_shock_heating_in_an_early_merging_cluster_ciza_j1358.9-4750/</guid>
+      <description>First author: Y. Omiya
+CIZA J1358.9-4750 is a nearby galaxy cluster in the early phase of a major merger. The two-dimensional temperature map using XMM-Newton EPIC-PN observation confirms the existence of a high temperature region, which we call the &amp;ldquo;hot region&amp;rdquo;, in the &amp;ldquo;bridge region&amp;rdquo; connecting the two clusters. The ~ 500 kpc wide region between the southeast and northwest boundaries also has higher pseudo pressure compared to the unshocked regions, suggesting the existence of two shocks.</description>
+    </item>
+    
+  </channel>
+</rss>
