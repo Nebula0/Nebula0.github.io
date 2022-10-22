@@ -26,7 +26,34 @@
 	<link rel="alternate" type="application/rss+xml" href="/index.xml" title="Explosion Group Paper collection">
 
 	<link rel="shortcut icon" href="/favicon.ico">
-		
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    messageStyle: "none",
+    extensions: ["tex2jax.js"],
+    jax: ["input/TeX", "output/HTML-CSS"],
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+      processEscapes: true,
+      ignoreClass: '.*',
+      processClass: 'mathjax.*'
+    },
+    TeX: {
+        extensions: ["AMSmath.js", "AMSsymbols.js", "noErrors.js"],
+        noErrors: {
+          inlineDelimiters: ["$","$"],
+          multiLine: false,
+          style: {
+            "font-size": "normal",
+            "border": ""
+          }
+        }
+    },
+    "HTML-CSS": { availableFonts: ["TeX"] }
+  });
+</script>
+<script src='//static.arxiv.org/MathJax-2.7.3/MathJax.js'></script>
+<script src="https://static.arxiv.org/static/base/0.17.4.post2/js/notification.js"></script>		
 </head>
 <body class="body">
 	<div class="container container--outer">
@@ -369,6 +396,14 @@ We investigate the synergy of upcoming galaxy surveys and gravitational wave (GW
 			<li class="widget__item"><a class="widget__link" href="/article/galaxy_manifold_characterizing_and_understanding_galaxies_with_two_parameters/">Galaxy Manifold: Characterizing and understanding galaxies with two parameters</a></li>
 		</ul>
 	</div>
+</div><div class="widget-search widget">
+	<form class="widget-search__form" role="search" method="get" action="https://google.com/search">
+		<label>
+			<input class="widget-search__field" type="search" placeholder="SEARCH…" value="" name="q" aria-label="SEARCH…">
+		</label>
+		<input class="widget-search__submit" type="submit" value="Search">
+		<input type="hidden" name="sitesearch" value="https://nebula0.github.io/">
+	</form>
 </div>
 </aside>
 		</div>
