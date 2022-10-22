@@ -6,7 +6,67 @@
     <description>Recent content in Active galactic nucleus on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/active-galactic-nucleus/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/active-galactic-nucleus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Characterization of LBT atmospheric and turbulence conditions in the context of ALTA project</title>
+      <link>https://nebula0.github.io/new_article/characterization_of_lbt_atmospheric_and_turbulence_conditions_in_the_context_of_alta_project/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/characterization_of_lbt_atmospheric_and_turbulence_conditions_in_the_context_of_alta_project/</guid>
+      <description>First author: A. Turchi
+ALTA project has been active since 2016, providing, at LBT observatory site, forecasts of atmospheric parameters, such as temperature, wind speed and direction, relative humidity and precipitable water vapor, and optical turbulence parameters, such as seeing, wavefront coherence time and isoplanatic angle with the final goal to support nightly the science operation of the LBT. Besides to the forecasts, during the years ALTA has been collecting statistics on the atmospheric conditions which can be used to draw a very accurate characterization of the climatology of the telescope site located on top of Mount Graham, Arizona.</description>
+    </item>
+    
+    <item>
+      <title>Flare Duty Cycle of Gamma-Ray Blazars and Implications for High-Energy Neutrino Emission</title>
+      <link>https://nebula0.github.io/new_article/flare_duty_cycle_of_gamma-ray_blazars_and_implications_for_high-energy_neutrino_emission/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/flare_duty_cycle_of_gamma-ray_blazars_and_implications_for_high-energy_neutrino_emission/</guid>
+      <description>First author: Kenji Yoshida
+Gamma-ray flares of blazars may be accompanied by high-energy neutrinos due to interactions of high-energy cosmic rays in the jet with photons, as suggested by the detection of the high-energy neutrino IceCube-170922A during a major gamma-ray flare from blazar TXS 0506+056 at the $\sim3\sigma$ significance level. In this work, we present a statistical study of gamma-ray emission from blazars to constrain the contribution of gamma-ray flares to their neutrino output.</description>
+    </item>
+    
+    <item>
+      <title>Sub-surface Plasma Flows and the Flare Productivity of Solar Active Regions</title>
+      <link>https://nebula0.github.io/new_article/sub-surface_plasma_flows_and_the_flare_productivity_of_solar_active_regions/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/sub-surface_plasma_flows_and_the_flare_productivity_of_solar_active_regions/</guid>
+      <description>First author: B Lekshmi
+The extreme space weather conditions resulting from high energetic events likes solar flares and Coronal Mass Ejections (CMEs) demand for reliable space weather forecasting. The magnetic flux tubes while rising through the convection zone gets twisted by the turbulent plasma flows, energizing the system and resulting in flares. We investigate the relationship between the subsurface plasma flows associated with flaring active regions and their surface magnetic flux and current helicity.</description>
+    </item>
+    
+    <item>
+      <title>Searching for Outbursts in the Ground-Based Photometry of 67P/Churyumov-Gerasimenko</title>
+      <link>https://nebula0.github.io/new_article/searching_for_outbursts_in_the_ground-based_photometry_of_67p_churyumov-gerasimenko/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/searching_for_outbursts_in_the_ground-based_photometry_of_67p_churyumov-gerasimenko/</guid>
+      <description>First author: Daniel Gardener
+67P/Churyumov-Gerasimenko is a Jupiter-family comet that was the target of the Rosetta mission, the first mission to successfully orbit and land a probe on a comet. This mission was accompanied by a large ground-based observing campaign. We have developed a pipeline to calibrate and measure photometry of comet 67P during its 2016 perihelion passage, making use of all visible wavelength broadband imaging collected across a wide range of facilities.</description>
+    </item>
+    
+    <item>
+      <title>The thermonuclear X-ray bursts of 4U 1730-22</title>
+      <link>https://nebula0.github.io/new_article/the_thermonuclear_x-ray_bursts_of_4u_1730-22/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/the_thermonuclear_x-ray_bursts_of_4u_1730-22/</guid>
+      <description>First author: Peter Bult
+We present observations of the historic transient 4U 1730-22 as observed with the Neutron Star Interior Composition Explorer (NICER). After remaining in quiescence since its 1972 discovery, this X-ray binary showed renewed outburst activity in 2021 and 2022. We observed 4U 1730-22 extensively with NICER, detecting a total of 17 thermonuclear X-ray bursts. From a spectroscopic analysis, we find that these X-ray bursts can be divided into a group of bright and weak bursts.</description>
+    </item>
+    
+    <item>
+      <title>Design and Testing of a 3U CubeSat to Test the In-situ Vetoing for the $ν$SOL Solar Neutrino Detector</title>
+      <link>https://nebula0.github.io/new_article/design_and_testing_of_a_3u_cubesat_to_test_the_in-situ_vetoing_for_the_%CE%BDsol_solar_neutrino_detector/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/design_and_testing_of_a_3u_cubesat_to_test_the_in-situ_vetoing_for_the_%CE%BDsol_solar_neutrino_detector/</guid>
+      <description>First author: Jonathan Folkerts
+For years, earth-based neutrino detectors have been run and operated to detect the elusive neutrino. These have historically been enormous underground detectors. The neutrino Solar Orbiting Laboratory ($\nu$SOL) project is working to design a technical demonstration to show that a much smaller neutrino detector can be operated in near-solar environments for a future spaceflight mission. At a closest approach of 3 solar radii, there is a ten thousand-fold increase in the neutrino flux.</description>
+    </item>
+    
     <item>
       <title>Pre-emergence Signatures Of Horizontal Divergent Flows In Solar Active Regions</title>
       <link>https://nebula0.github.io/article/pre-emergence_signatures_of_horizontal_divergent_flows_in_solar_active_regions/</link>

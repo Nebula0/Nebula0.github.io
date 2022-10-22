@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nuclear reactions on Explosion Group Paper collection</title>
+    <link>https://nebula0.github.io/categories/nuclear-reactions/</link>
+    <description>Recent content in nuclear reactions on Explosion Group Paper collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/nuclear-reactions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pynucastro: A Python Library for Nuclear Astrophysics</title>
+      <link>https://nebula0.github.io/new_article/pynucastro_a_python_library_for_nuclear_astrophysics/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/pynucastro_a_python_library_for_nuclear_astrophysics/</guid>
+      <description>First author: Alexander Smith Clark
+We describe pynucastro 2.0, an open source library for interactively creating and exploring astrophysical nuclear reaction networks. We demonstrate new methods for approximating rates and using detailed balance to create reverse rates, show how to build networks and determine whether they are appropriate for a particular science application, and discuss the changes made to the library over the past few years. Finally, we demonstrate the validity of the networks produced and share how we use pynucastro networks in simulation codes.</description>
+    </item>
+    
+    <item>
+      <title>Pulsations of primordial supermassive stars induced by a general relativistic instability; visible to JWST at z$&gt;$12</title>
+      <link>https://nebula0.github.io/new_article/pulsations_of_primordial_supermassive_stars_induced_by_a_general_relativistic_instability_visible_to_jwst_at_z12/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/pulsations_of_primordial_supermassive_stars_induced_by_a_general_relativistic_instability_visible_to_jwst_at_z12/</guid>
+      <description>First author: Chris Nagele
+The origin of high-redshift quasars and their supermassive black hole engines is unclear. One promising solution is the collapse of a primordial supermassive star. Observational confirmation of this scenario may be difficult, but a general relativistic instability supernova provides one avenue for such. Previous studies have found that a general relativistic instability supernova has a potentially decades-long plateau phase visible to JWST at high redshift. In this work, we examine stars with mass just below the general relativistic instability supernova mass range.</description>
+    </item>
+    
+    <item>
+      <title>Machine-Learning Love: classifying the equation of state of neutron stars with Transformers</title>
+      <link>https://nebula0.github.io/new_article/machine-learning_love_classifying_the_equation_of_state_of_neutron_stars_with_transformers/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/machine-learning_love_classifying_the_equation_of_state_of_neutron_stars_with_transformers/</guid>
+      <description>First author: Gonçalo Gonçalves
+The use of the Audio Spectrogram Transformer (AST) model for gravitational-wave data analysis is investigated. The AST machine-learning model is a convolution-free classifier that captures long-range global dependencies through a purely attention-based mechanism. In this paper a model is applied to a simulated dataset of inspiral gravitational wave signals from binary neutron star coalescences, built from five distinct, cold equations of state (EOS) of nuclear matter.</description>
+    </item>
+    
+  </channel>
+</rss>
