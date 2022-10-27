@@ -9,20 +9,20 @@
     <lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/intergalactic-medium/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SARABANDE: 3/4 Point Correlation Functions with Fast Fourier Transforms</title>
-      <link>https://nebula0.github.io/new_article/sarabande_3_4_point_correlation_functions_with_fast_fourier_transforms/</link>
+      <link>https://nebula0.github.io/article/sarabande_3_4_point_correlation_functions_with_fast_fourier_transforms/</link>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/sarabande_3_4_point_correlation_functions_with_fast_fourier_transforms/</guid>
+      <guid>https://nebula0.github.io/article/sarabande_3_4_point_correlation_functions_with_fast_fourier_transforms/</guid>
       <description>First author: James Sunseri
 We present a new $\texttt{python}$ package SARABANDE for measuring 3 &amp;amp; 4 Point Correlation Functions (3/4 PCFs) in $\mathcal{O}(N_{\rm g} \log N_{\rm g})$ time using Fast Fourier Transforms (FFTs), with $N_{\rm g}$ the number of grid points used for the FFT. SARABANDE can measure both projected and full 3 and 4 PCFs on gridded 2D and 3D datasets. The general technique is to generate suitable angular basis functions on an underlying grid, radially bin these to create kernels, and convolve these kernels with the original gridded data to obtain expansion coefficients about every point simultaneously.</description>
     </item>
     
     <item>
       <title>Study on the filters of atmospheric contamination in ground based CMB observation</title>
-      <link>https://nebula0.github.io/new_article/study_on_the_filters_of_atmospheric_contamination_in_ground_based_cmb_observation/</link>
+      <link>https://nebula0.github.io/article/study_on_the_filters_of_atmospheric_contamination_in_ground_based_cmb_observation/</link>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/study_on_the_filters_of_atmospheric_contamination_in_ground_based_cmb_observation/</guid>
+      <guid>https://nebula0.github.io/article/study_on_the_filters_of_atmospheric_contamination_in_ground_based_cmb_observation/</guid>
       <description>First author: Yi-Wen Wu
 The atmosphere is one of the most important contamination sources in the ground-based Cosmic Microwave Background (CMB) observations. In this paper, we study three kinds of filters, which are polynomial filter, high-pass filter, and Wiener filter, to investigate their ability for removing atmospheric noise, as well as their impact on the data analysis process through the end-to-end simulations of CMB experiment. We track their performance by analyzing the response of different components of the data, including both signals and noise.</description>
     </item>

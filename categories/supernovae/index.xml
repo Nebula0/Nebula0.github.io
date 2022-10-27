@@ -9,50 +9,50 @@
     <lastBuildDate>Wed, 19 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/supernovae/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to solve the mass-discrepancy problem of SESNe -- I. Testing model approximations</title>
-      <link>https://nebula0.github.io/new_article/how_to_solve_the_mass-discrepancy_problem_of_sesne_--_i._testing_model_approximations/</link>
+      <link>https://nebula0.github.io/article/how_to_solve_the_mass-discrepancy_problem_of_sesne_--_i._testing_model_approximations/</link>
       <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/how_to_solve_the_mass-discrepancy_problem_of_sesne_--_i._testing_model_approximations/</guid>
+      <guid>https://nebula0.github.io/article/how_to_solve_the_mass-discrepancy_problem_of_sesne_--_i._testing_model_approximations/</guid>
       <description>First author: Andrea P. Nagy
 Here, we present a systematic study of 59 stripped-envelope supernovae (SESNe) (including Type IIb, Ib, Ic, and transitional events) to map a possible reason for the so-called mass-discrepancy problem. In this scenario, we assume the tension between the estimated ejected masses from early- and late-time light curves (LC) is due to approximations generally used in analytical models. First, we examine the assumption that the R-band light curve is indeed a good approximation of the bolometric light curve.</description>
     </item>
     
     <item>
       <title>The impact of weak lensing on Type Ia supernovae luminosity distances</title>
-      <link>https://nebula0.github.io/new_article/the_impact_of_weak_lensing_on_type_ia_supernovae_luminosity_distances/</link>
+      <link>https://nebula0.github.io/article/the_impact_of_weak_lensing_on_type_ia_supernovae_luminosity_distances/</link>
       <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/the_impact_of_weak_lensing_on_type_ia_supernovae_luminosity_distances/</guid>
+      <guid>https://nebula0.github.io/article/the_impact_of_weak_lensing_on_type_ia_supernovae_luminosity_distances/</guid>
       <description>First author: Paul Shah
 When Type Ia supernovae are used to infer cosmological parameters, their luminosities are compared to those from a homogeneous cosmology. In this note we propose a test to examine to what degree SN Ia have been observed on lines of sight where the average matter density is \textit{not} representative of the homogeneous background. We use a modification to the Tripp estimator to explicitly de-lens SN Ia magnitudes, and show that it reduces scatter.</description>
     </item>
     
     <item>
       <title>A search for relativistic ejecta in a sample of ZTF broad-lined Type Ic supernovae</title>
-      <link>https://nebula0.github.io/new_article/a_search_for_relativistic_ejecta_in_a_sample_of_ztf_broad-lined_type_ic_supernovae/</link>
+      <link>https://nebula0.github.io/article/a_search_for_relativistic_ejecta_in_a_sample_of_ztf_broad-lined_type_ic_supernovae/</link>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/a_search_for_relativistic_ejecta_in_a_sample_of_ztf_broad-lined_type_ic_supernovae/</guid>
+      <guid>https://nebula0.github.io/article/a_search_for_relativistic_ejecta_in_a_sample_of_ztf_broad-lined_type_ic_supernovae/</guid>
       <description>First author: Alessandra Corsi
 The dividing line between gamma-ray bursts (GRBs) and ordinary stripped-envelope core-collapse supernovae (SNe) is yet to be fully understood. Observationally mapping the variety of ejecta outcomes (ultra-relativistic, mildly-relativistic or non-relativistic) in SNe of Type Ic with broad lines (Ic-BL) can provide a key test to stellar explosion models. However, this requires large samples of the rare Ic-BL events with follow-up observations in the radio, where fast ejecta can be probed largely free of geometry and viewing angle effects.</description>
     </item>
     
     <item>
       <title>Revealing the effects of curvature on the cosmological models</title>
-      <link>https://nebula0.github.io/new_article/revealing_the_effects_of_curvature_on_the_cosmological_models/</link>
+      <link>https://nebula0.github.io/article/revealing_the_effects_of_curvature_on_the_cosmological_models/</link>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/revealing_the_effects_of_curvature_on_the_cosmological_models/</guid>
+      <guid>https://nebula0.github.io/article/revealing_the_effects_of_curvature_on_the_cosmological_models/</guid>
       <description>First author: Weiqiang Yang
 In this paper we consider the effects of adding curvature in extended cosmologies involving a free-to-vary neutrino sector and different parametrizations of Dark Energy (DE). We make use of the Planck 2018 cosmic microwave background temperature and polarization data, Baryon Acoustic Oscillations and Pantheon type Ia Supernovae data. Our main result is that a non-flat Universe cannot be discarded in light of the current astronomical data, because we find an indication for a closed Universe in most of the DE cosmologies explored in this work.</description>
     </item>
     
     <item>
       <title>Skynet&#39;s New Observing Mode: The Campaign Manager</title>
-      <link>https://nebula0.github.io/new_article/skynets_new_observing_mode_the_campaign_manager/</link>
+      <link>https://nebula0.github.io/article/skynets_new_observing_mode_the_campaign_manager/</link>
       <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/skynets_new_observing_mode_the_campaign_manager/</guid>
+      <guid>https://nebula0.github.io/article/skynets_new_observing_mode_the_campaign_manager/</guid>
       <description>First author: Dylan A. Dutton
 Built in 2004, the Skynet robotic telescope network originally consisted of six 0.4 m telescopes located at the Cerro-Tololo Inter-American Observatory in the Chilean Andes. The network was designed to carry out simultaneous multi-wavelength observations of gamma-ray bursts (GRBs) when they are only tens of seconds old. To date, the network has been expanded to ~20 telescopes, including a 20 m radio telescope, that span four continents and five countries.</description>
     </item>

@@ -6,73 +6,113 @@
     <description>Recent content in cosmology on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Characteristic Functions for Cosmological Cross-Correlations</title>
+      <link>https://nebula0.github.io/new_article/characteristic_functions_for_cosmological_cross-correlations/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/characteristic_functions_for_cosmological_cross-correlations/</guid>
+      <description>First author: Patrick C. Breysse
+We introduce a novel unbiased, cross-correlation estimator for the one-point statistics of cosmological random fields. One-point statistics are a useful tool for analysis of highly non-Gaussian density fields, while cross-correlations provide a powerful method for combining information from pairs of fields and separating them from noise and systematics. We derive a new Deconvolved Distribution Estimator that combines the useful properties of these two methods into one statistic.</description>
+    </item>
+    
+    <item>
+      <title>Spherical collapse of non-top-hat profiles in the presence of dark energy with arbitrary sound speed</title>
+      <link>https://nebula0.github.io/new_article/spherical_collapse_of_non-top-hat_profiles_in_the_presence_of_dark_energy_with_arbitrary_sound_speed/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/spherical_collapse_of_non-top-hat_profiles_in_the_presence_of_dark_energy_with_arbitrary_sound_speed/</guid>
+      <description>First author: R. C. Batista
+We study the spherical collapse of non-top-hat matter fluctuations in the presence of dark energy with arbitrary sound speed. The model is described by a system of partial differential equations solved using a pseudo-spectral method with collocation points. This method can reproduce the known analytical solutions in the linear regime with an accuracy better than $10^{-6}%$ and better than $10^{-2}%$ for the virialization threshold given by the usual spherical collapse model.</description>
+    </item>
+    
+    <item>
+      <title>The deconvolved distribution estimator: enhancing reionisation-era CO line-intensity mapping analyses with a cross-correlation analogue for one-point statistics</title>
+      <link>https://nebula0.github.io/new_article/the_deconvolved_distribution_estimator_enhancing_reionisation-era_co_line-intensity_mapping_analyses_with_a_cross-correlation_analogue_for_one-point_statistics/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/the_deconvolved_distribution_estimator_enhancing_reionisation-era_co_line-intensity_mapping_analyses_with_a_cross-correlation_analogue_for_one-point_statistics/</guid>
+      <description>First author: Dongwoo T. Chung
+We present the deconvolved distribution estimator (DDE), an extension of the voxel intensity distribution (VID), in the context of future observations proposed as part of the CO Mapping Array Project (COMAP). The DDE exploits the fact that the observed VID is a convolution of correlated signal intensity distributions and uncorrelated noise or interloper intensity distributions. By deconvolving the individual VID of two observables away from their joint VID in a Fourier-space operation, the DDE suppresses sensitivity to interloper emission while maintaining sensitivity to correlated components.</description>
+    </item>
+    
+    <item>
+      <title>Global CD/EoR Signal Detection with a Dense Digital Beamforming Array and Beyond</title>
+      <link>https://nebula0.github.io/new_article/global_cd_eor_signal_detection_with_a_dense_digital_beamforming_array_and_beyond/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/global_cd_eor_signal_detection_with_a_dense_digital_beamforming_array_and_beyond/</guid>
+      <description>First author: Junhua Gu
+The global neutral hydrogen 21 cm signal extracted from the all-sky averaged radio spectra is one of the signatures of the Cosmic Dawn and Epoch of Reionization (CD/EoR). The frequency-dependency of antenna beam patterns coupled with the strong foreground emission could introduce artificial spectral structures and cause false detection. A digital beamforming array could be potentially employed to form achromatic station beam patterns to overcome this problem.</description>
+    </item>
+    
     <item>
       <title>Improving the spin-down limits for the continuous gravitational waves emitted from pulsars as triaxial rotators</title>
-      <link>https://nebula0.github.io/new_article/improving_the_spin-down_limits_for_the_continuous_gravitational_waves_emitted_from_pulsars_as_triaxial_rotators/</link>
+      <link>https://nebula0.github.io/article/improving_the_spin-down_limits_for_the_continuous_gravitational_waves_emitted_from_pulsars_as_triaxial_rotators/</link>
       <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/improving_the_spin-down_limits_for_the_continuous_gravitational_waves_emitted_from_pulsars_as_triaxial_rotators/</guid>
+      <guid>https://nebula0.github.io/article/improving_the_spin-down_limits_for_the_continuous_gravitational_waves_emitted_from_pulsars_as_triaxial_rotators/</guid>
       <description>First author: Dhruv Pathak
 The spin-down limit of the continuous gravitational wave strain (assuming pulsars as triaxial rotators) depends upon the value of the intrinsic spin frequency derivative of the pulsar, among other parameters. In order to get more accurate intrinsic spin frequency derivative values, dynamical effects contributing to the measured spin frequency derivative values must be estimated via more realistic approaches. In this work, we calculate improved values of the spin-down limit of the gravitational wave strain (assuming pulsars as triaxial rotators) for a set of 237 pulsars for which a targeted search for continuous gravitational waves was carried out by the LVK Collaboration, recently.</description>
     </item>
     
     <item>
       <title>Inference of gravitational lensing and patchy reionization with future CMB data</title>
-      <link>https://nebula0.github.io/new_article/inference_of_gravitational_lensing_and_patchy_reionization_with_future_cmb_data/</link>
+      <link>https://nebula0.github.io/article/inference_of_gravitational_lensing_and_patchy_reionization_with_future_cmb_data/</link>
       <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/inference_of_gravitational_lensing_and_patchy_reionization_with_future_cmb_data/</guid>
+      <guid>https://nebula0.github.io/article/inference_of_gravitational_lensing_and_patchy_reionization_with_future_cmb_data/</guid>
       <description>First author: Federico Bianchini
 We develop an optimal Bayesian solution for jointly inferring secondary signals in the Cosmic Microwave Background (CMB) originating from gravitational lensing and from patchy screening during the epoch of reionization. This method is able to extract full information content from the data, improving upon previously considered quadratic estimators for lensing and screening. We forecast constraints using the Marginal Unbiased Score Expansion (MUSE) method, and show that they are largely dominated by CMB polarization, and depend on the exact details of reionization.</description>
     </item>
     
     <item>
       <title>New EoR Power Spectrum Limits From MWA Phase II Using the Delay Spectrum Method and Novel Systematic Rejection</title>
-      <link>https://nebula0.github.io/new_article/new_eor_power_spectrum_limits_from_mwa_phase_ii_using_the_delay_spectrum_method_and_novel_systematic_rejection/</link>
+      <link>https://nebula0.github.io/article/new_eor_power_spectrum_limits_from_mwa_phase_ii_using_the_delay_spectrum_method_and_novel_systematic_rejection/</link>
       <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/new_eor_power_spectrum_limits_from_mwa_phase_ii_using_the_delay_spectrum_method_and_novel_systematic_rejection/</guid>
+      <guid>https://nebula0.github.io/article/new_eor_power_spectrum_limits_from_mwa_phase_ii_using_the_delay_spectrum_method_and_novel_systematic_rejection/</guid>
       <description>First author: Matthew Kolopanis
 We present an analysis of Epoch of Reionization data from Phase II of the Murchison Widefield Array using the \texttt{simpleDS} delay spectrum pipeline. This analysis is complementary to that presented in Li et al. (2019), which analyzes the same observations using the FHD/$\varepsilon$ppsilon imaging pipeline. This represents the first time that both principal types of 21 cm cosmology power spectrum estimation approaches have been applied to the same data set.</description>
     </item>
     
     <item>
       <title>Data-driven Cosmology from Three-dimensional Light Cones</title>
-      <link>https://nebula0.github.io/new_article/data-driven_cosmology_from_three-dimensional_light_cones/</link>
+      <link>https://nebula0.github.io/article/data-driven_cosmology_from_three-dimensional_light_cones/</link>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/data-driven_cosmology_from_three-dimensional_light_cones/</guid>
+      <guid>https://nebula0.github.io/article/data-driven_cosmology_from_three-dimensional_light_cones/</guid>
       <description>First author: Yun-Ting Cheng
 We present a data-driven technique to analyze multi-frequency images from upcoming cosmological surveys mapping large sky area. Using full information from the data at the two-point level, our method can simultaneously constrain the large-scale structure (LSS), the spectra and redshift distribution of emitting sources, and the noise in observed data without any prior assumptions beyond the homogeneity and isotropy of cosmological perturbations. In particular, the method does not rely on source detection or photometric or spectroscopic redshift estimates.</description>
     </item>
     
     <item>
       <title>Strong lensing constraints on primordial black holes as a dark matter candidate</title>
-      <link>https://nebula0.github.io/new_article/strong_lensing_constraints_on_primordial_black_holes_as_a_dark_matter_candidate/</link>
+      <link>https://nebula0.github.io/article/strong_lensing_constraints_on_primordial_black_holes_as_a_dark_matter_candidate/</link>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/strong_lensing_constraints_on_primordial_black_holes_as_a_dark_matter_candidate/</guid>
+      <guid>https://nebula0.github.io/article/strong_lensing_constraints_on_primordial_black_holes_as_a_dark_matter_candidate/</guid>
       <description>First author: Veronica Dike
 Dark matter could comprise, at least in part, primordial black holes (PBH). To test this hypothesis, we present an approach to constrain the PBH mass ($M_{\rm{PBH}}$) and mass fraction ($f_{\rm{PBH}}$) from the flux ratios of quadruply imaged quasars. Our approach uses an approximate Bayesian computation (ABC) forward modeling technique to directly sample the posterior distribution of $M_{\rm{PBH}}$ and $f_{\rm{PBH}}$, while marginalizing over the subhalo mass function amplitude, spatial distribution, and the size of the lensed source.</description>
     </item>
     
     <item>
       <title>Harrison-Zel&#39;dovich spectrum gets back?</title>
-      <link>https://nebula0.github.io/new_article/harrison-zeldovich_spectrum_gets_back/</link>
+      <link>https://nebula0.github.io/article/harrison-zeldovich_spectrum_gets_back/</link>
       <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/harrison-zeldovich_spectrum_gets_back/</guid>
+      <guid>https://nebula0.github.io/article/harrison-zeldovich_spectrum_gets_back/</guid>
       <description>First author: William Giarè
 The Data Release 4 of the Atacama Cosmology Telescope (ACT) shows an agreement with an Harrison-Zel&amp;rsquo;dovich primordial spectrum ($n_s=1.009 \pm 0.015$), introducing a tension with a significance of $99.3%$ CL with the results from the Planck satellite. The discrepancy on the value of the scalar spectral index is neither alleviated with the addition of large scale structure information nor with the low multipole polarization data. We discuss possible avenues to alleviate the tension relying on either neglecting polarization measurements from ACT or in extending the inflationary sector of the theory.</description>
     </item>
     
     <item>
       <title>Inflaton as a pseudo-Nambu-Goldstone boson</title>
-      <link>https://nebula0.github.io/new_article/inflaton_as_a_pseudo-nambu-goldstone_boson/</link>
+      <link>https://nebula0.github.io/article/inflaton_as_a_pseudo-nambu-goldstone_boson/</link>
       <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/inflaton_as_a_pseudo-nambu-goldstone_boson/</guid>
+      <guid>https://nebula0.github.io/article/inflaton_as_a_pseudo-nambu-goldstone_boson/</guid>
       <description>First author: Noriaki Kitazawa
 In the realistic model of cosmic inflation the inflaton potential should be flat and stable under quantum corrections. It is natural to imagine that there is some symmetry behind and an idea of the inflaton as a Nambu-Goldstone boson of spontaneous breaking of some symmetry has been examined. We give a general formulation of this idea using the non-linear realization of Nambu-Goldstone boson in low-energy effective theory with some explicit symmetry breaking to generate non-trivial potential.</description>
     </item>
