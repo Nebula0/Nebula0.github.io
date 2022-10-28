@@ -17,55 +17,5 @@
 Fibrils in the solar chromosphere carry transverse oscillations as determined from non-spectroscopic imaging data. They are estimated to carry an energy flux of several kW m$^{-2}$, which is a significant fraction of the average chromospheric radiative energy losses. We aim to determine oscillation properties of fibrils not only in the plane-of-the-sky (horizontal) direction, but also along the line-of-sight (vertical) direction. We obtained imaging-spectroscopy data in Fe I 6173, Ca II 8542, and Ca II K obtained with the Swedish 1-m Solar Telescope.</description>
     </item>
     
-    <item>
-      <title>Extreme mass loss in low-mass type Ib/c supernova progenitors</title>
-      <link>https://nebula0.github.io/article/extreme_mass_loss_in_low-mass_type_ib_c_supernova_progenitors/</link>
-      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/extreme_mass_loss_in_low-mass_type_ib_c_supernova_progenitors/</guid>
-      <description>First author: Samantha Wu
-Many core collapse supernovae (SNe) with hydrogen-poor and low-mass ejecta, such as ultra-stripped SNe and type Ibn SNe, are observed to interact with dense circumstellar material (CSM). These events likely arise from the core-collapse of helium stars which have been heavily stripped by a binary companion and ejected significant mass during the last weeks to years of their lives. In helium star models run to days before core-collapse, we identify a range of helium core masses $\approx 2.</description>
-    </item>
-    
-    <item>
-      <title>Atmospheric heat redistribution effect on Emission spectra of Hot-Jupiters</title>
-      <link>https://nebula0.github.io/article/atmospheric_heat_redistribution_effect_on_emission_spectra_of_hot-jupiters/</link>
-      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/atmospheric_heat_redistribution_effect_on_emission_spectra_of_hot-jupiters/</guid>
-      <description>First author: Soumya Sengupta
-Hot Jupiters are the most studied and easily detectable exoplanets for transit observations.However, the correlation between the atmospheric flow and the emission spectra of such planets is still not understood. Due to huge day-night temperature contrast in hot Jupiter, the thermal redistribution through atmospheric circulation has a significant impact on the vertical temperature-pressure structure and on the emission spectra. In the present work, we aim to study the variation of the temperature-pressure profiles and the emission spectra of such planets due to different amounts of atmospheric heat redistribution.</description>
-    </item>
-    
-    <item>
-      <title>The XRISM Pipeline Software System: Connecting Continents, Processes, Testing, and Scientists</title>
-      <link>https://nebula0.github.io/article/the_xrism_pipeline_software_system_connecting_continents_processes_testing_and_scientists/</link>
-      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/the_xrism_pipeline_software_system_connecting_continents_processes_testing_and_scientists/</guid>
-      <description>First author: Trisha F. Doyle
-XRISM (X-Ray Imaging and Spectroscopy Mission), with the Resolve high-resolution spectrometer and the Xtend wide-field imager on-board, is designed to build on the successes of the abbreviated Hitomi mission to address outstanding astrophysical questions using high resolution X-ray spectroscopy. In preparation for launch, the XRISM Science Data Center (SDC) is constructing and testing an integrated and automated system for data transfer and processing based upon the Hitomi framework, introducing improvements informed by previous experience and internal collaboration.</description>
-    </item>
-    
-    <item>
-      <title>Evaluation of different recipes for chromospheric radiative losses in solar flares</title>
-      <link>https://nebula0.github.io/article/evaluation_of_different_recipes_for_chromospheric_radiative_losses_in_solar_flares/</link>
-      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/evaluation_of_different_recipes_for_chromospheric_radiative_losses_in_solar_flares/</guid>
-      <description>First author: J. Tian
-Context. Radiative losses are an indispensable part in the numerical simulation of flares. Detailed calculations could be computationally expensive, especially in the chromosphere. There have been some approximate recipes for chromospheric radiative losses in flares, yet their feasibility in flare simulations needs further evaluation. Aims. We aim to evaluate the performance of different recipes for chromospheric radiative losses in flare simulations. Methods. We compare the atmospheric structure and line profiles in beam-heated flares calculated with detailed radiative losses and the approximate recipes.</description>
-    </item>
-    
-    <item>
-      <title>Air-sea interactions on Titan: effect of radiative transfer on the lake evaporation and atmospheric circulation</title>
-      <link>https://nebula0.github.io/article/air-sea_interactions_on_titan_effect_of_radiative_transfer_on_the_lake_evaporation_and_atmospheric_circulation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/air-sea_interactions_on_titan_effect_of_radiative_transfer_on_the_lake_evaporation_and_atmospheric_circulation/</guid>
-      <description>First author: Audrey Chatain
-Titan&amp;rsquo;s northern high latitudes host many large hydrocarbon lakes. Like water lakes on Earth, Titan&amp;rsquo;s lakes are constantly subject to evaporation. This process strongly affects the atmospheric methane abundance, the atmospheric temperature, the lake mixed layer temperature, and the local wind circulation. In this work we use a 2D atmospheric mesoscale model coupled to a slab lake model to investigate the effect of solar and infrared radiation on the exchange of energy and methane between Titan&amp;rsquo;s lakes and atmosphere.</description>
-    </item>
-    
   </channel>
 </rss>
