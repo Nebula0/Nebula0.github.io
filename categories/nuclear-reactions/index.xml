@@ -18,11 +18,21 @@ We describe pynucastro 2.0, an open source library for interactively creating an
     </item>
     
     <item>
+      <title>Constraining the equation of state of hybrid stars using recent information from multidisciplinary physics</title>
+      <link>https://nebula0.github.io/article/constraining_the_equation_of_state_of_hybrid_stars_using_recent_information_from_multidisciplinary_physics/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/constraining_the_equation_of_state_of_hybrid_stars_using_recent_information_from_multidisciplinary_physics/</guid>
+      <description>First author: Swarnim Shirke
+At the ultra-high densities existing in the core of neutron stars, it is expected that a phase transition from baryonic to deconfined quark matter may occur. Such a phase transition would affect the underlying equation of state (EoS) as well as the observable astrophysical properties of neutron stars. Comparison of EoS model predictions with astronomical data from multi-messenger signals then provides us an opportunity to probe the behaviour of dense matter.</description>
+    </item>
+    
+    <item>
       <title>Pulsations of primordial supermassive stars induced by a general relativistic instability; visible to JWST at z$&gt;$12</title>
-      <link>https://nebula0.github.io/article/pulsations_of_primordial_supermassive_stars_induced_by_a_general_relativistic_instability_visible_to_jwst_at_z12/</link>
+      <link>https://nebula0.github.io/article/pulsations_of_primordial_supermassive_stars_induced_by_a_general_relativistic_instability_visible_to_jwst_at_z__12/</link>
       <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/pulsations_of_primordial_supermassive_stars_induced_by_a_general_relativistic_instability_visible_to_jwst_at_z12/</guid>
+      <guid>https://nebula0.github.io/article/pulsations_of_primordial_supermassive_stars_induced_by_a_general_relativistic_instability_visible_to_jwst_at_z__12/</guid>
       <description>First author: Chris Nagele
 The origin of high-redshift quasars and their supermassive black hole engines is unclear. One promising solution is the collapse of a primordial supermassive star. Observational confirmation of this scenario may be difficult, but a general relativistic instability supernova provides one avenue for such. Previous studies have found that a general relativistic instability supernova has a potentially decades-long plateau phase visible to JWST at high redshift. In this work, we examine stars with mass just below the general relativistic instability supernova mass range.</description>
     </item>
@@ -35,6 +45,66 @@ The origin of high-redshift quasars and their supermassive black hole engines is
       <guid>https://nebula0.github.io/article/machine-learning_love_classifying_the_equation_of_state_of_neutron_stars_with_transformers/</guid>
       <description>First author: Gonçalo Gonçalves
 The use of the Audio Spectrogram Transformer (AST) model for gravitational-wave data analysis is investigated. The AST machine-learning model is a convolution-free classifier that captures long-range global dependencies through a purely attention-based mechanism. In this paper a model is applied to a simulated dataset of inspiral gravitational wave signals from binary neutron star coalescences, built from five distinct, cold equations of state (EOS) of nuclear matter.</description>
+    </item>
+    
+    <item>
+      <title>3XMM J185246.6&#43;003317: an isolated massive neutron star with a low magnetic field and a carbon atmosphere</title>
+      <link>https://nebula0.github.io/article/3xmm_j185246.6&#43;003317_an_isolated_massive_neutron_star_with_a_low_magnetic_field_and_a_carbon_atmosphere/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/3xmm_j185246.6&#43;003317_an_isolated_massive_neutron_star_with_a_low_magnetic_field_and_a_carbon_atmosphere/</guid>
+      <description>First author: Rafael C. R. de Lima
+3XMM J185246.6+003317 is a slowly rotating soft-gamma repeater (neutron star) in the vicinity of the supernova remnant Kes,79. So far, observations have only set upper limits to its surface magnetic field and spindown, and there is no estimate for its mass and radius. Using ray-tracing modelling and Bayesian inference for the analysis of several light curves spanning a period of around three weeks, we have found that it may be one of the most massive neutron stars to date.</description>
+    </item>
+    
+    <item>
+      <title>Super-horizon resonant magnetogenesis during inflation</title>
+      <link>https://nebula0.github.io/article/super-horizon_resonant_magnetogenesis_during_inflation/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/super-horizon_resonant_magnetogenesis_during_inflation/</guid>
+      <description>First author: Misao Sasaki
+We propose a novel mechanism for significantly enhancing the amplitude of primordial electromagnetic fields during inflation. Similar to existing proposals, our idea is based on parametric resonance effects due to conformal-symmetry-breaking coupling of the gauge field and the inflaton. Our proposed scenario, however, significantly differs from previously studied models, and avoids their shortcomings. We, particularly, construct a viable system where the gauge field is exponentially amplified on super-horizon scales, therefore evading the no-go theorem formulated on the basis of widely encountered drastic back-reaction of the magnetic field energy on the inflationary background.</description>
+    </item>
+    
+    <item>
+      <title>Fast and accurate predictions of the nonlinear matter power spectrum for general models of Dark Energy and Modified Gravity</title>
+      <link>https://nebula0.github.io/article/fast_and_accurate_predictions_of_the_nonlinear_matter_power_spectrum_for_general_models_of_dark_energy_and_modified_gravity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/fast_and_accurate_predictions_of_the_nonlinear_matter_power_spectrum_for_general_models_of_dark_energy_and_modified_gravity/</guid>
+      <description>First author: B. Bose
+We embed linear and nonlinear parametrisations of beyond standard cosmological physics in the halo model reaction framework, providing a model-independent prescription for the nonlinear matter power spectrum. As an application, we focus on Horndeski theories, using the Effective Field Theory of Dark Energy (EFTofDE) to parameterise linear and quasi-nonlinear perturbations. In the nonlinear regime we investigate both a nonlinear parameterised-post Friedmann (nPPF) approach as well as a physically motivated and approximate phenomenological model based on the error function (Erf).</description>
+    </item>
+    
+    <item>
+      <title>Internal Heating in Magnetars: Role of Electron Captures</title>
+      <link>https://nebula0.github.io/article/internal_heating_in_magnetars_role_of_electron_captures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/internal_heating_in_magnetars_role_of_electron_captures/</guid>
+      <description>First author: Nicolas Chamel
+The role of electron captures by nuclei in the shallow heating of magnetars is further investigated using both nuclear measurements and the theoretical atomic mass table HFB-27. Starting from the composition of the outer crust in full equilibrium, we have calculated the onset of electron captures and the heat released due to the slow decay of the magnetic field. Numerical results are found to be similar to those previously obtained with the HFB-24 atomic mass model and are consistent with neutron-star cooling data.</description>
+    </item>
+    
+    <item>
+      <title>Magnetic induction processes in Hot Jupiters, application to KELT-9b</title>
+      <link>https://nebula0.github.io/article/magnetic_induction_processes_in_hot_jupiters_application_to_kelt-9b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/magnetic_induction_processes_in_hot_jupiters_application_to_kelt-9b/</guid>
+      <description>First author: Wieland Dietrich
+The small semi-major axes of Hot Jupiters lead to high atmospheric temperatures of up to several thousand Kelvin. Under these conditions, thermally ionised metals provide a rich source of charged particles and thus build up a sizeable electrical conductivity. Subsequent electromagnetic effects, such as the induction of electric currents, Ohmic heating, magnetic drag, or the weakening of zonal winds have thus far been considered mainly in the framework of a linear, steady-state model of induction.</description>
+    </item>
+    
+    <item>
+      <title>The Possibility of Mirror Planet as Planet Nine in Solar System</title>
+      <link>https://nebula0.github.io/article/the_possibility_of_mirror_planet_as_planet_nine_in_solar_system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_possibility_of_mirror_planet_as_planet_nine_in_solar_system/</guid>
+      <description>First author: Pei Wang
+A series of dynamical anomalies in the orbits of distant trans-Neptunian objects points to a new celestial body (usually named Planet Nine) in the solar system. In this draft, we point out that a mirror planet captured from the outer solar system or formed in the solar system is also a possible candidate. The introduction of the mirror matter model is due to an unbroken parity symmetry and is a potential explanation for dark matter.</description>
     </item>
     
   </channel>

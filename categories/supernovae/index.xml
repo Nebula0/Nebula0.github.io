@@ -58,23 +58,73 @@ Built in 2004, the Skynet robotic telescope network originally consisted of six 
     </item>
     
     <item>
-      <title>Probing the low-mass end of core-collapse supernovae using a sample of strongly-stripped Calcium-rich Type IIb Supernovae from the Zwicky Transient Facility</title>
-      <link>https://nebula0.github.io/article/probing_the_low-mass_end_of_core-collapse_supernovae_using_a_sample_of_strongly-stripped_calcium-rich_type_iib_supernovae_from_the_zwicky_transient_facility/</link>
+      <title>Cosmological-model-independent determination of Hubble constant from fast radio bursts and Hubble parameter measurements</title>
+      <link>https://nebula0.github.io/article/cosmological-model-independent_determination_of_hubble_constant_from_fast_radio_bursts_and_hubble_parameter_measurements/</link>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/probing_the_low-mass_end_of_core-collapse_supernovae_using_a_sample_of_strongly-stripped_calcium-rich_type_iib_supernovae_from_the_zwicky_transient_facility/</guid>
-      <description>First author: Kaustav K. Das
-The fate of stars in the zero-age main-sequence (ZAMS) range $\approx 8-12$ Msun is unclear. They could evolve to form white dwarfs or explode as electron-capture supernovae (SNe) or iron core-collapse SNe (CCSNe). Even though the initial mass function indicates that this mass range should account for over 40% of all CCSNe progenitors, few have been observationally confirmed, likely owing to the faintness and rapid evolution of these transients.</description>
+      <guid>https://nebula0.github.io/article/cosmological-model-independent_determination_of_hubble_constant_from_fast_radio_bursts_and_hubble_parameter_measurements/</guid>
+      <description>First author: Yang Liu
+We establish a new cosmological-model-independent method to determine the Hubble constant $H_0$ from the localized FRBs and the Hubble parameter measurements and obtain a first such determination $H_0=70.60\pm2.11~\mathrm{km/s/Mpc}$ of about 3.00% uncertainty with data from the eighteen localized FRBs and nineteen Hubble parameter measurements in the redshift range $0&amp;lt;z\leq0.66$. This value, which is independent of the cosmological model, lies in the middle of the results from the Planck CMB observations and the nearby type Ia supernovae (SN Ia) data.</description>
     </item>
     
     <item>
-      <title>Three-dimensional core-collapse supernovae with complex magnetic structures: II. Rotational instabilities and multimessenger signatures</title>
-      <link>https://nebula0.github.io/article/three-dimensional_core-collapse_supernovae_with_complex_magnetic_structures_ii._rotational_instabilities_and_multimessenger_signatures/</link>
+      <title>Forecast of Cosmological Constraints with Type Ia Supernovae from the Chinese Space Station Telescope</title>
+      <link>https://nebula0.github.io/article/forecast_of_cosmological_constraints_with_type_ia_supernovae_from_the_chinese_space_station_telescope/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/forecast_of_cosmological_constraints_with_type_ia_supernovae_from_the_chinese_space_station_telescope/</guid>
+      <description>First author: Shi-Yu Li
+The 2-m aperture Chinese Space Station Telescope (CSST), which observes at wavelengths ranging from 255 to 1000 nm, is expected to start science operations in 2024. An ultra-deep field observation program covering approximately 10 square degrees is proposed with supernovae (SNe) and other transients as one of its primary science drivers. This paper presents the simulated detection results of type Ia supernovae (SNe Ia) and explores the impact of new datasets on the determinations of cosmological parameters.</description>
+    </item>
+    
+    <item>
+      <title>The Type II-P Supernova 2019mhm and Constraints on Its Progenitor System</title>
+      <link>https://nebula0.github.io/article/the_type_ii-p_supernova_2019mhm_and_constraints_on_its_progenitor_system/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_type_ii-p_supernova_2019mhm_and_constraints_on_its_progenitor_system/</guid>
+      <description>First author: J. Vazquez
+We present pre- and post-explosion observations of the Type II-P supernova (SN II-P) 2019mhm located in NGC 6753. Based on optical spectroscopy and photometry, we show that SN 2019mhm exhibits broad lines of hydrogen with a velocity of $-8500\pm200$ km s$^{-1}$ and a $111\pm2$ day extended plateau in its luminosity, typical of the Type II-P subclass. We also fit its late-time bolometric light curve and infer that it initially produced a ${}^{56}$Ni mass of $5.</description>
+    </item>
+    
+    <item>
+      <title>Hubble tensions: a historical statistical analysis</title>
+      <link>https://nebula0.github.io/article/hubble_tensions_a_historical_statistical_analysis/</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/three-dimensional_core-collapse_supernovae_with_complex_magnetic_structures_ii._rotational_instabilities_and_multimessenger_signatures/</guid>
-      <description>First author: Matteo Bugli
-The gravitational collapse of rapidly rotating massive stars can lead to the onset of the low $T/|W|$ instability within the central proto-neutron star (PNS), which leaves strong signatures in both the gravitational wave (GW) and neutrino emission. Strong large-scale magnetic fields are usually invoked to explain outstanding stellar explosions of rapidly rotating progenitors, but their impact on the growth of such instability has not yet been cleared.</description>
+      <guid>https://nebula0.github.io/article/hubble_tensions_a_historical_statistical_analysis/</guid>
+      <description>First author: Martin Lopez-Corredoira
+Statistical analyses of the measurements of the Hubble-Lema^itre constant $H_0$ (163 measurements between 1976 and 2019) show that the statistical error bars associated with the observed parameter measurements have been underestimated &amp;ndash; or the systematic errors were not properly taken into account &amp;ndash; in at least 15-20% of the measurements. The fact that the underestimation of error bars for $H_0$ is so common might explain the apparent discrepancy of values, which is formally known today as the Hubble tension.</description>
+    </item>
+    
+    <item>
+      <title>TRAPUM upper limits on pulsed radio emission for SMC X-ray pulsar J0058-7218</title>
+      <link>https://nebula0.github.io/article/trapum_upper_limits_on_pulsed_radio_emission_for_smc_x-ray_pulsar_j0058-7218/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/trapum_upper_limits_on_pulsed_radio_emission_for_smc_x-ray_pulsar_j0058-7218/</guid>
+      <description>First author: E. Carli
+The TRAPUM collaboration has used the MeerKAT telescope to conduct a search for pulsed radio emission from the young Small Magellanic Cloud pulsar J0058-7218 located in the supernova remnant IKT 16, following its discovery in X-rays with XMM-Newton. We report no significant detection of dispersed, pulsed radio emission from this source in three 2-hour L-band observations using the core dishes of MeerKAT, setting an upper limit of 7.</description>
+    </item>
+    
+    <item>
+      <title>An X-ray Proper Motion Study of the LMC SNR 0509-67.5</title>
+      <link>https://nebula0.github.io/article/an_x-ray_proper_motion_study_of_the_lmc_snr_0509-67.5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/an_x-ray_proper_motion_study_of_the_lmc_snr_0509-67.5/</guid>
+      <description>First author: Benson T. Guest
+We present a third epoch of Chandra observations of the Type Ia Large Magellanic Cloud Supernova remnant (SNR) 0509-67.5. With these new observations from 2020, the baseline for proper motion measurements of the expansion has grown to 20 years (from the earliest Chandra observations in 2000). We report here the results of these new expansion measurements. The lack of nearby bright point sources renders absolute image alignment difficult.</description>
+    </item>
+    
+    <item>
+      <title>Deep learning method in testing the cosmic distance duality relation</title>
+      <link>https://nebula0.github.io/article/deep_learning_method_in_testing_the_cosmic_distance_duality_relation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/deep_learning_method_in_testing_the_cosmic_distance_duality_relation/</guid>
+      <description>First author: Li Tang
+The cosmic distance duality relation (DDR) is constrained from the combination of type-Ia supernovae (SNe Ia) and strong gravitational lensing (SGL) systems using deep learning method. To make use of the full SGL data, we reconstruct the luminosity distance from SNe Ia up to the highest redshift of SGL using deep learning, then it is compared with the angular diameter distance obtained from SGL. Considering the influence of lens mass profile, we constrain the possible violation of DDR in three lens mass models.</description>
     </item>
     
     <item>
@@ -88,13 +138,33 @@ Fast neutrino -flavor conversion (FFC) is a possible game-changing ingredient in
     </item>
     
     <item>
-      <title>Pre-maximum spectroscopic diversity of hydrogen-poor superluminous supernovae</title>
-      <link>https://nebula0.github.io/article/pre-maximum_spectroscopic_diversity_of_hydrogen-poor_superluminous_supernovae/</link>
+      <title>High-energy neutrinos from choked-jet supernovae: searches and implications</title>
+      <link>https://nebula0.github.io/article/high-energy_neutrinos_from_choked-jet_supernovae_searches_and_implications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/pre-maximum_spectroscopic_diversity_of_hydrogen-poor_superluminous_supernovae/</guid>
-      <description>First author: Réka Könyves-Tóth
-We search for the reasons behind the spectroscopic diversity of hydrogen-poor superluminous supernovae (SLSNe-I) in the pre-maximum phase. Our analysis is a continuation of the paper of \citet{ktr21}, who disclosed two new subtypes of SLSNe-I characterized by the presence/absence of a W-shaped absorption feature in their pre-maximum spectra between 4000 and 5000 \AA (called Type~W and Type~15bn, respectively). However, the physical cause of this bimodality is still uncertain.</description>
+      <guid>https://nebula0.github.io/article/high-energy_neutrinos_from_choked-jet_supernovae_searches_and_implications/</guid>
+      <description>First author: Po-Wen Chang
+The origin of the high-energy astrophysical neutrinos discovered by IceCube remains largely unknown. Multi-messenger studies have indicated that the majority of these neutrinos come from gamma-ray-dark sources. Choked-jet supernovae (cjSNe), which are supernovae powered by relativistic jets stalled in stellar materials, may lead to neutrino emission via photohadronic interactions while the coproduced gamma rays are absorbed. In this paper, we perform an unbinned-maximum-likelihood analysis to search for correlations between IceCube&amp;rsquo;s 10-year muon-track events and our SN Ib/c sample, collected from publicly available catalogs.</description>
+    </item>
+    
+    <item>
+      <title>The luminous Type IIN supernova SN 2017hcc: Infrared bright, X-ray and radio faint</title>
+      <link>https://nebula0.github.io/article/the_luminous_type_iin_supernova_sn_2017hcc_infrared_bright_x-ray_and_radio_faint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_luminous_type_iin_supernova_sn_2017hcc_infrared_bright_x-ray_and_radio_faint/</guid>
+      <description>First author: Poonam Chandra
+We present multiwavelength observations of supernova (SN) 2017hcc with the Chandra X-ray telescope and the X-ray telescope onboard Swift (Swift-XRT) in X-ray bands, with the Spitzer and the TripleSpec spectrometer in near-infrared (IR) and mid-IR bands and with the Karl G. Jansky Very Large Array (VLA) for radio bands. The X-ray observations cover a period of 29 to 1310 days, with the first X-ray detection on day 727 with the Chandra.</description>
+    </item>
+    
+    <item>
+      <title>The UV Excesses of Supernovae and the Implications for Studying Supernovae and Other Optical Transients</title>
+      <link>https://nebula0.github.io/article/the_uv_excesses_of_supernovae_and_the_implications_for_studying_supernovae_and_other_optical_transients/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_uv_excesses_of_supernovae_and_the_implications_for_studying_supernovae_and_other_optical_transients/</guid>
+      <description>First author: Tao Wang
+Supernovae (SNe), kilonovae (KNe), tidal disruption events (TDEs), optical afterglows of gamma ray bursts (GRBs), and many other optical transients are important phenomena in time-domain astronomy. Fitting the multi-band light curves (LCs) or the synthesized (pseudo-)bolometric LCs can be used to constrain the physical properties of optical transients. The (UV absorbed) blackbody module is one of the most important modules used to fit the multi-band LCs of optical transients having (UV absorbed) blackbody spectral energy distributions (SEDs).</description>
     </item>
     
   </channel>

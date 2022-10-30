@@ -8,11 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/early-universe/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>$	exttt{KOBEsim}$: a Bayesian observing strategy algorithm for planet detection in radial velocity blind-search surveys</title>
-      <link>https://nebula0.github.io/article/%5Ctextttkobesim_a_bayesian_observing_strategy_algorithm_for_planet_detection_in_radial_velocity_blind-search_surveys/</link>
+      <title>$\texttt{KOBEsim}$: a Bayesian observing strategy algorithm for planet detection in radial velocity blind-search surveys</title>
+      <link>https://nebula0.github.io/article/__textttkobesim__a_bayesian_observing_strategy_algorithm_for_planet_detection_in_radial_velocity_blind-search_surveys/</link>
       <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/%5Ctextttkobesim_a_bayesian_observing_strategy_algorithm_for_planet_detection_in_radial_velocity_blind-search_surveys/</guid>
+      <guid>https://nebula0.github.io/article/__textttkobesim__a_bayesian_observing_strategy_algorithm_for_planet_detection_in_radial_velocity_blind-search_surveys/</guid>
       <description>First author: O. Balsalobre-Ruza
 Ground-based observing time is precious in the era of exoplanet follow-up and characterization, especially in high-precision radial velocity instruments. Blind-search radial velocity surveys thus require a dedicated observational strategy in order to optimize the observing time, which is particularly crucial for the detection of small rocky worlds at large orbital periods. We develop an algorithm with the purpose of improving the efficiency of radial velocity observations in the context of exoplanet searches, and we apply it to the K-dwarfs Orbited By habitable Exoplanets (KOBE) experiment.</description>
     </item>
@@ -28,6 +28,16 @@ We design a new observable, the expansion rate fluctuation $\eta$, to characteri
     </item>
     
     <item>
+      <title>The Search for the Topology of the Universe Has Just Begun</title>
+      <link>https://nebula0.github.io/article/the_search_for_the_topology_of_the_universe_has_just_begun/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_search_for_the_topology_of_the_universe_has_just_begun/</guid>
+      <description>First author: Yashar Akrami
+Anomalous large-angle cosmic microwave background anisotropies motivate further searches for cosmic topology. We demonstrate that for generic topologies of spatially flat spacetimes, off-diagonal correlations between microwave background harmonic coefficients over a wide range of scales encode significant topological information, even if the topology scale substantially exceeds the diameter of the observable Universe. Observational searches have so far considered only a small subset of testable topologies, and current limits on the topology scale are much weaker than generally understood.</description>
+    </item>
+    
+    <item>
       <title>Further Improving Distances to Binary Millisecond Pulsars with Gaia EDR3</title>
       <link>https://nebula0.github.io/article/further_improving_distances_to_binary_millisecond_pulsars_with_gaia_edr3/</link>
       <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
@@ -38,6 +48,16 @@ We have identified 7 objects in Gaia Early DR3 associated with 6 International P
     </item>
     
     <item>
+      <title>TFAW survey II: 6 Newly Validated Planets and 13 Planet Candidates from K2</title>
+      <link>https://nebula0.github.io/article/tfaw_survey_ii_6_newly_validated_planets_and_13_planet_candidates_from_k2/</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/tfaw_survey_ii_6_newly_validated_planets_and_13_planet_candidates_from_k2/</guid>
+      <description>First author: D. del Ser
+Searching for Earth-sized planets in data from Kepler&amp;rsquo;s extended mission (K2) is a niche that still remains to be fully exploited. The TFAW survey is an ongoing project that aims to re-analyze all light curves in K2 C1-C8 and C12-C18 campaigns with a wavelet-based detrending and denoising method, and the period search algorithm TLS to search for new transit candidates not detected in previous works.</description>
+    </item>
+    
+    <item>
       <title>A crack in the track of the Hubble Constant</title>
       <link>https://nebula0.github.io/article/a_crack_in_the_track_of_the_hubble_constant/</link>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
@@ -45,6 +65,16 @@ We have identified 7 objects in Gaia Early DR3 associated with 6 International P
       <guid>https://nebula0.github.io/article/a_crack_in_the_track_of_the_hubble_constant/</guid>
       <description>First author: Marie Gueguen
 Measuring the rate at which the universe expands at a given time &amp;ndash; the &amp;lsquo;Hubble constant&amp;rsquo; &amp;ndash; has been a topic of controversy since the first measure of its expansion by Edwin Hubble in the 1920&amp;rsquo;s. As early as the 1970&amp;rsquo;s, Sandage et de Vaucouleurs have been arguing about the adequate methodology for such a measurement. Should astronomers focus only on their best indicators, e.g., the Cepheids, and improve the precision of this measurement based on a unique object to the best possible?</description>
+    </item>
+    
+    <item>
+      <title>MHD turbulence formation in solar flares: 3D simulation and synthetic observations</title>
+      <link>https://nebula0.github.io/article/mhd_turbulence_formation_in_solar_flares_3d_simulation_and_synthetic_observations/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/mhd_turbulence_formation_in_solar_flares_3d_simulation_and_synthetic_observations/</guid>
+      <description>First author: Wenzhi Ruan
+Turbulent plasma motion is common in the universe, and invoked in solar flares to drive effective acceleration leading to high energy electrons. Unresolved mass motions are frequently detected in flares from extreme ultraviolet (EUV) observations, which are often regarded as turbulence. However, how this plasma turbulence forms during the flare is still largely a mystery. Here we successfully reproduce observed turbulence in our 3D magnetohydrodynamic simulation where the magnetic reconnection process is included.</description>
     </item>
     
     <item>
@@ -68,6 +98,16 @@ The long-term cyclicity and temporal succession of glacial-periglacial (or degla
     </item>
     
     <item>
+      <title>Long-term Study of the Sun and Its Implications to Solar Dynamo Models</title>
+      <link>https://nebula0.github.io/article/long-term_study_of_the_sun_and_its_implications_to_solar_dynamo_models/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/long-term_study_of_the_sun_and_its_implications_to_solar_dynamo_models/</guid>
+      <description>First author: Bibhuti Kumar Jha
+The Sun shows a wide range of temporal variations, from a few seconds to decades and even centuries, broadly classified into two classes short-term and Long-term. The solar dynamo mechanism is believed to be responsible for these global changes happening in the Sun. Hence, many dynamo models have been proposed to explain the observed behaviour of the Sun. This thesis is primarily focused on studying the \lt\ variation of the Sun and provides various inputs to the solar dynamo models.</description>
+    </item>
+    
+    <item>
       <title>BICEP / Keck XVII: Line of Sight Distortion Analysis: Estimates of Gravitational Lensing, Anisotropic Cosmic Birefringence, Patchy Reionization, and Systematic Errors</title>
       <link>https://nebula0.github.io/article/bicep___keck_xvii_line_of_sight_distortion_analysis_estimates_of_gravitational_lensing_anisotropic_cosmic_birefringence_patchy_reionization_and_systematic_errors/</link>
       <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
@@ -78,33 +118,193 @@ We present estimates of line-of-sight distortion fields derived from the 95 GHz 
     </item>
     
     <item>
-      <title>Testing afterglow models of FRB 200428 with early post-burst observations of SGR 1935&#43;2154</title>
-      <link>https://nebula0.github.io/article/testing_afterglow_models_of_frb_200428_with_early_post-burst_observations_of_sgr_1935&#43;2154/</link>
+      <title>Conformal model for gravitational waves and dark matter: A status update</title>
+      <link>https://nebula0.github.io/article/conformal_model_for_gravitational_waves_and_dark_matter_a_status_update/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/conformal_model_for_gravitational_waves_and_dark_matter_a_status_update/</guid>
+      <description>First author: Maciej Kierkla
+We present an updated analysis of the first-order phase transition associated with symmetry breaking in the early Universe in a classically scale-invariant model extended with a new SU(2) gauge group. Including recent developments in understanding supercooled phase transitions, we compute all of its characteristics and significantly constrain the parameter space. We then predict gravitational wave spectra generated during this phase transition and by computing the signal-to-noise ratio we conclude that this model is well testable (and falsifiable) with LISA.</description>
+    </item>
+    
+    <item>
+      <title>Equality scale-based and sound horizon-based analysis of the Hubble tension</title>
+      <link>https://nebula0.github.io/article/equality_scale-based_and_sound_horizon-based_analysis_of_the_hubble_tension/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/equality_scale-based_and_sound_horizon-based_analysis_of_the_hubble_tension/</guid>
+      <description>First author: Zhihuan Zhou
+The Hubble horizon at matter-radiation equality ($k^{-1}{\rm{eq}}$) and the sound horizon at the last scattering surface ($r_s(z*)$) provides interesting consistency check for the $\Lambda$CDM model and its extensions. It is well known that the reduction of $r_s$ can be compensated by the increase of $H_0$, while the same is true for the standard rulers $k_{\rm{eq}}$. Adding extra radiational component to the early universe can reduce $k_{\rm{eq}}$.</description>
+    </item>
+    
+    <item>
+      <title>CATCH: Chasing All Transients Constellation Hunters Space Mission</title>
+      <link>https://nebula0.github.io/article/catch_chasing_all_transients_constellation_hunters_space_mission/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/testing_afterglow_models_of_frb_200428_with_early_post-burst_observations_of_sgr_1935&#43;2154/</guid>
-      <description>First author: A. J. Cooper
-We present LOFAR imaging observations from the April/May 2020 active episode of magnetar SGR 1935+2154. We place the earliest radio limits on persistent emission following the low-luminosity fast radio burst FRB 200428 from the magnetar. We also perform an image-plane search for transient emission and find no radio flares during our observations. We examine post-FRB radio upper limits in the literature and find that all are consistent with the multi-wavelength afterglow predicted by the synchrotron maser shock model interpretation of FRB 200428.</description>
+      <guid>https://nebula0.github.io/article/catch_chasing_all_transients_constellation_hunters_space_mission/</guid>
+      <description>First author: Panping Li
+In time-domain astronomy, a substantial number of transients will be discovered by multi-wavelength and multi-messenger observatories, posing a great challenge for follow-up capabilities. We have thus proposed an intelligent X-ray constellation, the Chasing All Transients Constellation Hunters (\textit{CATCH}) space mission. Consisting of 126 micro-satellites in three types, \textit{CATCH} will have the capability to perform follow-up observations for a large number of different types of transients simultaneously.</description>
     </item>
     
     <item>
-      <title>Probing the distant universe with a very luminous fast radio burst at redshift 1</title>
-      <link>https://nebula0.github.io/article/probing_the_distant_universe_with_a_very_luminous_fast_radio_burst_at_redshift_1/</link>
-      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <title>Return of Harrison-Zeldovich spectrum in light of recent cosmological tensions</title>
+      <link>https://nebula0.github.io/article/return_of_harrison-zeldovich_spectrum_in_light_of_recent_cosmological_tensions/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/probing_the_distant_universe_with_a_very_luminous_fast_radio_burst_at_redshift_1/</guid>
-      <description>First author: Stuart D. Ryder
-Fast radio bursts are millisecond-duration pulses of radio emission that have been found to originate at extragalactic distances. The bursts show dispersion imparted by intervening plasma, with the bulk attributed to the intergalactic medium. Here we report the discovery of a burst, FRB20220610A, in a complex host galaxy system at a redshift of $z=1.016 \pm 0.002$. The relationship between its redshift and dispersion confirm that the bulk of the baryonic matter was ionized and in the intergalactic medium when the universe was almost half its present age.</description>
+      <guid>https://nebula0.github.io/article/return_of_harrison-zeldovich_spectrum_in_light_of_recent_cosmological_tensions/</guid>
+      <description>First author: Jun-Qian Jiang
+The spectral index $n_s$ of scalar perturbation is the significant initial condition set by inflation theory for our observable Universe. According to Planck results, current constraint is $n_s = 0.965\pm 0.004$, while an exact scale-invaiant Harrison-Zeldovich spectrum, i.e. $n_s=1$, has been ruled out at $8.4\sigma$ significance level. However, it is well-known that the standard $\Lambda$CDM model is suffering from the Hubble tension, which is at $\sim 5\sigma$ significance level.</description>
     </item>
     
     <item>
-      <title>XMM-Newton view of the shock heating in an early merging cluster, CIZA J1358.9$-$4750</title>
-      <link>https://nebula0.github.io/article/xmm-newton_view_of_the_shock_heating_in_an_early_merging_cluster_ciza_j1358.9-4750/</link>
+      <title>Searching Lorentz invariance violation from cosmic photon attenuation</title>
+      <link>https://nebula0.github.io/article/searching_lorentz_invariance_violation_from_cosmic_photon_attenuation/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/searching_lorentz_invariance_violation_from_cosmic_photon_attenuation/</guid>
+      <description>First author: Hao Li
+Lorentz invariance violation~(LIV) can change the threshold behavior predicted by special relativity and cause threshold anomalies which affect the propagation of cosmic photons. In this work, we focus on the threshold anomaly effect on cosmic photon attenuations by extragalactic background light~(EBL) and discuss how to identify LIV from observations of very high energy~(VHE) photons propagated from long distance in the universe. We point out that the Large High Altitude Air Shower Observatory~(LHAASO), one of the most sensitive gamma-ray detector arrays currently operating at TeV and PeV energies, is an ideal facility for performing such LIV searching.</description>
+    </item>
+    
+    <item>
+      <title>A Comprehensive Study of Bright Fermi-GBM Short Gamma-Ray Bursts: II. Very Short Burst and Its Implications</title>
+      <link>https://nebula0.github.io/article/a_comprehensive_study_of_bright_fermi-gbm_short_gamma-ray_bursts_ii._very_short_burst_and_its_implications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/xmm-newton_view_of_the_shock_heating_in_an_early_merging_cluster_ciza_j1358.9-4750/</guid>
-      <description>First author: Y. Omiya
-CIZA J1358.9-4750 is a nearby galaxy cluster in the early phase of a major merger. The two-dimensional temperature map using XMM-Newton EPIC-PN observation confirms the existence of a high temperature region, which we call the &amp;ldquo;hot region&amp;rdquo;, in the &amp;ldquo;bridge region&amp;rdquo; connecting the two clusters. The ~ 500 kpc wide region between the southeast and northwest boundaries also has higher pseudo pressure compared to the unshocked regions, suggesting the existence of two shocks.</description>
+      <guid>https://nebula0.github.io/article/a_comprehensive_study_of_bright_fermi-gbm_short_gamma-ray_bursts_ii._very_short_burst_and_its_implications/</guid>
+      <description>First author: Ying-Yong Hu
+A thermal component is suggested to be the physical composition of the ejecta of several bright gamma-ray bursts (GRBs). Such a thermal component is discovered in the time-integrated spectra of several short GRBs as well as long GRBs. In this work, we present a comprehensive analysis of ten very short GRBs detected by Fermi Gamma-Ray Burst Monitor to search for the thermal component. We found that both the resultant low-energy spectral index and the peak energy in each GRB imply a common hard spectral feature, which is in favor of the main classification of the short/hard versus long/soft dichotomy in the GRB duration.</description>
+    </item>
+    
+    <item>
+      <title>Astrobotics: Swarm Robotics for Astrophysical Studies</title>
+      <link>https://nebula0.github.io/article/astrobotics_swarm_robotics_for_astrophysical_studies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/astrobotics_swarm_robotics_for_astrophysical_studies/</guid>
+      <description>First author: Matin Macktoobian
+This paper introduces the emerging field of astrobotics, that is, a recently-established branch of robotics to be of service to astrophysics and observational astronomy. We first describe a modern requirement of dark matter studies, i.e., the generation of the map of the observable universe, using astrobots. Astrobots differ from conventional two-degree-of-freedom robotic manipulators in two respects. First, the dense formation of astrobots give rise to the extremely overlapping dynamics of neighboring astrobots which make them severely subject to collisions.</description>
+    </item>
+    
+    <item>
+      <title>Constraining primordial black holes with relativistic degrees of freedom</title>
+      <link>https://nebula0.github.io/article/constraining_primordial_black_holes_with_relativistic_degrees_of_freedom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/constraining_primordial_black_holes_with_relativistic_degrees_of_freedom/</guid>
+      <description>First author: Junsong Cang
+Scalar perturbations in the early Universe create over-dense regions that can collapse into primordial black holes (PBH). This process emits scalar-induced gravitational waves (SIGW) that behaves like an extra radiation component and contributes to the relativistic degrees of freedom ($N_{\rm{eff}}$). We show that $N_{\rm{eff}}$ limits from cosmic microwave background (CMB) give promising sensitivities on both the abundance of PBHs and the primordial curvature perturbation ($\mathcal{P}{\mathcal{R}}(k)$) at small scales.</description>
+    </item>
+    
+    <item>
+      <title>Experimental and observational tests of antigravity</title>
+      <link>https://nebula0.github.io/article/experimental_and_observational_tests_of_antigravity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/experimental_and_observational_tests_of_antigravity/</guid>
+      <description>First author: Gabriel Chardin
+Whereas repulsive gravity was considered as a fringe concept until the mid-1990&amp;rsquo;s, the growingexperimental evidence since this epoch for repulsive gravity, in what is now called Dark Energy,for lack of a better understanding of its nature, has led to a vast literature in order to attemptto characterize this repulsive component, and notably its equation of state. In the following, Iwill show that we can use cosmology to test the hypothesis that antimatter is at the origin ofrepulsive gravity, may play the role of a Dark Energy component and, more surprisingly, maymimic the presence of Dark Matter, and justify the MOND phenomenology.</description>
+    </item>
+    
+    <item>
+      <title>Exploring Anisotropic Lorentz Invariance Violation from the Spectral-Lag Transitions of Gamma-Ray Bursts</title>
+      <link>https://nebula0.github.io/article/exploring_anisotropic_lorentz_invariance_violation_from_the_spectral-lag_transitions_of_gamma-ray_bursts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/exploring_anisotropic_lorentz_invariance_violation_from_the_spectral-lag_transitions_of_gamma-ray_bursts/</guid>
+      <description>First author: Jin-Nan Wei
+The observed spectral lags of gamma-ray bursts (GRBs) have been widely used to explore possible violations of Lorentz invariance. However, these studies were generally performed by concentrating on the rough time lag of a single highest-energy photon and ignoring the intrinsic time lag at the source. A new way to test nonbirefringent Lorentz-violating effects has been proposed by analyzing the multi-photon spectral-lag behavior of a GRB that displays a positive-to-negative transition.</description>
+    </item>
+    
+    <item>
+      <title>Learning convergence prediction of astrobots in multi-object spectrographs</title>
+      <link>https://nebula0.github.io/article/learning_convergence_prediction_of_astrobots_in_multi-object_spectrographs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/learning_convergence_prediction_of_astrobots_in_multi-object_spectrographs/</guid>
+      <description>First author: Matin Macktoobian
+Astrobot swarms are used to capture astronomical signals to generate the map of the observable universe for the purpose of dark energy studies. The convergence of each swarm in the course of its coordination has to surpass a particular threshold to yield a satisfactory map. The current coordination methods do not always reach desired convergence rates. Moreover, these methods are so complicated that one cannot formally verify their results without resource-demanding simulations.</description>
+    </item>
+    
+    <item>
+      <title>Modeling the Solar Wind During Different Phases of the Last Solar Cycle</title>
+      <link>https://nebula0.github.io/article/modeling_the_solar_wind_during_different_phases_of_the_last_solar_cycle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/modeling_the_solar_wind_during_different_phases_of_the_last_solar_cycle/</guid>
+      <description>First author: Zhenguang Huang
+We describe our first attempt to systematically simulate the solar wind during different phases of the last solar cycle with the Alfv&#39;en Wave Solar atmosphere Model (AWSoM) developed at the University of Michigan. Key to this study is the determination of the optimal values of one of the most important input parameter of the model, the Poynting flux, which prescribes the energy flux passing through the chromospheric boundary of the model in form of Alfv&#39;en wave turbulence.</description>
+    </item>
+    
+    <item>
+      <title>Revising the Hubble constant, spatial curvature and dark energy dynamics with the latest observations of quasars</title>
+      <link>https://nebula0.github.io/article/revising_the_hubble_constant_spatial_curvature_and_dark_energy_dynamics_with_the_latest_observations_of_quasars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/revising_the_hubble_constant_spatial_curvature_and_dark_energy_dynamics_with_the_latest_observations_of_quasars/</guid>
+      <description>First author: Tonghua Liu
+In this paper, we use a newly compiled sample of ultra-compact structure in radio quasars and strong gravitational lensing systems with quasars acting as background sources to constrain six spatially flat and non-flat cosmological models ($\Lambda$CDM, PEDE and DGP). These two sets of quasar data (the time-delay measurements of six strong lensing systems and 120 intermediate-luminosity quasars calibrated as standard rulers) could break the degeneracy between cosmological parameters ($H_0$, $\Omega_m$ and $\Omega_k$) and therefore provide more stringent cosmological constraints for the six cosmological models we study.</description>
+    </item>
+    
+    <item>
+      <title>Robust inference of neutron-star parameters from thermonuclear burst observations</title>
+      <link>https://nebula0.github.io/article/robust_inference_of_neutron-star_parameters_from_thermonuclear_burst_observations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/robust_inference_of_neutron-star_parameters_from_thermonuclear_burst_observations/</guid>
+      <description>First author: D. K. Galloway
+Thermonuclear (type-I) bursts arise from unstable ignition of accumulated fuel on the surface of neutron stars in low-mass X-ray binaries. Measurements of burst properties in principle enable observers to infer the properties of the host neutron star and mass donors, but a number of confounding astrophysical effects contribute to systematic uncertainties. Here we describe some commonly-used approaches for determining system parameters, including composition of the burst fuel, and introduce a new suite of software tools, concord, intended to fully account for astrophysical uncertainties.</description>
+    </item>
+    
+    <item>
+      <title>Test of binary spectral model on FEROS spectra. First estimation of the fundamental parameters for HD 20784</title>
+      <link>https://nebula0.github.io/article/test_of_binary_spectral_model_on_feros_spectra._first_estimation_of_the_fundamental_parameters_for_hd_20784/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/test_of_binary_spectral_model_on_feros_spectra._first_estimation_of_the_fundamental_parameters_for_hd_20784/</guid>
+      <description>First author: Mikhail Kovalev
+We analyse spectra of 26 early-type stars, with suspected binarity, using a binary spectral model adapted for high-resolution FEROS spectra. We confirm seven SB2 candidates (AE Pic, $\epsilon$ Vol, HD 20784, HD 208433, HD 43519, HD 56024, CD-73~375A) and derive mass ratios and spectroscopic parameters for them. We find good agreement with theoretical models. For slightly evolved system HD 20784 we made the first estimation of the fundamental parameters and age $\log{t}=8.</description>
+    </item>
+    
+    <item>
+      <title>The impact of resistive electric fields on particle acceleration in reconnection layers</title>
+      <link>https://nebula0.github.io/article/the_impact_of_resistive_electric_fields_on_particle_acceleration_in_reconnection_layers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_impact_of_resistive_electric_fields_on_particle_acceleration_in_reconnection_layers/</guid>
+      <description>First author: E. Puzzoni
+In the context of particle acceleration in high-energy astrophysical environments featuring magnetic reconnection, the importance of the resistive term of the electric field compared to the convective one is still under debate. In this work, we present a quantitative analysis through 2D magnetohydrodynamic numerical simulations of tearing-unstable current sheets coupled to a test-particles approach, performed with the PLUTO code. We find that the resistive field plays a significant role in the early-stage energization of high-energy particles.</description>
+    </item>
+    
+    <item>
+      <title>The Instantaneous Redshift Difference of Gravitationally Lensed Images: Theory and Observational Prospects</title>
+      <link>https://nebula0.github.io/article/the_instantaneous_redshift_difference_of_gravitationally_lensed_images_theory_and_observational_prospects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_instantaneous_redshift_difference_of_gravitationally_lensed_images_theory_and_observational_prospects/</guid>
+      <description>First author: Chengyi Wang
+Due to the expansion of our Universe, the redshift of distant objects changes with time. Although the amplitude of this redshift drift is small, it will be measurable with a decade-long campaigns on the next generation of telescopes. Here we present an alternative view of the redshift drift which captures the expansion of the universe in single epoch observations of the multiple images of gravitationally lensed sources.</description>
+    </item>
+    
+    <item>
+      <title>The PI Launchpad: Expanding the base of potential Principal Investigators across space sciences</title>
+      <link>https://nebula0.github.io/article/the_pi_launchpad_expanding_the_base_of_potential_principal_investigators_across_space_sciences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_pi_launchpad_expanding_the_base_of_potential_principal_investigators_across_space_sciences/</guid>
+      <description>First author: Erika Hamden
+The PI Launchpad attempts to provide an entry level explanation of the process of space mission development for new Principal Investigators (PIs). In particular, PI launchpad has a focus on building teams, making partnerships, and science concept maturity for a space mission concept, not necessarily technical or engineering practices. Here we briefly summarize the goals of the PI Launchpad workshops and present some results from the workshops held in 2019 and 2021.</description>
+    </item>
+    
+    <item>
+      <title>Weak lensing of gravitational waves in wave optics: Beyond the Born approximation</title>
+      <link>https://nebula0.github.io/article/weak_lensing_of_gravitational_waves_in_wave_optics_beyond_the_born_approximation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/weak_lensing_of_gravitational_waves_in_wave_optics_beyond_the_born_approximation/</guid>
+      <description>First author: Morifumi Mizuno
+Universe&amp;rsquo;s matter inhomogeneity gravitationally affects the propagation of gravitational waves (GWs), causing the lensing effect. Particularly, the weak lensing of GWs contains abundance of information about the small scale matter power spectrum and it has been studied within the range of the Born approximation. In this work, we investigate the validity of the Born approximation by accounting for the higher order terms in the gravitational potential $\Phi$.</description>
     </item>
     
   </channel>

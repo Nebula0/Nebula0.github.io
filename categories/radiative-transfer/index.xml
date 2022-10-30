@@ -17,5 +17,185 @@
 Fibrils in the solar chromosphere carry transverse oscillations as determined from non-spectroscopic imaging data. They are estimated to carry an energy flux of several kW m$^{-2}$, which is a significant fraction of the average chromospheric radiative energy losses. We aim to determine oscillation properties of fibrils not only in the plane-of-the-sky (horizontal) direction, but also along the line-of-sight (vertical) direction. We obtained imaging-spectroscopy data in Fe I 6173, Ca II 8542, and Ca II K obtained with the Swedish 1-m Solar Telescope.</description>
     </item>
     
+    <item>
+      <title>Planet Engulfment Signatures in Twin Stars</title>
+      <link>https://nebula0.github.io/article/planet_engulfment_signatures_in_twin_stars/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/planet_engulfment_signatures_in_twin_stars/</guid>
+      <description>First author: Aida Behmard
+Planet engulfment can be inferred from enhancement of refractory elements in the photosphere of the engulfing star following accretion of rocky planetary material. Such refractory enrichments are subject to stellar interior mixing processes, namely thermohaline mixing induced by an inverse mean-molecular-weight gradient between the convective envelope and radiative core. Using MESA stellar models, we quantified the strength and duration of engulfment signatures following planet engulfment. We found that thermohaline mixing dominates during the first $\sim$5$-$45 Myr post-engulfment, weakening signatures by a factor of $\sim$2 before giving way to depletion via gravitational settling on longer timescales.</description>
+    </item>
+    
+    <item>
+      <title>A Radiative-Convective Model for Terrestrial Planets with Self-Consistent Patchy Clouds</title>
+      <link>https://nebula0.github.io/article/a_radiative-convective_model_for_terrestrial_planets_with_self-consistent_patchy_clouds/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/a_radiative-convective_model_for_terrestrial_planets_with_self-consistent_patchy_clouds/</guid>
+      <description>First author: James D. Windsor
+Clouds are ubiquitous, &amp;ndash; ,they arise for every solar system planet that possesses an atmosphere and have also been suggested as a leading mechanism for obscuring spectral features in exoplanet observations. As exoplanet observations continue to improve, there is a need for efficient and general planetary climate models that appropriately handle the possible cloudy atmospheric environments that arise on these worlds. We generate a new 1D radiative-convective terrestrial planet climate model that self-consistently handles patchy clouds through a parameterized microphysical treatment of condensation and sedimentation processes.</description>
+    </item>
+    
+    <item>
+      <title>Extreme mass loss in low-mass type Ib/c supernova progenitors</title>
+      <link>https://nebula0.github.io/article/extreme_mass_loss_in_low-mass_type_ib_c_supernova_progenitors/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/extreme_mass_loss_in_low-mass_type_ib_c_supernova_progenitors/</guid>
+      <description>First author: Samantha Wu
+Many core collapse supernovae (SNe) with hydrogen-poor and low-mass ejecta, such as ultra-stripped SNe and type Ibn SNe, are observed to interact with dense circumstellar material (CSM). These events likely arise from the core-collapse of helium stars which have been heavily stripped by a binary companion and ejected significant mass during the last weeks to years of their lives. In helium star models run to days before core-collapse, we identify a range of helium core masses $\approx 2.</description>
+    </item>
+    
+    <item>
+      <title>Atmospheric heat redistribution effect on Emission spectra of Hot-Jupiters</title>
+      <link>https://nebula0.github.io/article/atmospheric_heat_redistribution_effect_on_emission_spectra_of_hot-jupiters/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/atmospheric_heat_redistribution_effect_on_emission_spectra_of_hot-jupiters/</guid>
+      <description>First author: Soumya Sengupta
+Hot Jupiters are the most studied and easily detectable exoplanets for transit observations.However, the correlation between the atmospheric flow and the emission spectra of such planets is still not understood. Due to huge day-night temperature contrast in hot Jupiter, the thermal redistribution through atmospheric circulation has a significant impact on the vertical temperature-pressure structure and on the emission spectra. In the present work, we aim to study the variation of the temperature-pressure profiles and the emission spectra of such planets due to different amounts of atmospheric heat redistribution.</description>
+    </item>
+    
+    <item>
+      <title>The XRISM Pipeline Software System: Connecting Continents, Processes, Testing, and Scientists</title>
+      <link>https://nebula0.github.io/article/the_xrism_pipeline_software_system_connecting_continents_processes_testing_and_scientists/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_xrism_pipeline_software_system_connecting_continents_processes_testing_and_scientists/</guid>
+      <description>First author: Trisha F. Doyle
+XRISM (X-Ray Imaging and Spectroscopy Mission), with the Resolve high-resolution spectrometer and the Xtend wide-field imager on-board, is designed to build on the successes of the abbreviated Hitomi mission to address outstanding astrophysical questions using high resolution X-ray spectroscopy. In preparation for launch, the XRISM Science Data Center (SDC) is constructing and testing an integrated and automated system for data transfer and processing based upon the Hitomi framework, introducing improvements informed by previous experience and internal collaboration.</description>
+    </item>
+    
+    <item>
+      <title>Back to the features: assessing the discriminating power of future CMB missions on inflationary models</title>
+      <link>https://nebula0.github.io/article/back_to_the_features_assessing_the_discriminating_power_of_future_cmb_missions_on_inflationary_models/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/back_to_the_features_assessing_the_discriminating_power_of_future_cmb_missions_on_inflationary_models/</guid>
+      <description>First author: Matteo Braglia
+Future Cosmic Microwave Background (CMB) experiments will deliver extremely accurate measurements of the E-modes pattern of the CMB polarization field. Given the sharpness of the E-modes transfer functions, such surveys make for a powerful detector of high-frequency signals from primordial features that may be lurking in current data sets. With a handful of toy models that increase the fit to the latest Planck data, but are of marginal statistical significance, we use a state-of-the-art forecast pipeline to illustrate the promising prospects to test primordial features in the next decade.</description>
+    </item>
+    
+    <item>
+      <title>A Note on the &#34;Various Atmospheres over Water Oceans on Terrestrial Planets with a One-Dimensional Radiative-Convective Equilibrium Model</title>
+      <link>https://nebula0.github.io/article/a_note_on_the_various_atmospheres_over_water_oceans_on_terrestrial_planets_with_a_one-dimensional_radiative-convective_equilibrium_model/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/a_note_on_the_various_atmospheres_over_water_oceans_on_terrestrial_planets_with_a_one-dimensional_radiative-convective_equilibrium_model/</guid>
+      <description>First author: Tetsuya Hara
+It has been investigated the possibility of the various atmospheres over water oceans. We have considered the H$_2$ atmosphere and He atmosphere concerning to N$2$ atmosphere over oceans. One of the main subjects in astrobiology is to estimate the habitable zone. If there is an ocean on the planet with an atmosphere, there is an upper limit to the outgoing infrared radiation called the Komabayashi-Ingersoll limit (KI-limit).</description>
+    </item>
+    
+    <item>
+      <title>Dynamics of Neutron Star Accretion Columns in Split-Monopole Magnetic Fields</title>
+      <link>https://nebula0.github.io/article/dynamics_of_neutron_star_accretion_columns_in_split-monopole_magnetic_fields/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/dynamics_of_neutron_star_accretion_columns_in_split-monopole_magnetic_fields/</guid>
+      <description>First author: Lizhong Zhang
+We perform 2D axisymmetric radiative relativistic MHD simulations of radiation pressure supported neutron star accretion columns in split-monopole magnetic fields. The accretion columns exhibit quasi-periodic oscillations, which manifest in the luminosity power spectrum as 2-10 kHz peaks, together with broader extensions to somewhat higher frequencies. The peak frequency decreases for wider columns or higher mass accretion rates. In contrast to the case of shorter columns in uniform magnetic fields, pdV work contributes substantially to maintaining the radiation pressure inside the column against sideways radiative cooling.</description>
+    </item>
+    
+    <item>
+      <title>Observational constraints on interacting vacuum energy with linear interactions</title>
+      <link>https://nebula0.github.io/article/observational_constraints_on_interacting_vacuum_energy_with_linear_interactions/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/observational_constraints_on_interacting_vacuum_energy_with_linear_interactions/</guid>
+      <description>First author: Chakkrit Kaeonikhom
+We explore the bounds that can be placed on interactions between cold dark matter and vacuum energy, with equation of state $w=-1$, using state-of-the-art cosmological observations. We consider linear perturbations about a simple background model where the energy transfer per Hubble time, $Q/H$, is a general linear function of the dark matter density, $\rho_c$, and vacuum energy, $V$. We explain the parameter degeneracies found when fitting cosmic microwave background (CMB) anisotropies alone, and show how these are broken by the addition of supernovae data, baryon acoustic oscillations (BAO) and redshift-space distortions (RSD).</description>
+    </item>
+    
+    <item>
+      <title>Single Event Tolerance of X-ray SOI Pixel Sensors</title>
+      <link>https://nebula0.github.io/article/single_event_tolerance_of_x-ray_soi_pixel_sensors/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/single_event_tolerance_of_x-ray_soi_pixel_sensors/</guid>
+      <description>First author: Kouichi Hagino
+We evaluate the single event tolerance of the X-ray silicon-on-insulator (SOI) pixel sensor named XRPIX, developed for the future X-ray astronomical satellite FORCE. In this work, we measure the cross-section of single event upset (SEU) of the shift register on XRPIX by irradiating heavy ion beams with linear energy transfer (LET) ranging from 0.022 MeV/(mg/cm2) to 68 MeV/(mg/cm2). From the SEU cross-section curve, the saturation cross-section and threshold LET are successfully obtained to be $3.</description>
+    </item>
+    
+    <item>
+      <title>The effect of winds in red supergiants: modeling for interferometry</title>
+      <link>https://nebula0.github.io/article/the_effect_of_winds_in_red_supergiants_modeling_for_interferometry/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_effect_of_winds_in_red_supergiants_modeling_for_interferometry/</guid>
+      <description>First author: Gemma González-Torà
+Red supergiants (RSGs) are evolved massive stars in a stage preceding core-collapse supernova. Understanding evolved-phases of these cool stars is key to understanding the cosmic matter cycle of our Universe, since they enrich the cosmos with newly formed elements. However, the physical processes that trigger mass loss in their atmospheres are still not fully understood, and remain one of the key questions in stellar astrophysics. We use a new method to study the extended atmospheres of these cold stars, exploring the effect of a stellar wind for both a simple radiative equilibrium model and a semi-empirical model that accounts for a chromospheric temperature structure.</description>
+    </item>
+    
+    <item>
+      <title>3D Photon Conserving Code for Time-dependent General Relativistic Radiative Transfer : CARTOON</title>
+      <link>https://nebula0.github.io/article/3d_photon_conserving_code_for_time-dependent_general_relativistic_radiative_transfer__cartoon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/3d_photon_conserving_code_for_time-dependent_general_relativistic_radiative_transfer__cartoon/</guid>
+      <description>First author: Mikiya M. Takahashi
+We develop the 3-dimensional general relativistic radiative transfer code: CARTOON (Calculation code of Authentic Radiative Transfer based On phOton Number conservation in curved space-time) which is improved from the 2-dimensional code: ARTIST developed by Takahashi &amp;amp; Umemura (2017). In CARTOON, the frequency-integrated general relativistic radiative transfer equation is solved in a photon number-conserving manner, and the isotropic and coherent scattering in the zero angular momentum observers (ZAMO) frame and the fluid rest frame is incorporated.</description>
+    </item>
+    
+    <item>
+      <title>Achromatic design of a photonic tricoupler and phase shifter for broadband nulling interferometry</title>
+      <link>https://nebula0.github.io/article/achromatic_design_of_a_photonic_tricoupler_and_phase_shifter_for_broadband_nulling_interferometry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/achromatic_design_of_a_photonic_tricoupler_and_phase_shifter_for_broadband_nulling_interferometry/</guid>
+      <description>First author: Teresa Klinner-Teo
+Nulling interferometry is one of the most promising technologies for imaging exoplanets within stellar habitable zones. The use of photonics for carrying out nulling interferometry enables the contrast and separation required for exoplanet detection. So far, two key issues limiting current-generation photonic nullers have been identified: phase variations and chromaticity within the beam combiner. The use of tricouplers addresses both limitations, delivering a broadband, achromatic null together with phase measurements for fringe tracking.</description>
+    </item>
+    
+    <item>
+      <title>Air-sea interactions on Titan: effect of radiative transfer on the lake evaporation and atmospheric circulation</title>
+      <link>https://nebula0.github.io/article/air-sea_interactions_on_titan_effect_of_radiative_transfer_on_the_lake_evaporation_and_atmospheric_circulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/air-sea_interactions_on_titan_effect_of_radiative_transfer_on_the_lake_evaporation_and_atmospheric_circulation/</guid>
+      <description>First author: Audrey Chatain
+Titan&amp;rsquo;s northern high latitudes host many large hydrocarbon lakes. Like water lakes on Earth, Titan&amp;rsquo;s lakes are constantly subject to evaporation. This process strongly affects the atmospheric methane abundance, the atmospheric temperature, the lake mixed layer temperature, and the local wind circulation. In this work we use a 2D atmospheric mesoscale model coupled to a slab lake model to investigate the effect of solar and infrared radiation on the exchange of energy and methane between Titan&amp;rsquo;s lakes and atmosphere.</description>
+    </item>
+    
+    <item>
+      <title>CO$_2$ ocean bistability on terrestrial exoplanets</title>
+      <link>https://nebula0.github.io/article/co__2__ocean_bistability_on_terrestrial_exoplanets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/co__2__ocean_bistability_on_terrestrial_exoplanets/</guid>
+      <description>First author: R. J. Graham
+Cycling of carbon dioxide between the atmosphere and interior of rocky planets can stabilize global climate and enable planetary surface temperatures above freezing over geologic time. However, variations in global carbon budget and unstable feedback cycles between planetary sub-systems may destabilize the climate of rocky exoplanets toward regimes unknown in the Solar System. Here, we perform clear-sky atmospheric radiative transfer and surface weathering simulations to probe the stability of climate equilibria for rocky, ocean-bearing exoplanets at instellations relevant for planetary systems in the outer regions of the circumstellar habitable zone.</description>
+    </item>
+    
+    <item>
+      <title>No evidence for radius inflation in hot Jupiters from vertical advection of heat</title>
+      <link>https://nebula0.github.io/article/no_evidence_for_radius_inflation_in_hot_jupiters_from_vertical_advection_of_heat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/no_evidence_for_radius_inflation_in_hot_jupiters_from_vertical_advection_of_heat/</guid>
+      <description>First author: Aaron David Schneider
+Understanding the radiative-dynamical coupling between upper photosphere and deeper atmosphere is a key in understanding the abnormal large radii of hot Jupiters. One needs very long integration times of 3D general circulation models (GCMs) with self consistent radiative transfer to achieve a better understanding of the feedback process between dynamics and radiation. We here present the longest 3D non-gray GCM study (86000 d) of an ultra hot Jupiter (WASP-76 b) published to this date that reached a final converged state.</description>
+    </item>
+    
+    <item>
+      <title>Scale Transfer in 1849 : Heinrich Schwabe to Rudolf Wolf</title>
+      <link>https://nebula0.github.io/article/scale_transfer_in_1849__heinrich_schwabe_to_rudolf_wolf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/scale_transfer_in_1849__heinrich_schwabe_to_rudolf_wolf/</guid>
+      <description>First author: Shreya Bhattacharya
+The focus of this study is to reveal the reason behind a scale problem detected around 1849 in the historical version of the International Sunspot Number Series, i.e. version 1 (Leussu et al, Astronomy and Astrophysics, 559, A28, 2013; Friedli, Solar Phys.291, 2505, 2016). From 1826 to 1848 Heinrich Schwabe&amp;rsquo;s observations were considered primary by Rudolf Wolf, and a shift of primary observer from Schwabe to Wolf in 1849 seems to have led to an inconsistency in the Sunspot Number series.</description>
+    </item>
+    
+    <item>
+      <title>Torque reversals and wind variations of X-ray pulsar Vela X-1</title>
+      <link>https://nebula0.github.io/article/torque_reversals_and_wind_variations_of_x-ray_pulsar_vela_x-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/torque_reversals_and_wind_variations_of_x-ray_pulsar_vela_x-1/</guid>
+      <description>First author: Zhenxuan Liao
+The erratic spin history of Vela X-1 shows some continuous spin-up/spin-down trend over tens of days. We study the orbital profile and spectral property of Vela X-1 in these spin-up/spin-down intervals, using the spin history monitored by Fermi/GBM and light curve from Swift/BAT and MAXI/GSC. The BAT fluxes in the spin-up intervals are about 1.6 times those of the spin-down intervals for out-of-eclipse orbital phases. The spin-up intervals also show a higher column density than the spin-down intervals, indicating there are more material on the orbital scale for the spin-up intervals.</description>
+    </item>
+    
   </channel>
 </rss>

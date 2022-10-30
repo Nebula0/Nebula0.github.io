@@ -18,63 +18,13 @@ In the study of radiation mechanisms of AGNs&amp;rsquo; jets, hadronuclear (pp) 
     </item>
     
     <item>
-      <title>Efficient Analysis Routines for Single and Double Peaked Type 2 AGN Spectra</title>
-      <link>https://nebula0.github.io/article/efficient_analysis_routines_for_single_and_double_peaked_type_2_agn_spectra/</link>
+      <title>A Full Spectral Timing Model for AGN. Untangling the Variability in Fairall 9</title>
+      <link>https://nebula0.github.io/article/a_full_spectral_timing_model_for_agn._untangling_the_variability_in_fairall_9/</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/efficient_analysis_routines_for_single_and_double_peaked_type_2_agn_spectra/</guid>
-      <description>First author: Matthew Selwood
-Driven by the imminent need to rapidly process and classify millions of AGN spectra drawn from next generation astronomical facilities, we present a spectral fitting routine for Type 2 AGN spectra optimised for high volume processing, using the Quasar Spectral Fitting library (QSFit). We analyse an optically selected sample of 813 luminous Type 2 AGN spectra at $z &amp;lt; 0.83$ from the Sloan Digital Sky Survey (SDSS) to qualify its performance.</description>
-    </item>
-    
-    <item>
-      <title>Evidence for efficient long-range AGN jet feedback from the low redshift Lyman-$α$ forest</title>
-      <link>https://nebula0.github.io/article/evidence_for_efficient_long-range_agn_jet_feedback_from_the_low_redshift_lyman-%CE%B1_forest/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/evidence_for_efficient_long-range_agn_jet_feedback_from_the_low_redshift_lyman-%CE%B1_forest/</guid>
-      <description>First author: Megan Taylor Tillman
-Active galactic nuclei (AGN) feedback models are generally calibrated to reproduce galaxy observables such as the stellar mass function and the bimodality in galaxy colors. We use variations of the AGN feedback implementations in the IllustrisTNG (TNG) and Simba cosmological hydrodynamic simulations to show that the low redshift Lyman-$\alpha$ forest provides powerful independent constraints on the impact of AGN feedback. We show that TNG over predicts the number density of absorbers at column densities $N_{\rm HI} &amp;lt; 10^{14}$ cm$^{-2}$ compared to data from the Cosmic Origins Spectrograph (in agreement with previous work), and we demonstrate explicitly that its kinetic feedback mode, which is primarily responsible for galaxy quenching, has a negligible impact on the column density distribution (CDD) of absorbers.</description>
-    </item>
-    
-    <item>
-      <title>The $σ_{m Hβ}$-based dimensionless accretion rate and its connection with the corona for AGN</title>
-      <link>https://nebula0.github.io/article/the_%CF%83_%5Crm_h%CE%B2-based_dimensionless_accretion_rate_and_its_connection_with_the_corona_for_agn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/the_%CF%83_%5Crm_h%CE%B2-based_dimensionless_accretion_rate_and_its_connection_with_the_corona_for_agn/</guid>
-      <description>First author: Y. Q. Chen
-With respect to the $\rm H\beta$ full width at half-maximum ($\rm FWHM_{H\beta}$), the broad $\rm H\beta$ line dispersion ($\sigma_{\rm H\beta}$) was preferred as a velocity tracer to calculate the single-epoch supermassive black hole mass ($M_{\rm BH}$) suggested by \cite{Yu2020b}. For a compiled sample of 311 broad-line active galactic nuclei (AGN) with measured hard X-ray photon index ($z&amp;lt;0.7$), $\sigma_{\rm H\beta}$ and the optical Fe II relative strength ($R_{\rm Fe}$) are measured from their optical spectra, which are used to calculate $\sigma_{\rm H\beta}$-based virial $M_{\rm BH}$ and dimensionless accretion rate ($\dot{\mathscr{M}}$).</description>
-    </item>
-    
-    <item>
-      <title>The high-ionization IR fine-structure lines as bolometric indicators of the AGN power: study of the complete 12 micron AGN sample</title>
-      <link>https://nebula0.github.io/article/the_high-ionization_ir_fine-structure_lines_as_bolometric_indicators_of_the_agn_power_study_of_the_complete_12_micron_agn_sample/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/the_high-ionization_ir_fine-structure_lines_as_bolometric_indicators_of_the_agn_power_study_of_the_complete_12_micron_agn_sample/</guid>
-      <description>First author: Luigi Spinoglio
-The high-ionization mid-IR lines, excited in the Narrow Line Regions (NLR) of Active Galactic Nuclei (AGN), barely affected by stellar excitation and dust extinction, trace the AGN bolometric power. We used the complete 12 micron sample of Seyfert galaxies, for which 100/116 objects have reliable 2-10keV observations. The [NeV] and [OIV] mid-IR lines linearly correlate with several AGN bolometric indicators (intrinsic 2-10keV and observed 14-195keV X-ray emission, compact nuclear 12 micron emission, [OIII] 5007A line emission), both in terms of flux and luminosity.</description>
-    </item>
-    
-    <item>
-      <title>The Past and Future of Mid-Infrared Studies of AGN</title>
-      <link>https://nebula0.github.io/article/the_past_and_future_of_mid-infrared_studies_of_agn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/the_past_and_future_of_mid-infrared_studies_of_agn/</guid>
-      <description>First author: Anna Sajina
-Observational studies of AGN in the mid-infrared regime are crucial to our understanding of AGN and their role in the evolution of galaxies. Mid-IR-based selection of AGN is complementary to more traditional techniques allowing for a more complete census of AGN activity across cosmic time. Mid-IR observations including time variability and spatially resolved imaging have given us unique insights into the nature of the obscuring structures around AGN.</description>
-    </item>
-    
-    <item>
-      <title>Torus and polar dust dependence on AGN properties</title>
-      <link>https://nebula0.github.io/article/torus_and_polar_dust_dependence_on_agn_properties/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/torus_and_polar_dust_dependence_on_agn_properties/</guid>
-      <description>First author: I. García-Bernete
-We present a statistical analysis of the properties of the obscuring material around active galactic nuclei (AGN). This study represents the first of its kind for an ultra-hard X-ray (14-195keV; Swift/BAT) volume-limited (DL&amp;lt;40 Mpc) sample of 24 Seyfert (Sy) galaxies (BCS40 sample) using high angular resolution infrared data and various torus models: smooth, clumpy and two-phase torus models and clumpy disc+wind models. We find that the smooth, clumpy and two-phase torus models (i.</description>
+      <guid>https://nebula0.github.io/article/a_full_spectral_timing_model_for_agn._untangling_the_variability_in_fairall_9/</guid>
+      <description>First author: Scott Hagen
+Continuum reverberation mapping of AGN can provide new insight into the nature and geometry of the accretion flow. Some of the X-rays from the central corona irradiating the disc are absorbed, increasing the local disc temperature. This gives an additional re-processed contribution to the spectral energy distribution (SED) which is lagged and smeared relative to the driving X-ray lightcurve. We directly calculate this reverberation from the accretion disc, creating fully time dependent SEDs for a given X-ray light-curve.</description>
     </item>
     
   </channel>

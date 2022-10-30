@@ -28,43 +28,33 @@ The atmosphere is one of the most important contamination sources in the ground-
     </item>
     
     <item>
-      <title>The small-scale dynamo in a multiphase supernova-driven medium</title>
-      <link>https://nebula0.github.io/article/the_small-scale_dynamo_in_a_multiphase_supernova-driven_medium/</link>
-      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <title>Detection of spectral hardenings in cosmic-ray boron-to-carbon and boron-to-oxygen flux ratios with DAMPE</title>
+      <link>https://nebula0.github.io/article/detection_of_spectral_hardenings_in_cosmic-ray_boron-to-carbon_and_boron-to-oxygen_flux_ratios_with_dampe/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/the_small-scale_dynamo_in_a_multiphase_supernova-driven_medium/</guid>
-      <description>First author: Frederick A. Gent
-Magnetic fields grow quickly, even at early cosmological times, suggesting the action of a small-scale dynamo (SSD) in the interstellar medium (ISM) of galaxies. Many studies have focused on idealized, isotropic, homogeneous, turbulent driving of the SSD. Here we analyze more realistic simulations of supernova-driven turbulence to understand how it drives an SSD. We find that SSD growth rates are intermittently variable as a result of the evolving multiphase ISM structure.</description>
+      <guid>https://nebula0.github.io/article/detection_of_spectral_hardenings_in_cosmic-ray_boron-to-carbon_and_boron-to-oxygen_flux_ratios_with_dampe/</guid>
+      <description>First author: DAMPE Collaboration
+Boron nuclei in cosmic rays (CRs) are believed to be mainly produced by the fragmentation of heavier nuclei, such as carbon and oxygen, via collisions with the interstellar matter. Therefore, the boron-to-carbon flux ratio (B/C) and the boron-to-oxygen flux ratio (B/O) are very essential probes of the CR propagation. The energy dependence of the B/C ratio from previous balloon-borne and space-based experiments can be well described by a single power-law up to about 1 TeV/n within uncertainties.</description>
     </item>
     
     <item>
-      <title>A lower bound on intergalactic magnetic fields from time variability of 1ES 0229&#43;200 from MAGIC and Fermi/LAT observations</title>
-      <link>https://nebula0.github.io/article/a_lower_bound_on_intergalactic_magnetic_fields_from_time_variability_of_1es_0229&#43;200_from_magic_and_fermi_lat_observations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Long-term trends of light pollution assessed from SQM measurements and an empirical atmospheric model</title>
+      <link>https://nebula0.github.io/article/long-term_trends_of_light_pollution_assessed_from_sqm_measurements_and_an_empirical_atmospheric_model/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/a_lower_bound_on_intergalactic_magnetic_fields_from_time_variability_of_1es_0229&#43;200_from_magic_and_fermi_lat_observations/</guid>
-      <description>First author: MAGIC Collaboration
-Extended and delayed emission around distant TeV sources induced by the effects of propagation of gamma rays through the intergalactic medium can be used for the measurement of the intergalactic magnetic field (IGMF). We search for delayed GeV emission from the hard-spectrum TeV blazar 1ES 0229+200 with the goal to detect or constrain the IGMF-dependent secondary flux generated during the propagation of TeV gamma rays through the intergalactic medium.</description>
+      <guid>https://nebula0.github.io/article/long-term_trends_of_light_pollution_assessed_from_sqm_measurements_and_an_empirical_atmospheric_model/</guid>
+      <description>First author: Johannes Puschnig
+We present long-term (4-10 years) trends of light pollution observed at 26 locations, covering rural, intermediate and urban sites, including the three major European metropolitan areas of Stockholm, Berlin and Vienna. Our analysis is based on i) night sky brightness (NSB) measurements obtained with Sky Quality Meters (SQMs) and ii) a rich set of atmospheric data products provided by the European Centre for Medium-Range Weather Forecasts.</description>
     </item>
     
     <item>
-      <title>Life cycle of cosmic-ray electrons in the intracluster medium</title>
-      <link>https://nebula0.github.io/article/life_cycle_of_cosmic-ray_electrons_in_the_intracluster_medium/</link>
+      <title>The closure relations in optical afterglow of Gamma-Ray Bursts</title>
+      <link>https://nebula0.github.io/article/the_closure_relations_in_optical_afterglow_of_gamma-ray_bursts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/life_cycle_of_cosmic-ray_electrons_in_the_intracluster_medium/</guid>
-      <description>First author: F. Vazza
-We simulate the evolution of relativistic electrons injected into the medium of a small galaxy cluster by a central radio galaxy, studying how the initial jet power affects the dispersal and the emission properties of radio plasma. By coupling passive tracer particles to adaptive-mesh cosmological MHD simulations, we study how cosmic-ray electrons are dispersed as a function of the input jet power. We also investigate how the latter affects the thermal and non-thermal properties of the intracluster medium, with differences discernible up to $\sim$ Gyr after the start of the jet.</description>
-    </item>
-    
-    <item>
-      <title>Scattering variability detected from the circumsource medium of FRB 20190520B</title>
-      <link>https://nebula0.github.io/article/scattering_variability_detected_from_the_circumsource_medium_of_frb_20190520b/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/scattering_variability_detected_from_the_circumsource_medium_of_frb_20190520b/</guid>
-      <description>First author: S. K. Ocker
-Fast radio bursts (FRBs) are millisecond-timescale radio transients, the origins of which are predominantly extragalactic and likely involve highly magnetized compact objects. FRBs undergo multipath propagation, or scattering, from electron density fluctuations on sub-parsec scales in ionized gas along the line-of-sight. Scattering observations have located plasma structures within FRB host galaxies, probed Galactic and extragalactic turbulence, and constrained FRB redshifts. Scattering also inhibits FRB detection and biases the observed FRB population.</description>
+      <guid>https://nebula0.github.io/article/the_closure_relations_in_optical_afterglow_of_gamma-ray_bursts/</guid>
+      <description>First author: M. G. Dainotti
+Gamma-ray bursts (GRBs) are extremely high-energy events that can be observed at very high redshift. In addition to gamma rays, they can emit in X-ray, optical, and sometimes radio wavelengths. Here, following the approach in Srinivasaragavan et al. (2020); Dainotti et al. (2021b,c), and Dainotti et al (2022, submitted), we consider 82 GRBs from Dainotti et al. (2022a) that have been observed in optical wavelengths and fitted with a broken power law (BPL).</description>
     </item>
     
   </channel>
