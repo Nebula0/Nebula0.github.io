@@ -6,55 +6,25 @@
     <description>Recent content in intergalactic medium on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/intergalactic-medium/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/intergalactic-medium/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>SARABANDE: 3/4 Point Correlation Functions with Fast Fourier Transforms</title>
-      <link>https://nebula0.github.io/article/sarabande_3_4_point_correlation_functions_with_fast_fourier_transforms/</link>
-      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      <title>The THESAN project: Lyman-alpha emitter luminosity function calibration</title>
+      <link>https://nebula0.github.io/new_article/intergalactic-medium/the_thesan_project_lyman-alpha_emitter_luminosity_function_calibration/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/sarabande_3_4_point_correlation_functions_with_fast_fourier_transforms/</guid>
-      <description>First author: James Sunseri
-We present a new $\texttt{python}$ package SARABANDE for measuring 3 &amp;amp; 4 Point Correlation Functions (3/4 PCFs) in $\mathcal{O}(N_{\rm g} \log N_{\rm g})$ time using Fast Fourier Transforms (FFTs), with $N_{\rm g}$ the number of grid points used for the FFT. SARABANDE can measure both projected and full 3 and 4 PCFs on gridded 2D and 3D datasets. The general technique is to generate suitable angular basis functions on an underlying grid, radially bin these to create kernels, and convolve these kernels with the original gridded data to obtain expansion coefficients about every point simultaneously.</description>
+      <guid>https://nebula0.github.io/new_article/intergalactic-medium/the_thesan_project_lyman-alpha_emitter_luminosity_function_calibration/</guid>
+      <description>First author: Clara Xu
+The observability of Lyman-alpha emitting galaxies (LAEs) during the Epoch of Reionization can provide a sensitive probe of the evolving neutral hydrogen gas distribution, thus setting valuable constraints to distinguish different reionization models. In this study, we utilize the new THESAN suite of large-volume (95.5 cMpc) cosmological radiation-hydrodynamic simulations to directly model the Ly$\alpha$ emission from individual galaxies and the subsequent transmission through the intergalactic medium.</description>
     </item>
     
     <item>
-      <title>Study on the filters of atmospheric contamination in ground based CMB observation</title>
-      <link>https://nebula0.github.io/article/study_on_the_filters_of_atmospheric_contamination_in_ground_based_cmb_observation/</link>
-      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      <title>Constraining Cosmic-ray Transport with Observations of the Circumgalactic Medium</title>
+      <link>https://nebula0.github.io/new_article/intergalactic-medium/constraining_cosmic-ray_transport_with_observations_of_the_circumgalactic_medium/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/study_on_the_filters_of_atmospheric_contamination_in_ground_based_cmb_observation/</guid>
-      <description>First author: Yi-Wen Wu
-The atmosphere is one of the most important contamination sources in the ground-based Cosmic Microwave Background (CMB) observations. In this paper, we study three kinds of filters, which are polynomial filter, high-pass filter, and Wiener filter, to investigate their ability for removing atmospheric noise, as well as their impact on the data analysis process through the end-to-end simulations of CMB experiment. We track their performance by analyzing the response of different components of the data, including both signals and noise.</description>
-    </item>
-    
-    <item>
-      <title>Detection of spectral hardenings in cosmic-ray boron-to-carbon and boron-to-oxygen flux ratios with DAMPE</title>
-      <link>https://nebula0.github.io/article/detection_of_spectral_hardenings_in_cosmic-ray_boron-to-carbon_and_boron-to-oxygen_flux_ratios_with_dampe/</link>
-      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/detection_of_spectral_hardenings_in_cosmic-ray_boron-to-carbon_and_boron-to-oxygen_flux_ratios_with_dampe/</guid>
-      <description>First author: DAMPE Collaboration
-Boron nuclei in cosmic rays (CRs) are believed to be mainly produced by the fragmentation of heavier nuclei, such as carbon and oxygen, via collisions with the interstellar matter. Therefore, the boron-to-carbon flux ratio (B/C) and the boron-to-oxygen flux ratio (B/O) are very essential probes of the CR propagation. The energy dependence of the B/C ratio from previous balloon-borne and space-based experiments can be well described by a single power-law up to about 1 TeV/n within uncertainties.</description>
-    </item>
-    
-    <item>
-      <title>Long-term trends of light pollution assessed from SQM measurements and an empirical atmospheric model</title>
-      <link>https://nebula0.github.io/article/long-term_trends_of_light_pollution_assessed_from_sqm_measurements_and_an_empirical_atmospheric_model/</link>
-      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/long-term_trends_of_light_pollution_assessed_from_sqm_measurements_and_an_empirical_atmospheric_model/</guid>
-      <description>First author: Johannes Puschnig
-We present long-term (4-10 years) trends of light pollution observed at 26 locations, covering rural, intermediate and urban sites, including the three major European metropolitan areas of Stockholm, Berlin and Vienna. Our analysis is based on i) night sky brightness (NSB) measurements obtained with Sky Quality Meters (SQMs) and ii) a rich set of atmospheric data products provided by the European Centre for Medium-Range Weather Forecasts.</description>
-    </item>
-    
-    <item>
-      <title>The closure relations in optical afterglow of Gamma-Ray Bursts</title>
-      <link>https://nebula0.github.io/article/the_closure_relations_in_optical_afterglow_of_gamma-ray_bursts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/the_closure_relations_in_optical_afterglow_of_gamma-ray_bursts/</guid>
-      <description>First author: M. G. Dainotti
-Gamma-ray bursts (GRBs) are extremely high-energy events that can be observed at very high redshift. In addition to gamma rays, they can emit in X-ray, optical, and sometimes radio wavelengths. Here, following the approach in Srinivasaragavan et al. (2020); Dainotti et al. (2021b,c), and Dainotti et al (2022, submitted), we consider 82 GRBs from Dainotti et al. (2022a) that have been observed in optical wavelengths and fitted with a broken power law (BPL).</description>
+      <guid>https://nebula0.github.io/new_article/intergalactic-medium/constraining_cosmic-ray_transport_with_observations_of_the_circumgalactic_medium/</guid>
+      <description>First author: Iryna S. Butsky
+Recent theoretical studies predict that the circumgalactic medium (CGM) around low-redshift, $\sim L_{\ast}$ galaxies could have substantial nonthermal pressure support in the form of cosmic rays. However, these predictions are sensitive to the specific model of cosmic-ray transport employed, which is theoretically and observationally underconstrained. In this work, we propose a novel observational constraint for calculating the lower limit of the radially-averaged, effective cosmic-ray transport rate, $\kappa_{\rm min}^{\rm eff}$.</description>
     </item>
     
   </channel>

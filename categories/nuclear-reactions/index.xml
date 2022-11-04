@@ -6,105 +6,65 @@
     <description>Recent content in nuclear reactions on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/nuclear-reactions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/nuclear-reactions/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>pynucastro: A Python Library for Nuclear Astrophysics</title>
-      <link>https://nebula0.github.io/article/pynucastro_a_python_library_for_nuclear_astrophysics/</link>
-      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      <title>A numerical modeling of rotating substellar objects up to mass-shedding limits</title>
+      <link>https://nebula0.github.io/new_article2/nuclear-reactions/a_numerical_modeling_of_rotating_substellar_objects_up_to_mass-shedding_limits/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/pynucastro_a_python_library_for_nuclear_astrophysics/</guid>
-      <description>First author: Alexander Smith Clark
-We describe pynucastro 2.0, an open source library for interactively creating and exploring astrophysical nuclear reaction networks. We demonstrate new methods for approximating rates and using detailed balance to create reverse rates, show how to build networks and determine whether they are appropriate for a particular science application, and discuss the changes made to the library over the past few years. Finally, we demonstrate the validity of the networks produced and share how we use pynucastro networks in simulation codes.</description>
+      <guid>https://nebula0.github.io/new_article2/nuclear-reactions/a_numerical_modeling_of_rotating_substellar_objects_up_to_mass-shedding_limits/</guid>
+      <description>First author: Shin&amp;rsquo;ichirou Yoshida
+Rotation may affect the occurrence of sustainable hydrogen burning in very low-mass stellar objects by the introduction of centrifugal force to the hydrostatic balance as well as by the appearance of rotational break-up of the objects (mass-shedding limit) for rapidly rotating cases. We numerically construct the models of rotating very low-mass stellar objects that may or may not experience sustained nuclear reaction (hydrogen-burning) as their energy source.</description>
     </item>
     
     <item>
-      <title>Constraining the equation of state of hybrid stars using recent information from multidisciplinary physics</title>
-      <link>https://nebula0.github.io/article/constraining_the_equation_of_state_of_hybrid_stars_using_recent_information_from_multidisciplinary_physics/</link>
-      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      <title>The Impact of Beam Variations on Power Spectrum Estimation for 21-cm Cosmology I: Simulations of Foreground Contamination for HERA</title>
+      <link>https://nebula0.github.io/new_article/nuclear-reactions/the_impact_of_beam_variations_on_power_spectrum_estimation_for_21-cm_cosmology_i_simulations_of_foreground_contamination_for_hera/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/constraining_the_equation_of_state_of_hybrid_stars_using_recent_information_from_multidisciplinary_physics/</guid>
-      <description>First author: Swarnim Shirke
-At the ultra-high densities existing in the core of neutron stars, it is expected that a phase transition from baryonic to deconfined quark matter may occur. Such a phase transition would affect the underlying equation of state (EoS) as well as the observable astrophysical properties of neutron stars. Comparison of EoS model predictions with astronomical data from multi-messenger signals then provides us an opportunity to probe the behaviour of dense matter.</description>
+      <guid>https://nebula0.github.io/new_article/nuclear-reactions/the_impact_of_beam_variations_on_power_spectrum_estimation_for_21-cm_cosmology_i_simulations_of_foreground_contamination_for_hera/</guid>
+      <description>First author: Honggeun Kim
+Detecting cosmological signals from the Epoch of Reionization (EoR) requires high-precision calibration to isolate the cosmological signals from foreground emission. In radio interferometery, perturbed primary beams of antenna elements can disrupt the precise calibration, which results in contaminating the foreground-free region, or the EoR window, in the cylindrically averaged power spectrum. For Hydrogen Epoch of Reionization Array (HERA), we simulate and characterize the perturbed primary beams induced by feed motions such as axial, lateral, and tilting motions, above the 14-meter dish.</description>
     </item>
     
     <item>
-      <title>Pulsations of primordial supermassive stars induced by a general relativistic instability; visible to JWST at z$&gt;$12</title>
-      <link>https://nebula0.github.io/article/pulsations_of_primordial_supermassive_stars_induced_by_a_general_relativistic_instability_visible_to_jwst_at_z__12/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <title>Mid-Infrared Echoes of Ambiguous Nuclear Transients Reveal High Dust Covering Fractions: Evidence for Dusty Tori</title>
+      <link>https://nebula0.github.io/new_article/nuclear-reactions/mid-infrared_echoes_of_ambiguous_nuclear_transients_reveal_high_dust_covering_fractions_evidence_for_dusty_tori/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/pulsations_of_primordial_supermassive_stars_induced_by_a_general_relativistic_instability_visible_to_jwst_at_z__12/</guid>
-      <description>First author: Chris Nagele
-The origin of high-redshift quasars and their supermassive black hole engines is unclear. One promising solution is the collapse of a primordial supermassive star. Observational confirmation of this scenario may be difficult, but a general relativistic instability supernova provides one avenue for such. Previous studies have found that a general relativistic instability supernova has a potentially decades-long plateau phase visible to JWST at high redshift. In this work, we examine stars with mass just below the general relativistic instability supernova mass range.</description>
+      <guid>https://nebula0.github.io/new_article/nuclear-reactions/mid-infrared_echoes_of_ambiguous_nuclear_transients_reveal_high_dust_covering_fractions_evidence_for_dusty_tori/</guid>
+      <description>First author: Jason T. Hinkle
+Alongside the recent increase in discoveries of tidal disruption events (TDEs) have come an increasing number of ambiguous nuclear transients (ANTs). These ANTs are characterized by hot blackbody-like UV/optical spectral energy distributions (SEDs) and smooth photometric evolution, often with hard powerlaw-like X-ray emission. ANTs are likely exotic TDEs or smooth flares originating in otherwise narrow-line active galactic nuclei (AGNs). While their emission in the UV/optical and X-ray has been relatively well-explored, their infrared (IR) emission has not been studied in detail.</description>
     </item>
     
     <item>
-      <title>Machine-Learning Love: classifying the equation of state of neutron stars with Transformers</title>
-      <link>https://nebula0.github.io/article/machine-learning_love_classifying_the_equation_of_state_of_neutron_stars_with_transformers/</link>
-      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      <title>Twin stars as probes of the nuclear equation of state: effects of rotation through the PSR J0952-0607 pulsar and constraints via the tidal deformability from the GW170817 event</title>
+      <link>https://nebula0.github.io/new_article/nuclear-reactions/twin_stars_as_probes_of_the_nuclear_equation_of_state_effects_of_rotation_through_the_psr_j0952-0607_pulsar_and_constraints_via_the_tidal_deformability_from_the_gw170817_event/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/machine-learning_love_classifying_the_equation_of_state_of_neutron_stars_with_transformers/</guid>
-      <description>First author: Gonçalo Gonçalves
-The use of the Audio Spectrogram Transformer (AST) model for gravitational-wave data analysis is investigated. The AST machine-learning model is a convolution-free classifier that captures long-range global dependencies through a purely attention-based mechanism. In this paper a model is applied to a simulated dataset of inspiral gravitational wave signals from binary neutron star coalescences, built from five distinct, cold equations of state (EOS) of nuclear matter.</description>
+      <guid>https://nebula0.github.io/new_article/nuclear-reactions/twin_stars_as_probes_of_the_nuclear_equation_of_state_effects_of_rotation_through_the_psr_j0952-0607_pulsar_and_constraints_via_the_tidal_deformability_from_the_gw170817_event/</guid>
+      <description>First author: L. Tsaloukidis
+In agreement with the constantly increasing gravitational wave events, new aspects of the internal structure of compact stars can be considered. A scenario in which a first order transition takes place inside these stars is of particular interest as it can lead, under conditions, to a third gravitationally stable branch (besides white dwarfs and neutron stars), the twin stars. The new branch yields stars with the same mass as normal compact stars but quite different radii.</description>
     </item>
     
     <item>
-      <title>3XMM J185246.6&#43;003317: an isolated massive neutron star with a low magnetic field and a carbon atmosphere</title>
-      <link>https://nebula0.github.io/article/3xmm_j185246.6&#43;003317_an_isolated_massive_neutron_star_with_a_low_magnetic_field_and_a_carbon_atmosphere/</link>
-      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <title>Direct Determination of the Activation Energy for Diffusion of OH Radicals on Water Ice</title>
+      <link>https://nebula0.github.io/new_article/nuclear-reactions/direct_determination_of_the_activation_energy_for_diffusion_of_oh_radicals_on_water_ice/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/3xmm_j185246.6&#43;003317_an_isolated_massive_neutron_star_with_a_low_magnetic_field_and_a_carbon_atmosphere/</guid>
-      <description>First author: Rafael C. R. de Lima
-3XMM J185246.6+003317 is a slowly rotating soft-gamma repeater (neutron star) in the vicinity of the supernova remnant Kes,79. So far, observations have only set upper limits to its surface magnetic field and spindown, and there is no estimate for its mass and radius. Using ray-tracing modelling and Bayesian inference for the analysis of several light curves spanning a period of around three weeks, we have found that it may be one of the most massive neutron stars to date.</description>
+      <guid>https://nebula0.github.io/new_article/nuclear-reactions/direct_determination_of_the_activation_energy_for_diffusion_of_oh_radicals_on_water_ice/</guid>
+      <description>First author: A. Miyazaki
+Using a combination of photostimulated desorption and resonance-enhanced multiphoton ionization methods, the behaviors of OH radicals on the surface of interstellar ice analog was monitored at temperatures between 54 and 80 K. The OH number density on the surface of ultraviolet (UV)-irradiated compact amorphous solid water gradually decreased at temperatures above 60 K. Analyzing the temperature dependence of OH intensities with the Arrhenius equation, the decrease can be explained by recombination of two OH radicals, which is rate-limited by thermal diffusion of OH.</description>
     </item>
     
     <item>
-      <title>Super-horizon resonant magnetogenesis during inflation</title>
-      <link>https://nebula0.github.io/article/super-horizon_resonant_magnetogenesis_during_inflation/</link>
-      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <title>Polyaromatic Hydrocarbons with an Imperfect Aromatic System as Catalysts of Interstellar H$_{2}$ Formation</title>
+      <link>https://nebula0.github.io/new_article/nuclear-reactions/polyaromatic_hydrocarbons_with_an_imperfect_aromatic_system_as_catalysts_of_interstellar_h__2__formation/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/super-horizon_resonant_magnetogenesis_during_inflation/</guid>
-      <description>First author: Misao Sasaki
-We propose a novel mechanism for significantly enhancing the amplitude of primordial electromagnetic fields during inflation. Similar to existing proposals, our idea is based on parametric resonance effects due to conformal-symmetry-breaking coupling of the gauge field and the inflaton. Our proposed scenario, however, significantly differs from previously studied models, and avoids their shortcomings. We, particularly, construct a viable system where the gauge field is exponentially amplified on super-horizon scales, therefore evading the no-go theorem formulated on the basis of widely encountered drastic back-reaction of the magnetic field energy on the inflationary background.</description>
-    </item>
-    
-    <item>
-      <title>Fast and accurate predictions of the nonlinear matter power spectrum for general models of Dark Energy and Modified Gravity</title>
-      <link>https://nebula0.github.io/article/fast_and_accurate_predictions_of_the_nonlinear_matter_power_spectrum_for_general_models_of_dark_energy_and_modified_gravity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/fast_and_accurate_predictions_of_the_nonlinear_matter_power_spectrum_for_general_models_of_dark_energy_and_modified_gravity/</guid>
-      <description>First author: B. Bose
-We embed linear and nonlinear parametrisations of beyond standard cosmological physics in the halo model reaction framework, providing a model-independent prescription for the nonlinear matter power spectrum. As an application, we focus on Horndeski theories, using the Effective Field Theory of Dark Energy (EFTofDE) to parameterise linear and quasi-nonlinear perturbations. In the nonlinear regime we investigate both a nonlinear parameterised-post Friedmann (nPPF) approach as well as a physically motivated and approximate phenomenological model based on the error function (Erf).</description>
-    </item>
-    
-    <item>
-      <title>Internal Heating in Magnetars: Role of Electron Captures</title>
-      <link>https://nebula0.github.io/article/internal_heating_in_magnetars_role_of_electron_captures/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/internal_heating_in_magnetars_role_of_electron_captures/</guid>
-      <description>First author: Nicolas Chamel
-The role of electron captures by nuclei in the shallow heating of magnetars is further investigated using both nuclear measurements and the theoretical atomic mass table HFB-27. Starting from the composition of the outer crust in full equilibrium, we have calculated the onset of electron captures and the heat released due to the slow decay of the magnetic field. Numerical results are found to be similar to those previously obtained with the HFB-24 atomic mass model and are consistent with neutron-star cooling data.</description>
-    </item>
-    
-    <item>
-      <title>Magnetic induction processes in Hot Jupiters, application to KELT-9b</title>
-      <link>https://nebula0.github.io/article/magnetic_induction_processes_in_hot_jupiters_application_to_kelt-9b/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/magnetic_induction_processes_in_hot_jupiters_application_to_kelt-9b/</guid>
-      <description>First author: Wieland Dietrich
-The small semi-major axes of Hot Jupiters lead to high atmospheric temperatures of up to several thousand Kelvin. Under these conditions, thermally ionised metals provide a rich source of charged particles and thus build up a sizeable electrical conductivity. Subsequent electromagnetic effects, such as the induction of electric currents, Ohmic heating, magnetic drag, or the weakening of zonal winds have thus far been considered mainly in the framework of a linear, steady-state model of induction.</description>
-    </item>
-    
-    <item>
-      <title>The Possibility of Mirror Planet as Planet Nine in Solar System</title>
-      <link>https://nebula0.github.io/article/the_possibility_of_mirror_planet_as_planet_nine_in_solar_system/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/the_possibility_of_mirror_planet_as_planet_nine_in_solar_system/</guid>
-      <description>First author: Pei Wang
-A series of dynamical anomalies in the orbits of distant trans-Neptunian objects points to a new celestial body (usually named Planet Nine) in the solar system. In this draft, we point out that a mirror planet captured from the outer solar system or formed in the solar system is also a possible candidate. The introduction of the mirror matter model is due to an unbroken parity symmetry and is a potential explanation for dark matter.</description>
+      <guid>https://nebula0.github.io/new_article/nuclear-reactions/polyaromatic_hydrocarbons_with_an_imperfect_aromatic_system_as_catalysts_of_interstellar_h__2__formation/</guid>
+      <description>First author: David P. Jelenfi
+Although H${2}$ is the simplest and the most abundant molecule in the Universe, its formation in the interstellar medium, especially in the photodissociation regions is far from being fully understood. According to suggestions, the formation of H${2}$ is catalyzed by polyaromatic hydrocarbons (PAHs) on the surface of interstellar grains. In the present study, we have investigated the catalytic effect of small PAHs with an imperfect aromatic system.</description>
     </item>
     
   </channel>

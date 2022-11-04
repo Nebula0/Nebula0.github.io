@@ -6,95 +6,15 @@
     <description>Recent content in hydrodynamics on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/hydrodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/hydrodynamics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Estimating the depth of gaps opened by planets in eccentric orbit</title>
-      <link>https://nebula0.github.io/article/estimating_the_depth_of_gaps_opened_by_planets_in_eccentric_orbit/</link>
-      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      <title>Hot Jupiter engulfment by a red giant in 3D hydrodynamics</title>
+      <link>https://nebula0.github.io/new_article/hydrodynamics/hot_jupiter_engulfment_by_a_red_giant_in_3d_hydrodynamics/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/estimating_the_depth_of_gaps_opened_by_planets_in_eccentric_orbit/</guid>
-      <description>First author: F. J. Sanchez-Salcedo
-Planets can carve gaps in the surface density of protoplanetary discs. The formation of these gaps can reduce the corotation torques acting on the planets. In addition, gaps can halt the accretion of solids onto the planets as dust and pebbles can be trapped at the edge of the gap. This accumulation of dust could explain the origin of the ring-like dust structures observed using high-resolution interferometry.</description>
-    </item>
-    
-    <item>
-      <title>Tidal Disruption of Main-Sequence Stars by Intermediate-Mass Black Holes</title>
-      <link>https://nebula0.github.io/article/tidal_disruption_of_main-sequence_stars_by_intermediate-mass_black_holes/</link>
-      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/tidal_disruption_of_main-sequence_stars_by_intermediate-mass_black_holes/</guid>
-      <description>First author: Fulya Kıroğlu
-We study close encounters of a $1,M_{\odot}$ middle-age main-sequence star (modelled using MESA) with massive black holes through hydrodynamic simulations, and explore in particular the dependence of the outcomes on the black hole mass. We consider here black holes in the intermediate-mass range, $M_{\rm BH}= 100-10^4,M_{\odot}$. Possible outcomes vary from a small tidal perturbation for weak encounters all the way to partial or full disruption for stronger encounters.</description>
-    </item>
-    
-    <item>
-      <title>Swift and XMM-Newton observations of an RS CVn type eclipsing binary SZ Psc: Superflare and coronal properties</title>
-      <link>https://nebula0.github.io/article/swift_and_xmm-newton_observations_of_an_rs_cvn_type_eclipsing_binary_sz_psc_superflare_and_coronal_properties/</link>
-      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/swift_and_xmm-newton_observations_of_an_rs_cvn_type_eclipsing_binary_sz_psc_superflare_and_coronal_properties/</guid>
-      <description>First author: Subhajeet Karmakar
-We present an in-depth study of a large and long duration ($&amp;gt;$1.3 days) X-ray flare observed on an RS CVn type eclipsing binary system SZ Psc using observations from Swift observatory. In the 0.35$-$10 keV energy band, the peak luminosity is estimated to be 4.2$\times$10$^{33}$ erg s$^{-1}$. The quiescent corona of SZ Psc was observed $\sim$5.67 d after the flare using Swift observatory, and also $\sim$1.</description>
-    </item>
-    
-    <item>
-      <title>Non-linear Eulerian Hydrodynamics of Dark Energy: Riemann problem and Finite Volume Schemes</title>
-      <link>https://nebula0.github.io/article/non-linear_eulerian_hydrodynamics_of_dark_energy_riemann_problem_and_finite_volume_schemes/</link>
-      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/non-linear_eulerian_hydrodynamics_of_dark_energy_riemann_problem_and_finite_volume_schemes/</guid>
-      <description>First author: Linda Blot
-Upcoming large-scale-structure surveys can shed new light on the properties of dark energy. In particular, if dark energy is a dynamical component, it must have spatial perturbations. Their behaviour is regulated by the speed of sound parameter, which is currently unconstrained. In this work we present the numerical methods that will allow to perform cosmological simulations of inhomogeneous dark energy scenarios where the speed of sound is small and non-vanishing.</description>
-    </item>
-    
-    <item>
-      <title>Understanding spectral states of sub-Keplerian accretion discs around compact objects as transitions between steady states</title>
-      <link>https://nebula0.github.io/article/understanding_spectral_states_of_sub-keplerian_accretion_discs_around_compact_objects_as_transitions_between_steady_states/</link>
-      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/understanding_spectral_states_of_sub-keplerian_accretion_discs_around_compact_objects_as_transitions_between_steady_states/</guid>
-      <description>First author: Arunima Ajay
-We present here a simple hydrodynamic model based on a sequence of steady states of the inner sub-Keplerian accretion disc to model its spectral states. Correlations between different hydrodynamic steady states are studied with a goal to understand the origin of, e.g., the aperiodic variabilities. The plausible source of corona/outflow close to the central compact object is shown to be a consequence of steady state transition in the underlying accretion flow.</description>
-    </item>
-    
-    <item>
-      <title>Effects of Different Closure Choices in Core-Collapse Supernova Simulations</title>
-      <link>https://nebula0.github.io/article/effects_of_different_closure_choices_in_core-collapse_supernova_simulations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/effects_of_different_closure_choices_in_core-collapse_supernova_simulations/</guid>
-      <description>First author: Tianshu Wang
-The two-moment method is widely used to approximate the full neutrino transport equation in core-collapse supernova (CCSN) simulations, and different closures lead to subtle differences in the simulation results. In this paper, we compare the effects of closure choices on various physical quantities in 1D and 2D time-dependent CCSN simulations with our multi-group radiation hydrodynamics code Fornax. We find that choices of the 3rd-order closure relations influence the time-dependent simulations only slightly.</description>
-    </item>
-    
-    <item>
-      <title>Residual Neural Networks for the Prediction of Planetary Collision Outcomes</title>
-      <link>https://nebula0.github.io/article/residual_neural_networks_for_the_prediction_of_planetary_collision_outcomes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/residual_neural_networks_for_the_prediction_of_planetary_collision_outcomes/</guid>
-      <description>First author: Philip M. Winter
-Fast and accurate treatment of collisions in the context of modern N-body planet formation simulations remains a challenging task due to inherently complex collision processes. We aim to tackle this problem with machine learning (ML), in particular via residual neural networks. Our model is motivated by the underlying physical processes of the data-generating process and allows for flexible prediction of post-collision states. We demonstrate that our model outperforms commonly used collision handling methods such as perfect inelastic merging and feed-forward neural networks in both prediction accuracy and out-of-distribution generalization.</description>
-    </item>
-    
-    <item>
-      <title>State-of-the-Art Collapsar Jet Simulations Imply Undetectable Subphotospheric Neutrinos</title>
-      <link>https://nebula0.github.io/article/state-of-the-art_collapsar_jet_simulations_imply_undetectable_subphotospheric_neutrinos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/state-of-the-art_collapsar_jet_simulations_imply_undetectable_subphotospheric_neutrinos/</guid>
-      <description>First author: Ersilia Guarini
-Mounting evidence suggests that the launching of collapsar jets is magnetically driven. Recent general relativistic magneto-hydrodynamic simulations of collapsars reveal that the jet is continuously loaded with baryons, owing to strong mixing with the cocoon. This results in a high photosphere at $\gtrsim 10^{12}$ cm. Consequently, collisionless internal shocks below the photosphere are disfavored, and the neutrino production in the deepest jet regions is prevented, in contrast to what has been naively assumed in the literature.</description>
-    </item>
-    
-    <item>
-      <title>Why Cosmic Voids Matter: Nonlinear Structure &amp; Linear Dynamics</title>
-      <link>https://nebula0.github.io/article/why_cosmic_voids_matter_nonlinear_structure__linear_dynamics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/why_cosmic_voids_matter_nonlinear_structure__linear_dynamics/</guid>
-      <description>First author: Nico Schuster
-We use the Magneticum suite of state-of-the-art hydrodynamical simulations to identify cosmic voids based on the watershed technique and investigate their most fundamental properties across different resolutions in mass and scale. This encompasses the distributions of void sizes, shapes, and content, as well as their radial density and velocity profiles traced by the distribution of cold dark matter particles and halos. We also study the impact of various tracer properties, such as their sparsity and mass, and the influence of void merging on these summary statistics.</description>
+      <guid>https://nebula0.github.io/new_article/hydrodynamics/hot_jupiter_engulfment_by_a_red_giant_in_3d_hydrodynamics/</guid>
+      <description>First author: Mike Y. M. Lau
+Transit and radial-velocity surveys over the past two decades have uncovered a significant population of short-period exoplanets. Among them are hot Jupiters, which are gas giant planets with orbital periods of a few days and found in 0.1-1% of Sun-like stars. Hot Jupiters are expected to be engulfed during their host star&amp;rsquo;s radial expansion on the red giant branch. Planetary engulfment has been studied extensively as it may account for observed rapidly rotating and chemically enriched giant stars.</description>
     </item>
     
   </channel>

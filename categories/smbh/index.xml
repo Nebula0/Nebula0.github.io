@@ -5,35 +5,16 @@
     <link>https://nebula0.github.io/categories/smbh/</link>
     <description>Recent content in SMBH on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://nebula0.github.io/categories/smbh/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/smbh/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Eccentricity to the rescue! Detecting Accelerating Eccentric Binaries in the LISA Band</title>
-      <link>https://nebula0.github.io/article/eccentricity_to_the_rescue_detecting_accelerating_eccentric_binaries_in_the_lisa_band/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>The Circumgalactic Medium of Milky Way-like Galaxies in the TNG50 Simulation -- I: Halo Gas Properties and the Role of SMBH Feedback</title>
+      <link>https://nebula0.github.io/new_article2/smbh/the_circumgalactic_medium_of_milky_way-like_galaxies_in_the_tng50_simulation_--_i_halo_gas_properties_and_the_role_of_smbh_feedback/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/eccentricity_to_the_rescue_detecting_accelerating_eccentric_binaries_in_the_lisa_band/</guid>
-      <description>First author: Zeyuan Xuan
-Many gravitational wave (GW) sources in the LISA band are expected to have non-negligible eccentricity. Furthermore, many of them can undergo acceleration because they reside in the presence of a tertiary. Here we develop analytical and numerical methods to quantify how the compact binary&amp;rsquo;s eccentricity enhances the detection of its peculiar acceleration. We show that the general relativistic precession pattern can disentangle the binary&amp;rsquo;s acceleration-induced frequency shift from the chirp-mass-induced frequency shift in GW template fitting, thus relaxing the signal-to-noise ratio requirement for distinguishing the acceleration by a factor of $10\sim100$.</description>
-    </item>
-    
-    <item>
-      <title>Stars Crushed by Black Holes. III. Mild Compression of Radiative Stars by Supermassive Black Holes</title>
-      <link>https://nebula0.github.io/article/stars_crushed_by_black_holes._iii._mild_compression_of_radiative_stars_by_supermassive_black_holes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/stars_crushed_by_black_holes._iii._mild_compression_of_radiative_stars_by_supermassive_black_holes/</guid>
-      <description>First author: Suman Kumar Kundu
-A tidal disruption event (TDE) occurs when the gravitational field of a supermassive black hole (SMBH) destroys a star. For TDEs in which the star enters deep within the tidal radius, such that the ratio of the tidal radius to the pericenter distance $\beta$ satisfies $\beta \gg 1$, the star is tidally compressed and heated. It was predicted that the maximum density and temperature attained during deep TDEs scale as $\propto \beta^3$ and $\propto \beta^2$, respectively, and nuclear detonation triggered by $\beta \gtrsim 5$, but these predictions have been debated over the last four decades.</description>
-    </item>
-    
-    <item>
-      <title>The Past and Future of Mid-Infrared Studies of AGN</title>
-      <link>https://nebula0.github.io/article/the_past_and_future_of_mid-infrared_studies_of_agn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/the_past_and_future_of_mid-infrared_studies_of_agn/</guid>
-      <description>First author: Anna Sajina
-Observational studies of AGN in the mid-infrared regime are crucial to our understanding of AGN and their role in the evolution of galaxies. Mid-IR-based selection of AGN is complementary to more traditional techniques allowing for a more complete census of AGN activity across cosmic time. Mid-IR observations including time variability and spatially resolved imaging have given us unique insights into the nature of the obscuring structures around AGN.</description>
+      <guid>https://nebula0.github.io/new_article2/smbh/the_circumgalactic_medium_of_milky_way-like_galaxies_in_the_tng50_simulation_--_i_halo_gas_properties_and_the_role_of_smbh_feedback/</guid>
+      <description>First author: Rahul Ramesh
+We analyze the physical properties of gas in the circumgalactic medium (CGM) of 132 Milky Way (MW)-like galaxies at $z=0$ from the cosmological magneto-hydrodynamical simulation TNG50, part of the IllustrisTNG project. The properties and abundance of CGM gas across the sample are diverse, and the fractional budgets of different phases (cold, warm, and hot), as well as neutral HI mass and metal mass, vary considerably. Over our stellar mass range of $10.</description>
     </item>
     
   </channel>

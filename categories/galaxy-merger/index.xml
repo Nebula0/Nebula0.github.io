@@ -6,95 +6,85 @@
     <description>Recent content in galaxy merger on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/galaxy-merger/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/galaxy-merger/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Search for Quasi-Periodical Oscillations in Precursors of Short and Long Gamma Ray Bursts</title>
-      <link>https://nebula0.github.io/article/search_for_quasi-periodical_oscillations_in_precursors_of_short_and_long_gamma_ray_bursts/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <title>Constrain the Merger History of Primordial-Black-Hole Binaries from GWTC-3</title>
+      <link>https://nebula0.github.io/new_article/galaxy-merger/constrain_the_merger_history_of_primordial-black-hole_binaries_from_gwtc-3/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/search_for_quasi-periodical_oscillations_in_precursors_of_short_and_long_gamma_ray_bursts/</guid>
-      <description>First author: Shuo Xiao
-The precursors of short and long Gamma Ray Bursts (SGRBs and LGRBs) can serve as probes of their progenitors, as well as shedding light on the physical processes of mergers or core-collapse supernovae. Some models predict the possible existence of Quasi-Periodically Oscillations (QPO) in the precursors of SGRBs. Although many previous studies have performed QPO search in the main emission of SGRBs and LGRBs, so far there was no systematic QPO search in their precursors.</description>
+      <guid>https://nebula0.github.io/new_article/galaxy-merger/constrain_the_merger_history_of_primordial-black-hole_binaries_from_gwtc-3/</guid>
+      <description>First author: Lang Liu
+Primordial black holes (PBHs) can be not only cold dark matter candidates but also progenitors of binary black holes observed by LIGO-Virgo-KAGRA (LVK) Collaboration. The PBH mass can be shifted to the heavy distribution if multi-merger processes occur. In this work, we constrain the merger history of PBH binaries using the gravitational wave events from the third Gravitational-Wave Transient Catalog (GWTC-3). Considering four commonly used PBH mass functions, namely the log-normal, power-law, broken power-law, and critical collapse forms, we find that the multi-merger processes make a subdominant contribution to the total merger rate.</description>
     </item>
     
     <item>
-      <title>Optical measurement of superluminal motion in the neutron-star merger GW170817</title>
-      <link>https://nebula0.github.io/article/optical_measurement_of_superluminal_motion_in_the_neutron-star_merger_gw170817/</link>
-      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <title>From starburst to quenching: merger-driven evolution of the star formation regimes in a shell galaxy</title>
+      <link>https://nebula0.github.io/new_article/galaxy-merger/from_starburst_to_quenching_merger-driven_evolution_of_the_star_formation_regimes_in_a_shell_galaxy/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/optical_measurement_of_superluminal_motion_in_the_neutron-star_merger_gw170817/</guid>
-      <description>First author: Kunal P. Mooley
-The afterglow of the binary neutron star merger GW170817 gave evidence for a structured relativistic jet and a link between such mergers and short gamma-ray bursts. Superluminal motion, found using radio very long baseline interferometry (VLBI), together with the afterglow light curve provided constraints on the viewing angle (14-28 degrees), the opening angle of the jet core (less than about 5 degrees), and a modest limit on the initial Lorentz factor of the jet core (more than 4).</description>
+      <guid>https://nebula0.github.io/new_article/galaxy-merger/from_starburst_to_quenching_merger-driven_evolution_of_the_star_formation_regimes_in_a_shell_galaxy/</guid>
+      <description>First author: Jonathan Petersson
+Shell galaxies make a class of tidally distorted galaxies, characterised by wide concentric arc(s), extending out to large galactocentric distances with sharp outer edges. Recent observations of young massive star clusters in the prominent outer shell of NGC 474 suggest that such systems host extreme conditions of star formation. In this paper, we present a hydrodynamic simulation of a galaxy merger and its transformation into a shell galaxy.</description>
     </item>
     
     <item>
-      <title>Recoil Velocity of Binary Neutron Star Merger Remnants</title>
-      <link>https://nebula0.github.io/article/recoil_velocity_of_binary_neutron_star_merger_remnants/</link>
-      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <title>High-Resolution Chemical Abundances of the Nyx Stream</title>
+      <link>https://nebula0.github.io/new_article/galaxy-merger/high-resolution_chemical_abundances_of_the_nyx_stream/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/recoil_velocity_of_binary_neutron_star_merger_remnants/</guid>
-      <description>First author: Sumeet Kulkarni
-The LIGO-Virgo gravitational wave detectors have confidently observed 4 events involving neutron stars: two binary neutron star (BNS) mergers (GW170817 and GW190425), and two neutron star-black hole mergers (GW200105 and GW200115). However, our theoretical understanding of the remnant properties of such systems is incomplete due to the complexities related to the modeling of matter effects and the very high computational cost of corresponding numerical relativity simulations.</description>
+      <guid>https://nebula0.github.io/new_article/galaxy-merger/high-resolution_chemical_abundances_of_the_nyx_stream/</guid>
+      <description>First author: S. Wang
+Nyx is a nearby, prograde, and high-eccentricity stellar stream physically contained in the thick disk but with an unknown origin. Nyx could be the remnant of a disrupted dwarf galaxy, in which case the associated dark matter substructure could affect terrestrial dark matter direct detection experiments. Alternatively, Nyx could be a signature of the Milky Way&amp;rsquo;s disk formation and evolution. To determine the origin of Nyx, we obtained high-resolution spectroscopy of 34 Nyx stars using Keck/HIRES and Magellan/MIKE.</description>
     </item>
     
     <item>
-      <title>The Jet Opening Angle and Event Rate Distributions of Short Gamma-ray Bursts from Late-time X-ray Afterglows</title>
-      <link>https://nebula0.github.io/article/the_jet_opening_angle_and_event_rate_distributions_of_short_gamma-ray_bursts_from_late-time_x-ray_afterglows/</link>
-      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      <title>Missed opportunities: GRB 211211A and the case for continual gravitational-wave coverage with a single observatory</title>
+      <link>https://nebula0.github.io/new_article/galaxy-merger/missed_opportunities_grb_211211a_and_the_case_for_continual_gravitational-wave_coverage_with_a_single_observatory/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/the_jet_opening_angle_and_event_rate_distributions_of_short_gamma-ray_bursts_from_late-time_x-ray_afterglows/</guid>
-      <description>First author: Alicia Rouco Escorial
-We present a comprehensive study of 29 short gamma-ray bursts (SGRBs) observed $\approx 0.8-60$ days post-burst using $Chandra$ and $XMM-Newton$. We provide the inferred distributions of SGRB jet opening angles and true event rates to compare against neutron star merger rates. We perform uniform analysis and modeling of their afterglows, obtaining 10 opening angle measurements and 19 lower limits. We report on two new opening angle measurements (SGRBs 050724A and 200411A) and eight updated values, obtaining a median value of $\langle \theta_{\rm j} \rangle \approx 6.</description>
+      <guid>https://nebula0.github.io/new_article/galaxy-merger/missed_opportunities_grb_211211a_and_the_case_for_continual_gravitational-wave_coverage_with_a_single_observatory/</guid>
+      <description>First author: Nikhil Sarin
+Gamma-ray burst GRB 211211A may have been the result of a neutron star merger at $\approx350$ Mpc. However, none of the LIGO-Virgo detectors were operating at the time. We show that the gravitational-wave signal from a \grb-like binary neutron star inspiral in the next LIGO-Virgo-KAGRA observing run (O4) would be below the conventional detection threshold, however a coincident gamma-ray burst observation would provide necessary information to claim a statistically-significant multimessenger observation.</description>
     </item>
     
     <item>
-      <title>A Systematic View of Ten New Black Hole Spins</title>
-      <link>https://nebula0.github.io/article/a_systematic_view_of_ten_new_black_hole_spins/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>JWST reveals a possible $z \sim 11$ galaxy merger in triply-lensed MACS0647$-$JD</title>
+      <link>https://nebula0.github.io/new_article/galaxy-merger/jwst_reveals_a_possible__z__sim_11__galaxy_merger_in_triply-lensed_macs0647_-_jd/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/a_systematic_view_of_ten_new_black_hole_spins/</guid>
-      <description>First author: Paul A. Draghis
-The launch of NuSTAR and the increasing number of binary black hole (BBH) mergers detected through gravitational wave (GW) observations have exponentially advanced our understanding of black holes. Despite the simplicity owed to being fully described by their mass and angular momentum, black holes have remained mysterious laboratories that probe the most extreme environments in the Universe. While significant progress has been made in the recent decade, the distribution of spin in black holes has not yet been understood.</description>
+      <guid>https://nebula0.github.io/new_article/galaxy-merger/jwst_reveals_a_possible__z__sim_11__galaxy_merger_in_triply-lensed_macs0647_-_jd/</guid>
+      <description>First author: Tiger Yu-Yang Hsiao
+MACS0647$-$JD is a triply-lensed $z\sim11$ galaxy originally discovered with the Hubble Space Telescope. Here we report new JWST imaging, which clearly resolves MACS0647$-$JD as having two components that are either merging galaxies or stellar complexes within a single galaxy. Both are very small, with stellar masses $\sim10^8,M_\odot$ and radii $r&amp;lt;100,\rm pc$. The brighter larger component &amp;ldquo;A&amp;rdquo; is intrinsically very blue ($\beta\sim-2.6$), likely due to very recent star formation and no dust, and is spatially extended with an effective radius $\sim70,\rm pc$.</description>
     </item>
     
     <item>
-      <title>Cocoon breakout and escape from the ejecta of neutron star mergers</title>
-      <link>https://nebula0.github.io/article/cocoon_breakout_and_escape_from_the_ejecta_of_neutron_star_mergers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Monster radiative shocks in the perturbed magnetospheres of neutron stars</title>
+      <link>https://nebula0.github.io/new_article/galaxy-merger/monster_radiative_shocks_in_the_perturbed_magnetospheres_of_neutron_stars/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/cocoon_breakout_and_escape_from_the_ejecta_of_neutron_star_mergers/</guid>
-      <description>First author: Hamid Hamidani
-The cocoon is an inevitable product of a jet propagating through ambient matter, and takes a fair fraction of the jet energy. In short gamma-ray bursts, the ambient matter is the ejecta from the merger of neutron stars, expanding with a high velocity $\sim 0.2 c$, in contrast to the static stellar envelope in collapsars. Using 2D relativistic hydrodynamic simulations with the ejecta density profile as $\rho \propto r^{-2}$, we find that the expansion makes a big difference; only 0.</description>
+      <guid>https://nebula0.github.io/new_article/galaxy-merger/monster_radiative_shocks_in_the_perturbed_magnetospheres_of_neutron_stars/</guid>
+      <description>First author: Andrei M. Beloborodov
+Magnetospheres of neutron stars can be perturbed by star quakes or interaction in a binary system. The perturbations are typically in the kHz band and excite magnetohydrodynamic (MHD) waves. We show that compressive magnetospheric waves steepen into monster shocks mediated by radiation reaction, different from normal collisionless shocks. The shocks admit a simple analytical description. They expand through the magnetosphere with radiative losses, and then a blast wave is launched into the neutron-star wind.</description>
     </item>
     
     <item>
-      <title>Cocoon emission in neutron star mergers</title>
-      <link>https://nebula0.github.io/article/cocoon_emission_in_neutron_star_mergers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>On the Merger Rate of Primordial Black Holes in Cosmic Voids</title>
+      <link>https://nebula0.github.io/new_article/galaxy-merger/on_the_merger_rate_of_primordial_black_holes_in_cosmic_voids/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/cocoon_emission_in_neutron_star_mergers/</guid>
-      <description>First author: Hamid Hamidani
-In the gravitational wave event GW170817, there was a $\sim 10$ hours gap before electromagnetic (EM) observations, without detection of the cocoon. The cocoon is heated by a \textit{short} gamma-ray burst (\textit{s}GRB) jet propagating through the ejecta of a Neutron Star (NS) merger, and a part of the cocoon escapes the ejecta with an opening angle of $20^{\circ}$&amp;ndash;$30^{\circ}$. Here we model the cocoon and calculate its EM emission.</description>
+      <guid>https://nebula0.github.io/new_article/galaxy-merger/on_the_merger_rate_of_primordial_black_holes_in_cosmic_voids/</guid>
+      <description>First author: Saeed Fakhry
+Cosmic voids are known as underdense substructures of the cosmic web that cover a large volume of the Universe. It is known that cosmic voids contain a small number of dark matter halos, so the existence of primordial black holes (PBHs) in these secluded regions of the Universe is not unlikely. In this work, we calculate the merger rate of PBHs in dark matter halos structured in cosmic voids and determine their contribution to gravitational wave events resulting from black hole mergers recorded by the Advanced Laser Interferometer Gravitational-Wave Observatory (aLIGO)-Advanced Virgo (aVirgo) detectors.</description>
     </item>
     
     <item>
-      <title>Measuring properties of primordial black hole mergers at cosmological distances: effect of higher order modes in gravitational waves</title>
-      <link>https://nebula0.github.io/article/measuring_properties_of_primordial_black_hole_mergers_at_cosmological_distances_effect_of_higher_order_modes_in_gravitational_waves/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Fermi Gamma-ray Space Telescope</title>
+      <link>https://nebula0.github.io/new_article/galaxy-merger/fermi_gamma-ray_space_telescope/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/article/measuring_properties_of_primordial_black_hole_mergers_at_cosmological_distances_effect_of_higher_order_modes_in_gravitational_waves/</guid>
-      <description>First author: Ken K. Y. Ng
-Primordial black holes (PBHs) may form from the collapse of matter overdensities shortly after the Big Bang. One may identify their existence by observing gravitational wave (GW) emissions from merging PBH binaries at high redshifts $z\gtrsim 30$, where astrophysical binary black holes (BBHs) are unlikely to merge. The next-generation ground-based GW detectors, Cosmic Explorer and Einstein Telescope, will be able to observe BBHs with total masses of $\mathcal{O}(10-100)~M_{\odot}$ at such redshifts.</description>
-    </item>
-    
-    <item>
-      <title>On the Neutron Star/Black Hole Mass Gap and Black Hole Searches</title>
-      <link>https://nebula0.github.io/article/on_the_neutron_star_black_hole_mass_gap_and_black_hole_searches/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/on_the_neutron_star_black_hole_mass_gap_and_black_hole_searches/</guid>
-      <description>First author: Yong Shao
-Mass distribution of black holes in low-mass X-ray binaries previously suggested the existence of a $ \sim 2-5M_{\odot} $ mass gap between the most massive neutron stars and the least massive black holes, while some recent evidence appears to support that this mass gap is being populated. Whether there is a mass gap or not can potentially shed light on the physics of supernova explosions that form neutron stars and black holes, although significant mass accretion of neutron stars including binary mergers may lead to the formation of mass-gap objects.</description>
+      <guid>https://nebula0.github.io/new_article/galaxy-merger/fermi_gamma-ray_space_telescope/</guid>
+      <description>First author: David J. Thompson
+The Fermi Gamma-ray Space Telescope, a key mission in multiwavelength and multimessenger studies, has been surveying the gamma-ray sky from its low-Earth orbit since 2008. Its two scientific instruments, the Gamma-ray Burst Monitor (GBM) and the Large Area Telescope (LAT), cover 8 orders of magnitude in photon energy. The GBM consists of 12 Sodium Iodide detectors and 2 Bismuth Germinate detectors, covering the 10 keV - 40 MeV energy range, arrayed on two sides of the spacecraft so as to view the entire sky that is not occulted by the Earth.</description>
     </item>
     
   </channel>

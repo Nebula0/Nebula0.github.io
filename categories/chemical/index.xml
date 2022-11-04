@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chemical on Explosion Group Paper collection</title>
+    <link>https://nebula0.github.io/categories/chemical/</link>
+    <description>Recent content in chemical on Explosion Group Paper collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/chemical/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Laboratory and astronomical discovery of magnesium dicarbide, MgC$_2$</title>
+      <link>https://nebula0.github.io/new_article2/globular-cluster/laboratory_and_astronomical_discovery_of_magnesium_dicarbide_mgc__2_/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article2/globular-cluster/laboratory_and_astronomical_discovery_of_magnesium_dicarbide_mgc__2_/</guid>
+      <description>First author: P. B. Changala
+We report the detection of magnesium dicarbide, MgC$_2$, in the laboratory at centimeter wavelengths and assign $^{24}$MgC$_2$, $^{25}$MgC$_2$, and $^{26}$MgC$_2$ to 14 unidentified lines in the radio spectrum of the circumstellar envelope of the evolved carbon star IRC+10216. The structure of MgC$_2$ is found to be T-shaped with a highly ionic bond between the metal atom and the C$_2$ unit, analogous to other dicarbides containing electropositive elements.</description>
+    </item>
+    
+    <item>
+      <title>Sub-stellar engulfment by a main sequence star: where is the lithium?</title>
+      <link>https://nebula0.github.io/new_article2/radiative-transfer/sub-stellar_engulfment_by_a_main_sequence_star_where_is_the_lithium/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article2/radiative-transfer/sub-stellar_engulfment_by_a_main_sequence_star_where_is_the_lithium/</guid>
+      <description>First author: Rubén M. Cabezón
+In this work, we study whether the engulfment of a brown dwarf (BD) by a solar-like main-sequence (MS) star can significantly alter the structure of the star and the Li content on its surface. We perform 3D Smoothed Particle Hydrodynamics simulations of the engulfment of a BD with masses 0.01 and 0.019 Msun, onto an MS star of 1 Msun and solar composition, in three different scenarios: a head-on collision, a grazing collision, and a merger.</description>
+    </item>
+    
+    <item>
+      <title>A Chemical Modelling Roadmap Linking Protoplanetary Disks and Exoplanet Atmospheres</title>
+      <link>https://nebula0.github.io/new_article2/chemical/a_chemical_modelling_roadmap_linking_protoplanetary_disks_and_exoplanet_atmospheres/</link>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article2/chemical/a_chemical_modelling_roadmap_linking_protoplanetary_disks_and_exoplanet_atmospheres/</guid>
+      <description>First author: Christian Eistrup
+[Abridged] This review paper discussed which chemical effects may be at play in a planet-forming disk midplane, which effects are relevant under different conditions, and which tools are available for modelling chemical kinetics in a disk midplane. The review goes on to discuss some important efforts in the planet formation modelling community to treat chemical evolution, and, vice versa, efforts in the chemical modelling community to implement more physical effects related to planet formation into the chemical modelling.</description>
+    </item>
+    
+    <item>
+      <title>Discovery of a Dusty, Chemically Mature Companion to a z$\sim$4 Starburst Galaxy in JWST ERS Data</title>
+      <link>https://nebula0.github.io/new_article2/chemical/discovery_of_a_dusty_chemically_mature_companion_to_a_z__sim_4_starburst_galaxy_in_jwst_ers_data/</link>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article2/chemical/discovery_of_a_dusty_chemically_mature_companion_to_a_z__sim_4_starburst_galaxy_in_jwst_ers_data/</guid>
+      <description>First author: Bo Peng
+We report the discovery of two companion sources to a strongly lensed galaxy SPT0418-47 (&amp;ldquo;ring&amp;rdquo;) at redshift 4.225, targeted by the JWST Early Release Science program. We confirm that these sources are at a similar redshift as the ring based on H$\alpha$ detected in the NIRSpec spectrum, and [C II] 158 $\mu$m line from ALMA. Using multiple spectral lines detected in JWST/NIRSpec, the rest-frame optical to infrared images from NIRCam and MIRI, and far-infrared (FIR) dust continuum detected by ALMA, we argue that the newly discovered sources are actually lensed images of the same companion galaxy, hereafter referred to as SPT0418-SE (&amp;ldquo;SE&amp;rdquo;), located within 5 kpc in the source plane of the ring.</description>
+    </item>
+    
+  </channel>
+</rss>
