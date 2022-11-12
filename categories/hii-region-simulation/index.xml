@@ -9,20 +9,20 @@
     <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/hii-region-simulation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Data-constrained Magnetohydrodynamic Simulation of the X1.0 Solar Flare of 2021 October 28</title>
-      <link>https://nebula0.github.io/new_article/hii-region-simulation/a_data-constrained_magnetohydrodynamic_simulation_of_the_x1.0_solar_flare_of_2021_october_28/</link>
+      <link>https://nebula0.github.io/article/a_data-constrained_magnetohydrodynamic_simulation_of_the_x1.0_solar_flare_of_2021_october_28/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/hii-region-simulation/a_data-constrained_magnetohydrodynamic_simulation_of_the_x1.0_solar_flare_of_2021_october_28/</guid>
+      <guid>https://nebula0.github.io/article/a_data-constrained_magnetohydrodynamic_simulation_of_the_x1.0_solar_flare_of_2021_october_28/</guid>
       <description>First author: Daiki Yamasaki
 The solar active region NOAA 12887 produced a strong X1.0 flare on 2021 October 28, which exhibits X-shaped flare ribbons and a circle-shaped erupting filament. To understand the eruption process with these characteristics, we conducted a data-constrained magnetohydrodynamics simulation using a nonlinear force-free field of the active region about an hour before the flare as the initial condition. Our simulation reproduces the filament eruption observed in the Ha images of GONG and the 304 angstrom images of SDO/AIA and suggests that two mechanisms can possibly contribute to the magnetic eruption.</description>
     </item>
     
     <item>
       <title>A novel approach to correcting $T_e$-based mass-metallicity relations</title>
-      <link>https://nebula0.github.io/new_article/hii-region-simulation/a_novel_approach_to_correcting__t_e_-based_mass-metallicity_relations/</link>
+      <link>https://nebula0.github.io/article/a_novel_approach_to_correcting__t_e_-based_mass-metallicity_relations/</link>
       <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/hii-region-simulation/a_novel_approach_to_correcting__t_e_-based_mass-metallicity_relations/</guid>
+      <guid>https://nebula0.github.io/article/a_novel_approach_to_correcting__t_e_-based_mass-metallicity_relations/</guid>
       <description>First author: Alex J. Cameron
 Deriving oxygen abundances from the electron temperature (hereafter the $T_e$-method) is the gold-standard for extragalactic metallicity studies. However, unresolved temperature fluctuations in HII regions can bias metallicity estimates low, with a magnitude that depends on the underlying and typically unknown temperature distribution. Using a toy model, we confirm that computing $T_e$-based metallicities using the temperature derived from the [O III] $\lambda$4363/$\lambda$5007 ratio (&amp;lsquo;ratio temperature&amp;rsquo;; $T_{\rm ratio}$) results in an underprediction of metallicity when temperature fluctuations are present.</description>
     </item>

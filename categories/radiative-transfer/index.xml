@@ -9,132 +9,152 @@
     <lastBuildDate>Fri, 28 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/radiative-transfer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Artificial Intelligence Assisted Inversion (AIAI): Quantifying the Spectral Features of $^{56}$Ni of Type Ia Supernovae</title>
-      <link>https://nebula0.github.io/new_article/radiative-transfer/artificial_intelligence_assisted_inversion_aiai_quantifying_the_spectral_features_of__56_ni_of_type_ia_supernovae/</link>
+      <link>https://nebula0.github.io/article/artificial_intelligence_assisted_inversion_aiai_quantifying_the_spectral_features_of__56_ni_of_type_ia_supernovae/</link>
       <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/radiative-transfer/artificial_intelligence_assisted_inversion_aiai_quantifying_the_spectral_features_of__56_ni_of_type_ia_supernovae/</guid>
+      <guid>https://nebula0.github.io/article/artificial_intelligence_assisted_inversion_aiai_quantifying_the_spectral_features_of__56_ni_of_type_ia_supernovae/</guid>
       <description>First author: Xingzhuo Chen
 Following our previous study of Artificial Intelligence Assisted Inversion (AIAI) of supernova analyses \citep{Xingzhuo2020AIAI}, we trained a set of deep neural networks based on the one-dimensional radiative transfer code TARDIS \citep{tardis} to simulate the optical spectra of Type Ia supernovae (SNe~Ia) between 10 and 40 days after the explosion. The neural network can be applied to derive the elemental abundances from the observed spectra. In this paper, we focus on the mass of $^{56}$Ni and its associated spectral features for a sample of 153 well-observed SNe~Ia.</description>
     </item>
     
     <item>
       <title>Time-dependent Monte Carlo continuum radiative transfer</title>
-      <link>https://nebula0.github.io/new_article/radiative-transfer/time-dependent_monte_carlo_continuum_radiative_transfer/</link>
+      <link>https://nebula0.github.io/article/time-dependent_monte_carlo_continuum_radiative_transfer/</link>
       <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/radiative-transfer/time-dependent_monte_carlo_continuum_radiative_transfer/</guid>
+      <guid>https://nebula0.github.io/article/time-dependent_monte_carlo_continuum_radiative_transfer/</guid>
       <description>First author: A. Bensberg
 Aims. We present an implementation of an algorithm for 3D time-dependent Monte Carlo radiative transfer. It allows one to simulate temperature distributions as well as images and spectral energy distributions of the scattered light and thermal reemission radiation for variable illuminating and heating sources embedded in dust distributions, such as circumstellar disks and dust shells on time scales up to weeks. Methods. We extended the publicly available 3D Monte Carlo radiative transfer code POLARIS with efficient methods for the simulation of temperature distributions, scattering, and thermal reemission of dust distributions illuminated by temporally variable radiation sources.</description>
     </item>
     
     <item>
       <title>EmulART: Emulating Radiative Transfer - A pilot study on autoencoder based dimensionality reduction for radiative transfer models</title>
-      <link>https://nebula0.github.io/new_article/radiative-transfer/emulart_emulating_radiative_transfer_-_a_pilot_study_on_autoencoder_based_dimensionality_reduction_for_radiative_transfer_models/</link>
+      <link>https://nebula0.github.io/article/emulart_emulating_radiative_transfer_-_a_pilot_study_on_autoencoder_based_dimensionality_reduction_for_radiative_transfer_models/</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/radiative-transfer/emulart_emulating_radiative_transfer_-_a_pilot_study_on_autoencoder_based_dimensionality_reduction_for_radiative_transfer_models/</guid>
+      <guid>https://nebula0.github.io/article/emulart_emulating_radiative_transfer_-_a_pilot_study_on_autoencoder_based_dimensionality_reduction_for_radiative_transfer_models/</guid>
       <description>First author: João Rino-Silvestre
 Dust is a major component of the interstellar medium. Through scattering, absorption and thermal re-emission, it can profoundly alter astrophysical observations. Models for dust composition and distribution are necessary to better understand and curb their impact on observations. A new approach for serial and computationally inexpensive production of such models is here presented. Traditionally these models are studied with the help of radiative transfer modelling, a critical tool to understand the impact of dust attenuation and reddening on the observed properties of galaxies and active galactic nuclei.</description>
     </item>
     
     <item>
       <title>Small-scale chromospheric spectropolarimetric observables in the internetwork from a 3D radiative MHD model</title>
-      <link>https://nebula0.github.io/new_article/radiative-transfer/small-scale_chromospheric_spectropolarimetric_observables_in_the_internetwork_from_a_3d_radiative_mhd_model/</link>
+      <link>https://nebula0.github.io/article/small-scale_chromospheric_spectropolarimetric_observables_in_the_internetwork_from_a_3d_radiative_mhd_model/</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/radiative-transfer/small-scale_chromospheric_spectropolarimetric_observables_in_the_internetwork_from_a_3d_radiative_mhd_model/</guid>
+      <guid>https://nebula0.github.io/article/small-scale_chromospheric_spectropolarimetric_observables_in_the_internetwork_from_a_3d_radiative_mhd_model/</guid>
       <description>First author: Juan Martinez-Sykora
 The presence of the magnetic field is critical to transport energy through the solar atmosphere. The new generation of telescopes will provide new insight into how the magnetic field arrives into the chromosphere and its role in the energy balance of the solar atmosphere. We have used a 3D radiative MHD numerical model of the solar atmosphere with high spatial resolution (4~km) calculated with the Bifrost code.</description>
     </item>
     
     <item>
       <title>An analytic solution to measure the gas size in protoplanetary discs in the viscous self-similar scenario</title>
-      <link>https://nebula0.github.io/new_article/radiative-transfer/an_analytic_solution_to_measure_the_gas_size_in_protoplanetary_discs_in_the_viscous_self-similar_scenario/</link>
+      <link>https://nebula0.github.io/article/an_analytic_solution_to_measure_the_gas_size_in_protoplanetary_discs_in_the_viscous_self-similar_scenario/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/radiative-transfer/an_analytic_solution_to_measure_the_gas_size_in_protoplanetary_discs_in_the_viscous_self-similar_scenario/</guid>
+      <guid>https://nebula0.github.io/article/an_analytic_solution_to_measure_the_gas_size_in_protoplanetary_discs_in_the_viscous_self-similar_scenario/</guid>
       <description>First author: Claudia Toci
 In order to understand which mechanism is responsible for accretion in protoplanetary discs, a robust knowledge of the observed disc radius using gas tracers such as $^{12}$CO and other CO isotopologues is pivotal. Indeed, the two main theories proposed, viscous accretion and wind-driven accretion, predict different time evolution for the disc radii. In this Letter, we present an analytical solution for the evolution of the disc radii in viscously evolving protoplanetary discs using $^{12}$CO as a tracer, under the assumption that the $^{12}$CO radius is the radius where the surface density of the disc is equal to the threshold for CO photo-dissociation.</description>
     </item>
     
     <item>
       <title>Investigating Anomalous Photochemistry in the Inner Wind of IRC&#43;10216 Through ALMA Observations of HC$_3$N</title>
-      <link>https://nebula0.github.io/new_article/radiative-transfer/investigating_anomalous_photochemistry_in_the_inner_wind_of_irc&#43;10216_through_alma_observations_of_hc__3_n/</link>
+      <link>https://nebula0.github.io/article/investigating_anomalous_photochemistry_in_the_inner_wind_of_irc&#43;10216_through_alma_observations_of_hc__3_n/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/radiative-transfer/investigating_anomalous_photochemistry_in_the_inner_wind_of_irc&#43;10216_through_alma_observations_of_hc__3_n/</guid>
+      <guid>https://nebula0.github.io/article/investigating_anomalous_photochemistry_in_the_inner_wind_of_irc&#43;10216_through_alma_observations_of_hc__3_n/</guid>
       <description>First author: Mark A. Siebert
 In recent years, many questions have arisen regarding the chemistry of photochemical products in the carbon-rich winds of evolved stars. To address them, it is imperative to constrain the distributions of such species through high angular resolution interferometric observations covering multiple rotational transitions. We used archival ALMA observations to map rotational lines involving high energy levels of cyanoacetylene (HC$_3$N) toward the inner envelope (radius &amp;lt;8&amp;quot;/1000 AU) of the carbon star IRC+10216.</description>
     </item>
     
     <item>
       <title>The effect of winds on atmospheric layers of red supergiants I. Modelling for interferometric observations</title>
-      <link>https://nebula0.github.io/new_article/radiative-transfer/the_effect_of_winds_on_atmospheric_layers_of_red_supergiants_i._modelling_for_interferometric_observations/</link>
+      <link>https://nebula0.github.io/article/the_effect_of_winds_on_atmospheric_layers_of_red_supergiants_i._modelling_for_interferometric_observations/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/radiative-transfer/the_effect_of_winds_on_atmospheric_layers_of_red_supergiants_i._modelling_for_interferometric_observations/</guid>
+      <guid>https://nebula0.github.io/article/the_effect_of_winds_on_atmospheric_layers_of_red_supergiants_i._modelling_for_interferometric_observations/</guid>
       <description>First author: G. González-Torà
 Red supergiants (RSGs) are evolved massive stars in a stage preceding core-collapse supernova. The physical processes that trigger mass loss in their atmospheres are still not fully understood. Based on observations of $\alpha$ Ori, a new semi-empirical method to add a wind to hydrostatic model atmospheres of RSGs was recently developed. We use this method of adding a wind to a MARCS model atmosphere to compute synthetic observables, comparing the model to spatially resolved interferometric observations.</description>
     </item>
     
     <item>
       <title>Polarization Observations of AGN Jets: Past and Future</title>
-      <link>https://nebula0.github.io/new_article/radiative-transfer/polarization_observations_of_agn_jets_past_and_future/</link>
+      <link>https://nebula0.github.io/article/polarization_observations_of_agn_jets_past_and_future/</link>
       <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/radiative-transfer/polarization_observations_of_agn_jets_past_and_future/</guid>
+      <guid>https://nebula0.github.io/article/polarization_observations_of_agn_jets_past_and_future/</guid>
       <description>First author: Jongho Park
 The magnetic field is believed to play a critical role in the bulk acceleration and propagation of jets produced in active galactic nuclei (AGN). Polarization observations of AGN jets provide valuable information about their magnetic fields. As a result of radiative transfer, jet structure, and stratification, among other factors, it is not always straightforward to determine the magnetic field structures from observed polarization. We review these effects and their impact on polarization emission at a variety of wavelengths, including radio, optical, and ultraviolet wavelengths in this paper.</description>
     </item>
     
     <item>
       <title>Prospects and challenges of numerical modelling of the Sun at millimetre wavelengths</title>
-      <link>https://nebula0.github.io/new_article/radiative-transfer/prospects_and_challenges_of_numerical_modelling_of_the_sun_at_millimetre_wavelengths/</link>
+      <link>https://nebula0.github.io/article/prospects_and_challenges_of_numerical_modelling_of_the_sun_at_millimetre_wavelengths/</link>
       <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/radiative-transfer/prospects_and_challenges_of_numerical_modelling_of_the_sun_at_millimetre_wavelengths/</guid>
+      <guid>https://nebula0.github.io/article/prospects_and_challenges_of_numerical_modelling_of_the_sun_at_millimetre_wavelengths/</guid>
       <description>First author: Sven Wedemeyer
 The Atacama Large Millimeter/submillimeter Array (ALMA) offers new diagnostic possibilities that complement other commonly used diagnostics for the study of our Sun. In particular, ALMA&amp;rsquo;s ability to serve as an essentially linear thermometer of the chromospheric gas at unprecedented spatial resolution at millimetre wavelengths and future polarisation measurements have great diagnostic potential. Solar ALMA observations are therefore expected to contribute significantly to answering long-standing questions about the structure, dynamics and energy balance of the outer layers of the solar atmosphere.</description>
     </item>
     
     <item>
       <title>A large (~1 pc) contracting envelope around the prestellar core L1544</title>
-      <link>https://nebula0.github.io/new_article/radiative-transfer/a_large_~1_pc_contracting_envelope_around_the_prestellar_core_l1544/</link>
+      <link>https://nebula0.github.io/article/a_large_~1_pc_contracting_envelope_around_the_prestellar_core_l1544/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/radiative-transfer/a_large_~1_pc_contracting_envelope_around_the_prestellar_core_l1544/</guid>
+      <guid>https://nebula0.github.io/article/a_large_~1_pc_contracting_envelope_around_the_prestellar_core_l1544/</guid>
       <description>First author: E. Redaelli
 Prestellar cores, the birthplace of Sun-like stars, form from the fragmentation of the filamentary structure that composes molecular clouds, from which they must inherit at least partially the kinematics. Furthermore, when they are on the verge of gravitational collapse, they show signs of subsonic infall motions. How extended these motions are, which depends on how the collapse occurs, remains largely unknown. We want to investigate the kinematics of the envelope that surrounds the prototypical prestellar core L1544, studying the cloud-core connection.</description>
     </item>
     
     <item>
       <title>Phosphine in the Venusian Atmosphere: A Strict Upper Limit from SOFIA GREAT Observations</title>
-      <link>https://nebula0.github.io/new_article/radiative-transfer/phosphine_in_the_venusian_atmosphere_a_strict_upper_limit_from_sofia_great_observations/</link>
+      <link>https://nebula0.github.io/article/phosphine_in_the_venusian_atmosphere_a_strict_upper_limit_from_sofia_great_observations/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/radiative-transfer/phosphine_in_the_venusian_atmosphere_a_strict_upper_limit_from_sofia_great_observations/</guid>
+      <guid>https://nebula0.github.io/article/phosphine_in_the_venusian_atmosphere_a_strict_upper_limit_from_sofia_great_observations/</guid>
       <description>First author: M. A. Cordiner
 The presence of phosphine (PH$_3$) in the atmosphere of Venus was reported by Greaves et al. (2021a), based on observations of the J=1-0 transition at 267 GHz using ground-based, millimeter-wave spectroscopy. This unexpected discovery presents a challenge for our understanding of Venus&amp;rsquo;s atmosphere, and has led to a reappraisal of the possible sources and sinks of atmospheric phosphorous-bearing gases. Here we present results from a search for PH$_3$ on Venus using the GREAT instrument aboard the SOFIA aircraft, over three flights conducted in November 2021.</description>
     </item>
     
     <item>
       <title>The GRAVITY Young Stellar Object survey -- IX. Spatially resolved kinematics of hot hydrogen gas in the star/disk interaction region of T Tauri stars</title>
-      <link>https://nebula0.github.io/new_article/radiative-transfer/the_gravity_young_stellar_object_survey_--_ix._spatially_resolved_kinematics_of_hot_hydrogen_gas_in_the_star_disk_interaction_region_of_t_tauri_stars/</link>
+      <link>https://nebula0.github.io/article/the_gravity_young_stellar_object_survey_--_ix._spatially_resolved_kinematics_of_hot_hydrogen_gas_in_the_star_disk_interaction_region_of_t_tauri_stars/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/radiative-transfer/the_gravity_young_stellar_object_survey_--_ix._spatially_resolved_kinematics_of_hot_hydrogen_gas_in_the_star_disk_interaction_region_of_t_tauri_stars/</guid>
+      <guid>https://nebula0.github.io/article/the_gravity_young_stellar_object_survey_--_ix._spatially_resolved_kinematics_of_hot_hydrogen_gas_in_the_star_disk_interaction_region_of_t_tauri_stars/</guid>
       <description>First author: J. A. Wojtczak
 Aims: We aim to spatially and spectrally resolve the Br-gamma hydrogen emission line with the methods of interferometry in order to examine the kinematics of the hydrogen gas emission region in the inner accretion disk of a sample of solar-like young stellar objects. The goal is to identify trends and categories among the sources of our sample and to discuss whether or not they can be tied to different origin mechanisms associated with Br-gamma emission in T Tauri stars, chiefly and most prominently magnetospheric accretion.</description>
     </item>
     
     <item>
       <title>Spitzer/IRS full spectral modeling to characterize mineralogical properties of silicate dust in heavily obscured AGNs</title>
-      <link>https://nebula0.github.io/new_article/radiative-transfer/spitzer_irs_full_spectral_modeling_to_characterize_mineralogical_properties_of_silicate_dust_in_heavily_obscured_agns/</link>
+      <link>https://nebula0.github.io/article/spitzer_irs_full_spectral_modeling_to_characterize_mineralogical_properties_of_silicate_dust_in_heavily_obscured_agns/</link>
       <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/radiative-transfer/spitzer_irs_full_spectral_modeling_to_characterize_mineralogical_properties_of_silicate_dust_in_heavily_obscured_agns/</guid>
+      <guid>https://nebula0.github.io/article/spitzer_irs_full_spectral_modeling_to_characterize_mineralogical_properties_of_silicate_dust_in_heavily_obscured_agns/</guid>
       <description>First author: T. Tsuchikawa
 Mid-Infrared (IR) silicate dust bands observed in heavily obscured active galactic nuclei (AGNs) include information on the mineralogical properties of silicate dust. We aim to investigate the mineralogical picture of the circumnuclear region of heavily obscured AGNs to reveal obscured AGN activities through the picture. In our previous study Tsuchikawa et al. (2021), we investigated the properties of silicate dust in heavily obscured AGNs focusing on the mineralogical composition and the crystallinity with Spitzer/IRS 5.</description>
+    </item>
+    
+    <item>
+      <title>PANDORA project: photo-nuclear reactions below A=60</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2211.03986/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/arxiv.2211.03986/</guid>
+      <description>A. Tamii, L. Pellegri
+Photo-nuclear reactions of light nuclei below a mass of $A=60$ are studied experimentally and theoretically by the PANDORA (Photo-Absorption of Nuclei and Decay Observation for Reactions in Astrophysics) project. Two experimental methods, virtual-photon excitation by proton scattering and real-photo absorption by a high-brilliance gamma-ray beam produced by laser Compton scattering, will be applied to measure the photo-absorption cross sections and the decay branching ratio of each decay channel as a function of the photon energy.</description>
+    </item>
+    
+    <item>
+      <title>Using Physics Informed Neural Networks for Supernova Radiative Transfer Simulation</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2211.05219/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/arxiv.2211.05219/</guid>
+      <description>Xingzhuo Chen
+We use physics informed neural networks (PINNs) to solve the radiative transfer equation and calculate a synthetic spectrum for a Type Ia supernova (SN~Ia) SN 2011fe. The calculation is based on local thermodynamic equilibrium (LTE) and 9 elements are included. Physical processes included are approximate radiative equilibrium, bound-bound transitions, and the Doppler effect. A PINN based gamma-ray scattering approximation is used for radioactive decay energy deposition. The PINN synthetic spectrum is compared to an observed spectrum, a synthetic spectrum calculated by the Monte-Carlo radiative transfer program TARDIS, and the formal solution of the radiative transfer equation.</description>
     </item>
     
   </channel>

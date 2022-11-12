@@ -5,26 +5,25 @@
     <link>https://nebula0.github.io/categories/population-iii/</link>
     <description>Recent content in Population III on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 27 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/population-iii/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://nebula0.github.io/categories/population-iii/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Modelling shock-like injections of solar energetic particles with 3D test particle simulations</title>
-      <link>https://nebula0.github.io/new_article/modelling_shock-like_injections_of_solar_energetic_particles_with_3d_test_particle_simulations/</link>
-      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      <title>Impact of Population III homogeneous stellar evolution on early cosmic reionisation</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2205.15125/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/modelling_shock-like_injections_of_solar_energetic_particles_with_3d_test_particle_simulations/</guid>
-      <description>First author: Adam Hutchinson
-Solar Energetic Particle (SEP) acceleration and injection into interplanetary space during gradual SEP events is thought to take place at Coronal Mass Ejection (CME)-driven shocks. Features of measured intensity profiles at 1 au have been attributed to properties of the radial and longitudinal/latitudinal injections at the shock. Focussed transport models are typically used to model acceleration at a CME-shock and subsequent propagation. Test particle simulations are an alternative approach but so far they have been carried out only with instantaneous injection near the Sun.</description>
+      <guid>https://nebula0.github.io/new_article/arxiv.2205.15125/</guid>
+      <description>Yves Sibony
+Context: Population III (Pop III) stars may be fast rotating. An expected consequence of fast rotation is strong internal mixing that deeply affects their evolutionary tracks in the Hertzsprung-Russell diagram and hence their ionising power. aims: We investigate the impact on the ionising power of Pop III stars in an extreme case of internal mixing, the one leading to chemically homogeneous evolution (CHE). In that situation, during the main sequence phase, the star keeps the same chemical composition from its center to its surface.</description>
     </item>
     
     <item>
-      <title>The TESS Grand Unified Hot Jupiter Survey. II. Twenty New Giant Planets</title>
-      <link>https://nebula0.github.io/new_article/the_tess_grand_unified_hot_jupiter_survey._ii._twenty_new_giant_planets/</link>
-      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      <title>On the observability and identification of Population III galaxies with JWST</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2211.02038/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/the_tess_grand_unified_hot_jupiter_survey._ii._twenty_new_giant_planets/</guid>
-      <description>First author: Samuel W. Yee
-NASA&amp;rsquo;s Transiting Exoplanet Survey Satellite (TESS) mission promises to improve our understanding of hot Jupiters by providing an all-sky, magnitude-limited sample of transiting hot Jupiters suitable for population studies. Assembling such a sample requires confirming hundreds of planet candidates with additional follow-up observations. Here, we present twenty hot Jupiters that were detected using TESS data and confirmed to be planets through photometric, spectroscopic, and imaging observations coordinated by the TESS Follow-up Observing Program (TFOP).</description>
+      <guid>https://nebula0.github.io/new_article/arxiv.2211.02038/</guid>
+      <description>James A. A. Trussler
+We utilise theoretical models of Population III stellar+nebular spectra to investigate the prospects of observing and accurately identifying Population III galaxies with JWST using both deep imaging and spectroscopy. We investigate a series of different colour cuts, finding that a combination of NIRCam and MIRI photometry through the F444W-F560W, F560W-F770W colours offers the most robust identifier of potential $z=8$ Pop III candidates. We calculate that NIRCam will have to reach $\sim$ 28.</description>
     </item>
     
   </channel>

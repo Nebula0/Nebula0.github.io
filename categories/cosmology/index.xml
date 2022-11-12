@@ -9,110 +9,100 @@
     <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cosmic voids as cosmological laboratories</title>
-      <link>https://nebula0.github.io/new_article2/cosmology/cosmic_voids_as_cosmological_laboratories/</link>
+      <link>https://nebula0.github.io/article/cosmic_voids_as_cosmological_laboratories/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article2/cosmology/cosmic_voids_as_cosmological_laboratories/</guid>
+      <guid>https://nebula0.github.io/article/cosmic_voids_as_cosmological_laboratories/</guid>
       <description>First author: Carlos Mauricio Correa
 Cosmic voids are promising cosmological laboratories for studying the dark energy phenomenon and alternative gravity theories. They are receiving special attention nowadays in view of the new generation of galaxy spectroscopic surveys, which are covering an unprecedented volume and redshift range. There are two primary statistics in void studies: (i) the void size function, which characterises the abundance of voids, and (ii) the void-galaxy cross-correlation function, which contains information about the density and velocity fields in these regions.</description>
     </item>
     
     <item>
-      <title>Cosmological constraints from the power spectrum of eBOSS quasars</title>
-      <link>https://nebula0.github.io/new_article2/cosmology/cosmological_constraints_from_the_power_spectrum_of_eboss_quasars/</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article2/cosmology/cosmological_constraints_from_the_power_spectrum_of_eboss_quasars/</guid>
-      <description>First author: Anton Chudaykin
-We present the effective-field theory (EFT)-based cosmological full-shape analysis of the anisotropic power spectrum of eBOSS quasars at the effective redshift $z_{\rm eff}=1.48$. We perform extensive tests of our pipeline on simulations, paying a particular attention to the modeling of observational systematics, such as redshift smearing, fiber collisions, and the radial integral constraint. Assuming the minimal $\Lambda$CDM model, and fixing the primordial power spectrum tilt and the physical baryon density, we find the Hubble constant $H_0=(66.</description>
-    </item>
-    
-    <item>
       <title>The Impact of Beam Variations on Power Spectrum Estimation for 21-cm Cosmology I: Simulations of Foreground Contamination for HERA</title>
-      <link>https://nebula0.github.io/new_article/cosmology/the_impact_of_beam_variations_on_power_spectrum_estimation_for_21-cm_cosmology_i_simulations_of_foreground_contamination_for_hera/</link>
+      <link>https://nebula0.github.io/article/the_impact_of_beam_variations_on_power_spectrum_estimation_for_21-cm_cosmology_i_simulations_of_foreground_contamination_for_hera/</link>
       <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/cosmology/the_impact_of_beam_variations_on_power_spectrum_estimation_for_21-cm_cosmology_i_simulations_of_foreground_contamination_for_hera/</guid>
+      <guid>https://nebula0.github.io/article/the_impact_of_beam_variations_on_power_spectrum_estimation_for_21-cm_cosmology_i_simulations_of_foreground_contamination_for_hera/</guid>
       <description>First author: Honggeun Kim
 Detecting cosmological signals from the Epoch of Reionization (EoR) requires high-precision calibration to isolate the cosmological signals from foreground emission. In radio interferometery, perturbed primary beams of antenna elements can disrupt the precise calibration, which results in contaminating the foreground-free region, or the EoR window, in the cylindrically averaged power spectrum. For Hydrogen Epoch of Reionization Array (HERA), we simulate and characterize the perturbed primary beams induced by feed motions such as axial, lateral, and tilting motions, above the 14-meter dish.</description>
     </item>
     
     <item>
       <title>Characteristic Functions for Cosmological Cross-Correlations</title>
-      <link>https://nebula0.github.io/new_article/cosmology/characteristic_functions_for_cosmological_cross-correlations/</link>
+      <link>https://nebula0.github.io/article/characteristic_functions_for_cosmological_cross-correlations/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/cosmology/characteristic_functions_for_cosmological_cross-correlations/</guid>
+      <guid>https://nebula0.github.io/article/characteristic_functions_for_cosmological_cross-correlations/</guid>
       <description>First author: Patrick C. Breysse
 We introduce a novel unbiased, cross-correlation estimator for the one-point statistics of cosmological random fields. One-point statistics are a useful tool for analysis of highly non-Gaussian density fields, while cross-correlations provide a powerful method for combining information from pairs of fields and separating them from noise and systematics. We derive a new Deconvolved Distribution Estimator that combines the useful properties of these two methods into one statistic.</description>
     </item>
     
     <item>
       <title>Complementary Cosmological Simulations</title>
-      <link>https://nebula0.github.io/new_article/cosmology/complementary_cosmological_simulations/</link>
+      <link>https://nebula0.github.io/article/complementary_cosmological_simulations/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/cosmology/complementary_cosmological_simulations/</guid>
+      <guid>https://nebula0.github.io/article/complementary_cosmological_simulations/</guid>
       <description>First author: Gábor Rácz
 Cosmic variance limits the accuracy of cosmological N-body simulations, introducing bias in statistics such as the power spectrum, halo mass function, or the cosmic shear. We provide new methods to measure and reduce the effect of cosmic variance in existing and new simulations. We run pairs of simulations using phase shifted initial conditions with matching amplitudes. We set the initial amplitudes of the Fourier modes to ensure that the average power spectrum of the pair is equal to the cosmic mean power spectrum from linear theory.</description>
     </item>
     
     <item>
       <title>Cosmological inference from the EFTofLSS: the eBOSS QSO full-shape analysis</title>
-      <link>https://nebula0.github.io/new_article/cosmology/cosmological_inference_from_the_eftoflss_the_eboss_qso_full-shape_analysis/</link>
+      <link>https://nebula0.github.io/article/cosmological_inference_from_the_eftoflss_the_eboss_qso_full-shape_analysis/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/cosmology/cosmological_inference_from_the_eftoflss_the_eboss_qso_full-shape_analysis/</guid>
+      <guid>https://nebula0.github.io/article/cosmological_inference_from_the_eftoflss_the_eboss_qso_full-shape_analysis/</guid>
       <description>First author: Théo Simon
 We present cosmological results inferred from the effective-field theory (EFT) analysis of the full-shape of eBOSS quasars (QSO) power spectrum. We validate our analysis pipeline against simulations, and find overall good agreement between the analyses in Fourier and configuration space. Keeping the baryon abundance and the spectral tilt fixed, we reconstruct at $68%$ CL the fractional matter abundance $\Omega_m$, the reduced Hubble constant $h$, and the clustering amplitude $\sigma_8$, to respectively $\Omega_m=0.</description>
     </item>
     
     <item>
       <title>Converting dark matter to dark radiation does not solve cosmological tensions</title>
-      <link>https://nebula0.github.io/new_article/cosmology/converting_dark_matter_to_dark_radiation_does_not_solve_cosmological_tensions/</link>
+      <link>https://nebula0.github.io/article/converting_dark_matter_to_dark_radiation_does_not_solve_cosmological_tensions/</link>
       <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/cosmology/converting_dark_matter_to_dark_radiation_does_not_solve_cosmological_tensions/</guid>
+      <guid>https://nebula0.github.io/article/converting_dark_matter_to_dark_radiation_does_not_solve_cosmological_tensions/</guid>
       <description>First author: Fiona McCarthy
 Tensions between cosmological parameters (in particular the local expansion rate $H_0$ and the amplitude of matter clustering $S_8$) inferred from low-redshift data and data from the cosmic microwave background (CMB) and large-scale structure (LSS) experiments have inspired many extensions to the standard cosmological model, $\Lambda$CDM. Models which simultaneously lessen both tensions are of particular interest. We consider one scenario with the potential for such a resolution, in which some fraction of the dark matter has converted into dark radiation since the release of the CMB.</description>
     </item>
     
     <item>
       <title>The dispersion measure of Fast Radio Bursts host galaxies: estimation from cosmological simulations</title>
-      <link>https://nebula0.github.io/new_article/cosmology/the_dispersion_measure_of_fast_radio_bursts_host_galaxies_estimation_from_cosmological_simulations/</link>
+      <link>https://nebula0.github.io/article/the_dispersion_measure_of_fast_radio_bursts_host_galaxies_estimation_from_cosmological_simulations/</link>
       <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/cosmology/the_dispersion_measure_of_fast_radio_bursts_host_galaxies_estimation_from_cosmological_simulations/</guid>
+      <guid>https://nebula0.github.io/article/the_dispersion_measure_of_fast_radio_bursts_host_galaxies_estimation_from_cosmological_simulations/</guid>
       <description>First author: Jian-Feng Mo
 The dispersion measure(DM) of fast radio burst encodes important information such as its distance, properties of intervening medium. Based on simulations in the Illustris and IllustrisTNG projects, we analyze the DM of FRBs contributed by the interstellar medium and circumgalactic medium in the hosts, $\rm{DM_{host}}$. We explore two population models - tracing the star formation rate (SFR), and the stellar mass, i.e. young and old progenitors respectively.</description>
     </item>
     
     <item>
       <title>Holographic energy density, dark energy sound speed, and tensions in cosmological parameters: $H_0$ and $S_8$</title>
-      <link>https://nebula0.github.io/new_article/cosmology/holographic_energy_density_dark_energy_sound_speed_and_tensions_in_cosmological_parameters__h_0__and__s_8_/</link>
+      <link>https://nebula0.github.io/article/holographic_energy_density_dark_energy_sound_speed_and_tensions_in_cosmological_parameters__h_0__and__s_8_/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/cosmology/holographic_energy_density_dark_energy_sound_speed_and_tensions_in_cosmological_parameters__h_0__and__s_8_/</guid>
+      <guid>https://nebula0.github.io/article/holographic_energy_density_dark_energy_sound_speed_and_tensions_in_cosmological_parameters__h_0__and__s_8_/</guid>
       <description>First author: Wilmar Cardona
 Interesting discrepancies in cosmological parameters are challenging the success of the $\Lambda$CDM model. Direct measurements of the Hubble constant $H_0$ using Cepheid variables and supernovae turn out to be higher than inferred from the Cosmic Microwave Background (CMB). Weak galaxy lensing surveys consistently report values of the strength of matter clustering $\sigma_8$ lower than values derived from the CMB in the context of $\Lambda$CDM. In this paper we address these discrepancies in cosmological parameters by considering Dark Energy (DE) as a fluid with evolving equation of state $w_{\mathrm{de}}(z)$, constant sound speed squared $\hat{c}{\mathrm{s}}^{2}$, and vanishing anisotropic stress $\sigma$.</description>
     </item>
     
     <item>
       <title>Super-resolution simulation of the Fuzzy Dark Matter cosmological model</title>
-      <link>https://nebula0.github.io/new_article/cosmology/super-resolution_simulation_of_the_fuzzy_dark_matter_cosmological_model/</link>
+      <link>https://nebula0.github.io/article/super-resolution_simulation_of_the_fuzzy_dark_matter_cosmological_model/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/cosmology/super-resolution_simulation_of_the_fuzzy_dark_matter_cosmological_model/</guid>
+      <guid>https://nebula0.github.io/article/super-resolution_simulation_of_the_fuzzy_dark_matter_cosmological_model/</guid>
       <description>First author: Meris Sipp
 AI super-resolution, combining deep learning and N-body simulations has been shown to successfully reproduce the large scale structure and halo abundances in the Lambda Cold Dark Matter cosmological model. Here, we extend its use to models with a different dark matter content, in this case Fuzzy Dark Matter (FDM), in the approximation that the difference is encoded in the initial power spectrum. We focus on redshift z = 2, with simulations that model smaller scales and lower masses, the latter by two orders of magnitude, than has been done in previous AI super-resolution work.</description>
     </item>
     
     <item>
       <title>Cosmological Information in Skew Spectra of Biased Tracers in Redshift Space</title>
-      <link>https://nebula0.github.io/new_article/cosmology/cosmological_information_in_skew_spectra_of_biased_tracers_in_redshift_space/</link>
+      <link>https://nebula0.github.io/article/cosmological_information_in_skew_spectra_of_biased_tracers_in_redshift_space/</link>
       <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/cosmology/cosmological_information_in_skew_spectra_of_biased_tracers_in_redshift_space/</guid>
+      <guid>https://nebula0.github.io/article/cosmological_information_in_skew_spectra_of_biased_tracers_in_redshift_space/</guid>
       <description>First author: Jiamin Hou
 Extracting the non-Gaussian information encoded in the higher-order clustering statistics of the large-scale structure is key to fully realizing the potential of upcoming galaxy surveys. We investigate the information content of the redshift-space {\it weighted skew spectra} of biased tracers as efficient estimators for 3-point clustering statistics. The skew spectra are constructed by correlating the observed galaxy field with an appropriately-weighted square of it. We perform numerical Fisher forecasts using two synthetic datasets; the halo catalogs from the Quijote N-body simulations and the galaxy catalogs from the Molino suite.</description>
     </item>

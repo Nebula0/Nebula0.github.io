@@ -6,113 +6,83 @@
     <description>Recent content in early universe on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/early-universe/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/early-universe/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Halo mass function in scale invariant models</title>
-      <link>https://nebula0.github.io/new_article2/early-universe/halo_mass_function_in_scale_invariant_models/</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <title>Probing early universe through redshifted 21-cm signal: Modelling and observational challenges</title>
+      <link>https://nebula0.github.io/new_article/probing_early_universe_through_redshifted_21-cm_signal_modelling_and_observational_challenges/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article2/early-universe/halo_mass_function_in_scale_invariant_models/</guid>
-      <description>First author: Swati Gavas
-Sheth-Tormen mass function has been widely used to quantify the abundance of dark matter halos. It is a significant improvement over the Press-Schechter mass function as it uses ellipsoidal collapse in place of spherical collapse. Both of these mass functions can be written in a form that is universal, i.e., independent of cosmology and power spectrum when scaled in suitable variables. However, cosmological simulations have shown that this universality is approximate.</description>
-    </item>
-    
-    <item>
-      <title>Iterative mean-field approach to the spherical collapse of dark matter halos</title>
-      <link>https://nebula0.github.io/new_article2/early-universe/iterative_mean-field_approach_to_the_spherical_collapse_of_dark_matter_halos/</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article2/early-universe/iterative_mean-field_approach_to_the_spherical_collapse_of_dark_matter_halos/</guid>
-      <description>First author: Xun Shi
-Gravitational collapse of dark matter overdensities leads to the formation of dark matter halos which embed galaxies and galaxy clusters. An intriguing feature of dark matter halos is that their density profiles closely follow a universal form irrespective of the initial condition or the corresponding growth history. This represents a class of dynamical systems with emergent universalities. We propose an iterative mean-field approach&#39;&#39; to compute the solutions of the gravitational collapse dynamics.</description>
+      <guid>https://nebula0.github.io/new_article/probing_early_universe_through_redshifted_21-cm_signal_modelling_and_observational_challenges/</guid>
+      <description>Abinash Kumar Shaw
+The redshifted 21-cm radiation from the atomic hydrogen (HI) provides an excellent direct probe to study the evolution of HI in IGM and thus reveal the nature of the first luminous objects, their evolution and role during Cosmic Dawn (CD) and Epoch of Reionization (EoR), and formation and evolution of the structures thereafter. Direct mapping of the HI density during the CD-EoR is rather difficult with the current and future instruments due to large foreground and other observational contamination.</description>
     </item>
     
     <item>
       <title>Magnetic reconnection in the wakes of cosmic strings</title>
-      <link>https://nebula0.github.io/new_article2/early-universe/magnetic_reconnection_in_the_wakes_of_cosmic_strings/</link>
+      <link>https://nebula0.github.io/article/magnetic_reconnection_in_the_wakes_of_cosmic_strings/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article2/early-universe/magnetic_reconnection_in_the_wakes_of_cosmic_strings/</guid>
+      <guid>https://nebula0.github.io/article/magnetic_reconnection_in_the_wakes_of_cosmic_strings/</guid>
       <description>First author: Dilip Kumar
 The motion of cosmic strings in the universe leads to the generation of wakes behind them. We study magnetized wakes of cosmic strings moving in the post recombination plasma. We show that magnetic reconnection can occur in the post shock region. Since the width of the cosmic string wake is very small, the reconnection occurs over a very short lengthscale. The reconnection leads to a large amount of kinetic energy being released in the post shock region of the cosmic string wake.</description>
     </item>
     
     <item>
       <title>Radio observations of four active galactic nuclei hosting intermediate-mass black hole candidates: studying the outflow activity and evolution</title>
-      <link>https://nebula0.github.io/new_article2/early-universe/radio_observations_of_four_active_galactic_nuclei_hosting_intermediate-mass_black_hole_candidates_studying_the_outflow_activity_and_evolution/</link>
+      <link>https://nebula0.github.io/article/radio_observations_of_four_active_galactic_nuclei_hosting_intermediate-mass_black_hole_candidates_studying_the_outflow_activity_and_evolution/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article2/early-universe/radio_observations_of_four_active_galactic_nuclei_hosting_intermediate-mass_black_hole_candidates_studying_the_outflow_activity_and_evolution/</guid>
+      <guid>https://nebula0.github.io/article/radio_observations_of_four_active_galactic_nuclei_hosting_intermediate-mass_black_hole_candidates_studying_the_outflow_activity_and_evolution/</guid>
       <description>First author: Xiaolong Yang
 Observational searches for intermediate-mass black holes (IMBHs; $10^2 - 10^6$ $M_\odot$) include relatively isolated dwarf galaxies. For those that host active galactic nuclei (AGNs), the IMBH nature may be discerned through the accretion - jet activity. We present radio observations of four AGN-hosting dwarf galaxies (which potentially harbor IMBHs). Very large array (VLA) observations indicate steep spectra (indices of $-$0.63 to $-$1.05) between 1.4 and 9 GHz.</description>
     </item>
     
     <item>
       <title>The HI mass function of star-forming galaxies at $\mathbf{z \sim 0.35}$</title>
-      <link>https://nebula0.github.io/new_article2/early-universe/the_hi_mass_function_of_star-forming_galaxies_at___mathbfz__sim_0.35_/</link>
+      <link>https://nebula0.github.io/article/the_hi_mass_function_of_star-forming_galaxies_at___mathbfz__sim_0.35_/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article2/early-universe/the_hi_mass_function_of_star-forming_galaxies_at___mathbfz__sim_0.35_/</guid>
+      <guid>https://nebula0.github.io/article/the_hi_mass_function_of_star-forming_galaxies_at___mathbfz__sim_0.35_/</guid>
       <description>First author: Apurba Bera
 The neutral atomic hydrogen (HI) mass function (HIMF) describes the distribution of the HI content of galaxies at any epoch; its evolution provides an important probe of models of galaxy formation and evolution. Here, we report Giant Metrewave Radio Telescope HI 21cm spectroscopy of blue star-forming galaxies at $z\approx0.20-0.42$ in the Extended Groth Strip, which has allowed us to determine the scaling relation between the average HI mass ($\rm{M_{HI}}$) and the absolute B-band magnitude ($\rm{M_B}$) of such galaxies at $z \approx 0.</description>
     </item>
     
     <item>
       <title>The miniJPAS survey: stellar atmospheric parameters from 56 optical filters</title>
-      <link>https://nebula0.github.io/new_article2/early-universe/the_minijpas_survey_stellar_atmospheric_parameters_from_56_optical_filters/</link>
+      <link>https://nebula0.github.io/article/the_minijpas_survey_stellar_atmospheric_parameters_from_56_optical_filters/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article2/early-universe/the_minijpas_survey_stellar_atmospheric_parameters_from_56_optical_filters/</guid>
+      <guid>https://nebula0.github.io/article/the_minijpas_survey_stellar_atmospheric_parameters_from_56_optical_filters/</guid>
       <description>First author: H. -B. Yuan
 With a unique set of 54 overlapping narrow-band and two broader filters covering the entire optical range, the incoming Javalambre-Physics of the Accelerating Universe Astrophysical Survey (J-PAS) will provide a great opportunity for stellar physics and near-field cosmology. In this work, we use the miniJPAS data in 56 J-PAS filters and 4 complementary SDSS-like filters to explore and prove the potential of the J-PAS filter system in characterizing stars and deriving their atmospheric parameters.</description>
     </item>
     
     <item>
       <title>A new method of reconstructing Galactic three-dimensional structures using ultralong-wavelength radio observations</title>
-      <link>https://nebula0.github.io/new_article2/early-universe/a_new_method_of_reconstructing_galactic_three-dimensional_structures_using_ultralong-wavelength_radio_observations/</link>
+      <link>https://nebula0.github.io/article/a_new_method_of_reconstructing_galactic_three-dimensional_structures_using_ultralong-wavelength_radio_observations/</link>
       <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article2/early-universe/a_new_method_of_reconstructing_galactic_three-dimensional_structures_using_ultralong-wavelength_radio_observations/</guid>
+      <guid>https://nebula0.github.io/article/a_new_method_of_reconstructing_galactic_three-dimensional_structures_using_ultralong-wavelength_radio_observations/</guid>
       <description>First author: Yanping Cong
 The free-free absorption of low frequency radio waves by thermal electrons in the warm ionized medium of our Galaxy becomes very significant at $\lesssim 10$ MHz (ultralong-wavelength), and the absorption strength depends on the radio frequency. Upcoming space experiments such as the Discovering Sky at the Longest wavelength (DSL) and Farside Array for Radio Science Investigations of the Dark ages and Exoplanets (FARSIDE) will produce high-resolution multi-frequency sky maps at the ultralong-wavelength, providing a new window to observe the Universe.</description>
     </item>
     
     <item>
-      <title>Direct tests of General Relativity under screening effect with galaxy-scale strong lensing systems</title>
-      <link>https://nebula0.github.io/new_article2/early-universe/direct_tests_of_general_relativity_under_screening_effect_with_galaxy-scale_strong_lensing_systems/</link>
-      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article2/early-universe/direct_tests_of_general_relativity_under_screening_effect_with_galaxy-scale_strong_lensing_systems/</guid>
-      <description>First author: Yujie Lian
-Observations of galaxy-scale strong gravitational lensing (SGL) systems have enabled unique tests of nonlinear departures from general relativity (GR) on the galactic and supergalactic scales. One of the most important cases of such tests is constraints on the gravitational slip between two scalar gravitational potentials. In this paper, we use a newly compiled sample of strong gravitational lenses to test the validity of GR, focusing on the screening effects on the apparent positions of lensed sources relative to the GR predictions.</description>
-    </item>
-    
-    <item>
       <title>Discovery of a Dusty, Chemically Mature Companion to a z$\sim$4 Starburst Galaxy in JWST ERS Data</title>
-      <link>https://nebula0.github.io/new_article2/early-universe/discovery_of_a_dusty_chemically_mature_companion_to_a_z__sim_4_starburst_galaxy_in_jwst_ers_data/</link>
+      <link>https://nebula0.github.io/article/discovery_of_a_dusty_chemically_mature_companion_to_a_z__sim_4_starburst_galaxy_in_jwst_ers_data/</link>
       <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article2/early-universe/discovery_of_a_dusty_chemically_mature_companion_to_a_z__sim_4_starburst_galaxy_in_jwst_ers_data/</guid>
+      <guid>https://nebula0.github.io/article/discovery_of_a_dusty_chemically_mature_companion_to_a_z__sim_4_starburst_galaxy_in_jwst_ers_data/</guid>
       <description>First author: Bo Peng
 We report the discovery of two companion sources to a strongly lensed galaxy SPT0418-47 (&amp;ldquo;ring&amp;rdquo;) at redshift 4.225, targeted by the JWST Early Release Science program. We confirm that these sources are at a similar redshift as the ring based on H$\alpha$ detected in the NIRSpec spectrum, and [C II] 158 $\mu$m line from ALMA. Using multiple spectral lines detected in JWST/NIRSpec, the rest-frame optical to infrared images from NIRCam and MIRI, and far-infrared (FIR) dust continuum detected by ALMA, we argue that the newly discovered sources are actually lensed images of the same companion galaxy, hereafter referred to as SPT0418-SE (&amp;ldquo;SE&amp;rdquo;), located within 5 kpc in the source plane of the ring.</description>
     </item>
     
     <item>
-      <title>Near-Ultraviolet Continuum Modeling of the 1985 April 12 Great Flare of AD Leo</title>
-      <link>https://nebula0.github.io/new_article2/early-universe/near-ultraviolet_continuum_modeling_of_the_1985_april_12_great_flare_of_ad_leo/</link>
-      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article2/early-universe/near-ultraviolet_continuum_modeling_of_the_1985_april_12_great_flare_of_ad_leo/</guid>
-      <description>First author: Adam F. Kowalski
-White-light stellar flares are now reported by the thousands in long-baseline, high precision, broad-band photometry from missions like Kepler, K2, and TESS. These observations are crucial inputs for assessments of biosignatures in exoplanetary atmospheres and surface ultraviolet radiation dosages for habitable zone planets around low-mass stars. A limitation of these assessments, however, is the lack of near-ultraviolet spectral observations of stellar flares. To motivate further empirical investigation, we use a grid of radiative-hydrodynamic simulations with an updated treatment of the pressure broadening of hydrogen lines to predict the $\lambda \approx 1800-3300$ \AA</description>
-    </item>
-    
-    <item>
       <title>Description and performance results of the trigger logic of TUS and Mini-EUSO to search for Ultra-High Energy Cosmic Rays from space</title>
-      <link>https://nebula0.github.io/new_article2/early-universe/description_and_performance_results_of_the_trigger_logic_of_tus_and_mini-euso_to_search_for_ultra-high_energy_cosmic_rays_from_space/</link>
+      <link>https://nebula0.github.io/article/description_and_performance_results_of_the_trigger_logic_of_tus_and_mini-euso_to_search_for_ultra-high_energy_cosmic_rays_from_space/</link>
       <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article2/early-universe/description_and_performance_results_of_the_trigger_logic_of_tus_and_mini-euso_to_search_for_ultra-high_energy_cosmic_rays_from_space/</guid>
+      <guid>https://nebula0.github.io/article/description_and_performance_results_of_the_trigger_logic_of_tus_and_mini-euso_to_search_for_ultra-high_energy_cosmic_rays_from_space/</guid>
       <description>First author: M. Bertaina
 The trigger logic of the Tracking Ultraviolet Setup (TUS) and Multiwavelength Imaging New Instrument for the Extreme Universe Space Observatory (Mini-EUSO) space-based projects of the Joint Experiment Missions - EUSO (JEM-EUSO) program is summarized. The performance results on the search for ultra-high energy cosmic rays are presented.
 arxiv link
@@ -121,82 +91,102 @@ pdf link</description>
     
     <item>
       <title>Electron density variations in the interstellar medium and the average frequency profile of a scintle from pulsar scintillation spectra</title>
-      <link>https://nebula0.github.io/new_article2/early-universe/electron_density_variations_in_the_interstellar_medium_and_the_average_frequency_profile_of_a_scintle_from_pulsar_scintillation_spectra/</link>
+      <link>https://nebula0.github.io/article/electron_density_variations_in_the_interstellar_medium_and_the_average_frequency_profile_of_a_scintle_from_pulsar_scintillation_spectra/</link>
       <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article2/early-universe/electron_density_variations_in_the_interstellar_medium_and_the_average_frequency_profile_of_a_scintle_from_pulsar_scintillation_spectra/</guid>
+      <guid>https://nebula0.github.io/article/electron_density_variations_in_the_interstellar_medium_and_the_average_frequency_profile_of_a_scintle_from_pulsar_scintillation_spectra/</guid>
       <description>First author: N. Bartel
 We observed the scintillation pattern of nine bright pulsars at 324 MHz and three at 1.68 GHz and analyzed the wavenumber spectrum which is related to electron density variations of the plasma turbulence of the interstellar medium. For all pulsars the frequency section of the autocorrelation function of the dynamic spectra to at least 45% of the maximum corresponds to predictions of scattering theories with a range of power-law exponents of the wavenumber spectrum of $3.</description>
     </item>
     
     <item>
       <title>Late-Forming PBH: Beyond the CMB era</title>
-      <link>https://nebula0.github.io/new_article2/early-universe/late-forming_pbh_beyond_the_cmb_era/</link>
+      <link>https://nebula0.github.io/article/late-forming_pbh_beyond_the_cmb_era/</link>
       <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article2/early-universe/late-forming_pbh_beyond_the_cmb_era/</guid>
+      <guid>https://nebula0.github.io/article/late-forming_pbh_beyond_the_cmb_era/</guid>
       <description>First author: Philip Lu
 The intermediate mass black hole range, $10\lesssim M_{\rm BH}^{}/M_\odot^{}\lesssim 10^{5} $, has long offered enticing possibilities for primordial black holes (PBH), with populations in this range postulated to be responsible for some of the LIGO binary merger detected events as well as the existence of supermassive black holes embedded at galactic centers. However, a prominent bound derived from PBH accretion during recombination severely restricts the mass fraction of intermediate mass PBH.</description>
     </item>
     
     <item>
       <title>Dark matter freeze-in produces large post-inflationary isocurvature</title>
-      <link>https://nebula0.github.io/new_article/early-universe/dark_matter_freeze-in_produces_large_post-inflationary_isocurvature/</link>
+      <link>https://nebula0.github.io/article/dark_matter_freeze-in_produces_large_post-inflationary_isocurvature/</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/early-universe/dark_matter_freeze-in_produces_large_post-inflationary_isocurvature/</guid>
+      <guid>https://nebula0.github.io/article/dark_matter_freeze-in_produces_large_post-inflationary_isocurvature/</guid>
       <description>First author: Nicola Bellomo
 In this Letter, we show that the nonthermal nature of dark matter freeze-in production leads to large, totally correlated dark matter-photon isocurvature perturbations, which are imprinted in anisotropies of the cosmic microwave background (CMB). Isocurvature is typically expected from inflationary physics, but the isocurvature from freeze-in arises post inflation. We compute the freeze-in of millicharged dark matter, generated from electron-positron annihilations in the early Universe. We find that current CMB observations from \textit{Planck} exclude this scenario for dark matter masses between 1 MeV and 10 GeV at more than $2\sigma$, whereas upcoming CMB experiments will have the sensitivity to reach at least the $4\sigma$ level.</description>
     </item>
     
     <item>
       <title>Spectro-spatial evolution of the CMB II: generalised Boltzmann hierarchy</title>
-      <link>https://nebula0.github.io/new_article/early-universe/spectro-spatial_evolution_of_the_cmb_ii_generalised_boltzmann_hierarchy/</link>
+      <link>https://nebula0.github.io/article/spectro-spatial_evolution_of_the_cmb_ii_generalised_boltzmann_hierarchy/</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/early-universe/spectro-spatial_evolution_of_the_cmb_ii_generalised_boltzmann_hierarchy/</guid>
+      <guid>https://nebula0.github.io/article/spectro-spatial_evolution_of_the_cmb_ii_generalised_boltzmann_hierarchy/</guid>
       <description>First author: Jens Chluba
 In this paper, we formulate a generalised photon Boltzmann hierarchy that allows us to model the evolution and creation of spectral distortion anisotropies in the early Universe. We directly build on our first paper in this series, extending the thermalisation Green&amp;rsquo;s function treatment to the anisotropic case. We show that the problem can be described with the common Boltzmann hierarchy for the photon field extended by new spectral parameters &amp;ndash; a step that reduces the complexity of the calculation by at least two orders of magnitude.</description>
     </item>
     
     <item>
       <title>The R-Process Alliance: Abundance Universality among Some Elements at and between the First and Second R-Process Peaks</title>
-      <link>https://nebula0.github.io/new_article/early-universe/the_r-process_alliance_abundance_universality_among_some_elements_at_and_between_the_first_and_second_r-process_peaks/</link>
+      <link>https://nebula0.github.io/article/the_r-process_alliance_abundance_universality_among_some_elements_at_and_between_the_first_and_second_r-process_peaks/</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/early-universe/the_r-process_alliance_abundance_universality_among_some_elements_at_and_between_the_first_and_second_r-process_peaks/</guid>
+      <guid>https://nebula0.github.io/article/the_r-process_alliance_abundance_universality_among_some_elements_at_and_between_the_first_and_second_r-process_peaks/</guid>
       <description>First author: Ian U. Roederer
 We present new observational benchmarks of rapid neutron-capture process (r-process) nucleosynthesis for elements at and between the first (A ~ 80) and second (A ~ 130) peaks. Our analysis is based on archival ultraviolet and optical spectroscopy of eight metal-poor stars with Se (Z = 34) or Te (Z = 52) detections, whose r-process enhancement varies by more than a factor of 30 (-0.22 &amp;lt;= [Eu/Fe] &amp;lt;= +1.</description>
     </item>
     
     <item>
       <title>A powerful (and likely young) radio-loud quasar at z=5.3</title>
-      <link>https://nebula0.github.io/new_article/early-universe/a_powerful_and_likely_young_radio-loud_quasar_at_z5.3/</link>
+      <link>https://nebula0.github.io/article/a_powerful_and_likely_young_radio-loud_quasar_at_z5.3/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/early-universe/a_powerful_and_likely_young_radio-loud_quasar_at_z5.3/</guid>
+      <guid>https://nebula0.github.io/article/a_powerful_and_likely_young_radio-loud_quasar_at_z5.3/</guid>
       <description>First author: S. Belladitta
 We present the discovery of PSO J191.05696$+$86.43172 (hereafter PSO J191$+$86), a new powerful radio-loud quasar (QSO) in the early Universe (z = 5.32). We discovered it by cross-matching the NRAO VLA Sky Survey (NVSS) radio catalog at 1.4 GHz with the first data release of the Panoramic Survey Telescope and Rapid Response System (Pan-STARRS PS1) in the optical. With a NVSS flux density of 74.2 mJy, PSO J191$+$86 is one of the brightest radio QSO discovered at z$\sim$5.</description>
     </item>
     
     <item>
       <title>Has JWST already falsified dark-matter-driven galaxy formation?</title>
-      <link>https://nebula0.github.io/new_article/early-universe/has_jwst_already_falsified_dark-matter-driven_galaxy_formation/</link>
+      <link>https://nebula0.github.io/article/has_jwst_already_falsified_dark-matter-driven_galaxy_formation/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/early-universe/has_jwst_already_falsified_dark-matter-driven_galaxy_formation/</guid>
+      <guid>https://nebula0.github.io/article/has_jwst_already_falsified_dark-matter-driven_galaxy_formation/</guid>
       <description>First author: Moritz Haslbauer
 The James Webb Space Telescope (JWST) discovered several luminous high-redshift galaxy candidates with stellar masses of $M_{} \gtrsim 10^{9} , \rm{M_{\odot}}$ at photometric redshifts $z_{\mathrm{phot}} \gtrsim 10$ which allows to constrain galaxy and structure formation models. For example, Adams et al. identified the candidate ID 1514 with $\log_{10}(M_{}/M_{\odot}) = {9.8}{-0.2}^{+0.2}$ located at $z{\mathrm{phot}} = 9.85_{-0.12}^{+0.18}$ and Naidu et al. found even more distant candidates labeled as GL-z11 and GL-z13 with $\log_{10}(M_{}/M_{\odot}) = 9.</description>
     </item>
     
     <item>
       <title>Towards a reliable calculation of relic radiation from primordial gravitational waves</title>
-      <link>https://nebula0.github.io/new_article/early-universe/towards_a_reliable_calculation_of_relic_radiation_from_primordial_gravitational_waves/</link>
+      <link>https://nebula0.github.io/article/towards_a_reliable_calculation_of_relic_radiation_from_primordial_gravitational_waves/</link>
       <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/early-universe/towards_a_reliable_calculation_of_relic_radiation_from_primordial_gravitational_waves/</guid>
+      <guid>https://nebula0.github.io/article/towards_a_reliable_calculation_of_relic_radiation_from_primordial_gravitational_waves/</guid>
       <description>First author: William Giarè
 Inflationary gravitational waves, behaving as additional radiation in the Early Universe, can increase the effective number of relativistic species ($N_{\rm eff}$) by a further correction that depends on the integrated energy-density in gravitational waves over all scales. This effect is typically used to constrain (blue-tilted) models of inflation in light of the bounds resulting from the Big Bang Nucleosynthesis. In this paper, we recompute this contribution, discussing some caveats of the state-of-the-art analyses.</description>
+    </item>
+    
+    <item>
+      <title>A review of neutrino decoupling from the early universe to the current universe</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2210.10307/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/arxiv.2210.10307/</guid>
+      <description>Kensuke Akita
+We review the distortions of spectra of relic neutrinos due to the interactions with electrons, positrons, and neutrinos in the early universe. We solve integro-differential kinetic equations for the neutrino density matrix, including vacuum three-flavor neutrino oscillations, oscillations in electron and positron background, a collision term and finite temperature corrections to electron mass and electromagnetic plasma up to the next-to-leading order $\mathcal{O}(e^3)$. After that, we estimate the effects of the spectral distortions in neutrino decoupling on the number density and energy density of the Cosmic Neutrino Background (C$ν$B) in the current universe, and discuss the implications of these effects on the capture rates in direct detection of the C$ν$B on tritium, with emphasis on the PTOLEMY-type experiment.</description>
+    </item>
+    
+    <item>
+      <title>Cosmic inhomogeneities in the early Universe: A numerical relativity approach</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2211.03534/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/arxiv.2211.03534/</guid>
+      <description>Cristian Joana
+Cosmic inflation is arguably the most favoured paradigm of the very early Universe. It postulates an early phase of fast, nearly exponential, and accelerated expansion. Inflationary models are capable of explaining the overall flatness and homogeneity of today&amp;rsquo;s Universe at large scales. Despite being widely accepted by the physics community, these models are not absent from criticism. In scalar field inflation, a necessary condition to begin inflation is the requirement of a Universe dominated by the field&amp;rsquo;s potential, which implies a subdominant contribution from the scalar field dynamics.</description>
     </item>
     
   </channel>

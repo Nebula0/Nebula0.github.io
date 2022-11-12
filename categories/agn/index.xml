@@ -6,73 +6,63 @@
     <description>Recent content in AGN on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/agn/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A compact symmetric ejection from the low mass AGN in the LINER galaxy NGC 4293</title>
-      <link>https://nebula0.github.io/new_article2/agn/a_compact_symmetric_ejection_from_the_low_mass_agn_in_the_liner_galaxy_ngc_4293/</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article2/agn/a_compact_symmetric_ejection_from_the_low_mass_agn_in_the_liner_galaxy_ngc_4293/</guid>
-      <description>First author: Xiaolong Yang
-We conducted a Very Long Baseline Array (VLBA) observation of the low mass active galactic nucleus (AGN) in galaxy NGC 4293 ($z=0.003$). The object is associated with a low-ionization nuclear emission-line region (LINER). Its black hole mass is estimated as $\sim10^5$ or $\sim10^7 M_\odot$. The VLBA 1.5 GHz image shows an inverse symmetric structure with two discrete radio blobs separated by an angular distance of $\sim120$ mas, corresponding to $\sim7$ parsec.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 28 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/agn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TPHO: a time-dependent photoionisation model for AGN outflows</title>
-      <link>https://nebula0.github.io/new_article/agn/tpho_a_time-dependent_photoionisation_model_for_agn_outflows/</link>
+      <link>https://nebula0.github.io/article/tpho_a_time-dependent_photoionisation_model_for_agn_outflows/</link>
       <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/agn/tpho_a_time-dependent_photoionisation_model_for_agn_outflows/</guid>
+      <guid>https://nebula0.github.io/article/tpho_a_time-dependent_photoionisation_model_for_agn_outflows/</guid>
       <description>First author: Daniele Rogantini
 Outflows in active galactic nuclei (AGN) are considered a promising candidate for driving AGN feedback at large scales. However, without information on the density of these outflows, we cannot determine how much kinetic power they are imparting to the surrounding medium. Monitoring the response of the ionisation state of the absorbing outflows to changes in the ionising continuum provides the recombination timescale of the outflow, which is a function of the electron density.</description>
     </item>
     
     <item>
       <title>Constraining the X-ray reflection in low accretion rate AGN using XMM-Newton, NuSTAR and Swift</title>
-      <link>https://nebula0.github.io/new_article/agn/constraining_the_x-ray_reflection_in_low_accretion_rate_agn_using_xmm-newton_nustar_and_swift/</link>
+      <link>https://nebula0.github.io/article/constraining_the_x-ray_reflection_in_low_accretion_rate_agn_using_xmm-newton_nustar_and_swift/</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/agn/constraining_the_x-ray_reflection_in_low_accretion_rate_agn_using_xmm-newton_nustar_and_swift/</guid>
+      <guid>https://nebula0.github.io/article/constraining_the_x-ray_reflection_in_low_accretion_rate_agn_using_xmm-newton_nustar_and_swift/</guid>
       <description>First author: Y. Díaz
 An interesting feature in active galactic nuclei (AGN) accreting at low rate is the weakness of the reflection features in their X-ray spectra, which can result from the gradual disappearance of the torus with decreasing accretion rates. It has been suggested that low luminosity AGN (LLAGN) would have a different reflector configuration compared with high luminosity AGN, either covering a smaller fraction of the sky or simply having less material.</description>
     </item>
     
     <item>
       <title>Does absorption against AGN reveal supermassive black hole accretion?</title>
-      <link>https://nebula0.github.io/new_article/agn/does_absorption_against_agn_reveal_supermassive_black_hole_accretion/</link>
+      <link>https://nebula0.github.io/article/does_absorption_against_agn_reveal_supermassive_black_hole_accretion/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/agn/does_absorption_against_agn_reveal_supermassive_black_hole_accretion/</guid>
+      <guid>https://nebula0.github.io/article/does_absorption_against_agn_reveal_supermassive_black_hole_accretion/</guid>
       <description>First author: Tom Rose
 Galaxies often contain large reservoirs of molecular gas which shape their evolution. This can be through cooling of the gas &amp;ndash; which leads to star formation, or accretion onto the central supermassive black hole &amp;ndash; which fuels AGN activity and produces powerful feedback. Molecular gas has been detected in early-type galaxies on scales of just a few tens to hundreds of solar masses by searching for absorption against their compact radio cores.</description>
     </item>
     
     <item>
       <title>A Multi-Wavelength Study of Multiple Spectral Component Jets in AGN: Testing the IC/CMB Model for the Large-Scale-Jet X-ray Emission</title>
-      <link>https://nebula0.github.io/new_article/agn/a_multi-wavelength_study_of_multiple_spectral_component_jets_in_agn_testing_the_ic_cmb_model_for_the_large-scale-jet_x-ray_emission/</link>
+      <link>https://nebula0.github.io/article/a_multi-wavelength_study_of_multiple_spectral_component_jets_in_agn_testing_the_ic_cmb_model_for_the_large-scale-jet_x-ray_emission/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/agn/a_multi-wavelength_study_of_multiple_spectral_component_jets_in_agn_testing_the_ic_cmb_model_for_the_large-scale-jet_x-ray_emission/</guid>
+      <guid>https://nebula0.github.io/article/a_multi-wavelength_study_of_multiple_spectral_component_jets_in_agn_testing_the_ic_cmb_model_for_the_large-scale-jet_x-ray_emission/</guid>
       <description>First author: Peter Breiding
 Over 150 resolved, kpc-scale X-ray jets hosted by active galactic nuclei have been discovered with the Chandra X-ray Observatory. A significant fraction of these jets have an X-ray spectrum either too high in flux or too hard to be consistent with the high-energy extension of the radio-to-optical synchrotron spectrum, a subtype we identify as Multiple Spectral Component (MSC) X-ray jets. A leading hypothesis for the origin of the X-rays is the inverse-Compton scattering of the cosmic microwave background by the same electron population producing the radio-to-optical synchrotron spectrum (known as the IC/CMB model).</description>
     </item>
     
     <item>
       <title>Dust Dynamics in AGN Winds: A New Mechanism For Multiwavelength AGN Variability</title>
-      <link>https://nebula0.github.io/new_article/agn/dust_dynamics_in_agn_winds_a_new_mechanism_for_multiwavelength_agn_variability/</link>
+      <link>https://nebula0.github.io/article/dust_dynamics_in_agn_winds_a_new_mechanism_for_multiwavelength_agn_variability/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/agn/dust_dynamics_in_agn_winds_a_new_mechanism_for_multiwavelength_agn_variability/</guid>
+      <guid>https://nebula0.github.io/article/dust_dynamics_in_agn_winds_a_new_mechanism_for_multiwavelength_agn_variability/</guid>
       <description>First author: Nadine H. Soliman
 Partial dust obscuration in active galactic nuclei (AGN) has been proposed as a potential explanation for some cases of AGN variability. The dust-gas mixture present in AGN torii is accelerated by radiation pressure leading to the launching of an AGN wind. Dust under these conditions has been shown to be unstable to a generic class of fast growing resonant drag instabilities (RDIs). We present the first set of numerical simulations of radiation driven outflows that include explicit dust dynamics in conditions resembling AGN winds and discuss the implications of the RDIs on the morphology of the AGN torus, AGN variability, and the ability of the radiation to effectively launch a wind.</description>
     </item>
     
     <item>
       <title>Evidence for extended gaseous reservoirs around AGN at cosmic noon from ALMA CO(3-2) observations</title>
-      <link>https://nebula0.github.io/new_article/agn/evidence_for_extended_gaseous_reservoirs_around_agn_at_cosmic_noon_from_alma_co3-2_observations/</link>
+      <link>https://nebula0.github.io/article/evidence_for_extended_gaseous_reservoirs_around_agn_at_cosmic_noon_from_alma_co3-2_observations/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/agn/evidence_for_extended_gaseous_reservoirs_around_agn_at_cosmic_noon_from_alma_co3-2_observations/</guid>
+      <guid>https://nebula0.github.io/article/evidence_for_extended_gaseous_reservoirs_around_agn_at_cosmic_noon_from_alma_co3-2_observations/</guid>
       <description>First author: G. C. Jones
 Gaseous outflows are key phenomena in the evolution of galaxies, as they affect star formation (either positively or negatively), eject gas from the core or disk, and directly cause mixing of pristine and processed material. Active outflows may be detected through searches for broad spectral line emission or high-velocity gas, but it is also possible to determine the presence of past outflows by searching for extended reservoirs of chemically enriched molecular gas in the circumgalactic medium (CGM) around galaxies.</description>
     </item>

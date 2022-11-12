@@ -5,258 +5,35 @@
     <link>https://nebula0.github.io/categories/galactic-disk/</link>
     <description>Recent content in galactic disk on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 27 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/galactic-disk/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://nebula0.github.io/categories/galactic-disk/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Interpreting molecular hydrogen and atomic oxygen line emission of T Tauri disks with photoevaporative disk wind models</title>
-      <link>https://nebula0.github.io/new_article/interpreting_molecular_hydrogen_and_atomic_oxygen_line_emission_of_t_tauri_disks_with_photoevaporative_disk_wind_models/</link>
-      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      <title>AGN quenching in simulated dwarf galaxies</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2211.04503/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/interpreting_molecular_hydrogen_and_atomic_oxygen_line_emission_of_t_tauri_disks_with_photoevaporative_disk_wind_models/</guid>
-      <description>First author: Ch. Rab
-Winds in protoplanetary disks play an important role in their evolution and dispersal. However, what physical process is driving the winds is still unclear (i.e. magnetically vs thermally driven), and can only be understood by directly confronting theoretical models with observational data. We use hydrodynamic photoevaporative disk wind models and post-process them with a thermo-chemical model to produce synthetic observables for the o-H$_2$ at 2.12 micron and [OI] at 0.</description>
+      <guid>https://nebula0.github.io/new_article/arxiv.2211.04503/</guid>
+      <description>Roark Habegger
+In galactic disks, the Parker instability results when non-thermal pressure support exceeds a certain threshold. The non-thermal pressures considered in the Parker instability are cosmic ray pressure and magnetic pressure. This instability takes a long time to saturate $(&amp;gt;500 , \mathrm{Myr})$ and assumes a background with fixed cosmic ray pressure to gas pressure ratio. In reality, galactic cosmic rays are injected into localized regions $(&amp;lt; 100 ,\mathrm{pc})$ by events like supernovae, increasing the cosmic ray pressure to gas pressure ratio.</description>
     </item>
     
     <item>
-      <title>The Gaia-ESO survey: mapping the shape and evolution of the radial abundance gradients with open clusters</title>
-      <link>https://nebula0.github.io/new_article/the_gaia-eso_survey_mapping_the_shape_and_evolution_of_the_radial_abundance_gradients_with_open_clusters/</link>
-      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      <title>DUVET: Spatially Resolved Observations of Star Formation Regulation via Galactic Outflows in a Starbursting Disk Galaxy</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2211.02063/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/the_gaia-eso_survey_mapping_the_shape_and_evolution_of_the_radial_abundance_gradients_with_open_clusters/</guid>
-      <description>First author: L. Magrini
-The spatial distribution of elemental abundances and their time evolution are among the major constraints to disentangle the scenarios of formation and evolution of the Galaxy. We used the sample of open clusters available in the final release of the Gaia-ESO survey to trace the Galactic radial abundance and abundance to iron ratio gradients, and their time evolution. We selected member stars in 62 open clusters, with ages from 0.</description>
+      <guid>https://nebula0.github.io/new_article/arxiv.2211.02063/</guid>
+      <description>Bronwyn Reichardt Chu
+We compare 500~pc scale, resolved observations of ionised and molecular gas for the $z\sim0.02$ starbursting disk galaxy IRAS08339+6517, using measurements from KCWI and NOEMA. We explore the relationship of the star formation driven ionised gas outflows with colocated galaxy properties. We find a roughly linear relationship between the outflow mass flux ($\dotΣ_{\rm out}$) and star formation rate surface density ($Σ_{\rm SFR}$), $\dotΣ_{\rm out}\proptoΣ_{\rm SFR}^{1.06\pm0.10}$, and a strong correlation between $\dotΣ_{\rm out}$ and the gas depletion time, such that $\dotΣ_{\rm out} \propto t_{dep}^{-1.</description>
     </item>
     
     <item>
-      <title>A family of potential-density pairs for galactic bars</title>
-      <link>https://nebula0.github.io/new_article/a_family_of_potential-density_pairs_for_galactic_bars/</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      <title>Interacting Kilonovae: Long-lasting Electromagnetic Counterparts to Binary Mergers in the Accretion Disks of Active Galactic Nuclei</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2211.03097/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/a_family_of_potential-density_pairs_for_galactic_bars/</guid>
-      <description>First author: Walter Dehnen
-We present a family of analytical potential-density pairs for barred discs, which can be combined to describe galactic bars in a realistic way, including boxy/peanut components. We illustrate this with two reasonable compound models. Computer code for the evaluation of potential, forces, density, and projected density is freely provided.
-arxiv link
-pdf link</description>
-    </item>
-    
-    <item>
-      <title>A hybrid map-$C_\ell$ component separation method for primordial CMB $B$-mode searches</title>
-      <link>https://nebula0.github.io/new_article/a_hybrid_map-_c__ell__component_separation_method_for_primordial_cmb__b_-mode_searches/</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/a_hybrid_map-_c__ell__component_separation_method_for_primordial_cmb__b_-mode_searches/</guid>
-      <description>First author: Susanna Azzoni
-The observation of the polarised emission from the Cosmic Microwave Background (CMB) from future ground-based and satellite-borne experiments holds the promise of indirectly detecting the elusive signal from primordial tensor fluctuations in the form of large-scale $B$-mode polarisation. Doing so, however, requires an accurate and robust separation of the signal from polarised Galactic foregrounds. We present a component separation method for multi-frequency CMB observations that combines some of the advantages of map-based and power-spectrum-based techniques, and which is direcly applicable to data in the presence of realistic foregrounds and instrumental noise.</description>
-    </item>
-    
-    <item>
-      <title>A Search for Predicted Astrometric Microlensing Events by Nearby Brown Dwarfs</title>
-      <link>https://nebula0.github.io/new_article/a_search_for_predicted_astrometric_microlensing_events_by_nearby_brown_dwarfs/</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/a_search_for_predicted_astrometric_microlensing_events_by_nearby_brown_dwarfs/</guid>
-      <description>First author: Judah Luberto
-Gravitational microlensing has the potential to provide direct gravitational masses of single, free-floating brown dwarfs, independent of evolutionary and atmospheric models. The proper motions and parallaxes of nearby brown dwarfs can be used to predict close future alignments with distant background stars that cause a microlensing event. Targeted astrometric follow up of the predicted microlensing events permits the brown dwarf&amp;rsquo;s mass to be measured. Predicted microlensing events are typically found via searching for a peak threshold signal using an estimate of the lens mass.</description>
-    </item>
-    
-    <item>
-      <title>Angular Momentum Loss Rates in Be Stars Determined by the Viscous Decretion Disc Model</title>
-      <link>https://nebula0.github.io/new_article/angular_momentum_loss_rates_in_be_stars_determined_by_the_viscous_decretion_disc_model/</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/angular_momentum_loss_rates_in_be_stars_determined_by_the_viscous_decretion_disc_model/</guid>
-      <description>First author: M. R. Ghoreyshi
-Circumstellar discs around Be stars are formed by the material ejected by the central star. This process removes excess angular momentum from the star as viscosity facilitates the mass and angular momentum transfer within the disc and its growth. The angular momentum loss rates (AMLR) of Be stars is a subject of debate in the literature. Through the modelling of the disc formation and dissipation phases observed from Be stars, their average AMLR can be determined and this is the goal of this work.</description>
-    </item>
-    
-    <item>
-      <title>Constraining the Tilt of the Milky Way&#39;s Dark Matter Halo with the Sagittarius Stream</title>
-      <link>https://nebula0.github.io/new_article/constraining_the_tilt_of_the_milky_ways_dark_matter_halo_with_the_sagittarius_stream/</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/constraining_the_tilt_of_the_milky_ways_dark_matter_halo_with_the_sagittarius_stream/</guid>
-      <description>First author: Nondh Panithanpaisal
-Recent studies have suggested that the Milky Way (MW)&amp;rsquo;s Dark Matter (DM) halo may be significantly tilted with respect to its central stellar disk, a feature that might be linked to its formation history. In this work, we demonstrate a method of constraining the orientation of the minor axis of the DM halo using the angle and frequency variables. This method is complementary to other traditional techniques, such as orbit fitting.</description>
-    </item>
-    
-    <item>
-      <title>Frequency dependence of the thermal dust $E/B$ ratio and $EB$ correlation: insights from the spin-moment expansion</title>
-      <link>https://nebula0.github.io/new_article/frequency_dependence_of_the_thermal_dust__e_b__ratio_and__eb__correlation_insights_from_the_spin-moment_expansion/</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/frequency_dependence_of_the_thermal_dust__e_b__ratio_and__eb__correlation_insights_from_the_spin-moment_expansion/</guid>
-      <description>First author: Léo Vacher
-The change of physical conditions across the turbulent and magnetized interstellar medium (ISM) induces a 3D spatial variation of the properties of Galactic polarized emission. The observed signal results from the averaging of different spectral energy distributions (SED) and polarization angles, along and between lines of sight. As a consequence, the total Stokes parameters $Q$ and $U$ will have different distorted SEDs, so that the polarization angle becomes frequency dependent.</description>
-    </item>
-    
-    <item>
-      <title>Deep orbital search for additional planets in the HR 8799 system</title>
-      <link>https://nebula0.github.io/new_article/deep_orbital_search_for_additional_planets_in_the_hr_8799_system/</link>
-      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/deep_orbital_search_for_additional_planets_in_the_hr_8799_system/</guid>
-      <description>First author: William Thompson
-The HR 8799 system hosts four massive planets orbiting 15 and 80 AU. Studies of the system&amp;rsquo;s orbital stability and its outer debris disk open the possibility of additional planets, both interior to and exterior to the known system. Reaching a sufficient sensitivity to search for interior planets is very challenging due to the combination of bright quasi static speckle noise close to the stellar diffraction core and relatively fast orbital motion.</description>
-    </item>
-    
-    <item>
-      <title>Halting Migration in Magnetospherically Sculpted Protoplanetary Disks</title>
-      <link>https://nebula0.github.io/new_article/halting_migration_in_magnetospherically_sculpted_protoplanetary_disks/</link>
-      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/halting_migration_in_magnetospherically_sculpted_protoplanetary_disks/</guid>
-      <description>First author: Tze Yeung Mathew Yu
-We present a physically motivated model for the manner in which a stellar magnetic field sculpts the inner edge of a protoplanetary disk, and examine the consequence for the migration and stopping of sub-Neptune and super-Earth planets. This model incorporates a transition zone exterior to the inner truncation of the disk, where the surface density profile is modified by the diffusion of the stellar magnetic field into the disk.</description>
-    </item>
-    
-    <item>
-      <title>Orbit-Superposition Dynamical Modelling of Barred Galaxies</title>
-      <link>https://nebula0.github.io/new_article/orbit-superposition_dynamical_modelling_of_barred_galaxies/</link>
-      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/orbit-superposition_dynamical_modelling_of_barred_galaxies/</guid>
-      <description>First author: Behzad Tahmasebzadeh
-Barred structures are important in understanding galaxy evolution, but they were not included explicitly in most dynamical models for nearby galaxies due to their complicated morphological and kinematic properties. We modify the triaxial orbit-superposition Schwarzschild implementation by Van den Bosch et al. (2008) to include barred structures explicitly. The gravitational potential is a combination of a spherical dark matter halo and stellar mass; with the 3D stellar density distribution de-projected from the observed 2D image using a two-component de-projection method, including an axisymmetric disk and a triaxial barred bulge.</description>
-    </item>
-    
-    <item>
-      <title>$\texttt{Mangrove}$: Learning Galaxy Properties from Merger Trees</title>
-      <link>https://nebula0.github.io/new_article/__textttmangrove__learning_galaxy_properties_from_merger_trees/</link>
-      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/__textttmangrove__learning_galaxy_properties_from_merger_trees/</guid>
-      <description>First author: Christian Kragh Jespersen
-Efficiently mapping baryonic properties onto dark matter is a major challenge in astrophysics. Although semi-analytic models (SAMs) and hydrodynamical simulations have made impressive advances in reproducing galaxy observables across cosmologically significant volumes, these methods still require significant computation times, representing a barrier to many applications. Graph Neural Networks (GNNs) have recently proven to be the natural choice for learning physical relations. Among the most inherently graph-like structures found in astrophysics are the dark matter merger trees that encode the evolution of dark matter halos.</description>
-    </item>
-    
-    <item>
-      <title>Clusters of heavy particles in two-dimensional Keplerian turbulence</title>
-      <link>https://nebula0.github.io/new_article/clusters_of_heavy_particles_in_two-dimensional_keplerian_turbulence/</link>
-      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/clusters_of_heavy_particles_in_two-dimensional_keplerian_turbulence/</guid>
-      <description>First author: Fabiola Antonietta Gerosa
-Protoplanetary disks are gaseous systems in Keplerian rotation around young stars, known to be turbulent. They include a small fraction of dust from which planets form. In the incremental scenario for planet growth, the formation of kilometer-size objects (planetesimals) from pebbles is a major open question. Clustering of particles is necessary for solids to undergo a local gravitational collapse. To address this question, the dynamic of inertial particles in turbulent flows with Keplerian rotation and shear is studied.</description>
-    </item>
-    
-    <item>
-      <title>Dust Dynamics in AGN Winds: A New Mechanism For Multiwavelength AGN Variability</title>
-      <link>https://nebula0.github.io/new_article/dust_dynamics_in_agn_winds_a_new_mechanism_for_multiwavelength_agn_variability/</link>
-      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/dust_dynamics_in_agn_winds_a_new_mechanism_for_multiwavelength_agn_variability/</guid>
-      <description>First author: Nadine H. Soliman
-Partial dust obscuration in active galactic nuclei (AGN) has been proposed as a potential explanation for some cases of AGN variability. The dust-gas mixture present in AGN torii is accelerated by radiation pressure leading to the launching of an AGN wind. Dust under these conditions has been shown to be unstable to a generic class of fast growing resonant drag instabilities (RDIs). We present the first set of numerical simulations of radiation driven outflows that include explicit dust dynamics in conditions resembling AGN winds and discuss the implications of the RDIs on the morphology of the AGN torus, AGN variability, and the ability of the radiation to effectively launch a wind.</description>
-    </item>
-    
-    <item>
-      <title>Phosphine in the Venusian Atmosphere: A Strict Upper Limit from SOFIA GREAT Observations</title>
-      <link>https://nebula0.github.io/new_article/phosphine_in_the_venusian_atmosphere_a_strict_upper_limit_from_sofia_great_observations/</link>
-      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/phosphine_in_the_venusian_atmosphere_a_strict_upper_limit_from_sofia_great_observations/</guid>
-      <description>First author: M. A. Cordiner
-The presence of phosphine (PH$_3$) in the atmosphere of Venus was reported by Greaves et al. (2021a), based on observations of the J=1-0 transition at 267 GHz using ground-based, millimeter-wave spectroscopy. This unexpected discovery presents a challenge for our understanding of Venus&amp;rsquo;s atmosphere, and has led to a reappraisal of the possible sources and sinks of atmospheric phosphorous-bearing gases. Here we present results from a search for PH$_3$ on Venus using the GREAT instrument aboard the SOFIA aircraft, over three flights conducted in November 2021.</description>
-    </item>
-    
-    <item>
-      <title>Razor-thin dust layers in protoplanetary disks: Limits on the vertical shear instability</title>
-      <link>https://nebula0.github.io/new_article/razor-thin_dust_layers_in_protoplanetary_disks_limits_on_the_vertical_shear_instability/</link>
-      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/razor-thin_dust_layers_in_protoplanetary_disks_limits_on_the_vertical_shear_instability/</guid>
-      <description>First author: C. P. Dullemond
-Context: Recent observations with the Atacama Large Millimeter Array (ALMA) have shown that the large dust aggregates observed at millimeter wavelengths settle to the midplane into a remarkably thin layer. Aims: We intend to find out if the geometric thinness of these layers is evidence against the vertical shear instability (VSI) operating in these disks. Methods: We performed hydrodynamic simulations of a protoplanetary disk with a locally isothermal equation of state, and let the VSI fully develop.</description>
-    </item>
-    
-    <item>
-      <title>Structured Distributions of Gas and Solids in Protoplanetary Disks</title>
-      <link>https://nebula0.github.io/new_article/structured_distributions_of_gas_and_solids_in_protoplanetary_disks/</link>
-      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/structured_distributions_of_gas_and_solids_in_protoplanetary_disks/</guid>
-      <description>First author: Jaehan Bae
-Recent spatially-resolved observations of protoplanetary disks revealed a plethora of substructures, including concentric rings and gaps, inner cavities, misalignments, spiral arms, and azimuthal asymmetries. This is the major breakthrough in studies of protoplanetary disks since Protostars and Planets VI and is reshaping the field of planet formation. However, while the capability of imaging substructures in protoplanetary disks has been steadily improving, the origin of many substructures are still largely debated.</description>
-    </item>
-    
-    <item>
-      <title>The GRAVITY Young Stellar Object survey -- IX. Spatially resolved kinematics of hot hydrogen gas in the star/disk interaction region of T Tauri stars</title>
-      <link>https://nebula0.github.io/new_article/the_gravity_young_stellar_object_survey_--_ix._spatially_resolved_kinematics_of_hot_hydrogen_gas_in_the_star_disk_interaction_region_of_t_tauri_stars/</link>
-      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/the_gravity_young_stellar_object_survey_--_ix._spatially_resolved_kinematics_of_hot_hydrogen_gas_in_the_star_disk_interaction_region_of_t_tauri_stars/</guid>
-      <description>First author: J. A. Wojtczak
-Aims: We aim to spatially and spectrally resolve the Br-gamma hydrogen emission line with the methods of interferometry in order to examine the kinematics of the hydrogen gas emission region in the inner accretion disk of a sample of solar-like young stellar objects. The goal is to identify trends and categories among the sources of our sample and to discuss whether or not they can be tied to different origin mechanisms associated with Br-gamma emission in T Tauri stars, chiefly and most prominently magnetospheric accretion.</description>
-    </item>
-    
-    <item>
-      <title>Two-point correlation function studies for the Milky Way: discovery of spatial clustering from disk excitations and substructure</title>
-      <link>https://nebula0.github.io/new_article/two-point_correlation_function_studies_for_the_milky_way_discovery_of_spatial_clustering_from_disk_excitations_and_substructure/</link>
-      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/two-point_correlation_function_studies_for_the_milky_way_discovery_of_spatial_clustering_from_disk_excitations_and_substructure/</guid>
-      <description>First author: Austin Hinkel
-We introduce a two-particle correlation function (2PCF) for the Milky Way, constructed to probe spatial correlations in the orthogonal directions of the stellar disk in the Galactic cylindrical coordinates of $R$, $\phi$, and $z$. We use this new tool to probe the structure and dynamics of the Galaxy using the carefully selected set of solar neighborhood stars ($d \lesssim 3, \rm kpc$) from Gaia Data Release 2 we previously employed for studies of axial symmetry breaking in stellar number counts.</description>
-    </item>
-    
-    <item>
-      <title>Ices toward Massive YSOs: I. OCS, CO, OCN-, and CH3OH</title>
-      <link>https://nebula0.github.io/new_article/ices_toward_massive_ysos_i._ocs_co_ocn-_and_ch3oh/</link>
-      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/ices_toward_massive_ysos_i._ocs_co_ocn-_and_ch3oh/</guid>
-      <description>First author: A. C. A. Boogert
-An important tracer of the origin and evolution of cometary ices is the comparison with ices found in dense clouds and towards Young Stellar Objects (YSOs). We present a survey of ices in the 2-5 micron spectra of 23 massive YSOs, taken with the NASA InfraRed Telescope Facility SpeX spectrometer. The 4.90 micron absorption band of OCS ice is detected in 20 sight-lines, more than five times the previously known detections.</description>
-    </item>
-    
-    <item>
-      <title>Physical and chemical vertical structure of magnetostatic accretion disks of young stars</title>
-      <link>https://nebula0.github.io/new_article/physical_and_chemical_vertical_structure_of_magnetostatic_accretion_disks_of_young_stars/</link>
-      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/physical_and_chemical_vertical_structure_of_magnetostatic_accretion_disks_of_young_stars/</guid>
-      <description>First author: Sergey A. Khaibrakhmanov
-The vertical structure of the accretion disks of young stars with fossil large-scale magnetic field is studied. The equations of magnetostatic equilibrium of the disk are solved taking into account the stellar gravity, gas and magnetic pressure, turbulent heating, and heating by stellar radiation. The modelled physical structure of the disk is used to simulate its chemical structure, in particular, to study the spatial distribution of CN molecules.</description>
-    </item>
-    
-    <item>
-      <title>Primary disks and their observational appearance in collapsing magnetic rotating protostellar clouds</title>
-      <link>https://nebula0.github.io/new_article/primary_disks_and_their_observational_appearance_in_collapsing_magnetic_rotating_protostellar_clouds/</link>
-      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/primary_disks_and_their_observational_appearance_in_collapsing_magnetic_rotating_protostellar_clouds/</guid>
-      <description>First author: Natalya S. Kargaltseva
-The collapse of the magnetic rotating protostellar cloud with mass of $10,M_{\odot}$ is numerically studied. The initial ratios of the thermal, magnetic, and rotational energies of the cloud to the modulus of its gravitational energy are 0.3, 0.2 and 0.01, respectively. The emphasis is on the evolution and properties of the quasi-magnetostatic primary disk formed at the isothermal stage of the collapse. Simulations show that the primary disk size and mass increase during evolution from $1500$ au to $7400$ au and from $0.</description>
-    </item>
-    
-    <item>
-      <title>An empirical analysis of the dynamics of both individual galaxies and gravitational lensing in galaxy clusters without dark matter</title>
-      <link>https://nebula0.github.io/new_article/an_empirical_analysis_of_the_dynamics_of_both_individual_galaxies_and_gravitational_lensing_in_galaxy_clusters_without_dark_matter/</link>
-      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/an_empirical_analysis_of_the_dynamics_of_both_individual_galaxies_and_gravitational_lensing_in_galaxy_clusters_without_dark_matter/</guid>
-      <description>First author: G. Pascoli
-The existence of the flat rotation curves of galaxies is still perplexing. The dark matter paradigm was proposed long ago to solve this conundrum; however, this proposal is still under debate. In this paper, we search for universal relationships solely involving the baryonic density that incorporate both galactic dynamics and gravitational lensing in galaxy clusters without requiring dark matter. If this type of formula exists, we show that it is possible that it can clearly indicate that dark matter is either perfectly tailored to baryonic matter or, from a more radical point of view, even perhaps useless.</description>
-    </item>
-    
-    <item>
-      <title>Classifying globular clusters and applying them to estimate the mass of the Milky Way</title>
-      <link>https://nebula0.github.io/new_article/classifying_globular_clusters_and_applying_them_to_estimate_the_mass_of_the_milky_way/</link>
-      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/classifying_globular_clusters_and_applying_them_to_estimate_the_mass_of_the_milky_way/</guid>
-      <description>First author: GuangChen Sun
-We combine the kinematics of 159 globular clusters (GCs) provided by the Gaia Early Data Release 3 (EDR 3) with other observational data to classify the GCs, and to estimate the mass of Milky Way (MW). We use the age-metallicity relation, integrals of motion, action space and the GC orbits to identify the GCs as either formed in-situ (Bulge and Disk) or ex-situ (via accretion). We find that $45.</description>
-    </item>
-    
-    <item>
-      <title>Simulations of the isothermal collapse of magnetic rotating protostellar clouds</title>
-      <link>https://nebula0.github.io/new_article/simulations_of_the_isothermal_collapse_of_magnetic_rotating_protostellar_clouds/</link>
-      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/simulations_of_the_isothermal_collapse_of_magnetic_rotating_protostellar_clouds/</guid>
-      <description>First author: Sergey A. Khaibrakhmanov
-We investigate collapse of magnetic protostellar clouds of mass $10$ and $1 M_{\odot}$. The collapse is simulated numerically using the two-dimensional magnetohydrodynamic (MHD) code `Enlil&amp;rsquo;. The simulations show that protostellar clouds acquire a hierarchical structure by the end of the isothermal stage of collapse. Under the action of the electromagnetic force, the protostellar cloud takes the form of an oblate envelope with the half-thickness to radius ratio $Z/R \sim (0.</description>
+      <guid>https://nebula0.github.io/new_article/arxiv.2211.03097/</guid>
+      <description>Jia Ren
+We investigate the dynamics and electromagnetic (EM) signatures of neutron star-neutron star (NS-NS) or neutron star-black hole (NS-BH) merger ejecta that occurs in the accretion disk of an active galactic nucleus (AGN). We find that the interaction between ejecta and disk gas leads to important effects on the dynamics and radiation. We show five stages of the ejecta dynamics: gravitational slowing down, coasting, Sedov-Taylor deceleration in the disk, re-acceleration after the breakout from the disk surface, and momentum-conserved snowplow phase.</description>
     </item>
     
   </channel>

@@ -6,31 +6,58 @@
     <description>Recent content in Categories on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>10(month)</title>
-      <link>https://nebula0.github.io/categories/10month/</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <title>11(month)</title>
+      <link>https://nebula0.github.io/categories/11month/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/categories/10month/</guid>
+      <guid>https://nebula0.github.io/categories/11month/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2022(year)</title>
       <link>https://nebula0.github.io/categories/2022year/</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://nebula0.github.io/categories/2022year/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>AGN</title>
-      <link>https://nebula0.github.io/categories/agn/</link>
+      <title>dwarf galaxy</title>
+      <link>https://nebula0.github.io/categories/dwarf-galaxy/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/categories/dwarf-galaxy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>early universe</title>
+      <link>https://nebula0.github.io/categories/early-universe/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/categories/early-universe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>galaxy merger</title>
+      <link>https://nebula0.github.io/categories/galaxy-merger/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/categories/galaxy-merger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>10(month)</title>
+      <link>https://nebula0.github.io/categories/10month/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/categories/agn/</guid>
+      <guid>https://nebula0.github.io/categories/10month/</guid>
       <description></description>
     </item>
     
@@ -71,33 +98,6 @@
     </item>
     
     <item>
-      <title>dwarf galaxy</title>
-      <link>https://nebula0.github.io/categories/dwarf-galaxy/</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/categories/dwarf-galaxy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>early universe</title>
-      <link>https://nebula0.github.io/categories/early-universe/</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/categories/early-universe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>galactic bugle</title>
-      <link>https://nebula0.github.io/categories/galactic-bugle/</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/categories/galactic-bugle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>galaxies</title>
       <link>https://nebula0.github.io/categories/galaxies/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
@@ -116,15 +116,6 @@
     </item>
     
     <item>
-      <title>SMBH</title>
-      <link>https://nebula0.github.io/categories/smbh/</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/categories/smbh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>supernovae</title>
       <link>https://nebula0.github.io/categories/supernovae/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
@@ -134,11 +125,20 @@
     </item>
     
     <item>
-      <title>galaxy merger</title>
-      <link>https://nebula0.github.io/categories/galaxy-merger/</link>
+      <title>AGN</title>
+      <link>https://nebula0.github.io/categories/agn/</link>
       <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/categories/galaxy-merger/</guid>
+      <guid>https://nebula0.github.io/categories/agn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>galactic bugle</title>
+      <link>https://nebula0.github.io/categories/galactic-bugle/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/categories/galactic-bugle/</guid>
       <description></description>
     </item>
     
@@ -184,6 +184,33 @@
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://nebula0.github.io/categories/hii-region-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>galactic disk</title>
+      <link>https://nebula0.github.io/categories/galactic-disk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/categories/galactic-disk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>globular cluster</title>
+      <link>https://nebula0.github.io/categories/globular-cluster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/categories/globular-cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population III</title>
+      <link>https://nebula0.github.io/categories/population-iii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/categories/population-iii/</guid>
       <description></description>
     </item>
     

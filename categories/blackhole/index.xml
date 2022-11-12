@@ -9,30 +9,30 @@
     <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/blackhole/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Circumbinary Accretion: From Binary Stars to Massive Binary Black Holes</title>
-      <link>https://nebula0.github.io/new_article2/radiative-transfer/circumbinary_accretion_from_binary_stars_to_massive_binary_black_holes/</link>
+      <link>https://nebula0.github.io/article/circumbinary_accretion_from_binary_stars_to_massive_binary_black_holes/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article2/radiative-transfer/circumbinary_accretion_from_binary_stars_to_massive_binary_black_holes/</guid>
+      <guid>https://nebula0.github.io/article/circumbinary_accretion_from_binary_stars_to_massive_binary_black_holes/</guid>
       <description>First author: Dong Lai
 We review recent works on the dynamics of circumbinary accretion, including time variability, angular momentum transfer between the disk and the binary, and the secular evolution of accreting binaries. These dynamics can impact stellar binary formation/evolution, circumbinary planet formation/migration, and the evolution of (super)massive black-hole binaries. We discuss the dynamics and evolution of inclined/warped circumbinary disks and connect with recent observations of protoplanetary disks. A special kind of circumbinary accretion involves binaries embedded in &amp;ldquo;big&amp;rdquo; disks, which may contribute to the mergers of stellar-mass black holes in AGN disks.</description>
     </item>
     
     <item>
       <title>Deep Learning Detection and Classification of Gravitational Waves from Neutron Star-Black Hole Mergers</title>
-      <link>https://nebula0.github.io/new_article/galaxy-merger/deep_learning_detection_and_classification_of_gravitational_waves_from_neutron_star-black_hole_mergers/</link>
+      <link>https://nebula0.github.io/article/deep_learning_detection_and_classification_of_gravitational_waves_from_neutron_star-black_hole_mergers/</link>
       <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/galaxy-merger/deep_learning_detection_and_classification_of_gravitational_waves_from_neutron_star-black_hole_mergers/</guid>
+      <guid>https://nebula0.github.io/article/deep_learning_detection_and_classification_of_gravitational_waves_from_neutron_star-black_hole_mergers/</guid>
       <description>First author: Richard Qiu
 The Laser Interferometer Gravitational-Wave Observatory (LIGO) and Virgo Interferometer Collaborations have now detected all three classes of compact binary mergers: binary black hole (BBH), binary neutron star (BNS), and neutron star-black hole (NSBH). For coalescences involving neutron stars, the simultaneous observation of gravitational and electromagnetic radiation produced by an event, has broader potential to enhance our understanding of these events, and also to probe the equation of state (EOS) of dense matter.</description>
     </item>
     
     <item>
       <title>Cover Your Basis: Comprehensive Data-Driven Characterization of the Binary Black Hole Population</title>
-      <link>https://nebula0.github.io/new_article/galaxy-merger/cover_your_basis_comprehensive_data-driven_characterization_of_the_binary_black_hole_population/</link>
+      <link>https://nebula0.github.io/article/cover_your_basis_comprehensive_data-driven_characterization_of_the_binary_black_hole_population/</link>
       <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/galaxy-merger/cover_your_basis_comprehensive_data-driven_characterization_of_the_binary_black_hole_population/</guid>
+      <guid>https://nebula0.github.io/article/cover_your_basis_comprehensive_data-driven_characterization_of_the_binary_black_hole_population/</guid>
       <description>First author: Bruce Edelman
 We introduce the first complete non-parametric model for the astrophysical distribution of the binary black hole (BBH) population. Constructed from basis splines, we use these models to conduct the most comprehensive data-driven investigation of the BBH population to date, simultaneously fitting non-parametric models for the BBH mass ratio, spin magnitude and misalignment, and redshift distributions. With GWTC-3, we report the same features previously recovered with similarly flexible models of the mass distribution, most notably the peaks in merger rates at primary masses of ${\sim}10,M_\odot$ and ${\sim}35,M_\odot$.</description>
     </item>

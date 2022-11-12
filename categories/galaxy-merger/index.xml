@@ -6,85 +6,115 @@
     <description>Recent content in galaxy merger on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/galaxy-merger/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/galaxy-merger/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Morphological signatures of mergers in the TNG50 simulation and the Kilo-Degree Survey: the merger fraction from dwarfs to Milky Way-like galaxies</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2210.14123/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/arxiv.2210.14123/</guid>
+      <description>Tiger Yu-Yang Hsiao
+MACS0647$-$JD is a triply-lensed $z\sim11$ galaxy originally discovered with the Hubble Space Telescope. Here we report new JWST imaging, which clearly resolves MACS0647$-$JD as having two components that are either merging galaxies or stellar complexes within a single galaxy. Both are very small, with stellar masses $\sim10^8,M_\odot$ and radii $r&amp;lt;100,\rm pc$. The brighter larger component &amp;quot;A&amp;quot; is intrinsically very blue ($β\sim-2.6$), likely due to very recent star formation and no dust, and is spatially extended with an effective radius $\sim70,\rm pc$.</description>
+    </item>
+    
+    <item>
+      <title>Morphological signatures of mergers in the TNG50 simulation and the Kilo-Degree Survey: the merger fraction from dwarfs to Milky Way-like galaxies</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2211.05785/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/arxiv.2211.05785/</guid>
+      <description>Alejandro Guzmán-Ortega
+Using the TNG50 cosmological simulation and observations from the Kilo-Degree Survey (KiDS), we investigate the connection between galaxy mergers and optical morphology in the local Universe over a wide range of galaxy stellar masses ($8.5\leqslant\log(M_\ast/\text{M}\odot)\leqslant11$). To this end, we have generated over 16,000 synthetic images of TNG50 galaxies designed to match KiDS observations, including the effects of dust attenuation and scattering, and used the $\mathrm{\mathtt{statmorph}}$ code to measure various image-based morphological diagnostics in the $r$-band for both data sets.</description>
+    </item>
+    
     <item>
       <title>Constrain the Merger History of Primordial-Black-Hole Binaries from GWTC-3</title>
-      <link>https://nebula0.github.io/new_article/galaxy-merger/constrain_the_merger_history_of_primordial-black-hole_binaries_from_gwtc-3/</link>
+      <link>https://nebula0.github.io/article/constrain_the_merger_history_of_primordial-black-hole_binaries_from_gwtc-3/</link>
       <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/galaxy-merger/constrain_the_merger_history_of_primordial-black-hole_binaries_from_gwtc-3/</guid>
+      <guid>https://nebula0.github.io/article/constrain_the_merger_history_of_primordial-black-hole_binaries_from_gwtc-3/</guid>
       <description>First author: Lang Liu
 Primordial black holes (PBHs) can be not only cold dark matter candidates but also progenitors of binary black holes observed by LIGO-Virgo-KAGRA (LVK) Collaboration. The PBH mass can be shifted to the heavy distribution if multi-merger processes occur. In this work, we constrain the merger history of PBH binaries using the gravitational wave events from the third Gravitational-Wave Transient Catalog (GWTC-3). Considering four commonly used PBH mass functions, namely the log-normal, power-law, broken power-law, and critical collapse forms, we find that the multi-merger processes make a subdominant contribution to the total merger rate.</description>
     </item>
     
     <item>
       <title>From starburst to quenching: merger-driven evolution of the star formation regimes in a shell galaxy</title>
-      <link>https://nebula0.github.io/new_article/galaxy-merger/from_starburst_to_quenching_merger-driven_evolution_of_the_star_formation_regimes_in_a_shell_galaxy/</link>
+      <link>https://nebula0.github.io/article/from_starburst_to_quenching_merger-driven_evolution_of_the_star_formation_regimes_in_a_shell_galaxy/</link>
       <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/galaxy-merger/from_starburst_to_quenching_merger-driven_evolution_of_the_star_formation_regimes_in_a_shell_galaxy/</guid>
+      <guid>https://nebula0.github.io/article/from_starburst_to_quenching_merger-driven_evolution_of_the_star_formation_regimes_in_a_shell_galaxy/</guid>
       <description>First author: Jonathan Petersson
 Shell galaxies make a class of tidally distorted galaxies, characterised by wide concentric arc(s), extending out to large galactocentric distances with sharp outer edges. Recent observations of young massive star clusters in the prominent outer shell of NGC 474 suggest that such systems host extreme conditions of star formation. In this paper, we present a hydrodynamic simulation of a galaxy merger and its transformation into a shell galaxy.</description>
     </item>
     
     <item>
       <title>High-Resolution Chemical Abundances of the Nyx Stream</title>
-      <link>https://nebula0.github.io/new_article/galaxy-merger/high-resolution_chemical_abundances_of_the_nyx_stream/</link>
+      <link>https://nebula0.github.io/article/high-resolution_chemical_abundances_of_the_nyx_stream/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/galaxy-merger/high-resolution_chemical_abundances_of_the_nyx_stream/</guid>
+      <guid>https://nebula0.github.io/article/high-resolution_chemical_abundances_of_the_nyx_stream/</guid>
       <description>First author: S. Wang
 Nyx is a nearby, prograde, and high-eccentricity stellar stream physically contained in the thick disk but with an unknown origin. Nyx could be the remnant of a disrupted dwarf galaxy, in which case the associated dark matter substructure could affect terrestrial dark matter direct detection experiments. Alternatively, Nyx could be a signature of the Milky Way&amp;rsquo;s disk formation and evolution. To determine the origin of Nyx, we obtained high-resolution spectroscopy of 34 Nyx stars using Keck/HIRES and Magellan/MIKE.</description>
     </item>
     
     <item>
       <title>Missed opportunities: GRB 211211A and the case for continual gravitational-wave coverage with a single observatory</title>
-      <link>https://nebula0.github.io/new_article/galaxy-merger/missed_opportunities_grb_211211a_and_the_case_for_continual_gravitational-wave_coverage_with_a_single_observatory/</link>
+      <link>https://nebula0.github.io/article/missed_opportunities_grb_211211a_and_the_case_for_continual_gravitational-wave_coverage_with_a_single_observatory/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/galaxy-merger/missed_opportunities_grb_211211a_and_the_case_for_continual_gravitational-wave_coverage_with_a_single_observatory/</guid>
+      <guid>https://nebula0.github.io/article/missed_opportunities_grb_211211a_and_the_case_for_continual_gravitational-wave_coverage_with_a_single_observatory/</guid>
       <description>First author: Nikhil Sarin
 Gamma-ray burst GRB 211211A may have been the result of a neutron star merger at $\approx350$ Mpc. However, none of the LIGO-Virgo detectors were operating at the time. We show that the gravitational-wave signal from a \grb-like binary neutron star inspiral in the next LIGO-Virgo-KAGRA observing run (O4) would be below the conventional detection threshold, however a coincident gamma-ray burst observation would provide necessary information to claim a statistically-significant multimessenger observation.</description>
     </item>
     
     <item>
       <title>JWST reveals a possible $z \sim 11$ galaxy merger in triply-lensed MACS0647$-$JD</title>
-      <link>https://nebula0.github.io/new_article/galaxy-merger/jwst_reveals_a_possible__z__sim_11__galaxy_merger_in_triply-lensed_macs0647_-_jd/</link>
+      <link>https://nebula0.github.io/article/jwst_reveals_a_possible__z__sim_11__galaxy_merger_in_triply-lensed_macs0647_-_jd/</link>
       <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/galaxy-merger/jwst_reveals_a_possible__z__sim_11__galaxy_merger_in_triply-lensed_macs0647_-_jd/</guid>
+      <guid>https://nebula0.github.io/article/jwst_reveals_a_possible__z__sim_11__galaxy_merger_in_triply-lensed_macs0647_-_jd/</guid>
       <description>First author: Tiger Yu-Yang Hsiao
 MACS0647$-$JD is a triply-lensed $z\sim11$ galaxy originally discovered with the Hubble Space Telescope. Here we report new JWST imaging, which clearly resolves MACS0647$-$JD as having two components that are either merging galaxies or stellar complexes within a single galaxy. Both are very small, with stellar masses $\sim10^8,M_\odot$ and radii $r&amp;lt;100,\rm pc$. The brighter larger component &amp;ldquo;A&amp;rdquo; is intrinsically very blue ($\beta\sim-2.6$), likely due to very recent star formation and no dust, and is spatially extended with an effective radius $\sim70,\rm pc$.</description>
     </item>
     
     <item>
       <title>Monster radiative shocks in the perturbed magnetospheres of neutron stars</title>
-      <link>https://nebula0.github.io/new_article/galaxy-merger/monster_radiative_shocks_in_the_perturbed_magnetospheres_of_neutron_stars/</link>
+      <link>https://nebula0.github.io/article/monster_radiative_shocks_in_the_perturbed_magnetospheres_of_neutron_stars/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/galaxy-merger/monster_radiative_shocks_in_the_perturbed_magnetospheres_of_neutron_stars/</guid>
+      <guid>https://nebula0.github.io/article/monster_radiative_shocks_in_the_perturbed_magnetospheres_of_neutron_stars/</guid>
       <description>First author: Andrei M. Beloborodov
 Magnetospheres of neutron stars can be perturbed by star quakes or interaction in a binary system. The perturbations are typically in the kHz band and excite magnetohydrodynamic (MHD) waves. We show that compressive magnetospheric waves steepen into monster shocks mediated by radiation reaction, different from normal collisionless shocks. The shocks admit a simple analytical description. They expand through the magnetosphere with radiative losses, and then a blast wave is launched into the neutron-star wind.</description>
     </item>
     
     <item>
       <title>On the Merger Rate of Primordial Black Holes in Cosmic Voids</title>
-      <link>https://nebula0.github.io/new_article/galaxy-merger/on_the_merger_rate_of_primordial_black_holes_in_cosmic_voids/</link>
+      <link>https://nebula0.github.io/article/on_the_merger_rate_of_primordial_black_holes_in_cosmic_voids/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/galaxy-merger/on_the_merger_rate_of_primordial_black_holes_in_cosmic_voids/</guid>
+      <guid>https://nebula0.github.io/article/on_the_merger_rate_of_primordial_black_holes_in_cosmic_voids/</guid>
       <description>First author: Saeed Fakhry
 Cosmic voids are known as underdense substructures of the cosmic web that cover a large volume of the Universe. It is known that cosmic voids contain a small number of dark matter halos, so the existence of primordial black holes (PBHs) in these secluded regions of the Universe is not unlikely. In this work, we calculate the merger rate of PBHs in dark matter halos structured in cosmic voids and determine their contribution to gravitational wave events resulting from black hole mergers recorded by the Advanced Laser Interferometer Gravitational-Wave Observatory (aLIGO)-Advanced Virgo (aVirgo) detectors.</description>
     </item>
     
     <item>
       <title>Fermi Gamma-ray Space Telescope</title>
-      <link>https://nebula0.github.io/new_article/galaxy-merger/fermi_gamma-ray_space_telescope/</link>
+      <link>https://nebula0.github.io/article/fermi_gamma-ray_space_telescope/</link>
       <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/galaxy-merger/fermi_gamma-ray_space_telescope/</guid>
+      <guid>https://nebula0.github.io/article/fermi_gamma-ray_space_telescope/</guid>
       <description>First author: David J. Thompson
 The Fermi Gamma-ray Space Telescope, a key mission in multiwavelength and multimessenger studies, has been surveying the gamma-ray sky from its low-Earth orbit since 2008. Its two scientific instruments, the Gamma-ray Burst Monitor (GBM) and the Large Area Telescope (LAT), cover 8 orders of magnitude in photon energy. The GBM consists of 12 Sodium Iodide detectors and 2 Bismuth Germinate detectors, covering the 10 keV - 40 MeV energy range, arrayed on two sides of the spacecraft so as to view the entire sky that is not occulted by the Earth.</description>
+    </item>
+    
+    <item>
+      <title>Two Candidates for Dual AGN in Dwarf-Dwarf Galaxy Mergers</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2211.04609/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/arxiv.2211.04609/</guid>
+      <description>Marko Mićić
+Dual AGN are important for understanding galaxy-merger-triggered fueling of black holes and hierarchical growth of structures. The least explored type of dual AGN are those associated with mergers of two dwarf galaxies. According to observations and cosmological simulations, dwarf galaxies are the most abundant type of galaxies in the early Universe and the galaxy merger rate is dominated by dwarfs. However, these mergers are generally too distant to be directly observed, and low-redshift dwarf-dwarf merger-related dual AGN are notoriously hard to find.</description>
     </item>
     
   </channel>

@@ -6,103 +6,53 @@
     <description>Recent content in galactic bugle on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/galactic-bugle/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cosmic evolution of the incidence of Active Galactic Nuclei in massive clusters: Simulations versus observations</title>
-      <link>https://nebula0.github.io/new_article2/galactic-bugle/cosmic_evolution_of_the_incidence_of_active_galactic_nuclei_in_massive_clusters_simulations_versus_observations/</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article2/galactic-bugle/cosmic_evolution_of_the_incidence_of_active_galactic_nuclei_in_massive_clusters_simulations_versus_observations/</guid>
-      <description>First author: Iván Muñoz Rodríguez
-This paper explores the role of small-scale environment ($&amp;lt;1$ Mpc) in modulating accretion events onto supermassive black holes by studying the incidence of Active Galactic Nuclei (AGN) in massive clusters of galaxies. A flexible, data-driven semi-empirical model is developed based on a minimal set of parameters and under the zero order assumption that the incidence of AGN in galaxies is independent of environment. This is used to predict how the fraction of X-ray selected AGN among galaxies in massive dark matter halos ($\gtrsim 3\times 10^{14},M_{\odot}$) evolves with redshift and reveal tensions with observations.</description>
-    </item>
-    
-    <item>
-      <title>Radio observations of four active galactic nuclei hosting intermediate-mass black hole candidates: studying the outflow activity and evolution</title>
-      <link>https://nebula0.github.io/new_article2/galactic-bugle/radio_observations_of_four_active_galactic_nuclei_hosting_intermediate-mass_black_hole_candidates_studying_the_outflow_activity_and_evolution/</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article2/galactic-bugle/radio_observations_of_four_active_galactic_nuclei_hosting_intermediate-mass_black_hole_candidates_studying_the_outflow_activity_and_evolution/</guid>
-      <description>First author: Xiaolong Yang
-Observational searches for intermediate-mass black holes (IMBHs; $10^2 - 10^6$ $M_\odot$) include relatively isolated dwarf galaxies. For those that host active galactic nuclei (AGNs), the IMBH nature may be discerned through the accretion - jet activity. We present radio observations of four AGN-hosting dwarf galaxies (which potentially harbor IMBHs). Very large array (VLA) observations indicate steep spectra (indices of $-$0.63 to $-$1.05) between 1.4 and 9 GHz.</description>
-    </item>
-    
-    <item>
-      <title>Supernova-remnant origin of the Galactic-Centre filaments</title>
-      <link>https://nebula0.github.io/new_article2/galactic-bugle/supernova-remnant_origin_of_the_galactic-centre_filaments/</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article2/galactic-bugle/supernova-remnant_origin_of_the_galactic-centre_filaments/</guid>
-      <description>First author: Yoshiaki Sofue
-The mechanism to produce the numerous Galactic-Centre filaments (GCF) that vertically penetrate the Galactic plane without clear evidence of connection to the disc remains a mystery . Here we show that the GCFs are explained by relics of supernova remnants (rSNR) driven by hundreds of supernovae (SNe) exploded in the star-forming ring of the central molecular zone (CMZ) at an SN rate of $\sim 2\times 10^{-4}$ y$^{-1}$ in the past $\sim 0.</description>
-    </item>
-    
-    <item>
-      <title>The effects of Time-Variable Absorption due to Gamma-Ray Bursts In Active Galactic Nuclei Accretion Disks</title>
-      <link>https://nebula0.github.io/new_article2/galactic-bugle/the_effects_of_time-variable_absorption_due_to_gamma-ray_bursts_in_active_galactic_nuclei_accretion_disks/</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article2/galactic-bugle/the_effects_of_time-variable_absorption_due_to_gamma-ray_bursts_in_active_galactic_nuclei_accretion_disks/</guid>
-      <description>First author: Michael Ray
-Both long and short gamma-ray bursts (GRBs) are expected to occur in the dense environments of active galactic nuclei (AGN) accretion disks. As these bursts propagate through the disks they live in, they photoionize the medium causing time-dependent opacity that results in transients with unique spectral evolution. In this paper we use a line-of-sight radiation transfer code coupling metal and dust evolution to simulate the time-dependent absorption that occurs in the case of both long and short GRBs.</description>
-    </item>
-    
-    <item>
-      <title>A new method of reconstructing Galactic three-dimensional structures using ultralong-wavelength radio observations</title>
-      <link>https://nebula0.github.io/new_article2/galactic-bugle/a_new_method_of_reconstructing_galactic_three-dimensional_structures_using_ultralong-wavelength_radio_observations/</link>
-      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article2/galactic-bugle/a_new_method_of_reconstructing_galactic_three-dimensional_structures_using_ultralong-wavelength_radio_observations/</guid>
-      <description>First author: Yanping Cong
-The free-free absorption of low frequency radio waves by thermal electrons in the warm ionized medium of our Galaxy becomes very significant at $\lesssim 10$ MHz (ultralong-wavelength), and the absorption strength depends on the radio frequency. Upcoming space experiments such as the Discovering Sky at the Longest wavelength (DSL) and Farside Array for Radio Science Investigations of the Dark ages and Exoplanets (FARSIDE) will produce high-resolution multi-frequency sky maps at the ultralong-wavelength, providing a new window to observe the Universe.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 28 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/galactic-bugle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A New Flaring Black Widow Candidate and Demographics of Black Widow Millisecond Pulsars in the Galactic Field</title>
-      <link>https://nebula0.github.io/new_article/galactic-bugle/a_new_flaring_black_widow_candidate_and_demographics_of_black_widow_millisecond_pulsars_in_the_galactic_field/</link>
+      <link>https://nebula0.github.io/article/a_new_flaring_black_widow_candidate_and_demographics_of_black_widow_millisecond_pulsars_in_the_galactic_field/</link>
       <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/galactic-bugle/a_new_flaring_black_widow_candidate_and_demographics_of_black_widow_millisecond_pulsars_in_the_galactic_field/</guid>
+      <guid>https://nebula0.github.io/article/a_new_flaring_black_widow_candidate_and_demographics_of_black_widow_millisecond_pulsars_in_the_galactic_field/</guid>
       <description>First author: Samuel J. Swihart
 We present the discovery of a new optical/X-ray source likely associated with the Fermi $\gamma$-ray source 4FGL J1408.6-2917. Its high-amplitude periodic optical variability, large spectroscopic radial velocity semi-amplitude, evidence for optical emission lines and flaring, and X-ray properties together imply the source is probably a new black widow millisecond pulsar binary. We compile the properties of the 41 confirmed and suspected field black widows, finding a median secondary mass of $0.</description>
     </item>
     
     <item>
       <title>Fermi-LAT detection of G118.4&#43;37.0: a supernova remnant in the Galactic halo seen around the Calvera pulsar</title>
-      <link>https://nebula0.github.io/new_article/galactic-bugle/fermi-lat_detection_of_g118.4&#43;37.0_a_supernova_remnant_in_the_galactic_halo_seen_around_the_calvera_pulsar/</link>
+      <link>https://nebula0.github.io/article/fermi-lat_detection_of_g118.4&#43;37.0_a_supernova_remnant_in_the_galactic_halo_seen_around_the_calvera_pulsar/</link>
       <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/galactic-bugle/fermi-lat_detection_of_g118.4&#43;37.0_a_supernova_remnant_in_the_galactic_halo_seen_around_the_calvera_pulsar/</guid>
+      <guid>https://nebula0.github.io/article/fermi-lat_detection_of_g118.4&#43;37.0_a_supernova_remnant_in_the_galactic_halo_seen_around_the_calvera_pulsar/</guid>
       <description>First author: Miguel Araya
 The discovery of a non-thermal radio ring of low surface brightness about one degree in diameter has been recently reported around the location in the sky of the Calvera pulsar, at a high Galactic latitude. The radio properties point to it likely being a new supernova remnant (SNR), G118.4+37.0. We report an analysis of almost 14 years of observations of this region by the gamma-ray Large Area Telescope onboard the Fermi satellite.</description>
     </item>
     
     <item>
       <title>Re-investigating stellar, solar and galactic spectral modulations: rapidly oscillating spacetime effects due to axions or numerical ghosts?</title>
-      <link>https://nebula0.github.io/new_article/galactic-bugle/re-investigating_stellar_solar_and_galactic_spectral_modulations_rapidly_oscillating_spacetime_effects_due_to_axions_or_numerical_ghosts/</link>
+      <link>https://nebula0.github.io/article/re-investigating_stellar_solar_and_galactic_spectral_modulations_rapidly_oscillating_spacetime_effects_due_to_axions_or_numerical_ghosts/</link>
       <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/galactic-bugle/re-investigating_stellar_solar_and_galactic_spectral_modulations_rapidly_oscillating_spacetime_effects_due_to_axions_or_numerical_ghosts/</guid>
+      <guid>https://nebula0.github.io/article/re-investigating_stellar_solar_and_galactic_spectral_modulations_rapidly_oscillating_spacetime_effects_due_to_axions_or_numerical_ghosts/</guid>
       <description>First author: Fabrizio Tamburini
 In our previous work [Tamburini and Licata (2017)] we discussed the hypothesis that the ultrafast periodic spectral modulations with frequency $f_S \simeq 0.61$ THz found by Borra and Trottier (2016) in $236$ main sequence stars from a sample of $2.5$ million spectra of galactic halo stars of the Sloan Digital Sky Survey were due to axion-like dark matter piled up in the center of these stars.</description>
     </item>
     
     <item>
       <title>Superposing the Magnetic spiral structure of the Milky Way, on the stellar spiral arms -- Matching the unique galactic magnetic field reversal Zone with two galactic spiral arm Segments</title>
-      <link>https://nebula0.github.io/new_article/galactic-bugle/superposing_the_magnetic_spiral_structure_of_the_milky_way_on_the_stellar_spiral_arms_--_matching_the_unique_galactic_magnetic_field_reversal_zone_with_two_galactic_spiral_arm_segments/</link>
+      <link>https://nebula0.github.io/article/superposing_the_magnetic_spiral_structure_of_the_milky_way_on_the_stellar_spiral_arms_--_matching_the_unique_galactic_magnetic_field_reversal_zone_with_two_galactic_spiral_arm_segments/</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/galactic-bugle/superposing_the_magnetic_spiral_structure_of_the_milky_way_on_the_stellar_spiral_arms_--_matching_the_unique_galactic_magnetic_field_reversal_zone_with_two_galactic_spiral_arm_segments/</guid>
+      <guid>https://nebula0.github.io/article/superposing_the_magnetic_spiral_structure_of_the_milky_way_on_the_stellar_spiral_arms_--_matching_the_unique_galactic_magnetic_field_reversal_zone_with_two_galactic_spiral_arm_segments/</guid>
       <description>First author: Jacques P Vallee
 To pinpoint the peak location of the synchrotron total intensity emission in a spiral arm, we use a map of the spiralarm locations (from the observed arm tangent). Thus In a typical spiral arm in Galactic Quadrant I, we find the peak of the synchrotron radiation to be located about 220 +/-40 pc away from the inner arm edge (hot dust lane) inside the spiral arm.</description>
     </item>
     
     <item>
       <title>A family of potential-density pairs for galactic bars</title>
-      <link>https://nebula0.github.io/new_article/galactic-bugle/a_family_of_potential-density_pairs_for_galactic_bars/</link>
+      <link>https://nebula0.github.io/article/a_family_of_potential-density_pairs_for_galactic_bars/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/galactic-bugle/a_family_of_potential-density_pairs_for_galactic_bars/</guid>
+      <guid>https://nebula0.github.io/article/a_family_of_potential-density_pairs_for_galactic_bars/</guid>
       <description>First author: Walter Dehnen
 We present a family of analytical potential-density pairs for barred discs, which can be combined to describe galactic bars in a realistic way, including boxy/peanut components. We illustrate this with two reasonable compound models. Computer code for the evaluation of potential, forces, density, and projected density is freely provided.
 arxiv link
@@ -111,30 +61,30 @@ pdf link</description>
     
     <item>
       <title>Measurement of the $\sim 10^{-16}$~Gauss inter-galactic magnetic field with high energy emission of GRB 221009A</title>
-      <link>https://nebula0.github.io/new_article/galactic-bugle/measurement_of_the___sim_10-16_~gauss_inter-galactic_magnetic_field_with_high_energy_emission_of_grb_221009a/</link>
+      <link>https://nebula0.github.io/article/measurement_of_the___sim_10-16_~gauss_inter-galactic_magnetic_field_with_high_energy_emission_of_grb_221009a/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/galactic-bugle/measurement_of_the___sim_10-16_~gauss_inter-galactic_magnetic_field_with_high_energy_emission_of_grb_221009a/</guid>
+      <guid>https://nebula0.github.io/article/measurement_of_the___sim_10-16_~gauss_inter-galactic_magnetic_field_with_high_energy_emission_of_grb_221009a/</guid>
       <description>First author: Zi-Qing Xia
 The fast evolving TeV-PeV transients and their delayed GeV-TeV cascade emission in principle server as an ideal probe of the inter-galactic magnetic fields which are hard to be measured by other methods. Very recently, LHASSO has detected the very high energy emission of the extraordinary powerful GRB 221009A up to $\sim 18$ TeV within $\sim 2000$ s after the burst trigger. Here we report the detection of a $\sim 400$ GeV photon, without accompanying prominent $\gamma$ rays down to $\sim 2$ GeV, by Fermi-LAT in the direction of GRB 221009A at about 0.</description>
     </item>
     
     <item>
       <title>The Active Galactic Nuclei in the Hobby-Eberly Telescope Dark Energy Experiment Survey (HETDEX) III. A red quasar with extremely high equivalent widths showing powerful outflows</title>
-      <link>https://nebula0.github.io/new_article/galactic-bugle/the_active_galactic_nuclei_in_the_hobby-eberly_telescope_dark_energy_experiment_survey_hetdex_iii._a_red_quasar_with_extremely_high_equivalent_widths_showing_powerful_outflows/</link>
+      <link>https://nebula0.github.io/article/the_active_galactic_nuclei_in_the_hobby-eberly_telescope_dark_energy_experiment_survey_hetdex_iii._a_red_quasar_with_extremely_high_equivalent_widths_showing_powerful_outflows/</link>
       <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/galactic-bugle/the_active_galactic_nuclei_in_the_hobby-eberly_telescope_dark_energy_experiment_survey_hetdex_iii._a_red_quasar_with_extremely_high_equivalent_widths_showing_powerful_outflows/</guid>
+      <guid>https://nebula0.github.io/article/the_active_galactic_nuclei_in_the_hobby-eberly_telescope_dark_energy_experiment_survey_hetdex_iii._a_red_quasar_with_extremely_high_equivalent_widths_showing_powerful_outflows/</guid>
       <description>First author: Chenxu Liu
 We report an Active Galactic Nucleus (AGN) with extremely high equivalent width (EW), EW(LyA+NV,rest)&amp;gt;921 AA in the rest-frame, at z~2.24 in the Hobby-Eberly Telescope Dark Energy Experiment Survey (HETDEX) as a representative case of the high EW AGN population. The continuum level is a non-detection in the HETDEX spectrum, thus the measured EW is a lower limit. The source is detected with significant emission lines (&amp;gt;7sigma) at LyA+NV, CIV, and moderate emission line (~4sigma) at HeII within the wavelength coverage of HETDEX (3500 AA - 5500 AA).</description>
     </item>
     
     <item>
       <title>Evolved eclipsing binary systems in the Galactic bulge: Precise physical and orbital parameters of OGLE-BLG-ECL-305487 and OGLE-BLG-ECL-116218</title>
-      <link>https://nebula0.github.io/new_article/galactic-bugle/evolved_eclipsing_binary_systems_in_the_galactic_bulge_precise_physical_and_orbital_parameters_of_ogle-blg-ecl-305487_and_ogle-blg-ecl-116218/</link>
+      <link>https://nebula0.github.io/article/evolved_eclipsing_binary_systems_in_the_galactic_bulge_precise_physical_and_orbital_parameters_of_ogle-blg-ecl-305487_and_ogle-blg-ecl-116218/</link>
       <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/galactic-bugle/evolved_eclipsing_binary_systems_in_the_galactic_bulge_precise_physical_and_orbital_parameters_of_ogle-blg-ecl-305487_and_ogle-blg-ecl-116218/</guid>
+      <guid>https://nebula0.github.io/article/evolved_eclipsing_binary_systems_in_the_galactic_bulge_precise_physical_and_orbital_parameters_of_ogle-blg-ecl-305487_and_ogle-blg-ecl-116218/</guid>
       <description>First author: K. Suchomska
 Our goal is to determine, with high accuracy, the physical and orbital parameters of two double-lined eclipsing binary systems, where the components are two giant stars. We also aim to study the evolutionary status of the binaries, to derive the distances towards them by using a surface brightness-colour relation, and to compare these measurements with the measurements presented by the Gaia mission. In order to measure the physical and orbital parameters of the systems, we analysed the light curves and radial-velocity curves with the Wilson-Devinney code.</description>
     </item>

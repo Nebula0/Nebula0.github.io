@@ -9,60 +9,50 @@
     <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/nuclear-reactions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A numerical modeling of rotating substellar objects up to mass-shedding limits</title>
-      <link>https://nebula0.github.io/new_article2/nuclear-reactions/a_numerical_modeling_of_rotating_substellar_objects_up_to_mass-shedding_limits/</link>
+      <link>https://nebula0.github.io/article/a_numerical_modeling_of_rotating_substellar_objects_up_to_mass-shedding_limits/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article2/nuclear-reactions/a_numerical_modeling_of_rotating_substellar_objects_up_to_mass-shedding_limits/</guid>
+      <guid>https://nebula0.github.io/article/a_numerical_modeling_of_rotating_substellar_objects_up_to_mass-shedding_limits/</guid>
       <description>First author: Shin&amp;rsquo;ichirou Yoshida
 Rotation may affect the occurrence of sustainable hydrogen burning in very low-mass stellar objects by the introduction of centrifugal force to the hydrostatic balance as well as by the appearance of rotational break-up of the objects (mass-shedding limit) for rapidly rotating cases. We numerically construct the models of rotating very low-mass stellar objects that may or may not experience sustained nuclear reaction (hydrogen-burning) as their energy source.</description>
     </item>
     
     <item>
-      <title>The Impact of Beam Variations on Power Spectrum Estimation for 21-cm Cosmology I: Simulations of Foreground Contamination for HERA</title>
-      <link>https://nebula0.github.io/new_article/nuclear-reactions/the_impact_of_beam_variations_on_power_spectrum_estimation_for_21-cm_cosmology_i_simulations_of_foreground_contamination_for_hera/</link>
-      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/nuclear-reactions/the_impact_of_beam_variations_on_power_spectrum_estimation_for_21-cm_cosmology_i_simulations_of_foreground_contamination_for_hera/</guid>
-      <description>First author: Honggeun Kim
-Detecting cosmological signals from the Epoch of Reionization (EoR) requires high-precision calibration to isolate the cosmological signals from foreground emission. In radio interferometery, perturbed primary beams of antenna elements can disrupt the precise calibration, which results in contaminating the foreground-free region, or the EoR window, in the cylindrically averaged power spectrum. For Hydrogen Epoch of Reionization Array (HERA), we simulate and characterize the perturbed primary beams induced by feed motions such as axial, lateral, and tilting motions, above the 14-meter dish.</description>
-    </item>
-    
-    <item>
       <title>Mid-Infrared Echoes of Ambiguous Nuclear Transients Reveal High Dust Covering Fractions: Evidence for Dusty Tori</title>
-      <link>https://nebula0.github.io/new_article/nuclear-reactions/mid-infrared_echoes_of_ambiguous_nuclear_transients_reveal_high_dust_covering_fractions_evidence_for_dusty_tori/</link>
+      <link>https://nebula0.github.io/article/mid-infrared_echoes_of_ambiguous_nuclear_transients_reveal_high_dust_covering_fractions_evidence_for_dusty_tori/</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/nuclear-reactions/mid-infrared_echoes_of_ambiguous_nuclear_transients_reveal_high_dust_covering_fractions_evidence_for_dusty_tori/</guid>
+      <guid>https://nebula0.github.io/article/mid-infrared_echoes_of_ambiguous_nuclear_transients_reveal_high_dust_covering_fractions_evidence_for_dusty_tori/</guid>
       <description>First author: Jason T. Hinkle
 Alongside the recent increase in discoveries of tidal disruption events (TDEs) have come an increasing number of ambiguous nuclear transients (ANTs). These ANTs are characterized by hot blackbody-like UV/optical spectral energy distributions (SEDs) and smooth photometric evolution, often with hard powerlaw-like X-ray emission. ANTs are likely exotic TDEs or smooth flares originating in otherwise narrow-line active galactic nuclei (AGNs). While their emission in the UV/optical and X-ray has been relatively well-explored, their infrared (IR) emission has not been studied in detail.</description>
     </item>
     
     <item>
       <title>Twin stars as probes of the nuclear equation of state: effects of rotation through the PSR J0952-0607 pulsar and constraints via the tidal deformability from the GW170817 event</title>
-      <link>https://nebula0.github.io/new_article/nuclear-reactions/twin_stars_as_probes_of_the_nuclear_equation_of_state_effects_of_rotation_through_the_psr_j0952-0607_pulsar_and_constraints_via_the_tidal_deformability_from_the_gw170817_event/</link>
+      <link>https://nebula0.github.io/article/twin_stars_as_probes_of_the_nuclear_equation_of_state_effects_of_rotation_through_the_psr_j0952-0607_pulsar_and_constraints_via_the_tidal_deformability_from_the_gw170817_event/</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/nuclear-reactions/twin_stars_as_probes_of_the_nuclear_equation_of_state_effects_of_rotation_through_the_psr_j0952-0607_pulsar_and_constraints_via_the_tidal_deformability_from_the_gw170817_event/</guid>
+      <guid>https://nebula0.github.io/article/twin_stars_as_probes_of_the_nuclear_equation_of_state_effects_of_rotation_through_the_psr_j0952-0607_pulsar_and_constraints_via_the_tidal_deformability_from_the_gw170817_event/</guid>
       <description>First author: L. Tsaloukidis
 In agreement with the constantly increasing gravitational wave events, new aspects of the internal structure of compact stars can be considered. A scenario in which a first order transition takes place inside these stars is of particular interest as it can lead, under conditions, to a third gravitationally stable branch (besides white dwarfs and neutron stars), the twin stars. The new branch yields stars with the same mass as normal compact stars but quite different radii.</description>
     </item>
     
     <item>
       <title>Direct Determination of the Activation Energy for Diffusion of OH Radicals on Water Ice</title>
-      <link>https://nebula0.github.io/new_article/nuclear-reactions/direct_determination_of_the_activation_energy_for_diffusion_of_oh_radicals_on_water_ice/</link>
+      <link>https://nebula0.github.io/article/direct_determination_of_the_activation_energy_for_diffusion_of_oh_radicals_on_water_ice/</link>
       <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/nuclear-reactions/direct_determination_of_the_activation_energy_for_diffusion_of_oh_radicals_on_water_ice/</guid>
+      <guid>https://nebula0.github.io/article/direct_determination_of_the_activation_energy_for_diffusion_of_oh_radicals_on_water_ice/</guid>
       <description>First author: A. Miyazaki
 Using a combination of photostimulated desorption and resonance-enhanced multiphoton ionization methods, the behaviors of OH radicals on the surface of interstellar ice analog was monitored at temperatures between 54 and 80 K. The OH number density on the surface of ultraviolet (UV)-irradiated compact amorphous solid water gradually decreased at temperatures above 60 K. Analyzing the temperature dependence of OH intensities with the Arrhenius equation, the decrease can be explained by recombination of two OH radicals, which is rate-limited by thermal diffusion of OH.</description>
     </item>
     
     <item>
       <title>Polyaromatic Hydrocarbons with an Imperfect Aromatic System as Catalysts of Interstellar H$_{2}$ Formation</title>
-      <link>https://nebula0.github.io/new_article/nuclear-reactions/polyaromatic_hydrocarbons_with_an_imperfect_aromatic_system_as_catalysts_of_interstellar_h__2__formation/</link>
+      <link>https://nebula0.github.io/article/polyaromatic_hydrocarbons_with_an_imperfect_aromatic_system_as_catalysts_of_interstellar_h__2__formation/</link>
       <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/nuclear-reactions/polyaromatic_hydrocarbons_with_an_imperfect_aromatic_system_as_catalysts_of_interstellar_h__2__formation/</guid>
+      <guid>https://nebula0.github.io/article/polyaromatic_hydrocarbons_with_an_imperfect_aromatic_system_as_catalysts_of_interstellar_h__2__formation/</guid>
       <description>First author: David P. Jelenfi
 Although H${2}$ is the simplest and the most abundant molecule in the Universe, its formation in the interstellar medium, especially in the photodissociation regions is far from being fully understood. According to suggestions, the formation of H${2}$ is catalyzed by polyaromatic hydrocarbons (PAHs) on the surface of interstellar grains. In the present study, we have investigated the catalytic effect of small PAHs with an imperfect aromatic system.</description>
     </item>
