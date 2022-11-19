@@ -5,23 +5,34 @@
     <link>https://nebula0.github.io/categories/population-iii/</link>
     <description>Recent content in Population III on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://nebula0.github.io/categories/population-iii/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/population-iii/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On the population III binary black hole mergers with intermediate mass black holes: dependence on common envelope parameter</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2211.07496/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/arxiv.2211.07496/</guid>
+      <description>Kotaro Hijikawa
+The current gravitational wave (GW) detectors have successfully observed many binary compact objects, and the third generation ground-based GW detectors such as Einstein telescope and space-borne detectors such as LISA will start their GW observation in a decade. Ahead of the arrival of this new era, we perform a binary population synthesis calculation for very massive (&amp;lt;span class=&amp;quot;MathJax_Preview&amp;quot; style=&amp;quot;display: none;&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;MathJax&amp;quot; id=&amp;quot;MathJax-Element-1-Frame&amp;quot; tabindex=&amp;quot;0&amp;quot; style=&amp;quot;&amp;quot;&amp;gt;&amp;lt;nobr&amp;gt;&amp;lt;span class=&amp;quot;math&amp;quot; id=&amp;quot;MathJax-Span-1&amp;quot; style=&amp;quot;width: 1.</description>
+    </item>
+    
     <item>
       <title>Impact of Population III homogeneous stellar evolution on early cosmic reionisation</title>
-      <link>https://nebula0.github.io/new_article/arxiv.2205.15125/</link>
+      <link>https://nebula0.github.io/article/arxiv.2205.15125/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/arxiv.2205.15125/</guid>
+      <guid>https://nebula0.github.io/article/arxiv.2205.15125/</guid>
       <description>Yves Sibony
 Context: Population III (Pop III) stars may be fast rotating. An expected consequence of fast rotation is strong internal mixing that deeply affects their evolutionary tracks in the Hertzsprung-Russell diagram and hence their ionising power. aims: We investigate the impact on the ionising power of Pop III stars in an extreme case of internal mixing, the one leading to chemically homogeneous evolution (CHE). In that situation, during the main sequence phase, the star keeps the same chemical composition from its center to its surface.</description>
     </item>
     
     <item>
       <title>On the observability and identification of Population III galaxies with JWST</title>
-      <link>https://nebula0.github.io/new_article/arxiv.2211.02038/</link>
+      <link>https://nebula0.github.io/article/arxiv.2211.02038/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/arxiv.2211.02038/</guid>
+      <guid>https://nebula0.github.io/article/arxiv.2211.02038/</guid>
       <description>James A. A. Trussler
 We utilise theoretical models of Population III stellar+nebular spectra to investigate the prospects of observing and accurately identifying Population III galaxies with JWST using both deep imaging and spectroscopy. We investigate a series of different colour cuts, finding that a combination of NIRCam and MIRI photometry through the F444W-F560W, F560W-F770W colours offers the most robust identifier of potential $z=8$ Pop III candidates. We calculate that NIRCam will have to reach $\sim$ 28.</description>
     </item>

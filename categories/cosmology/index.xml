@@ -6,7 +6,67 @@
     <description>Recent content in cosmology on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Euclid: performance on main cosmological parameter science</title>
+      <link>https://nebula0.github.io/new_article/euclid_performance_on_main_cosmological_parameter_science/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/euclid_performance_on_main_cosmological_parameter_science/</guid>
+      <description>First author: Isaac Tutusaus
+Euclid will observe 15 000 deg$^2$ of the darkest sky, in regions free of contamination by light from our Galaxy and our Solar System. Three &amp;ldquo;Euclid Deep Fields&amp;rdquo; surveys covering around 40 deg$^2$ in total will extend the scientific scope of the mission to the high-redshift Universe. The complete survey will be constituted by hundreds of thousands of images and several tens of petabytes of data.</description>
+    </item>
+    
+    <item>
+      <title>A Tilt Instability in the Cosmological Principle</title>
+      <link>https://nebula0.github.io/new_article/a_tilt_instability_in_the_cosmological_principle/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/a_tilt_instability_in_the_cosmological_principle/</guid>
+      <description>First author: Chethan Krishnan
+We show that the Friedmann-Lema^{i}tre-Robertson-Walker (FLRW) framework has an instability towards the growth of fluid flow anisotropies, even if the Universe is accelerating. This flow (tilt) instability in the matter sector is invisible to Cosmic No-Hair Theorem-like arguments, which typically only flag shear anisotropies in the metric. We illustrate our claims in the setting of ``dipole cosmology&amp;rsquo;&amp;rsquo;, the maximally Copernican generalization of FLRW that can accommodate a flow.</description>
+    </item>
+    
+    <item>
+      <title>Lagrangian displacement field estimators in cosmology</title>
+      <link>https://nebula0.github.io/new_article/lagrangian_displacement_field_estimators_in_cosmology/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/lagrangian_displacement_field_estimators_in_cosmology/</guid>
+      <description>First author: Atsuhisa Ota
+The nonlinear Lagrangian displacement field and initial linear density field are highly correlated. Therefore, reconstructing the nonlinear displacement field could better extract the primordial cosmological information from the late time density field. Continuing from Ref. [1], we investigate to what extent the iterative displacement reconstruction in Ref. [2] can recover the true displacement field with a particular emphasis on improving the numerical discreteness effect and improving the perturbation theory model for the postreconstructed field.</description>
+    </item>
+    
+    <item>
+      <title>Cosmological constraints on unimodular gravity models with diffusion</title>
+      <link>https://nebula0.github.io/new_article/cosmological_constraints_on_unimodular_gravity_models_with_diffusion/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/cosmological_constraints_on_unimodular_gravity_models_with_diffusion/</guid>
+      <description>First author: Susana J. Landau
+A discrete space-time structure lying at about the Planck scale may become manifest in the form of very small violations of the conservation of the matter energy-momentum tensor. In order to include such kind of violations, forbidden within the General Relativity framework, the theory of unimodular gravity seems as the simplest option to describe the gravitational interaction. In the cosmological context, a direct consequence of such violation of energy conservation might be heuristically viewed a &amp;ldquo;diffusion process of matter (both dark and ordinary)&amp;rdquo; into an effective dark energy term in Einstein&amp;rsquo;s equations, which leads under natural assumptions to an adequate estimate for the value of the cosmological constant.</description>
+    </item>
+    
+    <item>
+      <title>Beyond Fisher Forecasting for Cosmology</title>
+      <link>https://nebula0.github.io/new_article/beyond_fisher_forecasting_for_cosmology/</link>
+      <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/beyond_fisher_forecasting_for_cosmology/</guid>
+      <description>First author: Joseph Ryan
+The planning and design of future experiments rely heavily on forecasting to assess the potential scientific value provided by a hypothetical set of measurements. The Fisher information matrix, due to its convenient properties and low computational cost, provides an especially useful forecasting tool. However, the Fisher matrix only provides a reasonable approximation to the true likelihood when data are nearly Gaussian distributed and observables have nearly linear dependence on the parameters of interest.</description>
+    </item>
+    
+    <item>
+      <title>Emulating cosmological growth functions with B-Splines</title>
+      <link>https://nebula0.github.io/new_article/emulating_cosmological_growth_functions_with_b-splines/</link>
+      <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/emulating_cosmological_growth_functions_with_b-splines/</guid>
+      <description>First author: Ngai Pok Kwan
+In the light of GPU accelerations, sequential operations such as solving ordinary differential equations can be bottlenecks for gradient evaluations and hinder potential speed gains. In this work, we focus on growth functions and their time derivatives in cosmological particle mesh simulations and show that these are the majority time cost when using gradient based inference algorithms. We propose to construct novel conditional B-spline emulators which directly learn an interpolating function for the growth factor as a function of time, conditioned on the cosmology.</description>
+    </item>
+    
     <item>
       <title>Cosmic voids as cosmological laboratories</title>
       <link>https://nebula0.github.io/article/cosmic_voids_as_cosmological_laboratories/</link>

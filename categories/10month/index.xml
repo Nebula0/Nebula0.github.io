@@ -6,7 +6,97 @@
     <description>Recent content in 10(month) on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/10month/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/10month/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linking the Internal Properties of Infant Globular Clusters to their Formation Environments</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2211.09583/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/arxiv.2211.09583/</guid>
+      <description>Frederika Phipps
+We investigate the formation of infant globular cluster (GC) candidates in high-resolution cosmological simulations from the First Billion Years (FiBY) project. By analysing the evolution of the systems in the energy and angular momentum plane, we identify the redshift at which the infant GCs first became gravitationally bound, and we find evidence of radial infall of their gaseous and stellar components. The collapse appears to be driven by internal self-gravity, however, the initial trigger is sourced from the external environment.</description>
+    </item>
+    
+    <item>
+      <title>Shaken, not blown: the gentle baryonic feedback of nearby starburst dwarf galaxies</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2209.02726/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/arxiv.2209.02726/</guid>
+      <description>A. Marasco,
+Baryonic feedback is expected to play a key role in regulating the star formation of low-mass galaxies by producing galaxy-scale winds associated with mass-loading factors $β\!\sim\!1\!-\!50$. We have tested this prediction using a sample of 19 nearby systems with stellar masses $10^7\!&amp;amp;lt;\!M_\star/{\rm M}_{\odot}\!&amp;amp;lt;\!10^{10}$, mostly lying above the main sequence of star-forming galaxies. We used MUSE@VLT optical integral field spectroscopy to study the warm ionised gas kinematics of these galaxies via a detailed modelling of their H$α$ emission line.</description>
+    </item>
+    
+    <item>
+      <title>OSearching for the extra-tidal stars of globular clusters using high-dimensional analysis and a core particle spray code</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2207.11263/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/arxiv.2207.11263/</guid>
+      <description>Steffani M. Grondin
+Three-body interactions can eject stars from the core of a globular cluster, causing them to enter the Galactic halo as extra-tidal stars. While finding extra-tidal stars is imperative for understanding cluster evolution, connecting isolated extra-tidal field stars back to their birth cluster is extremely difficult. In this work, we present a new methodology consisting of high-dimensional data analysis and a particle spray code to identify extra-tidal stars of any Galactic globular cluster using M3 as a case study.</description>
+    </item>
+    
+    <item>
+      <title>The Pandora project. I: the impact of radiation and cosmic rays on baryonic and dark matter properties of dwarf galaxies</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2211.09139/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/arxiv.2211.09139/</guid>
+      <description>Sergio Martin-Alvarez
+Enshrouded in several well-known controversies, dwarf galaxies have been extensively studied to learn about the underlying cosmology, notwithstanding that physical processes regulating their properties are poorly understood. To shed light on these processes, we introduce the Pandora suite of 17 high-resolution (3.5 parsec half-cell side) dwarf galaxy formation cosmological simulations. Commencing with thermo-turbulent star formation and mechanical supernova feedback, we gradually increase the complexity of physics incorporated leading to full-physics models combining magnetism, on-the-fly radiative transfer and the corresponding stellar photoheating, and SN-accelerated cosmic rays.</description>
+    </item>
+    
+    <item>
+      <title>Combined search in dwarf spheroidal galaxies for branon dark matter annihilation signatures with the MAGIC Telescopes </title>
+      <link>https://nebula0.github.io/new_article/arxiv.2211.07979/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/arxiv.2211.07979/</guid>
+      <description>T. Miener,
+One of the most pressing questions for modern physics is the nature of dark matter (DM). Several efforts have been made to model this elusive kind of matter. The largest fraction of DM cannot be made of any of the known particles of the Standard Model (SM). We focus on brane world theory as a prospective framework for DM candidates beyond the SM of particle physics. The new degrees of freedom that appear in flexible brane world models, corresponding to brane fluctuations, are called branons.</description>
+    </item>
+    
+    <item>
+      <title>FLARES VIII. The Emergence of Passive Galaxies in the Early Universe (z&gt;5)</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2211.07540/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/arxiv.2211.07540/</guid>
+      <description>Christopher C. Lovell
+Passive galaxies are ubiquitous in the local universe, and various physical channels have been proposed that lead to this passivity. To date, robust passive galaxy candidates have been detected up to $z \leqslant 5$, but it is still unknown if they exist at higher redshifts, what their relative abundances are, and what causes them to stop forming stars. We present predictions from the First Light And Reionisation Epoch Simulations (FLARES), a series of zoom simulations of a range of overdensities using the EAGLE code.</description>
+    </item>
+    
+    <item>
+      <title>Chemo-dynamical substructure in the M31 inner halo globular clusters: Further evidence for a recent accretion event</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2211.07877/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/arxiv.2211.07877/</guid>
+      <description>Geraint F. Lewis
+Based upon a metallicity selection, we identify a significant sub-population of the inner halo globular clusters in the Andromeda Galaxy which we name the Dulais Structure. It is distinguished as a co-rotating group of 10-20 globular clusters which appear to be kinematically distinct from, and on average more metal-poor than, the majority of the inner halo population. Intriguingly, the orbital axis of this Dulais Structure is closely aligned with that of the younger accretion event recently identified using a sub-population of globular clusters in the outer halo of Andromeda, and this is strongly suggestive of a causal relationship between the two.</description>
+    </item>
+    
+    <item>
+      <title>Early or phantom dark energy, self-interacting, extra, or massive neutrinos, primordial magnetic fields, or a curved universe: An exploration of possible solutions to the $H_0$ and $σ_8$ problems</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2208.14435/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/arxiv.2208.14435/</guid>
+      <description>Helena García Escudero
+In this paper we explore the existing tensions in the local cosmological expansion rate, $H_0$, and amplitude of the clustering of large-scale structure at $8\, h^{-1}\mathrm{Mpc}$, $σ_8$, as well as models that claim to alleviate these tensions. We consider seven models: evolving dark energy ($w$CDM), extra radiation ($N_\mathrm{eff}$), massive neutrinos, curvature, primordial magnetic fields (PMF), self-interacting neutrino models, and early dark energy (EDE). We test these models against three data sets that span the full range of measurable cosmological epochs, have significant precision, and are well-tested against systematic effects: the Planck 2018 cosmic microwave background data, the Sloan Digital Sky Survey baryon acoustic oscillation scale measurements, and the Pantheon catalog of Type Ia supernovae.</description>
+    </item>
+    
+    <item>
+      <title>On the population III binary black hole mergers with intermediate mass black holes: dependence on common envelope parameter</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2211.07496/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/arxiv.2211.07496/</guid>
+      <description>Kotaro Hijikawa
+The current gravitational wave (GW) detectors have successfully observed many binary compact objects, and the third generation ground-based GW detectors such as Einstein telescope and space-borne detectors such as LISA will start their GW observation in a decade. Ahead of the arrival of this new era, we perform a binary population synthesis calculation for very massive (&amp;lt;span class=&amp;quot;MathJax_Preview&amp;quot; style=&amp;quot;display: none;&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span class=&amp;quot;MathJax&amp;quot; id=&amp;quot;MathJax-Element-1-Frame&amp;quot; tabindex=&amp;quot;0&amp;quot; style=&amp;quot;&amp;quot;&amp;gt;&amp;lt;nobr&amp;gt;&amp;lt;span class=&amp;quot;math&amp;quot; id=&amp;quot;MathJax-Span-1&amp;quot; style=&amp;quot;width: 1.</description>
+    </item>
+    
     <item>
       <title>A compact symmetric ejection from the low mass AGN in the LINER galaxy NGC 4293</title>
       <link>https://nebula0.github.io/article/a_compact_symmetric_ejection_from_the_low_mass_agn_in_the_liner_galaxy_ngc_4293/</link>

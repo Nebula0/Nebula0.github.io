@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>intergalactic on Explosion Group Paper collection</title>
+    <link>https://nebula0.github.io/categories/intergalactic/</link>
+    <description>Recent content in intergalactic on Explosion Group Paper collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/intergalactic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Probing quasar lifetimes with proximate $21$-centimetre absorption in the diffuse intergalactic medium at redshifts $z\geq 6$</title>
+      <link>https://nebula0.github.io/new_article/probing_quasar_lifetimes_with_proximate__21_-centimetre_absorption_in_the_diffuse_intergalactic_medium_at_redshifts__z_geq_6_/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/probing_quasar_lifetimes_with_proximate__21_-centimetre_absorption_in_the_diffuse_intergalactic_medium_at_redshifts__z_geq_6_/</guid>
+      <description>First author: Tomáš Šoltinský
+Enhanced ionizing radiation in close proximity to redshift $z\gtrsim 6$ quasars creates short windows of intergalactic Ly$\alpha$ transmission blueward of the quasar Ly$\alpha$ emission lines. The majority of these Ly$\alpha$ near-zones are consistent with quasars that have optically/UV bright lifetimes of $t_{\rm Q}\sim 10^{5}-10^{7}\rm,yr$. However, lifetimes as short as $t_{\rm Q}\lesssim 10^{4}\rm,yr$ appear to be required by the smallest Ly$\alpha$ near-zones. These short lifetimes present an apparent challenge for the growth of $\sim 10^{9}\rm,M_{\odot}$ black holes at $z\gtrsim 6$.</description>
+    </item>
+    
+  </channel>
+</rss>

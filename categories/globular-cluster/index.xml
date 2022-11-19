@@ -5,83 +5,114 @@
     <link>https://nebula0.github.io/categories/globular-cluster/</link>
     <description>Recent content in globular cluster on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://nebula0.github.io/categories/globular-cluster/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/globular-cluster/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linking the Internal Properties of Infant Globular Clusters to their Formation Environments</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2211.09583/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/arxiv.2211.09583/</guid>
+      <description>Frederika Phipps
+We investigate the formation of infant globular cluster (GC) candidates in high-resolution cosmological simulations from the First Billion Years (FiBY) project. By analysing the evolution of the systems in the energy and angular momentum plane, we identify the redshift at which the infant GCs first became gravitationally bound, and we find evidence of radial infall of their gaseous and stellar components. The collapse appears to be driven by internal self-gravity, however, the initial trigger is sourced from the external environment.</description>
+    </item>
+    
+    <item>
+      <title>OSearching for the extra-tidal stars of globular clusters using high-dimensional analysis and a core particle spray code</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2207.11263/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/arxiv.2207.11263/</guid>
+      <description>Steffani M. Grondin
+Three-body interactions can eject stars from the core of a globular cluster, causing them to enter the Galactic halo as extra-tidal stars. While finding extra-tidal stars is imperative for understanding cluster evolution, connecting isolated extra-tidal field stars back to their birth cluster is extremely difficult. In this work, we present a new methodology consisting of high-dimensional data analysis and a particle spray code to identify extra-tidal stars of any Galactic globular cluster using M3 as a case study.</description>
+    </item>
+    
+    <item>
+      <title>Chemo-dynamical substructure in the M31 inner halo globular clusters: Further evidence for a recent accretion event</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2211.07877/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/arxiv.2211.07877/</guid>
+      <description>Geraint F. Lewis
+Based upon a metallicity selection, we identify a significant sub-population of the inner halo globular clusters in the Andromeda Galaxy which we name the Dulais Structure. It is distinguished as a co-rotating group of 10-20 globular clusters which appear to be kinematically distinct from, and on average more metal-poor than, the majority of the inner halo population. Intriguingly, the orbital axis of this Dulais Structure is closely aligned with that of the younger accretion event recently identified using a sub-population of globular clusters in the outer halo of Andromeda, and this is strongly suggestive of a causal relationship between the two.</description>
+    </item>
+    
     <item>
       <title>Differences between the globular cluster systems of the Virgo and Fornax Galaxy Clusters</title>
-      <link>https://nebula0.github.io/new_article/arxiv.2211.02711/</link>
+      <link>https://nebula0.github.io/article/arxiv.2211.02711/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/arxiv.2211.02711/</guid>
+      <guid>https://nebula0.github.io/article/arxiv.2211.02711/</guid>
       <description>J. Dabringhausen
 It is well known that Globular cluster systems are different among galaxies. Here we test to which degree these differences remain on the scale of galaxy clusters by comparing the globular clusters (GCs) in optical surveys of the Virgo galaxy cluster (ACSVCS) and the Fornax galaxy cluster (ACSFCS) in Kolmogorov-Smirnoff Tests. Both surveys were obtained with the Advanced Camera for Surveys (ACS) on board the Hubble Space Telescope, and contain thousands of GCs in dozens of galaxies each.</description>
     </item>
     
     <item>
       <title>Discovery of a double sequence of blue straggler stars in the core-collapsed globular cluster NGC 6256</title>
-      <link>https://nebula0.github.io/new_article/arxiv.2211.02671/</link>
+      <link>https://nebula0.github.io/article/arxiv.2211.02671/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/arxiv.2211.02671/</guid>
+      <guid>https://nebula0.github.io/article/arxiv.2211.02671/</guid>
       <description>Mario Cadelano
 We used a combination of high-resolution optical images acquired with the Hubble Space Telescope and near-IR wide-field data to investigate the stellar density profile and the population of blue straggler star (BSS) in the Galactic globular cluster NGC6256, with the aim of probing its current stage of internal dynamical evolution. We found that the inner stellar density profile significantly deviates from a King model while is well reproduced by a steep cusp with a power-law slope alpha=-0.</description>
     </item>
     
     <item>
       <title>Distinguishing Dark Matter Cusps from Cores using Globular Clusters</title>
-      <link>https://nebula0.github.io/new_article/arxiv.2211.01384/</link>
+      <link>https://nebula0.github.io/article/arxiv.2211.01384/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/arxiv.2211.01384/</guid>
+      <guid>https://nebula0.github.io/article/arxiv.2211.01384/</guid>
       <description>Shaunak Modak
 Globular Clusters (GCs) provide valuable insight into the properties of their host galaxies&amp;rsquo; dark matter halos. Using N-body simulations incorporating semianalytic dynamical friction and GC-GC merger prescriptions, we study the evolution of GC radial distributions and mass functions in cuspy and cored dark matter halos. Modeling the dynamics of the GC-rich system in the dwarf galaxy UGC7369, we find that friction-induced inspiral and subsequent mergers of massive GCs can naturally and robustly explain the mass segregation of the GCs and the existence of a nuclear star cluster (NSC).</description>
     </item>
     
     <item>
       <title>Fundamentals of Stellar Parameters Estimation through CMD of Star Clusters: Open (NGC2360) and Globular (NGC 5272)</title>
-      <link>https://nebula0.github.io/new_article/arxiv.2209.03019/</link>
+      <link>https://nebula0.github.io/article/arxiv.2209.03019/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/arxiv.2209.03019/</guid>
+      <guid>https://nebula0.github.io/article/arxiv.2209.03019/</guid>
       <description>Kanwar Preet Kaur
 The fundamentals of estimating essential stellar parameters of an open cluster-NGC 2360 and globular clusters-NGC 5272 are presented extensively in this work. Here, the evaluation of stellar parameters, by manually fitting the appropriate isochrones on the color magnitude diagrams (CMDs), of the selected star clusters is discussed comprehensively. Aperture photometry and PSF fitting photometry are conducted on g, r, and i standard band filter images of Sloan Digital Sky Survey (SDSS) using the aperture photometry tool (APT) to obtain the respective CMDs.</description>
     </item>
     
     <item>
       <title>Gas-rich, field ultra-diffuse galaxies host few globular clusters</title>
-      <link>https://nebula0.github.io/new_article/arxiv.2211.00650/</link>
+      <link>https://nebula0.github.io/article/arxiv.2211.00650/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/arxiv.2211.00650/</guid>
+      <guid>https://nebula0.github.io/article/arxiv.2211.00650/</guid>
       <description>S. Jang
 Hubble Space Telescope (HST) photometry is providing an extensive analysis of globular clusters (GCs). In particular, the pseudo two-colour diagram dubbed &#39;chromosome map (ChM)&#39; allowed to detect and characterize their multiple populations with unprecedented detail. The main limitation of these studies is the small field of view of HST, which makes it challenging to investigate some important aspects of the multiple populations, such as their spatial distributions and the internal kinematics in the outermost cluster regions.</description>
     </item>
     
     <item>
       <title>Gas-rich, field ultra-diffuse galaxies host few globular clusters</title>
-      <link>https://nebula0.github.io/new_article/arxiv.2211.00651/</link>
+      <link>https://nebula0.github.io/article/arxiv.2211.00651/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/arxiv.2211.00651/</guid>
+      <guid>https://nebula0.github.io/article/arxiv.2211.00651/</guid>
       <description>Michael G. Jones
 We present Hubble Space Telescope imaging of 14 gas-rich, low surface brightness and ultra-diffuse galaxies (UDGs) in the field at distances of 25-36 Mpc. An inspection of point-like sources brighter than the turnover magnitude of the globular cluster luminosity function and within twice the half-light radii of each galaxy reveals that, unlike those in denser environments, gas-rich, field UDGs host very few old globular clusters (GCs). Most of the targets (nine) have zero candidate GCs, with the remainder having one or two candidates each.</description>
     </item>
     
     <item>
       <title>Globular cluster formation with multiple stellar populations: A single-binary composite scenario</title>
-      <link>https://nebula0.github.io/new_article/arxiv.2211.00344/</link>
+      <link>https://nebula0.github.io/article/arxiv.2211.00344/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/arxiv.2211.00344/</guid>
+      <guid>https://nebula0.github.io/article/arxiv.2211.00344/</guid>
       <description>Kenji Bekki
 We discuss a GC formation scenario in which the first generation (1G) of single asymptotic giant branch (AGB) stars and intermediate-mass close binaries (IMCBs) eject gas, from which the second generation (2G) of stars can be formed. The two key parameters in the scenario are the fractions of binary stars (f_b) and the slopes (alpha) of the stellar initial mass functions (IMFs) for 1G stars. Principle results derived by analytic and one-zone models of GC formation are as follows.</description>
     </item>
     
     <item>
       <title>Properties of globular clusters formed in dark matter mini-halos</title>
-      <link>https://nebula0.github.io/new_article/arxiv.2112.01265/</link>
+      <link>https://nebula0.github.io/article/arxiv.2112.01265/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/arxiv.2112.01265/</guid>
+      <guid>https://nebula0.github.io/article/arxiv.2112.01265/</guid>
       <description>Eduardo Vitral
 We seek to differentiate dynamical and morphological attributes between globular clusters (GCs) that were formed inside their own dark matter (DM) mini-halo, and those who were not. We employ high resolution full N-body simulations on GPU of GCs with and without a DM mini-halo, orbiting a Fornax-like dwarf galaxy. For GCs with DM, we observe that this dark extra mass triggers a tidal radius growth that allows the mini-halo to act as a protective shield against tidal stripping, being itself stripped beforehand the stars.</description>
     </item>

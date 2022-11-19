@@ -6,13 +6,33 @@
     <description>Recent content in early universe on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/early-universe/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/early-universe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FLARES VIII. The Emergence of Passive Galaxies in the Early Universe (z&gt;5)</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2211.07540/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/arxiv.2211.07540/</guid>
+      <description>Christopher C. Lovell
+Passive galaxies are ubiquitous in the local universe, and various physical channels have been proposed that lead to this passivity. To date, robust passive galaxy candidates have been detected up to $z \leqslant 5$, but it is still unknown if they exist at higher redshifts, what their relative abundances are, and what causes them to stop forming stars. We present predictions from the First Light And Reionisation Epoch Simulations (FLARES), a series of zoom simulations of a range of overdensities using the EAGLE code.</description>
+    </item>
+    
+    <item>
+      <title>Early or phantom dark energy, self-interacting, extra, or massive neutrinos, primordial magnetic fields, or a curved universe: An exploration of possible solutions to the $H_0$ and $σ_8$ problems</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2208.14435/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/arxiv.2208.14435/</guid>
+      <description>Helena García Escudero
+In this paper we explore the existing tensions in the local cosmological expansion rate, $H_0$, and amplitude of the clustering of large-scale structure at $8\, h^{-1}\mathrm{Mpc}$, $σ_8$, as well as models that claim to alleviate these tensions. We consider seven models: evolving dark energy ($w$CDM), extra radiation ($N_\mathrm{eff}$), massive neutrinos, curvature, primordial magnetic fields (PMF), self-interacting neutrino models, and early dark energy (EDE). We test these models against three data sets that span the full range of measurable cosmological epochs, have significant precision, and are well-tested against systematic effects: the Planck 2018 cosmic microwave background data, the Sloan Digital Sky Survey baryon acoustic oscillation scale measurements, and the Pantheon catalog of Type Ia supernovae.</description>
+    </item>
+    
     <item>
       <title>Probing early universe through redshifted 21-cm signal: Modelling and observational challenges</title>
-      <link>https://nebula0.github.io/new_article/probing_early_universe_through_redshifted_21-cm_signal_modelling_and_observational_challenges/</link>
+      <link>https://nebula0.github.io/article/probing_early_universe_through_redshifted_21-cm_signal_modelling_and_observational_challenges/</link>
       <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/probing_early_universe_through_redshifted_21-cm_signal_modelling_and_observational_challenges/</guid>
+      <guid>https://nebula0.github.io/article/probing_early_universe_through_redshifted_21-cm_signal_modelling_and_observational_challenges/</guid>
       <description>Abinash Kumar Shaw
 The redshifted 21-cm radiation from the atomic hydrogen (HI) provides an excellent direct probe to study the evolution of HI in IGM and thus reveal the nature of the first luminous objects, their evolution and role during Cosmic Dawn (CD) and Epoch of Reionization (EoR), and formation and evolution of the structures thereafter. Direct mapping of the HI density during the CD-EoR is rather difficult with the current and future instruments due to large foreground and other observational contamination.</description>
     </item>
@@ -171,20 +191,20 @@ Inflationary gravitational waves, behaving as additional radiation in the Early 
     
     <item>
       <title>A review of neutrino decoupling from the early universe to the current universe</title>
-      <link>https://nebula0.github.io/new_article/arxiv.2210.10307/</link>
+      <link>https://nebula0.github.io/article/arxiv.2210.10307/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/arxiv.2210.10307/</guid>
+      <guid>https://nebula0.github.io/article/arxiv.2210.10307/</guid>
       <description>Kensuke Akita
 We review the distortions of spectra of relic neutrinos due to the interactions with electrons, positrons, and neutrinos in the early universe. We solve integro-differential kinetic equations for the neutrino density matrix, including vacuum three-flavor neutrino oscillations, oscillations in electron and positron background, a collision term and finite temperature corrections to electron mass and electromagnetic plasma up to the next-to-leading order $\mathcal{O}(e^3)$. After that, we estimate the effects of the spectral distortions in neutrino decoupling on the number density and energy density of the Cosmic Neutrino Background (C$ν$B) in the current universe, and discuss the implications of these effects on the capture rates in direct detection of the C$ν$B on tritium, with emphasis on the PTOLEMY-type experiment.</description>
     </item>
     
     <item>
       <title>Cosmic inhomogeneities in the early Universe: A numerical relativity approach</title>
-      <link>https://nebula0.github.io/new_article/arxiv.2211.03534/</link>
+      <link>https://nebula0.github.io/article/arxiv.2211.03534/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/arxiv.2211.03534/</guid>
+      <guid>https://nebula0.github.io/article/arxiv.2211.03534/</guid>
       <description>Cristian Joana
 Cosmic inflation is arguably the most favoured paradigm of the very early Universe. It postulates an early phase of fast, nearly exponential, and accelerated expansion. Inflationary models are capable of explaining the overall flatness and homogeneity of today&amp;rsquo;s Universe at large scales. Despite being widely accepted by the physics community, these models are not absent from criticism. In scalar field inflation, a necessary condition to begin inflation is the requirement of a Universe dominated by the field&amp;rsquo;s potential, which implies a subdominant contribution from the scalar field dynamics.</description>
     </item>

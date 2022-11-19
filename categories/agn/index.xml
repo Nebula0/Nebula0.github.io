@@ -6,7 +6,27 @@
     <description>Recent content in AGN on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/agn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/agn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A New Physical Picture for AGNs Lacking Optical Emission Lines</title>
+      <link>https://nebula0.github.io/new_article/a_new_physical_picture_for_agns_lacking_optical_emission_lines/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/a_new_physical_picture_for_agns_lacking_optical_emission_lines/</guid>
+      <description>First author: Christopher J. Agostino
+In this work, we use ~500 low-redshift (z ~ 0.1) X-ray AGNs observed by XMM-Newton and SDSS to investigate the prevalence and nature of AGNs that apparently lack optical emission lines (optically dull AGNs&#39;&#39;). Although 1/4 of spectra appear absorption-line dominated in visual assessment, line extraction with robust continuum subtraction from the MPA/JHU catalog reveals usable [OIII] measurements in 98% of the sample, allowing us to study [OIII]-underluminous AGNs together with more typical AGNs in the context of the L$_{\mathrm{[OIII]}}$--L$_{X}$ relation.</description>
+    </item>
+    
+    <item>
+      <title>Explaining the moderate UV/X-ray correlation in AGN</title>
+      <link>https://nebula0.github.io/new_article/explaining_the_moderate_uv_x-ray_correlation_in_agn/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/explaining_the_moderate_uv_x-ray_correlation_in_agn/</guid>
+      <description>First author: Christos Panagiotou
+The UV/optical and X-ray variability of active galactic nuclei (AGN) have long been expected to be well correlated as a result of the X-ray illumination of the accretion disk. Recent monitoring campaigns of nearby AGN, however, found that their X-ray and UV/optical emission are only moderately correlated, challenging the aforementioned paradigm. In this work, we aim to demonstrate that due to the definition of the cross correlation function, a low UV/X-ray correlation is well expected in the case of an X-ray illuminated accretion disk, when the dynamic variability of the X-ray source is taken into account.</description>
+    </item>
+    
     <item>
       <title>TPHO: a time-dependent photoionisation model for AGN outflows</title>
       <link>https://nebula0.github.io/article/tpho_a_time-dependent_photoionisation_model_for_agn_outflows/</link>

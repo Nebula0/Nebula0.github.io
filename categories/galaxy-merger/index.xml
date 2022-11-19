@@ -9,20 +9,20 @@
     <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/galaxy-merger/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Morphological signatures of mergers in the TNG50 simulation and the Kilo-Degree Survey: the merger fraction from dwarfs to Milky Way-like galaxies</title>
-      <link>https://nebula0.github.io/new_article/arxiv.2210.14123/</link>
+      <link>https://nebula0.github.io/article/arxiv.2210.14123/</link>
       <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/arxiv.2210.14123/</guid>
+      <guid>https://nebula0.github.io/article/arxiv.2210.14123/</guid>
       <description>Tiger Yu-Yang Hsiao
 MACS0647$-$JD is a triply-lensed $z\sim11$ galaxy originally discovered with the Hubble Space Telescope. Here we report new JWST imaging, which clearly resolves MACS0647$-$JD as having two components that are either merging galaxies or stellar complexes within a single galaxy. Both are very small, with stellar masses $\sim10^8,M_\odot$ and radii $r&amp;lt;100,\rm pc$. The brighter larger component &amp;quot;A&amp;quot; is intrinsically very blue ($β\sim-2.6$), likely due to very recent star formation and no dust, and is spatially extended with an effective radius $\sim70,\rm pc$.</description>
     </item>
     
     <item>
       <title>Morphological signatures of mergers in the TNG50 simulation and the Kilo-Degree Survey: the merger fraction from dwarfs to Milky Way-like galaxies</title>
-      <link>https://nebula0.github.io/new_article/arxiv.2211.05785/</link>
+      <link>https://nebula0.github.io/article/arxiv.2211.05785/</link>
       <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/arxiv.2211.05785/</guid>
+      <guid>https://nebula0.github.io/article/arxiv.2211.05785/</guid>
       <description>Alejandro Guzmán-Ortega
 Using the TNG50 cosmological simulation and observations from the Kilo-Degree Survey (KiDS), we investigate the connection between galaxy mergers and optical morphology in the local Universe over a wide range of galaxy stellar masses ($8.5\leqslant\log(M_\ast/\text{M}\odot)\leqslant11$). To this end, we have generated over 16,000 synthetic images of TNG50 galaxies designed to match KiDS observations, including the effects of dust attenuation and scattering, and used the $\mathrm{\mathtt{statmorph}}$ code to measure various image-based morphological diagnostics in the $r$-band for both data sets.</description>
     </item>
@@ -109,10 +109,10 @@ The Fermi Gamma-ray Space Telescope, a key mission in multiwavelength and multim
     
     <item>
       <title>Two Candidates for Dual AGN in Dwarf-Dwarf Galaxy Mergers</title>
-      <link>https://nebula0.github.io/new_article/arxiv.2211.04609/</link>
+      <link>https://nebula0.github.io/article/arxiv.2211.04609/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/arxiv.2211.04609/</guid>
+      <guid>https://nebula0.github.io/article/arxiv.2211.04609/</guid>
       <description>Marko Mićić
 Dual AGN are important for understanding galaxy-merger-triggered fueling of black holes and hierarchical growth of structures. The least explored type of dual AGN are those associated with mergers of two dwarf galaxies. According to observations and cosmological simulations, dwarf galaxies are the most abundant type of galaxies in the early Universe and the galaxy merger rate is dominated by dwarfs. However, these mergers are generally too distant to be directly observed, and low-redshift dwarf-dwarf merger-related dual AGN are notoriously hard to find.</description>
     </item>

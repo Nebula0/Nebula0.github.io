@@ -139,20 +139,20 @@ Mid-Infrared (IR) silicate dust bands observed in heavily obscured active galact
     
     <item>
       <title>PANDORA project: photo-nuclear reactions below A=60</title>
-      <link>https://nebula0.github.io/new_article/arxiv.2211.03986/</link>
+      <link>https://nebula0.github.io/article/arxiv.2211.03986/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/arxiv.2211.03986/</guid>
+      <guid>https://nebula0.github.io/article/arxiv.2211.03986/</guid>
       <description>A. Tamii, L. Pellegri
 Photo-nuclear reactions of light nuclei below a mass of $A=60$ are studied experimentally and theoretically by the PANDORA (Photo-Absorption of Nuclei and Decay Observation for Reactions in Astrophysics) project. Two experimental methods, virtual-photon excitation by proton scattering and real-photo absorption by a high-brilliance gamma-ray beam produced by laser Compton scattering, will be applied to measure the photo-absorption cross sections and the decay branching ratio of each decay channel as a function of the photon energy.</description>
     </item>
     
     <item>
       <title>Using Physics Informed Neural Networks for Supernova Radiative Transfer Simulation</title>
-      <link>https://nebula0.github.io/new_article/arxiv.2211.05219/</link>
+      <link>https://nebula0.github.io/article/arxiv.2211.05219/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/arxiv.2211.05219/</guid>
+      <guid>https://nebula0.github.io/article/arxiv.2211.05219/</guid>
       <description>Xingzhuo Chen
 We use physics informed neural networks (PINNs) to solve the radiative transfer equation and calculate a synthetic spectrum for a Type Ia supernova (SN~Ia) SN 2011fe. The calculation is based on local thermodynamic equilibrium (LTE) and 9 elements are included. Physical processes included are approximate radiative equilibrium, bound-bound transitions, and the Doppler effect. A PINN based gamma-ray scattering approximation is used for radioactive decay energy deposition. The PINN synthetic spectrum is compared to an observed spectrum, a synthetic spectrum calculated by the Monte-Carlo radiative transfer program TARDIS, and the formal solution of the radiative transfer equation.</description>
     </item>
