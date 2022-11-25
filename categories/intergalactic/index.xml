@@ -6,13 +6,23 @@
     <description>Recent content in intergalactic on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/intergalactic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/intergalactic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>(Nearly) Model-Independent Constraints on the Neutral Hydrogen Fraction in the Intergalactic Medium at $z\sim 5-7$ Using Dark Pixel Fractions in Ly$α$ and Ly$β$ Forests</title>
+      <link>https://nebula0.github.io/new_article/nearly_model-independent_constraints_on_the_neutral_hydrogen_fraction_in_the_intergalactic_medium_at__z_sim_5-7__using_dark_pixel_fractions_in_ly_%CE%B1__and_ly_%CE%B2__forests/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/nearly_model-independent_constraints_on_the_neutral_hydrogen_fraction_in_the_intergalactic_medium_at__z_sim_5-7__using_dark_pixel_fractions_in_ly_%CE%B1__and_ly_%CE%B2__forests/</guid>
+      <description>First author: Xiangyu Jin
+Cosmic reionization was the last major phase transition of hydrogen from neutral to highly ionized in the intergalactic medium (IGM). Current observations show that the IGM is significantly neutral at $z&amp;gt;7$, and largely ionized by $z\sim5.5$. However, most methods to measure the IGM neutral fraction are highly model-dependent, and are limited to when the volume-averaged neutral fraction of the IGM is either relatively low ($\bar{x}{\rm HI} \lesssim 10^{-3}$) or close to unity ($\bar{x}{\rm HI}\sim 1$).</description>
+    </item>
+    
     <item>
       <title>Probing quasar lifetimes with proximate $21$-centimetre absorption in the diffuse intergalactic medium at redshifts $z\geq 6$</title>
-      <link>https://nebula0.github.io/new_article/probing_quasar_lifetimes_with_proximate__21_-centimetre_absorption_in_the_diffuse_intergalactic_medium_at_redshifts__z_geq_6_/</link>
+      <link>https://nebula0.github.io/article/probing_quasar_lifetimes_with_proximate__21_-centimetre_absorption_in_the_diffuse_intergalactic_medium_at_redshifts__z_geq_6_/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/probing_quasar_lifetimes_with_proximate__21_-centimetre_absorption_in_the_diffuse_intergalactic_medium_at_redshifts__z_geq_6_/</guid>
+      <guid>https://nebula0.github.io/article/probing_quasar_lifetimes_with_proximate__21_-centimetre_absorption_in_the_diffuse_intergalactic_medium_at_redshifts__z_geq_6_/</guid>
       <description>First author: Tomáš Šoltinský
 Enhanced ionizing radiation in close proximity to redshift $z\gtrsim 6$ quasars creates short windows of intergalactic Ly$\alpha$ transmission blueward of the quasar Ly$\alpha$ emission lines. The majority of these Ly$\alpha$ near-zones are consistent with quasars that have optically/UV bright lifetimes of $t_{\rm Q}\sim 10^{5}-10^{7}\rm,yr$. However, lifetimes as short as $t_{\rm Q}\lesssim 10^{4}\rm,yr$ appear to be required by the smallest Ly$\alpha$ near-zones. These short lifetimes present an apparent challenge for the growth of $\sim 10^{9}\rm,M_{\odot}$ black holes at $z\gtrsim 6$.</description>
     </item>

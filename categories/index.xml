@@ -6,20 +6,11 @@
     <description>Recent content in Categories on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>10(month)</title>
-      <link>https://nebula0.github.io/categories/10month/</link>
-      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/categories/10month/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 23 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>11(month)</title>
       <link>https://nebula0.github.io/categories/11month/</link>
-      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://nebula0.github.io/categories/11month/</guid>
       <description></description>
@@ -28,9 +19,81 @@
     <item>
       <title>2022(year)</title>
       <link>https://nebula0.github.io/categories/2022year/</link>
-      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://nebula0.github.io/categories/2022year/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AGN</title>
+      <link>https://nebula0.github.io/categories/agn/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/categories/agn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>galaxies</title>
+      <link>https://nebula0.github.io/categories/galaxies/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/categories/galaxies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chemical</title>
+      <link>https://nebula0.github.io/categories/chemical/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/categories/chemical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cosmology</title>
+      <link>https://nebula0.github.io/categories/cosmology/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/categories/cosmology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intergalactic</title>
+      <link>https://nebula0.github.io/categories/intergalactic/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/categories/intergalactic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>supernovae</title>
+      <link>https://nebula0.github.io/categories/supernovae/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/categories/supernovae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hydrodynamics</title>
+      <link>https://nebula0.github.io/categories/hydrodynamics/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/categories/hydrodynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>10(month)</title>
+      <link>https://nebula0.github.io/categories/10month/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/categories/10month/</guid>
       <description></description>
     </item>
     
@@ -44,15 +107,6 @@
     </item>
     
     <item>
-      <title>galaxies</title>
-      <link>https://nebula0.github.io/categories/galaxies/</link>
-      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/categories/galaxies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>globular cluster</title>
       <link>https://nebula0.github.io/categories/globular-cluster/</link>
       <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
@@ -62,56 +116,11 @@
     </item>
     
     <item>
-      <title>chemical</title>
-      <link>https://nebula0.github.io/categories/chemical/</link>
-      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/categories/chemical/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cosmology</title>
-      <link>https://nebula0.github.io/categories/cosmology/</link>
-      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/categories/cosmology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>early universe</title>
       <link>https://nebula0.github.io/categories/early-universe/</link>
       <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://nebula0.github.io/categories/early-universe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>supernovae</title>
-      <link>https://nebula0.github.io/categories/supernovae/</link>
-      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/categories/supernovae/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AGN</title>
-      <link>https://nebula0.github.io/categories/agn/</link>
-      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/categories/agn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>intergalactic</title>
-      <link>https://nebula0.github.io/categories/intergalactic/</link>
-      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/categories/intergalactic/</guid>
       <description></description>
     </item>
     
@@ -184,15 +193,6 @@
       <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://nebula0.github.io/categories/globular-clusterchemical/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hydrodynamics</title>
-      <link>https://nebula0.github.io/categories/hydrodynamics/</link>
-      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/categories/hydrodynamics/</guid>
       <description></description>
     </item>
     

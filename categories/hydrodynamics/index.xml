@@ -6,7 +6,27 @@
     <description>Recent content in hydrodynamics on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/hydrodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/hydrodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GalaxyFlow: Upsampling Hydrodynamical Simulations for Realistic Gaia Mock Catalogs</title>
+      <link>https://nebula0.github.io/new_article/galaxyflow_upsampling_hydrodynamical_simulations_for_realistic_gaia_mock_catalogs/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/galaxyflow_upsampling_hydrodynamical_simulations_for_realistic_gaia_mock_catalogs/</guid>
+      <description>First author: Sung Hak Lim
+Cosmological N-body simulations of galaxies operate at the level of &amp;ldquo;star particles&amp;rdquo; with a mass resolution on the scale of thousands of solar masses. Turning these simulations into stellar mock catalogs requires &amp;ldquo;upsampling&amp;rdquo; the star particles into individual stars following the same phase-space density. In this paper, we demonstrate that normalizing flows provide a viable upsampling method that greatly improves on conventionally-used kernel smoothing algorithms such as EnBiD.</description>
+    </item>
+    
+    <item>
+      <title>Magneto hydrodynamic simulations of the supernova remnant G1.9&#43;0.3</title>
+      <link>https://nebula0.github.io/new_article/magneto_hydrodynamic_simulations_of_the_supernova_remnant_g1.9&#43;0.3/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/magneto_hydrodynamic_simulations_of_the_supernova_remnant_g1.9&#43;0.3/</guid>
+      <description>First author: Shaobo Zhang
+The youngest Galactic supernova remnant G1.9+0.3 shows a discrete feature between its radio and X-ray morphologies. The observed radio morphology features a single maximum in the north, while the X-ray observation shows two opposite &amp;rsquo;ears&amp;rsquo; on the east and west sides. Using 3D magneto hydrodynamical simulations, we investigate the formation of the discrete feature of the remnant. We have tested different parameters for better simulation and reproduced similar discrete features under an environment with density gradient and an environment with clump, which provides a possible explanation of the observation.</description>
+    </item>
+    
     <item>
       <title>Hot Jupiter engulfment by a red giant in 3D hydrodynamics</title>
       <link>https://nebula0.github.io/article/hot_jupiter_engulfment_by_a_red_giant_in_3d_hydrodynamics/</link>
