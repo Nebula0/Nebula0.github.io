@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>12(month) on Explosion Group Paper collection</title>
+    <link>https://nebula0.github.io/categories/12month/</link>
+    <description>Recent content in 12(month) on Explosion Group Paper collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://nebula0.github.io/categories/12month/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AGN Feedback in SDSS-IV MaNGA: AGNs Have Suppressed Central Star-Formation Rates</title>
+      <link>https://nebula0.github.io/new_article/agn_feedback_in_sdss-iv_manga_agns_have_suppressed_central_star-formation_rates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/agn_feedback_in_sdss-iv_manga_agns_have_suppressed_central_star-formation_rates/</guid>
+      <description>First author: Caleb Lammers
+Despite the importance of feedback from active galactic nuclei (AGN) in models of galaxy evolution, observational constraints on the influence of AGN feedback on star formation remain weak. To this end, we have compared the star formation trends of 279 low-redshift AGN galaxies with 558 non-active control galaxies using integral field unit spectroscopy from the SDSS-IV MaNGA survey. With a Gaussian process-based methodology, we reconstruct non-parametric star formation histories in spatially-resolved spaxels covering the face of each galaxy.</description>
+    </item>
+    
+    <item>
+      <title>On the bright-end of the UV luminosity functions of galaxies at $z \sim 0.6-1.2$</title>
+      <link>https://nebula0.github.io/new_article/on_the_bright-end_of_the_uv_luminosity_functions_of_galaxies_at__z__sim_0.6-1.2_/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/on_the_bright-end_of_the_uv_luminosity_functions_of_galaxies_at__z__sim_0.6-1.2_/</guid>
+      <description>First author: M. Sharma
+We derive the Ultra-Violet (UV) luminosity function (LF) of star forming galaxies falling in the redshift range $z = 0.6 - 1.2$, in the rest-frame far-UV (1500 {\AA}) wavelength. For this work we are in particular interested in the bright end of the UV LF in this redshift range. The data from \textit{XMM-Newton} Optical Monitor (XMM-OM), near-ultraviolet (1600-4000 {\AA}) observations over 1.5 deg\textsuperscript{2} of the COSMOS field are employed for this purpose.</description>
+    </item>
+    
+    <item>
+      <title>Polarized radio emission unveils the structure of the pre-supernova circumstellar magnetic field and the radio emission in SN1987A</title>
+      <link>https://nebula0.github.io/new_article/polarized_radio_emission_unveils_the_structure_of_the_pre-supernova_circumstellar_magnetic_field_and_the_radio_emission_in_sn1987a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/polarized_radio_emission_unveils_the_structure_of_the_pre-supernova_circumstellar_magnetic_field_and_the_radio_emission_in_sn1987a/</guid>
+      <description>First author: O. Petruk
+The detected polarized radio emission from remnant of SN1987A opens the possibility to unveil the structure of the pre-supernova magnetic field in the circumstellar medium. Properties derived from direct measurements would be of importance for understanding the progenitor stars and their magnetic fields. As the first step to this goal, we adopted the hydrodynamic data from an elaborated three-dimensional (3-D) numerical model of SN1987A. We have developed an approximate method for reconstruction&#39; of 3-D magnetic field structure inside supernova remnant on the hydrodynamic background&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>Synergy between CSST galaxy survey and gravitational-wave observation: Inferring the Hubble constant from dark standard sirens</title>
+      <link>https://nebula0.github.io/new_article/synergy_between_csst_galaxy_survey_and_gravitational-wave_observation_inferring_the_hubble_constant_from_dark_standard_sirens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/synergy_between_csst_galaxy_survey_and_gravitational-wave_observation_inferring_the_hubble_constant_from_dark_standard_sirens/</guid>
+      <description>First author: Ji-Yu Song
+Gravitational waves (GWs) from compact binary coalescences encode the absolute luminosity distances of GW sources. Once the redshifts of GW sources are known, one can use the distance-redshift relation to constrain cosmological parameters. One way to obtain the redshifts is to localize GW sources by GW observations and then use galaxy catalogs to determine redshifts from a statistical analysis of redshift information of the potential host galaxies, and such GW data are commonly referred to as dark sirens.</description>
+    </item>
+    
+    <item>
+      <title>Three dimensional magnetorotational core-collapse supernova explosions of a 39 solar mass progenitor star</title>
+      <link>https://nebula0.github.io/new_article/three_dimensional_magnetorotational_core-collapse_supernova_explosions_of_a_39_solar_mass_progenitor_star/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/three_dimensional_magnetorotational_core-collapse_supernova_explosions_of_a_39_solar_mass_progenitor_star/</guid>
+      <description>First author: Jade Powell
+We perform three-dimensional simulations of magnetorotational supernovae using a $39,M_{\odot}$ progenitor star with two different initial magnetic field strengths of $10^{10}$ G and $10^{12}$ G in the core. Both models rapidly undergo shock revival and their explosion energies asymptote within a few hundred milliseconds to values of $\gtrsim 2\times10^{51}$ erg after conservatively correcting for the binding energy of the envelope. Magnetically collimated, non-relativistic jets form in both models, though the jets are subject to non-axisymmetric instabilities.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,13 +6,33 @@
     <description>Recent content in chemical on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/chemical/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/chemical/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chemical abundances in the dwarf galaxy NGC 4163 based on the nebular and auroral emission lines</title>
+      <link>https://nebula0.github.io/new_article/chemical_abundances_in_the_dwarf_galaxy_ngc_4163_based_on_the_nebular_and_auroral_emission_lines/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/chemical_abundances_in_the_dwarf_galaxy_ngc_4163_based_on_the_nebular_and_auroral_emission_lines/</guid>
+      <description>First author: I. A. Zinchenko
+We constructed an oxygen abundance map and N/O ratio map of the unusually low excitation dwarf irregular galaxy NGC 4163 based on publicly available spectroscopy obtained by the MaNGA survey. We detected auroral emission line [OII]$\lambda\lambda$7320,7330 which allows us to measure chemical abundance by direct T$_e$ method. We found that the scatter of the oxygen abundance derived by the strong line method is large. The oxygen abundances 12 + log(O/H) derived by strong line method vary from ~7.</description>
+    </item>
+    
+    <item>
+      <title>Potential contributions of Pop III and intermediate-mass Pop II stars to cosmic chemical enrichment</title>
+      <link>https://nebula0.github.io/new_article/potential_contributions_of_pop_iii_and_intermediate-mass_pop_ii_stars_to_cosmic_chemical_enrichment/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/potential_contributions_of_pop_iii_and_intermediate-mass_pop_ii_stars_to_cosmic_chemical_enrichment/</guid>
+      <description>First author: Lia C. Corazza
+We propose a semi-analytic model that is developed to understand the cosmological evolution of the mean metallicity in the Universe. In particular, we study the contributions of Population III (Pop III) and Population II (Pop II) stars to the production of $\mathrm{Fe,~Si,~Zn, ~Ni,~P, ~Mg, ~Al, ~S, ~C, ~N}$, and $\mathrm{~O}$. We aim to quantify the roles of two different models in the chemical enrichment of the Universe.</description>
+    </item>
+    
     <item>
       <title>Differences in chemical evolution between isolated and embedded prestellar cores</title>
-      <link>https://nebula0.github.io/new_article/differences_in_chemical_evolution_between_isolated_and_embedded_prestellar_cores/</link>
+      <link>https://nebula0.github.io/article/differences_in_chemical_evolution_between_isolated_and_embedded_prestellar_cores/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/differences_in_chemical_evolution_between_isolated_and_embedded_prestellar_cores/</guid>
+      <guid>https://nebula0.github.io/article/differences_in_chemical_evolution_between_isolated_and_embedded_prestellar_cores/</guid>
       <description>First author: F. D. Priestley
 Models of prestellar cores often assume that the cores are isolated from their environment - material outside the core boundary plays no role in the subsequent evolution. This is unlikely to be the case in reality, where cores are located within hierarchically substructured molecular clouds. We investigate the dynamical and chemical evolution of prestellar cores, modelled as Bonnor-Ebert spheres, and show that the density of the ambient medium has a large impact on the resulting chemical properties of the cores.</description>
     </item>

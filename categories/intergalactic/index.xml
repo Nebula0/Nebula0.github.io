@@ -6,13 +6,33 @@
     <description>Recent content in intergalactic on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/intergalactic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/intergalactic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Studying cosmic ray sources using intergalactic electromagnetic cascades</title>
+      <link>https://nebula0.github.io/new_article/studying_cosmic_ray_sources_using_intergalactic_electromagnetic_cascades/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/studying_cosmic_ray_sources_using_intergalactic_electromagnetic_cascades/</guid>
+      <description>First author: Anna Uryson
+In this paper intergalatic electromagnetic cascades are used as a probe of cosmic ray sources. This is achieved as follows. In extragalactic space cosmic rays initiate electromagnetic cascades in which gamma-ray and neutrino emission arises. We used the joint analysis of cosmic ray data, along with extragalactic gamma-ray and neutrino emission, to study particle acceleration in the vicinity of supermassive black holes. Particle injection spectra depend on processes of particle acceleration, and here we discuss models with various injection spectra.</description>
+    </item>
+    
+    <item>
+      <title>X-ray Absorption Lines in the Warm-Hot Intergalactic Medium: Probing Chandra observations with the CAMEL simulations</title>
+      <link>https://nebula0.github.io/new_article/x-ray_absorption_lines_in_the_warm-hot_intergalactic_medium_probing_chandra_observations_with_the_camel_simulations/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/x-ray_absorption_lines_in_the_warm-hot_intergalactic_medium_probing_chandra_observations_with_the_camel_simulations/</guid>
+      <description>First author: Amanda Butler Contreras
+Known as the &amp;ldquo;Missing Baryon Problem&amp;rdquo;, about one-third of baryons in the local universe remain unaccounted for. The missing baryons are thought to reside in the warm-hot intergalactic medium (WHIM) of the cosmic web filaments, which are challenging to detect. Recent Chandra X-ray observations from Kov&#39;acs et al. (2019) used a novel stacking analysis and detected an OVII absorption line toward the sightline of a luminous quasar, hinting that the missing baryons may reside in the WHIM.</description>
+    </item>
+    
     <item>
       <title>(Nearly) Model-Independent Constraints on the Neutral Hydrogen Fraction in the Intergalactic Medium at $z\sim 5-7$ Using Dark Pixel Fractions in Ly$α$ and Ly$β$ Forests</title>
-      <link>https://nebula0.github.io/new_article/nearly_model-independent_constraints_on_the_neutral_hydrogen_fraction_in_the_intergalactic_medium_at__z_sim_5-7__using_dark_pixel_fractions_in_ly_%CE%B1__and_ly_%CE%B2__forests/</link>
+      <link>https://nebula0.github.io/article/nearly_model-independent_constraints_on_the_neutral_hydrogen_fraction_in_the_intergalactic_medium_at__z_sim_5-7__using_dark_pixel_fractions_in_ly_%CE%B1__and_ly_%CE%B2__forests/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/nearly_model-independent_constraints_on_the_neutral_hydrogen_fraction_in_the_intergalactic_medium_at__z_sim_5-7__using_dark_pixel_fractions_in_ly_%CE%B1__and_ly_%CE%B2__forests/</guid>
+      <guid>https://nebula0.github.io/article/nearly_model-independent_constraints_on_the_neutral_hydrogen_fraction_in_the_intergalactic_medium_at__z_sim_5-7__using_dark_pixel_fractions_in_ly_%CE%B1__and_ly_%CE%B2__forests/</guid>
       <description>First author: Xiangyu Jin
 Cosmic reionization was the last major phase transition of hydrogen from neutral to highly ionized in the intergalactic medium (IGM). Current observations show that the IGM is significantly neutral at $z&amp;gt;7$, and largely ionized by $z\sim5.5$. However, most methods to measure the IGM neutral fraction are highly model-dependent, and are limited to when the volume-averaged neutral fraction of the IGM is either relatively low ($\bar{x}{\rm HI} \lesssim 10^{-3}$) or close to unity ($\bar{x}{\rm HI}\sim 1$).</description>
     </item>

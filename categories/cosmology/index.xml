@@ -6,23 +6,53 @@
     <description>Recent content in cosmology on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing Cosmology with Double Source Lensing</title>
+      <link>https://nebula0.github.io/new_article/testing_cosmology_with_double_source_lensing/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/testing_cosmology_with_double_source_lensing/</guid>
+      <description>First author: Divij Sharma
+Double source lensing provides a dimensionless ratio of distance ratios, a &amp;ldquo;remote viewing&amp;rdquo; of cosmology through distances relative to the gravitational lens, beyond the observer. We use this to test the cosmological framework, particularly with respect to spatial curvature and the distance duality relation. We derive a consistency equation for constant spatial curvature, allowing not only the investigation of flat vs curved but of the Friedmann-Lema^itre-Robertson-Walker framework itself.</description>
+    </item>
+    
+    <item>
+      <title>The Birth of a Relativistic Jet Following the Disruption of a Star by a Cosmological Black Hole</title>
+      <link>https://nebula0.github.io/new_article/the_birth_of_a_relativistic_jet_following_the_disruption_of_a_star_by_a_cosmological_black_hole/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/the_birth_of_a_relativistic_jet_following_the_disruption_of_a_star_by_a_cosmological_black_hole/</guid>
+      <description>First author: Dheeraj R. Pasham
+A black hole can launch a powerful relativistic jet after it tidally disrupts a star. If this jet fortuitously aligns with our line of sight, the overall brightness is Doppler boosted by several orders of magnitude. Consequently, such on-axis relativistic tidal disruption events (TDEs) have the potential to unveil cosmological (redshift $z&amp;gt;$1) quiescent black holes and are ideal test beds to understand the radiative mechanisms operating in super-Eddington jets.</description>
+    </item>
+    
+    <item>
+      <title>De-noising non-Gaussian fields in cosmology with normalizing flows</title>
+      <link>https://nebula0.github.io/new_article/de-noising_non-gaussian_fields_in_cosmology_with_normalizing_flows/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/de-noising_non-gaussian_fields_in_cosmology_with_normalizing_flows/</guid>
+      <description>First author: Adam Rouhiainen
+Fields in cosmology, such as the matter distribution, are observed by experiments up to experimental noise. The first step in cosmological data analysis is usually to de-noise the observed field using an analytic or simulation driven prior. On large enough scales, such fields are Gaussian, and the de-noising step is known as Wiener filtering. However, on smaller scales probed by upcoming experiments, a Gaussian prior is substantially sub-optimal because the true field distribution is very non-Gaussian.</description>
+    </item>
+    
     <item>
       <title>Cosmology from Galaxy Redshift Surveys with PointNet</title>
-      <link>https://nebula0.github.io/new_article/cosmology_from_galaxy_redshift_surveys_with_pointnet/</link>
+      <link>https://nebula0.github.io/article/cosmology_from_galaxy_redshift_surveys_with_pointnet/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/cosmology_from_galaxy_redshift_surveys_with_pointnet/</guid>
+      <guid>https://nebula0.github.io/article/cosmology_from_galaxy_redshift_surveys_with_pointnet/</guid>
       <description>First author: Sotiris Anagnostidis
 In recent years, deep learning approaches have achieved state-of-the-art results in the analysis of point cloud data. In cosmology, galaxy redshift surveys resemble such a permutation invariant collection of positions in space. These surveys have so far mostly been analysed with two-point statistics, such as power spectra and correlation functions. The usage of these summary statistics is best justified on large scales, where the density field is linear and Gaussian.</description>
     </item>
     
     <item>
       <title>Euclid: Modelling massive neutrinos in cosmology -- a code comparison</title>
-      <link>https://nebula0.github.io/new_article/euclid_modelling_massive_neutrinos_in_cosmology_--_a_code_comparison/</link>
+      <link>https://nebula0.github.io/article/euclid_modelling_massive_neutrinos_in_cosmology_--_a_code_comparison/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/euclid_modelling_massive_neutrinos_in_cosmology_--_a_code_comparison/</guid>
+      <guid>https://nebula0.github.io/article/euclid_modelling_massive_neutrinos_in_cosmology_--_a_code_comparison/</guid>
       <description>First author: J. Adamek
 The measurement of the absolute neutrino mass scale from cosmological large-scale clustering data is one of the key science goals of the Euclid mission. Such a measurement relies on precise modelling of the impact of neutrinos on structure formation, which can be studied with $N$-body simulations. Here we present the results from a major code comparison effort to establish the maturity and reliability of numerical methods for treating massive neutrinos.</description>
     </item>

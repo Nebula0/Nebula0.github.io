@@ -6,13 +6,63 @@
     <description>Recent content in AGN on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/agn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/agn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NuSTAR Observes Two Bulgeless Galaxies: No Hard X-ray AGN Detected in NGC 4178 or J0851&#43;3926</title>
+      <link>https://nebula0.github.io/new_article/nustar_observes_two_bulgeless_galaxies_no_hard_x-ray_agn_detected_in_ngc_4178_or_j0851&#43;3926/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/nustar_observes_two_bulgeless_galaxies_no_hard_x-ray_agn_detected_in_ngc_4178_or_j0851&#43;3926/</guid>
+      <description>First author: Ryan W. Pfeifle
+The discovery over the last several decades of moderate luminosity AGNs in disk-dominated galaxies - which show no &amp;ldquo;classical&amp;rdquo; bulges - suggests that secular mechanisms represent an important growth pathway for supermassive black holes in these systems. We present new follow-up NuSTAR observations of the optically-elusive AGNs in two bulgeless galaxies, NGC 4178 and J0851+3926. NGC 4178 was originally reported as hosting an AGN based on the detection of [Ne V] mid-infrared emission detected by Spitzer, and based on Chandra X-ray imaging it has since been argued to host either a heavily obscured AGN or a supernova remnant.</description>
+    </item>
+    
+    <item>
+      <title>The ALPINE-ALMA [CII] survey: double stellar population and AGN activity in a galaxy at $z\sim5.5$</title>
+      <link>https://nebula0.github.io/new_article/the_alpine-alma_cii_survey_double_stellar_population_and_agn_activity_in_a_galaxy_at__z_sim5.5_/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/the_alpine-alma_cii_survey_double_stellar_population_and_agn_activity_in_a_galaxy_at__z_sim5.5_/</guid>
+      <description>First author: L. Barchiesi
+GDS J033218.92-275302.7 (here GS-14) is a $z\sim5.5$ galaxy detected in [CII] as part of the ALPINE survey with unusual UV spectral features that have been interpreted as signatures of either a double stellar population or of an active galactic nucleus (AGN). We exploited the multi-wavelength coverage of GS-14 to investigate the properties and the origin of its emission. We performed UV-to-NIR SED-fitting, with single/double stellar population and/or AGN component.</description>
+    </item>
+    
+    <item>
+      <title>Association of Optical, Ultraviolet and Soft X-ray excess Emissions in AGNs</title>
+      <link>https://nebula0.github.io/new_article/association_of_optical_ultraviolet_and_soft_x-ray_excess_emissions_in_agns/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/association_of_optical_ultraviolet_and_soft_x-ray_excess_emissions_in_agns/</guid>
+      <description>First author: D. Nour
+Soft X-ray emission (0.5&amp;ndash;2.0 keV) plays a pivotal role in regulating the optical and UV emission in the AGNs. We collected a sample of 1811 AGNs from the SDSS database and obtained various parameters of Balmer lines, optical continuum, MgII line &amp;amp; UV continuum and studied their dependencies on soft X-ray luminosity. Based on the linear regression analysis, we found that FWHM${\text{MgII}}$ $\propto$ FWHM${\text{H}\beta}^{0.554}$ suggesting that UV emission is arising from a region relatively outside the broad line region (BLR) associated to the H$\beta$ emission and found a strong correlation between optical and UV luminosities (L${\text{MgII}}$ $\propto$ L${\text{H}\beta}^{0.</description>
+    </item>
+    
+    <item>
+      <title>MOJAVE XX. Decade-long linear polarization variability in AGN jets at parsec scales</title>
+      <link>https://nebula0.github.io/new_article/mojave_xx._decade-long_linear_polarization_variability_in_agn_jets_at_parsec_scales/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/mojave_xx._decade-long_linear_polarization_variability_in_agn_jets_at_parsec_scales/</guid>
+      <description>First author: D. I. Zobnina
+We studied the variability properties of the linear polarization of active galactic nucleus (AGN) jets on parsec-scales using stacking. Our sample is drawn from the MOJAVE program and consists of 436 AGNs manifesting core-jet morphology and having at least five VLBA observing epochs at 15 GHz from January 1996 through August 2019, with some additional archival VLBA data reduced by us. We employed a stacking procedure and constructed maps of (i) standard deviation of fractional polarization and electric vector position angle (EVPA) over epochs as the measure of variability, (ii) median polarization degree to quantify typical values in time.</description>
+    </item>
+    
+    <item>
+      <title>An Analytical Fourier-Transformation Model for the Production of Hard and Soft X-Ray Time Lags in AGNs: Application to 1H 0707-495</title>
+      <link>https://nebula0.github.io/new_article/an_analytical_fourier-transformation_model_for_the_production_of_hard_and_soft_x-ray_time_lags_in_agns_application_to_1h_0707-495/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/an_analytical_fourier-transformation_model_for_the_production_of_hard_and_soft_x-ray_time_lags_in_agns_application_to_1h_0707-495/</guid>
+      <description>First author: David C. Baughman
+The variability of the X-ray emission from active galactic nuclei is often characterized using time lags observed between soft and hard energy bands in the detector. The time lags are usually computed using the complex cross spectrum, which is based on the Fourier transforms of the hard and soft time series data. It has been noted that some active galactic nuclei display soft X-ray time lags, in addition to the more ubiquitous hard lags.</description>
+    </item>
+    
     <item>
       <title>Deep Herschel observations of the 2Jy sample: assessing the non-thermal and AGN contributions to the far-IR continuum</title>
-      <link>https://nebula0.github.io/new_article/deep_herschel_observations_of_the_2jy_sample_assessing_the_non-thermal_and_agn_contributions_to_the_far-ir_continuum/</link>
+      <link>https://nebula0.github.io/article/deep_herschel_observations_of_the_2jy_sample_assessing_the_non-thermal_and_agn_contributions_to_the_far-ir_continuum/</link>
       <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/deep_herschel_observations_of_the_2jy_sample_assessing_the_non-thermal_and_agn_contributions_to_the_far-ir_continuum/</guid>
+      <guid>https://nebula0.github.io/article/deep_herschel_observations_of_the_2jy_sample_assessing_the_non-thermal_and_agn_contributions_to_the_far-ir_continuum/</guid>
       <description>First author: D. Dicken
 The far-IR/sub-mm wavelength range contains a wealth of diagnostic information that is important for understanding the role of radio AGN in galaxy evolution. Here we present the results of Herschel PACS and SPIRE observations of a complete sample of 46 powerful 2Jy radio AGN at intermediate redshifts (0.05 &amp;lt; z &amp;lt; 0.7), which represent the deepest pointed observations of a major sample of radio AGN undertaken by Herschel.</description>
     </item>
@@ -95,6 +145,16 @@ Partial dust obscuration in active galactic nuclei (AGN) has been proposed as a 
       <guid>https://nebula0.github.io/article/evidence_for_extended_gaseous_reservoirs_around_agn_at_cosmic_noon_from_alma_co3-2_observations/</guid>
       <description>First author: G. C. Jones
 Gaseous outflows are key phenomena in the evolution of galaxies, as they affect star formation (either positively or negatively), eject gas from the core or disk, and directly cause mixing of pristine and processed material. Active outflows may be detected through searches for broad spectral line emission or high-velocity gas, but it is also possible to determine the presence of past outflows by searching for extended reservoirs of chemically enriched molecular gas in the circumgalactic medium (CGM) around galaxies.</description>
+    </item>
+    
+    <item>
+      <title>AGN Feedback in SDSS-IV MaNGA: AGNs Have Suppressed Central Star-Formation Rates</title>
+      <link>https://nebula0.github.io/new_article/agn_feedback_in_sdss-iv_manga_agns_have_suppressed_central_star-formation_rates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/agn_feedback_in_sdss-iv_manga_agns_have_suppressed_central_star-formation_rates/</guid>
+      <description>First author: Caleb Lammers
+Despite the importance of feedback from active galactic nuclei (AGN) in models of galaxy evolution, observational constraints on the influence of AGN feedback on star formation remain weak. To this end, we have compared the star formation trends of 279 low-redshift AGN galaxies with 558 non-active control galaxies using integral field unit spectroscopy from the SDSS-IV MaNGA survey. With a Gaussian process-based methodology, we reconstruct non-parametric star formation histories in spatially-resolved spaxels covering the face of each galaxy.</description>
     </item>
     
   </channel>

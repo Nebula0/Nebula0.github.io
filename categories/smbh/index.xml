@@ -6,15 +6,15 @@
     <description>Recent content in SMBH on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/smbh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/smbh/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Circumgalactic Medium of Milky Way-like Galaxies in the TNG50 Simulation -- I: Halo Gas Properties and the Role of SMBH Feedback</title>
-      <link>https://nebula0.github.io/new_article2/smbh/the_circumgalactic_medium_of_milky_way-like_galaxies_in_the_tng50_simulation_--_i_halo_gas_properties_and_the_role_of_smbh_feedback/</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <title>Modeling Reconstructed Images of Jets Launched by SANE Super-Eddington Accretion Flows Around SMBHs with the ngEHT</title>
+      <link>https://nebula0.github.io/new_article/modeling_reconstructed_images_of_jets_launched_by_sane_super-eddington_accretion_flows_around_smbhs_with_the_ngeht/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article2/smbh/the_circumgalactic_medium_of_milky_way-like_galaxies_in_the_tng50_simulation_--_i_halo_gas_properties_and_the_role_of_smbh_feedback/</guid>
-      <description>First author: Rahul Ramesh
-We analyze the physical properties of gas in the circumgalactic medium (CGM) of 132 Milky Way (MW)-like galaxies at $z=0$ from the cosmological magneto-hydrodynamical simulation TNG50, part of the IllustrisTNG project. The properties and abundance of CGM gas across the sample are diverse, and the fractional budgets of different phases (cold, warm, and hot), as well as neutral HI mass and metal mass, vary considerably. Over our stellar mass range of $10.</description>
+      <guid>https://nebula0.github.io/new_article/modeling_reconstructed_images_of_jets_launched_by_sane_super-eddington_accretion_flows_around_smbhs_with_the_ngeht/</guid>
+      <description>First author: Brandon Curd
+Tidal disruption events (TDEs) around super massive black holes (SMBHs) are a potential laboratory to study super-Eddington accretion disks and sometimes result in powerful jets or outflows which may shine in the radio and sub millimeter bands. In this work, we model the thermal synchrotron emission of jets from general relativistic radiation magneto-hydrodynamics (GRRMHD) simulations of a BH accretion disk/jet system which assumes the TDE resulted in a magnetized accretion disk around a BH accreting at $\sim 12-25$ times the Eddington accretion rate.</description>
     </item>
     
   </channel>
