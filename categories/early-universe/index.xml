@@ -209,5 +209,25 @@ We review the distortions of spectra of relic neutrinos due to the interactions 
 Cosmic inflation is arguably the most favoured paradigm of the very early Universe. It postulates an early phase of fast, nearly exponential, and accelerated expansion. Inflationary models are capable of explaining the overall flatness and homogeneity of today&amp;rsquo;s Universe at large scales. Despite being widely accepted by the physics community, these models are not absent from criticism. In scalar field inflation, a necessary condition to begin inflation is the requirement of a Universe dominated by the field&amp;rsquo;s potential, which implies a subdominant contribution from the scalar field dynamics.</description>
     </item>
     
+    <item>
+      <title>Evaporation of Primordial Black Holes in the Early Universe: Mass and Spin Distributions</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2212.03878/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/arxiv.2212.03878/</guid>
+      <description>Andrew Cheek
+Many cosmological phenomena lead to the production of primordial black holes in the early Universe. These phenomena often create a population of black holes with extended mass and spin distributions. As these black holes evaporate via Hawking radiation, they can modify various cosmological observables, lead to the production of dark matter, modify the number of effective relativistic degrees of freedom, $N_{\rm eff}$, source a stochastic gravitational wave background and alter the dynamics of baryogenesis.</description>
+    </item>
+    
+    <item>
+      <title>Large Deviations in the Early Universe</title>
+      <link>https://nebula0.github.io/new_article/arxiv.2212.02535/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/new_article/arxiv.2212.02535/</guid>
+      <description>Timothy Cohen
+Fluctuations play a critical role in cosmology. They are relevant across a range of phenomena from the dynamics of inflation to the formation of structure. In many cases, these fluctuations are coarse grained and follow a Gaussian distribution as a consequence of the Central Limit Theorem. Yet, some classes of observables are dominated by rare fluctuations and are sensitive to the details of the underlying microphysics. In this paper, we argue that the Large Deviation Principle can be used to diagnose when one must to appeal to the fundamental description.</description>
+    </item>
+    
   </channel>
 </rss>
