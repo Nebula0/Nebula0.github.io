@@ -47,31 +47,11 @@ We investigate the kinematic-chemical distribution of Red Giant Branch (RGB)star
     </item>
     
     <item>
-      <title>Kinematic-Chemical analysis and Time tagging for the Diagonal Ridge Structure of the Galactic Outer Disk with LAMOST Red Giant Branch Stars</title>
-      <link>https://nebula0.github.io/newarticle/arxiv.2205.09227/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/newarticle/arxiv.2205.09227/</guid>
-      <description>Peng Yang
-We investigate the kinematic-chemical distribution of Red Giant Branch (RGB)stars from the LAMOST survey crossed matched with Gaia DR2 proper motions, and present time tagging for the well-known ridge structures (diagonal distributions for $V_R$ in the $R$, $V_φ$ plane) in the range of Galactocentric distance $R$ = 8 to 15 kpc. We detect six ridge structures, including five ridges apparent in the radial velocity distribution and three ridges apparent in the vertical velocity, the sensitive time of which to the perturbations are from young population (0$-$3 Gyr) to old population (9$-$14 Gyr).</description>
-    </item>
-    
-    <item>
       <title>Numerical analyses of M31 dark matter profiles</title>
       <link>https://nebula0.github.io/article/arxiv.2212.03252/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nebula0.github.io/article/arxiv.2212.03252/</guid>
-      <description>Kuantay Boshkayev
-We reproduce the rotation curve of the Andromeda galaxy (M31) by taking into account its bulge, disk, and halo components, considering the last one to contain the major part of dark matter mass. Hence, our prescription is to split the galactic bulge into two components, namely, the inner and main bulges, respectively. Both bulges are thus modeled by exponential density profiles since we underline that the widely accepted de Vaucouleurs law fails to reproduce the whole galactic bulge rotation curve.</description>
-    </item>
-    
-    <item>
-      <title>Numerical analyses of M31 dark matter profiles</title>
-      <link>https://nebula0.github.io/newarticle/arxiv.2212.03252/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/newarticle/arxiv.2212.03252/</guid>
       <description>Kuantay Boshkayev
 We reproduce the rotation curve of the Andromeda galaxy (M31) by taking into account its bulge, disk, and halo components, considering the last one to contain the major part of dark matter mass. Hence, our prescription is to split the galactic bulge into two components, namely, the inner and main bulges, respectively. Both bulges are thus modeled by exponential density profiles since we underline that the widely accepted de Vaucouleurs law fails to reproduce the whole galactic bulge rotation curve.</description>
     </item>

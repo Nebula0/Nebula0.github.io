@@ -38,16 +38,6 @@ Fluctuations play a critical role in cosmology. They are relevant across a range
     </item>
     
     <item>
-      <title>Large Deviations in the Early Universe</title>
-      <link>https://nebula0.github.io/newarticle/arxiv.2212.04476/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/newarticle/arxiv.2212.04476/</guid>
-      <description>Xin Wang
-Fluctuations play a critical role in cosmology. They are relevant across a range of phenomena from the dynamics of inflation to the formation of structure. In many cases, these fluctuations are coarse grained and follow a Gaussian distribution as a consequence of the Central Limit Theorem. Yet, some classes of observables are dominated by rare fluctuations and are sensitive to the details of the underlying microphysics. In this paper, we argue that the Large Deviation Principle can be used to diagnose when one must to appeal to the fundamental description.</description>
-    </item>
-    
-    <item>
       <title>On the observability and identification of Population III galaxies with JWST</title>
       <link>https://nebula0.github.io/article/arxiv.2211.02038/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -63,16 +53,6 @@ We utilise theoretical models of Population III stellar+nebular spectra to inves
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nebula0.github.io/article/arxiv.2208.10789/</guid>
-      <description>Shubham Raghuvanshi
-It has been argued that the low-mass primordial stars ($m_{\rm Pop III}\,\leq 0.8\,M_\odot$) are likely to enter the main sequence and hence possibly be found in the present-day Galaxy. However, due to limitations in existing numerical capabilities, current three-dimensional (3D) &amp;lt;span class=&amp;quot;search-hit mathjax&amp;quot;&amp;gt;simulations&amp;lt;/span&amp;gt; of disk fragmentation are capable of following only a few thousands of years of evolution after the formation of the first protostar. In this work we use a modified version of {\sc Gadget}-2 smoothed particle hydrodynamics(SPH) code to present the results of non-linear collapse of the gas clouds associated with various degrees of initial solid body rotation (parameterized by $β$) using a piecewise polytropic equation of state.</description>
-    </item>
-    
-    <item>
-      <title>Simulating the collapse of rotating primordial gas clouds to study the survival possibility of Pop III protostars</title>
-      <link>https://nebula0.github.io/newarticle/arxiv.2208.10789/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/newarticle/arxiv.2208.10789/</guid>
       <description>Shubham Raghuvanshi
 It has been argued that the low-mass primordial stars ($m_{\rm Pop III}\,\leq 0.8\,M_\odot$) are likely to enter the main sequence and hence possibly be found in the present-day Galaxy. However, due to limitations in existing numerical capabilities, current three-dimensional (3D) &amp;lt;span class=&amp;quot;search-hit mathjax&amp;quot;&amp;gt;simulations&amp;lt;/span&amp;gt; of disk fragmentation are capable of following only a few thousands of years of evolution after the formation of the first protostar. In this work we use a modified version of {\sc Gadget}-2 smoothed particle hydrodynamics(SPH) code to present the results of non-linear collapse of the gas clouds associated with various degrees of initial solid body rotation (parameterized by $β$) using a piecewise polytropic equation of state.</description>
     </item>
