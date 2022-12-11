@@ -219,90 +219,180 @@ Extracting the non-Gaussian information encoded in the higher-order clustering s
     
     <item>
       <title>A Cosmological Fireball with Sixteen-Percent Gamma-Ray Radiative Efficiency</title>
-      <link>https://nebula0.github.io/new_article/a_cosmological_fireball_with_sixteen-percent_gamma-ray_radiative_efficiency/</link>
+      <link>https://nebula0.github.io/article/a_cosmological_fireball_with_sixteen-percent_gamma-ray_radiative_efficiency/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/a_cosmological_fireball_with_sixteen-percent_gamma-ray_radiative_efficiency/</guid>
+      <guid>https://nebula0.github.io/article/a_cosmological_fireball_with_sixteen-percent_gamma-ray_radiative_efficiency/</guid>
+      <description>First author: Liang Li
+Gamma-ray bursts (GRBs) are the most powerful explosions in the universe. The standard model invokes a relativistic fireball with a bright photosphere emission component. How efficiently the jet converts its energy to radiation is a long-standing problem and it is poorly constrained. A definitive diagnosis of GRB radiation components and measurement of GRB radiative efficiency requires prompt emission and afterglow data with high-resolution and wide-band coverage in time and energy.</description>
+    </item>
+    
+    <item>
+      <title>A Cosmological Fireball with Sixteen-Percent Gamma-Ray Radiative Efficiency</title>
+      <link>https://nebula0.github.io/newarticle/a_cosmological_fireball_with_sixteen-percent_gamma-ray_radiative_efficiency/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/newarticle/a_cosmological_fireball_with_sixteen-percent_gamma-ray_radiative_efficiency/</guid>
       <description>First author: Liang Li
 Gamma-ray bursts (GRBs) are the most powerful explosions in the universe. The standard model invokes a relativistic fireball with a bright photosphere emission component. How efficiently the jet converts its energy to radiation is a long-standing problem and it is poorly constrained. A definitive diagnosis of GRB radiation components and measurement of GRB radiative efficiency requires prompt emission and afterglow data with high-resolution and wide-band coverage in time and energy.</description>
     </item>
     
     <item>
       <title>A General Framework for Removing Point Spread Function Additive Systematics in Cosmological Weak Lensing Analysis</title>
-      <link>https://nebula0.github.io/new_article/a_general_framework_for_removing_point_spread_function_additive_systematics_in_cosmological_weak_lensing_analysis/</link>
+      <link>https://nebula0.github.io/article/a_general_framework_for_removing_point_spread_function_additive_systematics_in_cosmological_weak_lensing_analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/a_general_framework_for_removing_point_spread_function_additive_systematics_in_cosmological_weak_lensing_analysis/</guid>
+      <guid>https://nebula0.github.io/article/a_general_framework_for_removing_point_spread_function_additive_systematics_in_cosmological_weak_lensing_analysis/</guid>
+      <description>First author: Tianqing Zhang
+Cosmological weak lensing measurements rely on a precise measurement of the shear two-point correlation function (2PCF) along with a deep understanding of systematics that affect it. In this work, we demonstrate a general framework for describing the impact of PSF systematics on the cosmic shear 2PCF, and mitigating its impact on cosmological analysis. Our framework can describe leakage and modeling error from all spin-2 quantities contributed by the PSF second and higher moments, rather than just the second moments.</description>
+    </item>
+    
+    <item>
+      <title>A General Framework for Removing Point Spread Function Additive Systematics in Cosmological Weak Lensing Analysis</title>
+      <link>https://nebula0.github.io/newarticle/a_general_framework_for_removing_point_spread_function_additive_systematics_in_cosmological_weak_lensing_analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/newarticle/a_general_framework_for_removing_point_spread_function_additive_systematics_in_cosmological_weak_lensing_analysis/</guid>
       <description>First author: Tianqing Zhang
 Cosmological weak lensing measurements rely on a precise measurement of the shear two-point correlation function (2PCF) along with a deep understanding of systematics that affect it. In this work, we demonstrate a general framework for describing the impact of PSF systematics on the cosmic shear 2PCF, and mitigating its impact on cosmological analysis. Our framework can describe leakage and modeling error from all spin-2 quantities contributed by the PSF second and higher moments, rather than just the second moments.</description>
     </item>
     
     <item>
       <title>A roadmap to cosmological parameter analysis with third-order shear statistics II: Analytic covariance estimate</title>
-      <link>https://nebula0.github.io/new_article/a_roadmap_to_cosmological_parameter_analysis_with_third-order_shear_statistics_ii_analytic_covariance_estimate/</link>
+      <link>https://nebula0.github.io/article/a_roadmap_to_cosmological_parameter_analysis_with_third-order_shear_statistics_ii_analytic_covariance_estimate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/a_roadmap_to_cosmological_parameter_analysis_with_third-order_shear_statistics_ii_analytic_covariance_estimate/</guid>
+      <guid>https://nebula0.github.io/article/a_roadmap_to_cosmological_parameter_analysis_with_third-order_shear_statistics_ii_analytic_covariance_estimate/</guid>
+      <description>First author: Laila Linke
+Third-order weak lensing statistics are a promising tool for cosmological analyses since they extract cosmological information in the non-Gaussianity of the cosmic large-scale structure. However, such analyses require precise and accurate models for the covariance. In this second paper of a series on third-order weak lensing statistics, we derive and validate an analytic model for the covariance of the third-order aperture statistics $\langle M_\mathrm{ap}^3\rangle$. We derive the covariance model from a real-space estimator for $\langle M_\mathrm{ap}^3\rangle$.</description>
+    </item>
+    
+    <item>
+      <title>A roadmap to cosmological parameter analysis with third-order shear statistics II: Analytic covariance estimate</title>
+      <link>https://nebula0.github.io/newarticle/a_roadmap_to_cosmological_parameter_analysis_with_third-order_shear_statistics_ii_analytic_covariance_estimate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/newarticle/a_roadmap_to_cosmological_parameter_analysis_with_third-order_shear_statistics_ii_analytic_covariance_estimate/</guid>
       <description>First author: Laila Linke
 Third-order weak lensing statistics are a promising tool for cosmological analyses since they extract cosmological information in the non-Gaussianity of the cosmic large-scale structure. However, such analyses require precise and accurate models for the covariance. In this second paper of a series on third-order weak lensing statistics, we derive and validate an analytic model for the covariance of the third-order aperture statistics $\langle M_\mathrm{ap}^3\rangle$. We derive the covariance model from a real-space estimator for $\langle M_\mathrm{ap}^3\rangle$.</description>
     </item>
     
     <item>
       <title>Can high-redshift Hubble diagrams rule out the standard model of cosmology in the context of cosmographic method?</title>
-      <link>https://nebula0.github.io/new_article/can_high-redshift_hubble_diagrams_rule_out_the_standard_model_of_cosmology_in_the_context_of_cosmographic_method/</link>
+      <link>https://nebula0.github.io/article/can_high-redshift_hubble_diagrams_rule_out_the_standard_model_of_cosmology_in_the_context_of_cosmographic_method/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/can_high-redshift_hubble_diagrams_rule_out_the_standard_model_of_cosmology_in_the_context_of_cosmographic_method/</guid>
+      <guid>https://nebula0.github.io/article/can_high-redshift_hubble_diagrams_rule_out_the_standard_model_of_cosmology_in_the_context_of_cosmographic_method/</guid>
+      <description>First author: S. Pourojaghi
+Using mock data for the Hubble diagrams of type Ia supernovae (SNIa) and quasars (QSOs) generated based on the standard model of cosmology, and using the least-squares method based on the Markov-Chain-Monte-Carlo (MCMC) algorithm, we first put constraints on the cosmographic parameters in the context of the various model-independent cosmographic methods reconstructed from the Taylor $4^{th}$ and $5^{th}$ order expansions and the Pade (2,2) and (3,2) polynomials of the Hubble parameter, respectively.</description>
+    </item>
+    
+    <item>
+      <title>Can high-redshift Hubble diagrams rule out the standard model of cosmology in the context of cosmographic method?</title>
+      <link>https://nebula0.github.io/newarticle/can_high-redshift_hubble_diagrams_rule_out_the_standard_model_of_cosmology_in_the_context_of_cosmographic_method/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/newarticle/can_high-redshift_hubble_diagrams_rule_out_the_standard_model_of_cosmology_in_the_context_of_cosmographic_method/</guid>
       <description>First author: S. Pourojaghi
 Using mock data for the Hubble diagrams of type Ia supernovae (SNIa) and quasars (QSOs) generated based on the standard model of cosmology, and using the least-squares method based on the Markov-Chain-Monte-Carlo (MCMC) algorithm, we first put constraints on the cosmographic parameters in the context of the various model-independent cosmographic methods reconstructed from the Taylor $4^{th}$ and $5^{th}$ order expansions and the Pade (2,2) and (3,2) polynomials of the Hubble parameter, respectively.</description>
     </item>
     
     <item>
       <title>Cosmological constraints from the BOSS DR12 void size function</title>
-      <link>https://nebula0.github.io/new_article/cosmological_constraints_from_the_boss_dr12_void_size_function/</link>
+      <link>https://nebula0.github.io/article/cosmological_constraints_from_the_boss_dr12_void_size_function/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/cosmological_constraints_from_the_boss_dr12_void_size_function/</guid>
+      <guid>https://nebula0.github.io/article/cosmological_constraints_from_the_boss_dr12_void_size_function/</guid>
+      <description>First author: Sofia Contarini
+We present the first cosmological constraints derived from the analysis of the void size function. This work relies on the final BOSS DR12 data set, a large spectroscopic galaxy catalog, ideal for the identification of cosmic voids. We extract a sample of voids from the distribution of galaxies and we apply a cleaning procedure aimed at reaching high levels of purity and completeness. We model the void size function by means of an extension of the popular volume-conserving model, based on two additional nuisance parameters.</description>
+    </item>
+    
+    <item>
+      <title>Cosmological constraints from the BOSS DR12 void size function</title>
+      <link>https://nebula0.github.io/newarticle/cosmological_constraints_from_the_boss_dr12_void_size_function/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/newarticle/cosmological_constraints_from_the_boss_dr12_void_size_function/</guid>
       <description>First author: Sofia Contarini
 We present the first cosmological constraints derived from the analysis of the void size function. This work relies on the final BOSS DR12 data set, a large spectroscopic galaxy catalog, ideal for the identification of cosmic voids. We extract a sample of voids from the distribution of galaxies and we apply a cleaning procedure aimed at reaching high levels of purity and completeness. We model the void size function by means of an extension of the popular volume-conserving model, based on two additional nuisance parameters.</description>
     </item>
     
     <item>
       <title>f(T) cosmology against the cosmographic method: A new study using mock and observational data</title>
-      <link>https://nebula0.github.io/new_article/ft_cosmology_against_the_cosmographic_method_a_new_study_using_mock_and_observational_data/</link>
+      <link>https://nebula0.github.io/article/ft_cosmology_against_the_cosmographic_method_a_new_study_using_mock_and_observational_data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/ft_cosmology_against_the_cosmographic_method_a_new_study_using_mock_and_observational_data/</guid>
+      <guid>https://nebula0.github.io/article/ft_cosmology_against_the_cosmographic_method_a_new_study_using_mock_and_observational_data/</guid>
+      <description>First author: M. Sabiee
+In this paper, we study the power-law $f(T)$ model using Hubble diagrams of type Ia supernovae (SNIa), quasars (QSOs), Gamma Ray Bursts (GRBs) and the measurements from baryonic acoustic oscillations (BAO) in the framework of the cosmographic method. Using mock data for SNIa, QSOs and GRBs generated based on the power-law $f(T)$ model, we show whether different cosmographic methods are suitable to reconstruct the distance modulus or not.</description>
+    </item>
+    
+    <item>
+      <title>f(T) cosmology against the cosmographic method: A new study using mock and observational data</title>
+      <link>https://nebula0.github.io/newarticle/ft_cosmology_against_the_cosmographic_method_a_new_study_using_mock_and_observational_data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/newarticle/ft_cosmology_against_the_cosmographic_method_a_new_study_using_mock_and_observational_data/</guid>
       <description>First author: M. Sabiee
 In this paper, we study the power-law $f(T)$ model using Hubble diagrams of type Ia supernovae (SNIa), quasars (QSOs), Gamma Ray Bursts (GRBs) and the measurements from baryonic acoustic oscillations (BAO) in the framework of the cosmographic method. Using mock data for SNIa, QSOs and GRBs generated based on the power-law $f(T)$ model, we show whether different cosmographic methods are suitable to reconstruct the distance modulus or not.</description>
     </item>
     
     <item>
       <title>The formation of the brightest cluster galaxy and intracluster light in cosmological N-body simulations with the Galaxy Replacement Technique</title>
-      <link>https://nebula0.github.io/new_article/the_formation_of_the_brightest_cluster_galaxy_and_intracluster_light_in_cosmological_n-body_simulations_with_the_galaxy_replacement_technique/</link>
+      <link>https://nebula0.github.io/article/the_formation_of_the_brightest_cluster_galaxy_and_intracluster_light_in_cosmological_n-body_simulations_with_the_galaxy_replacement_technique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/the_formation_of_the_brightest_cluster_galaxy_and_intracluster_light_in_cosmological_n-body_simulations_with_the_galaxy_replacement_technique/</guid>
+      <guid>https://nebula0.github.io/article/the_formation_of_the_brightest_cluster_galaxy_and_intracluster_light_in_cosmological_n-body_simulations_with_the_galaxy_replacement_technique/</guid>
+      <description>First author: Kyungwon Chun
+We investigate the formation channels of the intracluster light (ICL) and the brightest cluster galaxy (BCG) in clusters at $z=0$. For this, we perform multi-resolution cosmological N-body simulations using the &amp;ldquo;Galaxy Replacement Technique&amp;rdquo; (GRT). We study the formation channels of the ICL and BCG as a function of distance from the cluster center and the dynamical state of the clusters at $z=0$. To do this, we trace back the stars of the ICL and BCG, and identify the stellar components in which they existed when they first fell into the clusters.</description>
+    </item>
+    
+    <item>
+      <title>The formation of the brightest cluster galaxy and intracluster light in cosmological N-body simulations with the Galaxy Replacement Technique</title>
+      <link>https://nebula0.github.io/newarticle/the_formation_of_the_brightest_cluster_galaxy_and_intracluster_light_in_cosmological_n-body_simulations_with_the_galaxy_replacement_technique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/newarticle/the_formation_of_the_brightest_cluster_galaxy_and_intracluster_light_in_cosmological_n-body_simulations_with_the_galaxy_replacement_technique/</guid>
       <description>First author: Kyungwon Chun
 We investigate the formation channels of the intracluster light (ICL) and the brightest cluster galaxy (BCG) in clusters at $z=0$. For this, we perform multi-resolution cosmological N-body simulations using the &amp;ldquo;Galaxy Replacement Technique&amp;rdquo; (GRT). We study the formation channels of the ICL and BCG as a function of distance from the cluster center and the dynamical state of the clusters at $z=0$. To do this, we trace back the stars of the ICL and BCG, and identify the stellar components in which they existed when they first fell into the clusters.</description>
     </item>
     
     <item>
       <title>The N5K Challenge: Non-Limber Integration for LSST Cosmology</title>
-      <link>https://nebula0.github.io/new_article/the_n5k_challenge_non-limber_integration_for_lsst_cosmology/</link>
+      <link>https://nebula0.github.io/article/the_n5k_challenge_non-limber_integration_for_lsst_cosmology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/the_n5k_challenge_non-limber_integration_for_lsst_cosmology/</guid>
+      <guid>https://nebula0.github.io/article/the_n5k_challenge_non-limber_integration_for_lsst_cosmology/</guid>
+      <description>First author: C. D. Leonard
+The rapidly increasing statistical power of cosmological imaging surveys requires us to reassess the regime of validity for various approximations that accelerate the calculation of relevant theoretical predictions. In this paper, we present the results of the &amp;lsquo;N5K non-Limber integration challenge&amp;rsquo;, the goal of which was to quantify the performance of different approaches to calculating the angular power spectrum of galaxy number counts and cosmic shear data without invoking the so-called &amp;lsquo;Limber approximation&amp;rsquo;, in the context of the Rubin Observatory Legacy Survey of Space and Time (LSST).</description>
+    </item>
+    
+    <item>
+      <title>The N5K Challenge: Non-Limber Integration for LSST Cosmology</title>
+      <link>https://nebula0.github.io/newarticle/the_n5k_challenge_non-limber_integration_for_lsst_cosmology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/newarticle/the_n5k_challenge_non-limber_integration_for_lsst_cosmology/</guid>
       <description>First author: C. D. Leonard
 The rapidly increasing statistical power of cosmological imaging surveys requires us to reassess the regime of validity for various approximations that accelerate the calculation of relevant theoretical predictions. In this paper, we present the results of the &amp;lsquo;N5K non-Limber integration challenge&amp;rsquo;, the goal of which was to quantify the performance of different approaches to calculating the angular power spectrum of galaxy number counts and cosmic shear data without invoking the so-called &amp;lsquo;Limber approximation&amp;rsquo;, in the context of the Rubin Observatory Legacy Survey of Space and Time (LSST).</description>
     </item>
     
     <item>
       <title>What it takes to solve the Hubble tension through modifications of cosmological recombination</title>
-      <link>https://nebula0.github.io/new_article/what_it_takes_to_solve_the_hubble_tension_through_modifications_of_cosmological_recombination/</link>
+      <link>https://nebula0.github.io/article/what_it_takes_to_solve_the_hubble_tension_through_modifications_of_cosmological_recombination/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/what_it_takes_to_solve_the_hubble_tension_through_modifications_of_cosmological_recombination/</guid>
+      <guid>https://nebula0.github.io/article/what_it_takes_to_solve_the_hubble_tension_through_modifications_of_cosmological_recombination/</guid>
+      <description>First author: Nanoom Lee
+We develop a novel general formalism allowing us to obtain values of the Hubble constant in agreement with late-time observables without degrading the fit to Cosmic Microwave Background data, considering perturbative modifications around a fiducial $\Lambda$CDM cosmology. Taking as proof-of-principle the case of a time-varying electron mass and fine structure constant, we demonstrate that a modified recombination can solve the Hubble tension and lower $S_8$ to match weak lensing measurements.</description>
+    </item>
+    
+    <item>
+      <title>What it takes to solve the Hubble tension through modifications of cosmological recombination</title>
+      <link>https://nebula0.github.io/newarticle/what_it_takes_to_solve_the_hubble_tension_through_modifications_of_cosmological_recombination/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/newarticle/what_it_takes_to_solve_the_hubble_tension_through_modifications_of_cosmological_recombination/</guid>
       <description>First author: Nanoom Lee
 We develop a novel general formalism allowing us to obtain values of the Hubble constant in agreement with late-time observables without degrading the fit to Cosmic Microwave Background data, considering perturbative modifications around a fiducial $\Lambda$CDM cosmology. Taking as proof-of-principle the case of a time-varying electron mass and fine structure constant, we demonstrate that a modified recombination can solve the Hubble tension and lower $S_8$ to match weak lensing measurements.</description>
     </item>

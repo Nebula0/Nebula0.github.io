@@ -149,10 +149,20 @@ Gaseous outflows are key phenomena in the evolution of galaxies, as they affect 
     
     <item>
       <title>A theoretical study of the time-lags due to Comptonization and the constraints on the X-ray corona in AGN</title>
-      <link>https://nebula0.github.io/new_article/a_theoretical_study_of_the_time-lags_due_to_comptonization_and_the_constraints_on_the_x-ray_corona_in_agn/</link>
+      <link>https://nebula0.github.io/article/a_theoretical_study_of_the_time-lags_due_to_comptonization_and_the_constraints_on_the_x-ray_corona_in_agn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/a_theoretical_study_of_the_time-lags_due_to_comptonization_and_the_constraints_on_the_x-ray_corona_in_agn/</guid>
+      <guid>https://nebula0.github.io/article/a_theoretical_study_of_the_time-lags_due_to_comptonization_and_the_constraints_on_the_x-ray_corona_in_agn/</guid>
+      <description>First author: W. Zhang
+We study the Fourier time-lags due to the Comptonization of disc-emitted photons in a spherical, uniform, and stationary X-ray corona, which located on the rotational axis of the black hole. We use Monk, a general relativistic Monte-Carlo radiative transfer code, to calculate Compton scattering of photons emitted by a thin disc with a Novikov-Thorne temperature profile. We find that the model time-lags due to Comptonization remain constant up to a characteristic frequency and then rapidly decrease to zero at higher frequencies.</description>
+    </item>
+    
+    <item>
+      <title>A theoretical study of the time-lags due to Comptonization and the constraints on the X-ray corona in AGN</title>
+      <link>https://nebula0.github.io/newarticle/a_theoretical_study_of_the_time-lags_due_to_comptonization_and_the_constraints_on_the_x-ray_corona_in_agn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/newarticle/a_theoretical_study_of_the_time-lags_due_to_comptonization_and_the_constraints_on_the_x-ray_corona_in_agn/</guid>
       <description>First author: W. Zhang
 We study the Fourier time-lags due to the Comptonization of disc-emitted photons in a spherical, uniform, and stationary X-ray corona, which located on the rotational axis of the black hole. We use Monk, a general relativistic Monte-Carlo radiative transfer code, to calculate Compton scattering of photons emitted by a thin disc with a Novikov-Thorne temperature profile. We find that the model time-lags due to Comptonization remain constant up to a characteristic frequency and then rapidly decrease to zero at higher frequencies.</description>
     </item>
@@ -169,20 +179,40 @@ Despite the importance of feedback from active galactic nuclei (AGN) in models o
     
     <item>
       <title>Dwarf AGNs from Variability for the Origins of Seeds (DAVOS): Optical Variability of Broad-line Dwarf AGNs from the Zwicky Transient Facility</title>
-      <link>https://nebula0.github.io/new_article/dwarf_agns_from_variability_for_the_origins_of_seeds_davos_optical_variability_of_broad-line_dwarf_agns_from_the_zwicky_transient_facility/</link>
+      <link>https://nebula0.github.io/article/dwarf_agns_from_variability_for_the_origins_of_seeds_davos_optical_variability_of_broad-line_dwarf_agns_from_the_zwicky_transient_facility/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/dwarf_agns_from_variability_for_the_origins_of_seeds_davos_optical_variability_of_broad-line_dwarf_agns_from_the_zwicky_transient_facility/</guid>
+      <guid>https://nebula0.github.io/article/dwarf_agns_from_variability_for_the_origins_of_seeds_davos_optical_variability_of_broad-line_dwarf_agns_from_the_zwicky_transient_facility/</guid>
+      <description>First author: Z. Franklin Wang
+We study the optical variability of a sample of candidate low-mass (dwarf ang Seyfert) active galactic nuclei (AGNs) using Zwicky Transient Facility g-band light curves. Our sample is compiled from broad-line AGNs in dwarf galaxies reported in the literature with single-epoch virial black hole (BH) masses in the range $M_{\rm{BH}} \sim 10^{4}$&amp;ndash;$10^{8}\ M_{\odot}$. We measure the characteristic ``damping&amp;rsquo;&amp;rsquo; timescale of the optical variability $\tau_{\rm{DRW}}$, beyond which the power spectral density flattens, of a final sample of 79 candidate low-mass AGNs with high-quality light curves.</description>
+    </item>
+    
+    <item>
+      <title>Dwarf AGNs from Variability for the Origins of Seeds (DAVOS): Optical Variability of Broad-line Dwarf AGNs from the Zwicky Transient Facility</title>
+      <link>https://nebula0.github.io/newarticle/dwarf_agns_from_variability_for_the_origins_of_seeds_davos_optical_variability_of_broad-line_dwarf_agns_from_the_zwicky_transient_facility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/newarticle/dwarf_agns_from_variability_for_the_origins_of_seeds_davos_optical_variability_of_broad-line_dwarf_agns_from_the_zwicky_transient_facility/</guid>
       <description>First author: Z. Franklin Wang
 We study the optical variability of a sample of candidate low-mass (dwarf ang Seyfert) active galactic nuclei (AGNs) using Zwicky Transient Facility g-band light curves. Our sample is compiled from broad-line AGNs in dwarf galaxies reported in the literature with single-epoch virial black hole (BH) masses in the range $M_{\rm{BH}} \sim 10^{4}$&amp;ndash;$10^{8}\ M_{\odot}$. We measure the characteristic ``damping&amp;rsquo;&amp;rsquo; timescale of the optical variability $\tau_{\rm{DRW}}$, beyond which the power spectral density flattens, of a final sample of 79 candidate low-mass AGNs with high-quality light curves.</description>
     </item>
     
     <item>
       <title>Gas dynamical friction as a binary formation mechanism in AGN discs</title>
-      <link>https://nebula0.github.io/new_article/gas_dynamical_friction_as_a_binary_formation_mechanism_in_agn_discs/</link>
+      <link>https://nebula0.github.io/article/gas_dynamical_friction_as_a_binary_formation_mechanism_in_agn_discs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/gas_dynamical_friction_as_a_binary_formation_mechanism_in_agn_discs/</guid>
+      <guid>https://nebula0.github.io/article/gas_dynamical_friction_as_a_binary_formation_mechanism_in_agn_discs/</guid>
+      <description>First author: Stanislav DeLaurentiis
+In this paper, we study how gaseous dynamical friction (DF) affects the motion of fly-by stellar-mass black holes (sBHs) embedded in active galactic nucleus (AGN) discs. We perform 3-body integrations of the interaction of two co-planar sBHs in nearby, initially circular orbits around the supermassive black hole (SMBH). We find that DF can facilitate the formation of gravitationally bound near-Keplerian binaries in AGN discs, and we delineate the discrete ranges of impact parameters and AGN disc parameters for which such captures occur.</description>
+    </item>
+    
+    <item>
+      <title>Gas dynamical friction as a binary formation mechanism in AGN discs</title>
+      <link>https://nebula0.github.io/newarticle/gas_dynamical_friction_as_a_binary_formation_mechanism_in_agn_discs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/newarticle/gas_dynamical_friction_as_a_binary_formation_mechanism_in_agn_discs/</guid>
       <description>First author: Stanislav DeLaurentiis
 In this paper, we study how gaseous dynamical friction (DF) affects the motion of fly-by stellar-mass black holes (sBHs) embedded in active galactic nucleus (AGN) discs. We perform 3-body integrations of the interaction of two co-planar sBHs in nearby, initially circular orbits around the supermassive black hole (SMBH). We find that DF can facilitate the formation of gravitationally bound near-Keplerian binaries in AGN discs, and we delineate the discrete ranges of impact parameters and AGN disc parameters for which such captures occur.</description>
     </item>
