@@ -6,7 +6,27 @@
     <description>Recent content in hydrodynamics on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/hydrodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/hydrodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hydrodynamical Simulations of Circumbinary Accretion: Balance between Heating and Cooling</title>
+      <link>https://nebula0.github.io/article/hydrodynamical_simulations_of_circumbinary_accretion_balance_between_heating_and_cooling/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/hydrodynamical_simulations_of_circumbinary_accretion_balance_between_heating_and_cooling/</guid>
+      <description>First author: Hai-Yang Wang
+Hydrodynamical interaction in circumbinary discs (CBDs) plays a crucial role in various astrophysical systems, ranging from young stellar binaries to supermassive black hole binaries in galactic centers. Most previous simulations of binary-disc systems have adopted locally isothermal equation of state. In this study, we use the grid-based code $\texttt{Athena++}$ to conduct a suite of two-dimensional viscous hydrodynamical simulations of circumbinary accretion on a cartesian grid, resolving the central cavity of the binary.</description>
+    </item>
+    
+    <item>
+      <title>Morphology of Shocked Lateral Outflows in Colliding Hydrodynamic Flows</title>
+      <link>https://nebula0.github.io/article/morphology_of_shocked_lateral_outflows_in_colliding_hydrodynamic_flows/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/morphology_of_shocked_lateral_outflows_in_colliding_hydrodynamic_flows/</guid>
+      <description>First author: R. N. Markwick
+Supersonic interacting flows occurring in phenomena such as protostellar jets give rise to strong shocks, and have been demonstrated in several laboratory experiments. To study such colliding flows, we use the AstroBEAR AMR code to conduct hydrodynamic simulations in three dimensions. We introduce variations in the flow parameters of density, velocity, and cross sectional radius of the colliding flows %radius in order to study the propagation and conical shape of the bow shock formed by collisions between two, not necessarily symmetric, hypersonic flows.</description>
+    </item>
+    
     <item>
       <title>GalaxyFlow: Upsampling Hydrodynamical Simulations for Realistic Gaia Mock Catalogs</title>
       <link>https://nebula0.github.io/article/galaxyflow_upsampling_hydrodynamical_simulations_for_realistic_gaia_mock_catalogs/</link>

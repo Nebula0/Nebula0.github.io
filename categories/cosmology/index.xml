@@ -6,7 +6,127 @@
     <description>Recent content in cosmology on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>25,000 optical fiber positioning robots for next-generation cosmology</title>
+      <link>https://nebula0.github.io/article/25000_optical_fiber_positioning_robots_for_next-generation_cosmology/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/25000_optical_fiber_positioning_robots_for_next-generation_cosmology/</guid>
+      <description>First author: Joseph H. Silber
+Massively parallel multi-object spectrographs are on the leading edge of cosmology instrumentation. The highly successful Dark Energy Spectroscopic Instrument (DESI) which begun survey operations in May 2021, for example, has 5,000 robotically-actuated multimode fibers, which deliver light from thousands of individual galaxies and quasars simultaneously to an array of high-resolution spectrographs off-telescope. The redshifts are individually measured, thus providing 3D maps of the Universe in unprecedented detail, and enabling precise measurement of dark energy expansion and other key cosmological parameters.</description>
+    </item>
+    
+    <item>
+      <title>High-redshift cosmological probes of helium reionization at the cosmic (fore)noon</title>
+      <link>https://nebula0.github.io/article/high-redshift_cosmological_probes_of_helium_reionization_at_the_cosmic_forenoon/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/high-redshift_cosmological_probes_of_helium_reionization_at_the_cosmic_forenoon/</guid>
+      <description>First author: Selim C. Hotinli
+Joint analysis of CMB and large-scale structure at high redshifts provide new and unique windows into unexplored epochs of early structure formation. Here, we demonstrate how cosmic infrared background and high-redshift galaxies can be jointly analysed with CMB to probe the epoch of helium reionization ($2&amp;lt;z&amp;lt;4$) on the light cone using kinetic Sunyaev Zel&amp;rsquo;dovich tomography. Characterising this epoch has great potential significance for understanding astrophysics of galaxy formation, quasar activity and formation of the super-massive black holes.</description>
+    </item>
+    
+    <item>
+      <title>Testing the Cosmological Principle with CatWISE Quasars: A Bayesian Analysis of the Number-Count Dipole</title>
+      <link>https://nebula0.github.io/article/testing_the_cosmological_principle_with_catwise_quasars_a_bayesian_analysis_of_the_number-count_dipole/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/testing_the_cosmological_principle_with_catwise_quasars_a_bayesian_analysis_of_the_number-count_dipole/</guid>
+      <description>First author: Lawrence Dam
+The Cosmological Principle, that the Universe is homogeneous and isotropic on sufficiently large scales, underpins the standard model of cosmology. However, a recent analysis of 1.36 million infrared-selected quasars has identified a significant tension in the amplitude of the number-count dipole compared to that derived from the CMB, thus challenging the Cosmological Principle. Here we present a Bayesian analysis of the same quasar sample, testing various hypotheses using the Bayesian evidence.</description>
+    </item>
+    
+    <item>
+      <title>Voids fill us in on rising cosmology tensions</title>
+      <link>https://nebula0.github.io/article/voids_fill_us_in_on_rising_cosmology_tensions/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/voids_fill_us_in_on_rising_cosmology_tensions/</guid>
+      <description>First author: Sofia Contarini
+We investigate the main tensions within the current standard model of cosmology from the perspective of the void size function in BOSS DR12 data. For this purpose, we present the first cosmological constraints on the parameters $S_8\equiv \sigma_8\sqrt{\Omega_{\rm m}/0.3}$ and $H_0$ obtained from voids as a stand-alone probe. We rely on an extension of the popular volume-conserving model for the void size function, tailored to the application on data, including geometric and dynamic distortions.</description>
+    </item>
+    
+    <item>
+      <title>Cosmology with cosmic web environments II. Redshift-space auto and cross power spectra</title>
+      <link>https://nebula0.github.io/article/cosmology_with_cosmic_web_environments_ii._redshift-space_auto_and_cross_power_spectra/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/cosmology_with_cosmic_web_environments_ii._redshift-space_auto_and_cross_power_spectra/</guid>
+      <description>First author: Tony Bonnaire
+Degeneracies among parameters of the cosmological model are known to drastically limit the information contained in the matter distribution. In the first paper of this series, we shown that the cosmic web environments; namely the voids, walls, filaments and nodes; can be used as a leverage to improve the real-space constraints on a set of six cosmological parameters, including the summed neutrino mass. Following-upon these results, we propose to study the achievable constraints of environment-dependent power spectra in redshift space where the velocities add up information to the standard two-point statistics by breaking the isotropy of the matter density field.</description>
+    </item>
+    
+    <item>
+      <title>Guess the cheese flavour by the size of its holes: A cosmological test using the abundance of Popcorn voids</title>
+      <link>https://nebula0.github.io/article/guess_the_cheese_flavour_by_the_size_of_its_holes_a_cosmological_test_using_the_abundance_of_popcorn_voids/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/guess_the_cheese_flavour_by_the_size_of_its_holes_a_cosmological_test_using_the_abundance_of_popcorn_voids/</guid>
+      <description>First author: Dante J. Paz
+We present a new definition of cosmic void and a publicly available code with the algorithm that implements it. In this void finder, underdense regions are defined as free-form objects, called popcorn voids, made from the union of spheres of maximum volume with a given joint integrated underdensity contrast. This provides, for the first time, a definition of a void in the matter field whose abundance can be faithfully reproduced by excursion set theory, in particular using the Vdn model without any adjustment or cleaning process.</description>
+    </item>
+    
+    <item>
+      <title>Machine learning cosmology from void properties</title>
+      <link>https://nebula0.github.io/article/machine_learning_cosmology_from_void_properties/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/machine_learning_cosmology_from_void_properties/</guid>
+      <description>First author: Bonny Y. Wang
+Cosmic voids are the largest and most underdense structures in the Universe. Their properties have been shown to encode precious information about the laws and constituents of the Universe. We show that machine learning techniques can unlock the information in void features for cosmological parameter inference. We rely on thousands of void catalogs from the GIGANTES dataset, where every catalog contains an average of 11,000 voids from a volume of $1~(h^{-1}{\rm Gpc})^3$.</description>
+    </item>
+    
+    <item>
+      <title>Precision cosmology with primordial GW backgrounds in presence of astrophysical foregrounds</title>
+      <link>https://nebula0.github.io/article/precision_cosmology_with_primordial_gw_backgrounds_in_presence_of_astrophysical_foregrounds/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/precision_cosmology_with_primordial_gw_backgrounds_in_presence_of_astrophysical_foregrounds/</guid>
+      <description>First author: Davide Racco
+The era of Gravitational-Wave (GW) astronomy will grant the detection of the astrophysical GW background from unresolved mergers of binary black holes, and the prospect of probing the presence of primordial GW backgrounds. In particular, the low-frequency tail of the GW spectrum for causally-generated primordial signals (like a phase transition) offers an excellent opportunity to measure unambiguously cosmological parameters as the equation of state of the universe, or free-streaming particles at epochs well before recombination.</description>
+    </item>
+    
+    <item>
+      <title>Propagating Uncertainties in the SALT3 Model Training Process to Cosmological Constraints</title>
+      <link>https://nebula0.github.io/article/propagating_uncertainties_in_the_salt3_model_training_process_to_cosmological_constraints/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/propagating_uncertainties_in_the_salt3_model_training_process_to_cosmological_constraints/</guid>
+      <description>First author: M. Dai
+Type Ia supernovae (SNe Ia) are standardizable candles that must be modeled empirically to yield cosmological constraints. To understand the robustness of this modeling to variations in the model training procedure, we build an end-to-end pipeline to test the recently developed SALT3 model. We explore the consequences of removing pre-2000s low-$z$ or poorly calibrated $U$-band data, adjusting the amount and fidelity of SN Ia spectra, and using a model-independent framework to simulate the training data.</description>
+    </item>
+    
+    <item>
+      <title>A Measurement of the CMB Temperature Power Spectrum and Constraints on Cosmology from the SPT-3G 2018 TT/TE/EE Data Set</title>
+      <link>https://nebula0.github.io/article/a_measurement_of_the_cmb_temperature_power_spectrum_and_constraints_on_cosmology_from_the_spt-3g_2018_tt_te_ee_data_set/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/a_measurement_of_the_cmb_temperature_power_spectrum_and_constraints_on_cosmology_from_the_spt-3g_2018_tt_te_ee_data_set/</guid>
+      <description>First author: L. Balkenhol
+We present a sample-variance-limited measurement of the temperature power spectrum ($TT$) of the cosmic microwave background (CMB) using observations of a $\sim! 1500 ,\mathrm{deg}^2$ field made by SPT-3G in 2018. We report multifrequency power spectrum measurements at 95, 150, and 220GHz covering the angular multipole range $750 \leq \ell &amp;lt; 3000$. We combine this $TT$ measurement with the published polarization power spectrum measurements from the 2018 observing season and update their associated covariance matrix to complete the SPT-3G 2018 $TT/TE/EE$ data set.</description>
+    </item>
+    
+    <item>
+      <title>Constraining the bispectrum from bouncing cosmologies with Planck</title>
+      <link>https://nebula0.github.io/article/constraining_the_bispectrum_from_bouncing_cosmologies_with_planck/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/constraining_the_bispectrum_from_bouncing_cosmologies_with_planck/</guid>
+      <description>First author: Bartjan van Tent
+Bouncing models of cosmology, as they arise e.g. in loop quantum cosmology, can generate close-to-scale-invariant fluctuation spectra as observed in the Cosmic Microwave Background (CMB). However, they are typically not Gaussian and also generate a bispectrum. It was proposed that these models can help to mitigate the large-scale anomalies of the CMB by considering large non-Gaussianities on very large scales, which decay exponentially on sub-horizon scales.</description>
+    </item>
+    
+    <item>
+      <title>Cosmological Model Tests with JWST</title>
+      <link>https://nebula0.github.io/article/cosmological_model_tests_with_jwst/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/cosmological_model_tests_with_jwst/</guid>
+      <description>First author: Nikita Lovyagin
+The James Webb Space Telescope (JWST), which has recently become operational, is capable of detecting objects at record-breaking redshifts, $z \gtrsim 15$. This is a crucial advance for observational cosmology, as at these redshifts the differences between alternative cosmological models manifest themselves in the most obvious way. In recent years, some observational hints have emerged indicating that the Standard Cosmological Model could require correcting. One of these hints is related to the discovery of remote galaxies whose redshifts correspond to the very young Universe (less than one billion years after the Big Bang) but which are similar to nearby galaxies.</description>
+    </item>
+    
     <item>
       <title>Testing Cosmology with Double Source Lensing</title>
       <link>https://nebula0.github.io/article/testing_cosmology_with_double_source_lensing/</link>

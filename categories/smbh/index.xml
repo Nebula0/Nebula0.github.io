@@ -6,7 +6,17 @@
     <description>Recent content in SMBH on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/smbh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/smbh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accuracy and precision of triaxial orbit models I: SMBH mass, stellar mass and dark-matter halo</title>
+      <link>https://nebula0.github.io/article/accuracy_and_precision_of_triaxial_orbit_models_i_smbh_mass_stellar_mass_and_dark-matter_halo/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/accuracy_and_precision_of_triaxial_orbit_models_i_smbh_mass_stellar_mass_and_dark-matter_halo/</guid>
+      <description>First author: B. Neureiter
+We investigate the accuracy and precision of triaxial dynamical orbit models by fitting two dimensional mock observations of a realistic N-body merger simulation resembling a massive early-type galaxy with a supermassive black hole (SMBH). We show that we can reproduce the triaxial N-body merger remnant&amp;rsquo;s correct black hole mass, stellar mass-to-light ratio and total enclosed mass (inside the half-light radius) for several different tested orientations with an unprecedented accuracy of 5-10%.</description>
+    </item>
+    
     <item>
       <title>Modeling Reconstructed Images of Jets Launched by SANE Super-Eddington Accretion Flows Around SMBHs with the ngEHT</title>
       <link>https://nebula0.github.io/article/modeling_reconstructed_images_of_jets_launched_by_sane_super-eddington_accretion_flows_around_smbhs_with_the_ngeht/</link>
