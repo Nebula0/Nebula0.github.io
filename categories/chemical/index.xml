@@ -6,7 +6,47 @@
     <description>Recent content in chemical on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/chemical/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/chemical/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Star Formation and Chemical Enrichment in Protoclusters</title>
+      <link>https://nebula0.github.io/article/star_formation_and_chemical_enrichment_in_protoclusters/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/star_formation_and_chemical_enrichment_in_protoclusters/</guid>
+      <description>First author: Keita Fukushima
+We examine star formation and chemical enrichment in protoclusters (PCs) using cosmological zoom-in hydrodynamic simulations. We find that the total star formation rate (SFR) in all PC ($&amp;gt;10^{14.4},h^{-1}$~M$\odot$) reaches $&amp;gt;10^4,\mathrm{M}\odot \mathrm{yr}^{-1}$, at $z=3$, equivalent to the observed PCs. The SFR in the Core region accounts for about $30%$ of the total star formation in the PC at $z\gtrsim1$, suggesting the importance of the outer regions to reveal the evolution of galaxy clusters.</description>
+    </item>
+    
+    <item>
+      <title>Chemical modeling of Orion Nebula Cluster disks: evidence for massive, compact gas disks with ISM-like gas-to-dust ratios</title>
+      <link>https://nebula0.github.io/article/chemical_modeling_of_orion_nebula_cluster_disks_evidence_for_massive_compact_gas_disks_with_ism-like_gas-to-dust_ratios/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/chemical_modeling_of_orion_nebula_cluster_disks_evidence_for_massive_compact_gas_disks_with_ism-like_gas-to-dust_ratios/</guid>
+      <description>First author: Ryan D. Boyden
+The stellar cluster environment is expected to play a central role in the evolution of circumstellar disks. We use thermochemical modeling to constrain the dust and gas masses, disk sizes, UV and X-ray radiation fields, viewing geometries, and central stellar masses of 20 Class II disks in the Orion Nebula Cluster (ONC). We fit a large grid of disk models to $350$ GHz continuum, CO $J=3-2$, and HCO$^+$ $J=4-3$ ALMA observations of each target, and we introduce a procedure for modeling interferometric observations of gas disks detected in absorption against a bright molecular cloud background.</description>
+    </item>
+    
+    <item>
+      <title>Design of Chemical Propellant Thruster to Deorbit Nano satellite: StudSat II</title>
+      <link>https://nebula0.github.io/article/design_of_chemical_propellant_thruster_to_deorbit_nano_satellite_studsat_ii/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/design_of_chemical_propellant_thruster_to_deorbit_nano_satellite_studsat_ii/</guid>
+      <description>First author: Prabin Sherpaili
+An increase in satellite application has skyrocketed the number of satellites, especially in the low earth orbit (LEO). The major concern today is that these satellites become debris after the end of life, negatively affecting the space environment. As per the International Guidelines of the European Space Agency, it is mandatory to deorbit the satellite within 25 years of its end of life. This paper is aimed to design the solid chemical propellant thruster to deorbit the StudSat II from its original orbit to the lower orbit.</description>
+    </item>
+    
+    <item>
+      <title>Determination of the Cosmic-Ray Chemical Composition: Open Issues and Prospects</title>
+      <link>https://nebula0.github.io/article/determination_of_the_cosmic-ray_chemical_composition_open_issues_and_prospects/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/determination_of_the_cosmic-ray_chemical_composition_open_issues_and_prospects/</guid>
+      <description>First author: A. D. Supanitsky
+Cosmic rays are relativistic particles that come to the Earth from outer space. Despite a great effort made in both experimental and theoretical research, their origin is still unknown. One of the main keys to understand their nature is the determination of its chemical composition as a function of primary energy. In this paper, we review the measurements of the mass composition above $10^{15}$ eV.</description>
+    </item>
+    
     <item>
       <title>Linking the dust and chemical evolution: Taurus and Perseus -- New collisional rates for HCN, HNC, and their C, N, and H isotopologues</title>
       <link>https://nebula0.github.io/article/linking_the_dust_and_chemical_evolution_taurus_and_perseus_--_new_collisional_rates_for_hcn_hnc_and_their_c_n_and_h_isotopologues/</link>

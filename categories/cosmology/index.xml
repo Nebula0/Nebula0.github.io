@@ -6,7 +6,57 @@
     <description>Recent content in cosmology on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A novel model-marginalized cosmological bound on the QCD axion mass</title>
+      <link>https://nebula0.github.io/article/a_novel_model-marginalized_cosmological_bound_on_the_qcd_axion_mass/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/a_novel_model-marginalized_cosmological_bound_on_the_qcd_axion_mass/</guid>
+      <description>First author: Eleonora Di Valentino
+We present strong model-marginalized limits on mixed hot dark matter scenarios, which consider both thermal neutrinos and thermal QCD axions. A novel aspect of our analyses is the inclusion of small-scale Cosmic Microwave Background (CMB) observations from the Atacama Cosmology Telescope (ACT) and the South Pole Telescope (SPT), together with those from the Planck satellite and Baryon Acoustic Oscillation (BAO) data. After marginalizing over a number of well-motivated non-minimal background cosmologies, the tightest $95%$ CL upper bound we obtain is $0.</description>
+    </item>
+    
+    <item>
+      <title>CosmoDRAGoN simulations -- I. Dynamics and observable signatures of radio jets in cosmological environments</title>
+      <link>https://nebula0.github.io/article/cosmodragon_simulations_--_i._dynamics_and_observable_signatures_of_radio_jets_in_cosmological_environments/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/cosmodragon_simulations_--_i._dynamics_and_observable_signatures_of_radio_jets_in_cosmological_environments/</guid>
+      <description>First author: Patrick M. Yates-Jones
+We present the Cosmological Double Radio Active Galactic Nuclei (CosmoDRAGoN) project: a large suite of simulated AGN jets in cosmological environments. These environments sample the intra-cluster media of galaxy clusters that form in cosmological smooth particle hydrodynamics (SPH) simulations, which we then use as inputs for grid-based hydrodynamic simulations of radio jets. Initially conical jets are injected with a range of jet powers, speeds (both relativistic and non-relativistic), and opening angles; we follow their collimation and propagation on scales of tens to hundreds of kiloparsecs, and calculate spatially-resolved synthetic radio spectra in post-processing.</description>
+    </item>
+    
+    <item>
+      <title>Constraining the spatial curvature with cosmic expansion history in a cosmological model with a non-standard sound horizon</title>
+      <link>https://nebula0.github.io/article/constraining_the_spatial_curvature_with_cosmic_expansion_history_in_a_cosmological_model_with_a_non-standard_sound_horizon/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/constraining_the_spatial_curvature_with_cosmic_expansion_history_in_a_cosmological_model_with_a_non-standard_sound_horizon/</guid>
+      <description>First author: Jordan Stevens
+Spatial curvature is one of the most fundamental parameters in our current concordance flat $\Lambda$CDM model of the Universe. The goal of this work is to investigate how the constraint on the spatial curvature is affected by an assumption on the sound horizon scale. The sound horizon is an essential quantity to use the standard ruler from the Cosmic Microwave Background (CMB) and Baryon Acoustic Oscillations (BAOs).</description>
+    </item>
+    
+    <item>
+      <title>Renormalizing one-point probability distribution function for cosmological counts in cells</title>
+      <link>https://nebula0.github.io/article/renormalizing_one-point_probability_distribution_function_for_cosmological_counts_in_cells/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/renormalizing_one-point_probability_distribution_function_for_cosmological_counts_in_cells/</guid>
+      <description>First author: Anton Chudaykin
+We study the one-point probability distribution function (PDF) for matter density averaged over spherical cells. The leading part to the PDF is defined by the dynamics of the spherical collapse whereas the next-to-leading part comes from the integration over fluctuations around the saddle-point solution. The latter calculation receives sizable contributions from unphysical short modes and must be renormalized. We propose a new approach to renormalization by modeling the effective stress-energy tensor for short perturbations.</description>
+    </item>
+    
+    <item>
+      <title>The catalog-to-cosmology framework for weak lensing and galaxy clustering for LSST</title>
+      <link>https://nebula0.github.io/article/the_catalog-to-cosmology_framework_for_weak_lensing_and_galaxy_clustering_for_lsst/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_catalog-to-cosmology_framework_for_weak_lensing_and_galaxy_clustering_for_lsst/</guid>
+      <description>First author: J. Prat
+We present TXPipe, a modular, automated and reproducible pipeline for generating data vectors in cosmology analyses. The pipeline is developed within the Rubin Observatory Legacy Survey of Space and Time (LSST) Dark Energy Science Collaboration (DESC), and designed for cosmology analyses using LSST data. In this paper, we present the pipeline for the so-called 3$\times$2pt analysis - a combination of three two-point functions that measure the auto- and cross-correlation between galaxy density and shapes.</description>
+    </item>
+    
     <item>
       <title>25,000 optical fiber positioning robots for next-generation cosmology</title>
       <link>https://nebula0.github.io/article/25000_optical_fiber_positioning_robots_for_next-generation_cosmology/</link>

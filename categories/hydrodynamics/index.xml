@@ -6,7 +6,17 @@
     <description>Recent content in hydrodynamics on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/hydrodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/hydrodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hydrodynamic turbulence in disks with embedded planets</title>
+      <link>https://nebula0.github.io/article/hydrodynamic_turbulence_in_disks_with_embedded_planets/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/hydrodynamic_turbulence_in_disks_with_embedded_planets/</guid>
+      <description>First author: Alexandros Ziampras
+The vertical shear instability (VSI) is a source of hydrodynamic turbulence that can drive vigorous vertical mixing and moderate levels of accretion in protoplanetary disks, and it could be observable in the near future. With high-resolution three-dimensional numerical hydrodynamics simulations, we modeled the behavior of the VSI in protoplanetary disks with and without embedded planets. We then measured its accretion and mixing capabilities by comparing the full Reynolds stress, which includes the contribution of nonaxisymmetric features, such as spiral arms and vortices, to the Reynolds stress due to the azimuthally averaged velocity field, which can be attributed to good approximation to the VSI.</description>
+    </item>
+    
     <item>
       <title>Hydrodynamical Simulations of Circumbinary Accretion: Balance between Heating and Cooling</title>
       <link>https://nebula0.github.io/article/hydrodynamical_simulations_of_circumbinary_accretion_balance_between_heating_and_cooling/</link>

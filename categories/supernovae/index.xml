@@ -6,7 +6,57 @@
     <description>Recent content in supernovae on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/supernovae/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/supernovae/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The environments of Type Ia supernovae with different relative equivalent width of Si II feature in their spectra</title>
+      <link>https://nebula0.github.io/article/the_environments_of_type_ia_supernovae_with_different_relative_equivalent_width_of_si_ii_feature_in_their_spectra/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_environments_of_type_ia_supernovae_with_different_relative_equivalent_width_of_si_ii_feature_in_their_spectra/</guid>
+      <description>First author: Xiang-Cun Meng
+Although type Ia supernovae are so important in many astrophysical field, e.g. in cosmology, their explosion mechanism and progenitor system are still unclear. In physics, the relative equivalent width (REW) of the Si II 635.5 nm absorption feature reflects the velocity interval of silicon in the supernova ejecta and then may provide constraints on the explosion mechanism of SNe Ia. In this paper, we divide the SNe Ia into broad line (BL) and normal line (NL) subsamples based on their REW of Si II 635.</description>
+    </item>
+    
+    <item>
+      <title>Prospects of Searching for Type Ia Supernovae with 2.5-m Wide Field Survey Telescope</title>
+      <link>https://nebula0.github.io/article/prospects_of_searching_for_type_ia_supernovae_with_2.5-m_wide_field_survey_telescope/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/prospects_of_searching_for_type_ia_supernovae_with_2.5-m_wide_field_survey_telescope/</guid>
+      <description>First author: Maokai Hu
+Type Ia Supernovae (SNe Ia) are the thermonuclear explosion of a carbon-oxygen white dwarf (WD) and are well-known as a distance indicator. However, it is still unclear how WDs increase their mass near the Chandrasekhar limit and how the thermonuclear runaway happens. The observational clues associated with these open questions, such as the photometric data within hours to days since the explosion, are scarce. Thus, an essential way is to discover SNe Ia at specific epochs with optimal surveys.</description>
+    </item>
+    
+    <item>
+      <title>Radio and Gamma-ray Evidence for the Supernova Origin of High Velocity Cloud Complex M</title>
+      <link>https://nebula0.github.io/article/radio_and_gamma-ray_evidence_for_the_supernova_origin_of_high_velocity_cloud_complex_m/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/radio_and_gamma-ray_evidence_for_the_supernova_origin_of_high_velocity_cloud_complex_m/</guid>
+      <description>First author: Joan T. Schmelz
+Using $\lambda$-21-cm galactic neutral atomic hydrogen data from the HI4PI survey of Bekhti et al. (2016) and 0.75-30 MeV $\gamma$-ray emission from the Imaging Compton Telescope, we have searched for the origin event that accelerated high velocity cloud Complex M. Radio plots of $l-b$, $l-v$, and $b-v$ show a cavity centered at ($l$, $b$) $\sim$ (150$^{\circ}$, 50.$^{\circ}$) and extending about $\pm$33$^{\circ}$. The best view of the cavity is at a velocity of -25 km s$^{-1}$, which shows a circular cross section on the back (receding) face.</description>
+    </item>
+    
+    <item>
+      <title>Recurring outbursts of the supernova impostor AT 2016blu in NGC 4559</title>
+      <link>https://nebula0.github.io/article/recurring_outbursts_of_the_supernova_impostor_at_2016blu_in_ngc_4559/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/recurring_outbursts_of_the_supernova_impostor_at_2016blu_in_ngc_4559/</guid>
+      <description>First author: Mojgan Aghakhanloo
+We present the first analysis of photometric observations of the supernova (SN) impostor AT 2016blu located in the galaxy NGC 4559. This transient source was discovered by the Lick Observatory Supernova Search in January 2012 and has continued its eruptive variability since then. Photometry of AT 2016blu reveals at least 19 outbursts in 2012-2022. AT 2016blu&amp;rsquo;s outbursts show irregular variability with multiple closely spaced peaks of varying brightness.</description>
+    </item>
+    
+    <item>
+      <title>The Late Time Optical Evolution of Twelve Core-Collapse Supernovae: Detection of Normal Stellar Winds</title>
+      <link>https://nebula0.github.io/article/the_late_time_optical_evolution_of_twelve_core-collapse_supernovae_detection_of_normal_stellar_winds/</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_late_time_optical_evolution_of_twelve_core-collapse_supernovae_detection_of_normal_stellar_winds/</guid>
+      <description>First author: M. Rizzo Smith
+We analyze the late time evolution of 12 supernovae (SNe) occurring over the last ${\sim}$41 years, including nine Type IIP/L, two IIb, and one Ib/c, using UBVR optical data from the Large Binocular Telescope (LBT) and difference imaging. We see late time (5 to 42 years) emission from nine of the eleven Type II SNe (eight Type IIP/L, one IIb). We consider radioactive decay, circumstellar medium (CSM) interactions, pulsar/engine driven emission, dust echoes, and shock perturbed binary companions as possible sources of emission.</description>
+    </item>
+    
     <item>
       <title>Searching for Supernovae in HETDEX Data Release 3</title>
       <link>https://nebula0.github.io/article/searching_for_supernovae_in_hetdex_data_release_3/</link>
