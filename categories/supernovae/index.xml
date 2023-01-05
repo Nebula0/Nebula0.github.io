@@ -6,7 +6,37 @@
     <description>Recent content in supernovae on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/supernovae/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/supernovae/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data-driven photometric redshift estimation from type Ia supernovae light curves</title>
+      <link>https://nebula0.github.io/article/data-driven_photometric_redshift_estimation_from_type_ia_supernovae_light_curves/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/data-driven_photometric_redshift_estimation_from_type_ia_supernovae_light_curves/</guid>
+      <description>First author: Felipe M F de Oliveira
+Redshift measurement has always been a constant need in modern astronomy and cosmology. And as new surveys have been providing an immense amount of data on astronomical objects, the need to process such data automatically proves to be increasingly necessary. In this article, we use simulated data from the Dark Energy Survey, and from a pipeline originally created to classify supernovae, we developed a linear regression algorithm optimized through novel automated machine learning (AutoML) frameworks achieving an error score better than ordinary data pre-processing methods when compared with other modern algorithms (such as XGBOOST).</description>
+    </item>
+    
+    <item>
+      <title>The $γ$-ray deposition histories of Calcium-rich supernovae</title>
+      <link>https://nebula0.github.io/article/the__%CE%B3_-ray_deposition_histories_of_calcium-rich_supernovae/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the__%CE%B3_-ray_deposition_histories_of_calcium-rich_supernovae/</guid>
+      <description>First author: Amir Sharon
+Calcium-rich supernovae (Ca-rich SNe) are faint, rapidly evolving transients whose progenitor system is yet to be determined. We derive the $\gamma$-ray deposition histories of five Ca-rich SNe from the literature in order to place constraints on possible progenitor systems. We find that the $ \gamma $-ray escape time, $ t_0 $, of the Ca-rich SNe sample is $\approx35$-$65 ,\rm{d}$, within the unoccupied region between Type Ia SNe and stripped envelope supernovae (SESNe).</description>
+    </item>
+    
+    <item>
+      <title>Potential signature of a quadrupolar Hubble expansion in Pantheon&#43; supernovae</title>
+      <link>https://nebula0.github.io/article/potential_signature_of_a_quadrupolar_hubble_expansion_in_pantheon&#43;_supernovae/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/potential_signature_of_a_quadrupolar_hubble_expansion_in_pantheon&#43;_supernovae/</guid>
+      <description>First author: Jessica A. Cowell
+The assumption of isotropy &amp;ndash; that the Universe looks the same in all directions on large scales &amp;ndash; is fundamental to the standard cosmological model. This model forms the building blocks of essentially all of our cosmological knowledge to date. It is therefore critical to empirically test in which regimes its core assumptions hold. Anisotropies in the cosmic expansion are expected on small scales due to nonlinear structures in the late Universe, however, the extent to which these anisotropies might impact our low-redshift observations remains to be fully tested.</description>
+    </item>
+    
     <item>
       <title>The environments of Type Ia supernovae with different relative equivalent width of Si II feature in their spectra</title>
       <link>https://nebula0.github.io/article/the_environments_of_type_ia_supernovae_with_different_relative_equivalent_width_of_si_ii_feature_in_their_spectra/</link>
@@ -355,6 +385,16 @@ Fallback supernovae and the collapsar scenario for long-gamma ray burst and hype
       <guid>https://nebula0.github.io/article/collapse_of_rotating_massive_stars_leading_to_black_hole_formation_and_energetic_supernovae/</guid>
       <description>First author: Sho Fujibayashi
 We explore a possible scenario of the explosion as a result of core collapses of rotating massive stars that leave a black hole by performing a radiation-viscous-hydrodynamics simulation in numerical relativity. We take moderately and rapidly rotating compact pre-collapse stellar models derived in stellar evolution calculations as the initial conditions. We find that the viscous heating in the disk formed around the central black hole powers an outflow.</description>
+    </item>
+    
+    <item>
+      <title>Light Curves of Type IIP Supernovae from Neutrino-driven Explosions of Red Supergiants Obtained by a Semi-analytic Approach</title>
+      <link>https://nebula0.github.io/article/light_curves_of_type_iip_supernovae_from_neutrino-driven_explosions_of_red_supergiants_obtained_by_a_semi-analytic_approach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/light_curves_of_type_iip_supernovae_from_neutrino-driven_explosions_of_red_supergiants_obtained_by_a_semi-analytic_approach/</guid>
+      <description>First author: Shuai Zha
+Type IIP supernovae (SNe IIP) mark the explosive death of red supergiants (RSGs), evolved massive stars with an extended hydrogen envelope. They are the most common supernova type and allow for benchmarking of supernova explosion models by statistical comparison to observed population properties rather than comparing individual models and events. We construct a large synthetic set of SNe IIP light curves (LCs) using the radiation hydrodynamics code \texttt{SNEC} and explosion energies and nickel masses obtained from an efficient semi-analytic model for two different sets of stellar progenitor models.</description>
     </item>
     
     <item>

@@ -6,7 +6,27 @@
     <description>Recent content in chemical on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/chemical/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/chemical/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The physical and chemical processes in protoplanetary disks: constraints on the composition of comets</title>
+      <link>https://nebula0.github.io/article/the_physical_and_chemical_processes_in_protoplanetary_disks_constraints_on_the_composition_of_comets/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_physical_and_chemical_processes_in_protoplanetary_disks_constraints_on_the_composition_of_comets/</guid>
+      <description>First author: Yuri Aikawa
+We review the recent observations of protoplanetary disks together with relevant theoretical studies with an emphasis on the evolution of volatiles. In the last several years Atacama Large Millimeter/submillimeter Array (ALMA) provided evidence of grain growth, gas-dust decoupling, and sub-structures such as rings and gaps in the dust continuum. Molecular line observations revealed radial and vertical distributions of molecular abundances and also provided significant constraints on the gas dynamics such as turbulence.</description>
+    </item>
+    
+    <item>
+      <title>A 3-Dimension Model of Volcanism Volatiles Contribution on Atmospheric Chemical Abundance of Habitable Planets</title>
+      <link>https://nebula0.github.io/article/a_3-dimension_model_of_volcanism_volatiles_contribution_on_atmospheric_chemical_abundance_of_habitable_planets/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/a_3-dimension_model_of_volcanism_volatiles_contribution_on_atmospheric_chemical_abundance_of_habitable_planets/</guid>
+      <description>First author: Zihan Huang
+The volcanism plays an important part in mass exchange circle to bring matter from core of planet to atmosphere. Thus, it is a possible method to research the change of elements abundance in atmosphere by modeling the process of volatiles from volcanism get through and mix in atmosphere, which is the focused point of this article. This article penetrates from the generation of volatiles, talks the species, mass, and mole fractions of different typical elements in magma.</description>
+    </item>
+    
     <item>
       <title>Star Formation and Chemical Enrichment in Protoclusters</title>
       <link>https://nebula0.github.io/article/star_formation_and_chemical_enrichment_in_protoclusters/</link>
@@ -125,6 +145,16 @@ We report the detection of magnesium dicarbide, MgC$_2$, in the laboratory at ce
       <guid>https://nebula0.github.io/article/a_chemical_modelling_roadmap_linking_protoplanetary_disks_and_exoplanet_atmospheres/</guid>
       <description>First author: Christian Eistrup
 [Abridged] This review paper discussed which chemical effects may be at play in a planet-forming disk midplane, which effects are relevant under different conditions, and which tools are available for modelling chemical kinetics in a disk midplane. The review goes on to discuss some important efforts in the planet formation modelling community to treat chemical evolution, and, vice versa, efforts in the chemical modelling community to implement more physical effects related to planet formation into the chemical modelling.</description>
+    </item>
+    
+    <item>
+      <title>A Comparative Analysis of the Chemical Compositions of Gaia-Enceladus/Sausage and Milky Way Satellites using APOGEE</title>
+      <link>https://nebula0.github.io/article/a_comparative_analysis_of_the_chemical_compositions_of_gaia-enceladus_sausage_and_milky_way_satellites_using_apogee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/a_comparative_analysis_of_the_chemical_compositions_of_gaia-enceladus_sausage_and_milky_way_satellites_using_apogee/</guid>
+      <description>First author: Laura Fernandes
+We use data from the 17th data release of the Apache Point Observatory Galactic Evolution Experiment (APOGEE 2) to contrast the chemical composition of the recently discovered Gaia Enceladus/Sausage system (GE/S) to those of ten Milky Way (MW) dwarf satellite galaxies: LMC, SMC, Bo&amp;quot;otes I, Carina, Draco, Fornax, Sagittarius, Sculptor, Sextans and Ursa Minor. Our main focus is on the distributions of the stellar populations of those systems in the $[Mg/Fe]$-$[Fe/H]$ and $[Mg/Mn]$-$[Al/Fe]$ planes, which are commonly employed in the literature for chemical diagnosis and where dwarf galaxies can be distinguished from in situ populations.</description>
     </item>
     
   </channel>

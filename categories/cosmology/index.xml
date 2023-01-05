@@ -6,7 +6,27 @@
     <description>Recent content in cosmology on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cosmological Simulations of Two-Component Wave Dark Matter</title>
+      <link>https://nebula0.github.io/article/cosmological_simulations_of_two-component_wave_dark_matter/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/cosmological_simulations_of_two-component_wave_dark_matter/</guid>
+      <description>First author: Hsinhao Huang
+Wave (fuzzy) dark matter consists of ultralight bosons ($m \sim 10^{-22} \textrm{&amp;ndash;} 10^{-20},{\rm eV}$), featuring a compact solitonic core at the centre of a granular halo. Here we extend this model to a two-component wave dark matter, with distinct particle masses and coupled only through gravity, and investigate the resulting soliton-halo structure via cosmological simulations. Specifically, we assume wave dark matter contains $75$ per cent major component and $25$ per cent minor component, fix the major-component particle mass to $m_{\rm major}=1\times10^{-22},{\rm eV}$, and explore two different minor-component particle masses with $m_{\rm major}:m_{\rm minor}=3:1$ and $1:3$, respectively.</description>
+    </item>
+    
+    <item>
+      <title>New description of the scaling evolution of the cosmological magneto-hydrodynamic system</title>
+      <link>https://nebula0.github.io/article/new_description_of_the_scaling_evolution_of_the_cosmological_magneto-hydrodynamic_system/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/new_description_of_the_scaling_evolution_of_the_cosmological_magneto-hydrodynamic_system/</guid>
+      <description>First author: Fumio Uchida
+We present a new description of cosmological evolution of the primordial magnetic field under the condition that it is non-helical and its energy density is larger than the kinetic energy density. We argue that the evolution can be described by four different regimes, according to whether the decay dynamics is linear or not, and whether the dominant dissipation term is the shear viscosity or the drag force.</description>
+    </item>
+    
     <item>
       <title>A novel model-marginalized cosmological bound on the QCD axion mass</title>
       <link>https://nebula0.github.io/article/a_novel_model-marginalized_cosmological_bound_on_the_qcd_axion_mass/</link>
@@ -418,6 +438,16 @@ Third-order weak lensing statistics are a promising tool for cosmological analys
     </item>
     
     <item>
+      <title>Addressing Cosmological Tensions by Non-Local Gravity</title>
+      <link>https://nebula0.github.io/article/addressing_cosmological_tensions_by_non-local_gravity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/addressing_cosmological_tensions_by_non-local_gravity/</guid>
+      <description>First author: Filippo Bouchè
+Alternative cosmological models have been under deep scrutiny in recent years, aiming to address the main shortcomings of the $\Lambda$CDM model. Moreover, as the accuracy of cosmological surveys improved, new tensions have risen between the model-dependent analysis of the Cosmic Microwave Background and lower redshift probes. Within this framework, we review two quantum-inspired non-locally extended theories of gravity, whose main cosmological feature is a geometrically driven accelerated expansion.</description>
+    </item>
+    
+    <item>
       <title>Can high-redshift Hubble diagrams rule out the standard model of cosmology in the context of cosmographic method?</title>
       <link>https://nebula0.github.io/article/can_high-redshift_hubble_diagrams_rule_out_the_standard_model_of_cosmology_in_the_context_of_cosmographic_method/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -425,6 +455,16 @@ Third-order weak lensing statistics are a promising tool for cosmological analys
       <guid>https://nebula0.github.io/article/can_high-redshift_hubble_diagrams_rule_out_the_standard_model_of_cosmology_in_the_context_of_cosmographic_method/</guid>
       <description>First author: S. Pourojaghi
 Using mock data for the Hubble diagrams of type Ia supernovae (SNIa) and quasars (QSOs) generated based on the standard model of cosmology, and using the least-squares method based on the Markov-Chain-Monte-Carlo (MCMC) algorithm, we first put constraints on the cosmographic parameters in the context of the various model-independent cosmographic methods reconstructed from the Taylor $4^{th}$ and $5^{th}$ order expansions and the Pade (2,2) and (3,2) polynomials of the Hubble parameter, respectively.</description>
+    </item>
+    
+    <item>
+      <title>Cosmological constraints from HSC survey first-year data using deep learning</title>
+      <link>https://nebula0.github.io/article/cosmological_constraints_from_hsc_survey_first-year_data_using_deep_learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/cosmological_constraints_from_hsc_survey_first-year_data_using_deep_learning/</guid>
+      <description>First author: Tianhuan Lu
+We present cosmological constraints from the Subaru Hyper Suprime-Cam (HSC) first-year weak lensing shear catalogue using convolutional neural networks (CNNs) and conventional summary statistics. We crop 19 $3\times3,\mathrm{{deg}^2}$ sub-fields from the first-year area, divide the galaxies with redshift $0.3\le z\le1.5$ into four equally-spaced redshift bins, and perform tomographic analyses. We develop a pipeline to generate simulated convergence maps from cosmological $N$-body simulations, where we account for effects such as intrinsic alignments (IAs), baryons, photometric redshift errors, and point spread function errors, to match characteristics of the real catalogue.</description>
     </item>
     
     <item>
@@ -445,6 +485,26 @@ We present the first cosmological constraints derived from the analysis of the v
       <guid>https://nebula0.github.io/article/ft_cosmology_against_the_cosmographic_method_a_new_study_using_mock_and_observational_data/</guid>
       <description>First author: M. Sabiee
 In this paper, we study the power-law $f(T)$ model using Hubble diagrams of type Ia supernovae (SNIa), quasars (QSOs), Gamma Ray Bursts (GRBs) and the measurements from baryonic acoustic oscillations (BAO) in the framework of the cosmographic method. Using mock data for SNIa, QSOs and GRBs generated based on the power-law $f(T)$ model, we show whether different cosmographic methods are suitable to reconstruct the distance modulus or not.</description>
+    </item>
+    
+    <item>
+      <title>From dark matter halos to pre-stellar cores: High resolution follow-up of cosmological Lyman-Werner simulations</title>
+      <link>https://nebula0.github.io/article/from_dark_matter_halos_to_pre-stellar_cores_high_resolution_follow-up_of_cosmological_lyman-werner_simulations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/from_dark_matter_halos_to_pre-stellar_cores_high_resolution_follow-up_of_cosmological_lyman-werner_simulations/</guid>
+      <description>First author: Lewis R. Prole
+Molecular hydrogen allows cooling in primordial gas, facilitating its collapse into Population III stars within primordial halos. Lyman-Werner (LW) radiation from these stars can escape the halo and delay further star formation by destroying H$2$ in other halos. As cosmological simulations show that increasing the background LW field strength increases the average halo mass required for star formation, we perform follow-up simulations of selected halos to investigate the knock-on effects this has on the Population III IMF.</description>
+    </item>
+    
+    <item>
+      <title>On-sky performance of new 90 GHz detectors for the Cosmology Large Angular Scale Surveyor (CLASS)</title>
+      <link>https://nebula0.github.io/article/on-sky_performance_of_new_90_ghz_detectors_for_the_cosmology_large_angular_scale_surveyor_class/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/on-sky_performance_of_new_90_ghz_detectors_for_the_cosmology_large_angular_scale_surveyor_class/</guid>
+      <description>First author: Carolina Núñez
+The Cosmology Large Angular Scale Surveyor (CLASS) is a polarization-sensitive telescope array located at an altitude of 5,200 m in the Chilean Atacama Desert and designed to measure the polarized Cosmic Microwave Background (CMB) over large angular scales. The CLASS array is currently observing with three telescopes covering four frequency bands: one at 40 GHz (Q); one at 90 GHz (W1); and one dichroic system at 150/220 GHz (HF).</description>
     </item>
     
     <item>
