@@ -5,7 +5,18 @@
     <link>https://nebula0.github.io/categories/galactic-disk/</link>
     <description>Recent content in galactic disk on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://nebula0.github.io/categories/galactic-disk/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/galactic-disk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The hydrodynamic evolution of binary black holes embedded within the vertically stratified disks of active galactic nuclei</title>
+      <link>https://nebula0.github.io/article/arxiv.2103.12088/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2103.12088/</guid>
+      <description>Nicholas Kaaz
+Stellar-mass black holes can become embedded within the gaseous disks of active galactic nuclei (AGNs). Afterwards, their interactions are mediated by their gaseous surroundings. In this work, we study the evolution of stellar-mass binary black holes (BBHs) embedded within AGN disks using a combination of three-dimensional hydrodynamic simulations and analytic methods, focusing on environments in which the AGN disk scale height $H$ is [arXiv:2301.03629](https://arxiv.org/abs/2301.03629)$\gtrsim$ the BBH sphere of influence.</description>
+    </item>
+    
     <item>
       <title>AGN quenching in simulated dwarf galaxies</title>
       <link>https://nebula0.github.io/article/arxiv.2211.04503/</link>

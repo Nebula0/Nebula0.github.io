@@ -6,7 +6,27 @@
     <description>Recent content in dwarf galaxy on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/dwarf-galaxy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/dwarf-galaxy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The accretion history of the Milky Way. I. How it shapes globular clusters and dwarf galaxies</title>
+      <link>https://nebula0.github.io/article/arxiv.2212.07441/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2212.07441/</guid>
+      <description>Francois Hammer
+Halo inhabitants are individual stars, stellar streams, star and globular clusters, and dwarf galaxies. Here we compare the two last categories that include objects of similar stellar mass, which are often studied as self-dynamical equilibrium systems. We discover that the half-light radius of globular clusters depends on their orbital pericenter and total energy, and that Milky Way (MW) tides may explain the observed correlation. We also suggest that the accretion epoch of stellar systems in the MW halo can be calibrated by the total orbital energy, and that such a relation is due to both the mass growth of the MW and dynamical friction affecting mostly satellites with numerous orbits.</description>
+    </item>
+    
+    <item>
+      <title>The Stellar Kinematics of Void Dwarf Galaxies Using KCWI</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.03721/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2301.03721/</guid>
+      <description>Mithi A. C. de los Reyes
+Dwarf galaxies located in extremely under-dense cosmic voids are excellent test-beds for disentangling the effects of large-scale environment on galaxy formation and evolution. We present integral field spectroscopy for low-mass galaxies ($M_{\star}=10^{7}-10^{9}~M_{\odot}$) located inside (N=21) and outside (N=9) cosmic voids using the Keck Cosmic Web Imager (KCWI). Using measurements of stellar line-of-sight rotational velocity $v_{\mathrm{rot}}$ and velocity dispersion $σ_{\star}$, we test the tidal stirring hypothesis, which posits that dwarf spheroidal galaxies are formed through tidal interactions with more massive host galaxies.</description>
+    </item>
+    
     <item>
       <title>Multiwavelength Scrutiny of X-ray Sources in Dwarf Galaxies: ULXs versus AGN</title>
       <link>https://nebula0.github.io/article/arxiv.2301.01317/</link>

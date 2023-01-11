@@ -6,7 +6,27 @@
     <description>Recent content in chemical on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/chemical/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/chemical/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simulations of high-redshift $[OIII]$ emitters: Chemical evolution and multi-line diagnostics</title>
+      <link>https://nebula0.github.io/article/simulations_of_high-redshift_oiii_emitters_chemical_evolution_and_multi-line_diagnostics/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/simulations_of_high-redshift_oiii_emitters_chemical_evolution_and_multi-line_diagnostics/</guid>
+      <description>First author: Yurina Nakazato
+Recent observations by James Webb Space Telescope discovered a number of high-redshift galaxies with strong emission lines from doubly ionized oxygen. Combined with ALMA observations of far-infrared lines, multi-line diagnostics can be applied to the high-redshift galaxies in order to probe the physical conditions of the inter-stellar medium. We study the formation and evolution of galaxies using the FirstLight simulation suite, which provides outputs of 62 high-resolution, zoom-in galaxy simulations.</description>
+    </item>
+    
+    <item>
+      <title>GalCEM I -- An Open-Source Detailed Isotopic Chemical Evolution Code</title>
+      <link>https://nebula0.github.io/article/galcem_i_--_an_open-source_detailed_isotopic_chemical_evolution_code/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/galcem_i_--_an_open-source_detailed_isotopic_chemical_evolution_code/</guid>
+      <description>First author: Eda Gjergo
+This is the first of a series of papers that will introduce a user-friendly, detailed, and modular GALactic Chemical Evolution Model, GalCEM, that tracks isotope masses as a function of time in a given galaxy. The list of tracked isotopes automatically adapts to the complete set provided by the input yields. The present iteration of GalCEM tracks 86 elements broken down in 451 isotopes. The prescription includes massive stars, low-to-intermediate mass stars, and Type Ia supernovae as enrichment channels.</description>
+    </item>
+    
     <item>
       <title>The physical and chemical processes in protoplanetary disks: constraints on the composition of comets</title>
       <link>https://nebula0.github.io/article/the_physical_and_chemical_processes_in_protoplanetary_disks_constraints_on_the_composition_of_comets/</link>

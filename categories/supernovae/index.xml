@@ -6,7 +6,87 @@
     <description>Recent content in supernovae on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/supernovae/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/supernovae/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cosmic rate of type IIn supernovae and its evolution with redshift</title>
+      <link>https://nebula0.github.io/article/cosmic_rate_of_type_iin_supernovae_and_its_evolution_with_redshift/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/cosmic_rate_of_type_iin_supernovae_and_its_evolution_with_redshift/</guid>
+      <description>First author: C. Cold
+Type IIn supernovae potentially constitute a large fraction of the gravitationally lensed supernovae predicted to be found with upcoming facilities. However, the local rate is used for these estimates, which is assumed to be independent of properties such as the host galaxy mass. Some studies hint that a host galaxy mass bias may exist for IIn supernovae. This paper aims to provide an updated local IIn supernova-to-core-collapse ratio based on data from the Palomar Transient Factory (PTF) and the Zwicky Transient Facility (ZTF) Bright Transient Survey (BTS).</description>
+    </item>
+    
+    <item>
+      <title>JWST Low-Resolution MIRI Spectral Observations of SN~2021aefx: High-density Burning in a Type Ia Supernova</title>
+      <link>https://nebula0.github.io/article/jwst_low-resolution_miri_spectral_observations_of_sn~2021aefx_high-density_burning_in_a_type_ia_supernova/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/jwst_low-resolution_miri_spectral_observations_of_sn~2021aefx_high-density_burning_in_a_type_ia_supernova/</guid>
+      <description>First author: J. M. DerKacy
+We present a JWST/MIRI low-resolution mid-infrared (MIR) spectroscopic observation of the normal Type Ia supernova (SN Ia) SN 2021aefx at +323 days past rest-frame B-band maximum light. The spectrum ranges from 4-14 um, and shows many unique qualities including a flat-topped $[Ar III]$ 8.991 um profile, a strongly tilted $[Co III]$ 11.888 um feature, and multiple stable Ni lines. These features provide critical information about the physics of the explosion.</description>
+    </item>
+    
+    <item>
+      <title>Retrospective Search for Strongly Lensed Supernovae in the DESI Legacy Imaging Surveys</title>
+      <link>https://nebula0.github.io/article/retrospective_search_for_strongly_lensed_supernovae_in_the_desi_legacy_imaging_surveys/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/retrospective_search_for_strongly_lensed_supernovae_in_the_desi_legacy_imaging_surveys/</guid>
+      <description>First author: William Sheu
+The introduction of deep wide-field surveys in recent years and the adoption of machine learning techniques have led to the discoveries of $\mathcal{O}(10^4)$ strong gravitational lensing systems and candidates. However, the discovery of multiply lensed transients remains a rarity. Lensed transients and especially lensed supernovae are invaluable tools to cosmology as they allow us to constrain cosmological parameters via lens modeling and the measurements of their time delays.</description>
+    </item>
+    
+    <item>
+      <title>The sculpting of rectangular and jet-like morphologies in supernova remnants by anisotropic equatorially-confined progenitor stellar winds</title>
+      <link>https://nebula0.github.io/article/the_sculpting_of_rectangular_and_jet-like_morphologies_in_supernova_remnants_by_anisotropic_equatorially-confined_progenitor_stellar_winds/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_sculpting_of_rectangular_and_jet-like_morphologies_in_supernova_remnants_by_anisotropic_equatorially-confined_progenitor_stellar_winds/</guid>
+      <description>First author: P. F. Velazquez
+Thermonuclear and core-collapse supernova remnants (SNRs) are the nebular leftovers of defunct stars. Their morphology and emission properties provide insights into the evolutionary history of the progenitor star. But while some SNRs are spherical, as expected from a point-like explosion expanding into a roughly uniform medium, many others exhibit complex non-spherical morphologies which are often not easily explained. In this work, we use three-dimensional magnetohydrodynamic simulations to show that rectangular and jet-like morphologies can be explained by supernovae (SNe), either type Ia or type II, expanding within anisotropic, bipolar stellar wind bubbles driven by the progenitor star.</description>
+    </item>
+    
+    <item>
+      <title>Updating the $^{56}$Ni Problem in Core-collapse Supernova Explosion</title>
+      <link>https://nebula0.github.io/article/updating_the__56_ni_problem_in_core-collapse_supernova_explosion/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/updating_the__56_ni_problem_in_core-collapse_supernova_explosion/</guid>
+      <description>First author: Ryo Sawada
+Details of the core-collapse supernova (CCSN) explosion mechanism still need to be fully understood. There is an increasing number of successful examples of reproducing explosions in multidimensional hydrodynamic simulations, but subsequent studies pointed out that the growth rates of the explosion energy $\dot{E}\mathrm{expl}$ of these simulations are insufficient to produce enough $^{56}$Ni to match observations. This issue is known as the `$^{56}$Ni problem&#39; in CCSNe. Recently, however, some studies have suggested that this $^{56}$Ni problem is derived from the simplicity of the explosion model.</description>
+    </item>
+    
+    <item>
+      <title>Effect of stellar rotation on the development of post-shock instabilities during core-collapse supernovae</title>
+      <link>https://nebula0.github.io/article/effect_of_stellar_rotation_on_the_development_of_post-shock_instabilities_during_core-collapse_supernovae/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/effect_of_stellar_rotation_on_the_development_of_post-shock_instabilities_during_core-collapse_supernovae/</guid>
+      <description>First author: A. -C. Buellet
+The growth of instabilities is key to trigger a supernova explosion during the phase of stalled shock, immediately after the birth of a proto-neutron star (PNS). We assess the effect of stellar rotation on neutrino-driven convection and SASI when neutrino heating is taken into account. Rotation affects the frequency of the mode m=2 detectable with gravitational waves (GW). We use a linear stability analysis in the equatorial plane between the PNS and the stationary shock and consider a large range of specific angular momenta, neutrino luminosities and mass accretion rates.</description>
+    </item>
+    
+    <item>
+      <title>HST Proper Motion Measurements of Supernova Remnant N132D: Center of Expansion and Age</title>
+      <link>https://nebula0.github.io/article/hst_proper_motion_measurements_of_supernova_remnant_n132d_center_of_expansion_and_age/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/hst_proper_motion_measurements_of_supernova_remnant_n132d_center_of_expansion_and_age/</guid>
+      <description>First author: John Banovetz
+We present proper motion measurements of oxygen-rich ejecta of the LMC supernova remnant N132D using two epochs of Hubble Space Telescope Advanced Camera for Surveys data spanning 16 years. The proper motions of 120 individual knots of oxygen-rich gas were measured and used to calculate a center of expansion (CoE) of $\alpha$=05:25:01.71 and $\delta$=-69:38:41.64 (J2000) with a 1-$\sigma$ uncertainty of 2.90 arcseconds. This new CoE measurement is 9.</description>
+    </item>
+    
+    <item>
+      <title>Light-curves and nucleosynthesis of CNO-rp driven general relativistic instability supernovae in metal enriched supermassive protostars</title>
+      <link>https://nebula0.github.io/article/light-curves_and_nucleosynthesis_of_cno-rp_driven_general_relativistic_instability_supernovae_in_metal_enriched_supermassive_protostars/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/light-curves_and_nucleosynthesis_of_cno-rp_driven_general_relativistic_instability_supernovae_in_metal_enriched_supermassive_protostars/</guid>
+      <description>First author: Chris Nagele
+The assembly of supermassive black holes poses a challenge primarily because of observed quasars at high redshift, but additionally because of the current lack of observations of intermediate mass black holes. One plausible scenario for creating supermassive black holes is direct collapse triggered by the merger of two gas rich galaxies. This scenario allows the creation of supermassive stars with up to solar metallicity, where the enhanced metallicity is enabled by extremely rapid accretion.</description>
+    </item>
+    
     <item>
       <title>Data-driven photometric redshift estimation from type Ia supernovae light curves</title>
       <link>https://nebula0.github.io/article/data-driven_photometric_redshift_estimation_from_type_ia_supernovae_light_curves/</link>

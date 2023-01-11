@@ -6,7 +6,17 @@
     <description>Recent content in radiative transfer on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/radiative-transfer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/radiative-transfer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What does a typical full-disc around a post-AGB binary look like? -- Radiative transfer models reproducing PIONIER, GRAVITY, and MATISSE data</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.02622/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2301.02622/</guid>
+      <description>A. Corporaal
+(abridged) Stable circumbinary discs around evolved post-Asymptotic Giant branch (post-AGB) binary systems show many similarities with protoplanetary discs around young stellar objects. These discs can provide constraints on both binary evolution and the formation of macrostructures within circumstellar discs. Here we focus on one post-AGB binary system: IRAS08544-4431. We aim to refine the physical model of IRAS08544-4431 with a radiative transfer treatment and continue the near-infrared and mid-infrared interferometric analysis covering the H-, K-, L-, and N-bands.</description>
+    </item>
+    
     <item>
       <title>Radiative coupling the easy way: Using transfer coefficients to model series-connected multi-junction solar cells</title>
       <link>https://nebula0.github.io/article/arxiv.2212.13920/</link>

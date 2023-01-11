@@ -6,7 +6,77 @@
     <description>Recent content in AGN on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/agn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/agn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AGN in post-mergers from the Ultraviolet Near Infrared Optical Northern Survey</title>
+      <link>https://nebula0.github.io/article/agn_in_post-mergers_from_the_ultraviolet_near_infrared_optical_northern_survey/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/agn_in_post-mergers_from_the_ultraviolet_near_infrared_optical_northern_survey/</guid>
+      <description>First author: Robert W. Bickley
+The kinematic disturbances associated with major galaxy mergers are known to produce gas inflows, which in turn may trigger accretion onto the supermassive black holes (SMBH) of the participant galaxies. While this effect has been studied in galaxy pairs, the frequency of active galactic nuclei (AGN) in fully coalesced post-merger systems is poorly constrained due to the limited size or impurity of extant post-merger samples.</description>
+    </item>
+    
+    <item>
+      <title>Hard X-Ray to Radio Multiwavelength SED Analysis of Local U/LIRGs in GOALS Sample with Self-consistent AGN Model Including Polar-dust Component</title>
+      <link>https://nebula0.github.io/article/hard_x-ray_to_radio_multiwavelength_sed_analysis_of_local_u_lirgs_in_goals_sample_with_self-consistent_agn_model_including_polar-dust_component/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/hard_x-ray_to_radio_multiwavelength_sed_analysis_of_local_u_lirgs_in_goals_sample_with_self-consistent_agn_model_including_polar-dust_component/</guid>
+      <description>First author: Satoshi Yamada
+We conduct a hard X-ray to radio multiwavelength spectral energy distribution (SED) decomposition for 57 local luminous and ultraluminous infrared galaxies (U/LIRGs) observed with Nuclear Spectroscopic Telescope Array and/or Swift/Burst Alert Telescope in GOALS (Armus et al. 2009) sample. We modify the latest SED-fitting code X-CIGALE by implementing the infrared (IR) CLUMPY model, allowing the multiwavelength study with the X-ray torus model (XCLUMPY) self-consistently. Adopting the torus parameters obtained by the X-ray fitting (Yamada et al.</description>
+    </item>
+    
+    <item>
+      <title>The fundamental signature of star formation quenching from AGN feedback: A critical dependence of quiescence on supermassive black hole mass not accretion rate</title>
+      <link>https://nebula0.github.io/article/the_fundamental_signature_of_star_formation_quenching_from_agn_feedback_a_critical_dependence_of_quiescence_on_supermassive_black_hole_mass_not_accretion_rate/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_fundamental_signature_of_star_formation_quenching_from_agn_feedback_a_critical_dependence_of_quiescence_on_supermassive_black_hole_mass_not_accretion_rate/</guid>
+      <description>First author: Asa F. L. Bluck
+We identify the intrinsic dependence of star formation quenching on a variety of galactic and environmental parameters, utilizing a machine learning approach with Random Forest classification. We have previously demonstrated the power of this technique to isolate causality, not mere correlation, in complex astronomical data. First, we analyze three cosmological hydrodynamical simulations (Eagle, Illustris, and IllustrisTNG), selecting snapshots spanning the bulk of cosmic history from comic noon ($z \sim 2$) to the present epoch, with stellar masses in the range $9 &amp;lt; \log(M_/M_{\odot}) &amp;lt; 12$.</description>
+    </item>
+    
+    <item>
+      <title>New multiple AGN systems with sub-arcsec separation: confirmation of candidates selected via the novel GMP method</title>
+      <link>https://nebula0.github.io/article/new_multiple_agn_systems_with_sub-arcsec_separation_confirmation_of_candidates_selected_via_the_novel_gmp_method/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/new_multiple_agn_systems_with_sub-arcsec_separation_confirmation_of_candidates_selected_via_the_novel_gmp_method/</guid>
+      <description>First author: A. Ciurlo
+The existence of multiple active galactic nuclei (AGN) at small projected distances on the sky is due to either the presence of multiple, in-spiraling SMBHs, or to gravitational lensing of a single AGN. Both phenomena allow us to address important astrophysical and cosmological questions. However, few kpc-separation multiple AGN are currently known. Recently, the newly-developed Gaia Multi peak (GMP) method provided numerous new candidate members of these populations.</description>
+    </item>
+    
+    <item>
+      <title>GOALS-JWST: Pulling Back the Curtain on the AGN and Star Formation in VV 114</title>
+      <link>https://nebula0.github.io/article/goals-jwst_pulling_back_the_curtain_on_the_agn_and_star_formation_in_vv_114/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/goals-jwst_pulling_back_the_curtain_on_the_agn_and_star_formation_in_vv_114/</guid>
+      <description>First author: J. Rich
+We present results from the James Webb Space Telescope (JWST) Director&amp;rsquo;s Discretionary Time Early Release Science (ERS) program 1328 targeting the nearby, Luminous Infrared Galaxy (LIRG), VV 114. We use the MIRI and NIRSpec instruments to obtain integral-field spectroscopy of the heavily obscured Eastern nucleus (V114E) and surrounding regions. The spatially resolved, high-resolution, spectra reveal the physical conditions in the gas and dust over a projected area of 2-3 kpc that includes the two brightest IR sources, the NE and SW cores.</description>
+    </item>
+    
+    <item>
+      <title>Testing AGN outflow and accretion models with CIV and HeII emission line demographics in z=2 quasars</title>
+      <link>https://nebula0.github.io/article/testing_agn_outflow_and_accretion_models_with_civ_and_heii_emission_line_demographics_in_z2_quasars/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/testing_agn_outflow_and_accretion_models_with_civ_and_heii_emission_line_demographics_in_z2_quasars/</guid>
+      <description>First author: Matthew J. Temple
+Using 190,000 spectra from the seventeenth data release of the Sloan Digital Sky Survey, we investigate the ultraviolet emission line properties in z=2 quasars. Specifically, we quantify how the shape of CIV 1549A and the equivalent width (EW) of HeII 1640A depend on the black hole mass and Eddington ratio inferred from MgII 2800A. Above L/L_Edd&amp;gt;0.2, there is a strong mass dependence in both CIV blueshift and HeII EW.</description>
+    </item>
+    
+    <item>
+      <title>A practicable estimation of opening angle of dust torus in Type-1.9 AGN with double-peaked broad H$α$</title>
+      <link>https://nebula0.github.io/article/a_practicable_estimation_of_opening_angle_of_dust_torus_in_type-1.9_agn_with_double-peaked_broad_h_%CE%B1_/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/a_practicable_estimation_of_opening_angle_of_dust_torus_in_type-1.9_agn_with_double-peaked_broad_h_%CE%B1_/</guid>
+      <description>First author: Zhang XueGuang
+In this manuscript, an independent method is proposed to estimate opening angle of dust torus in AGN, through unique properties of Type-1.9 AGN with double-peaked broad H$\alpha$ (Type-1.9 DPAGN) coming from central accretion disk. Type-1.9 AGN without broad H$\beta$ can be expected by the commonly accepted unified model of AGN, considering central BLRs seriously obscured by dust torus with its upper boundary in the line of sight.</description>
+    </item>
+    
     <item>
       <title>A New Method to Determine X-ray Luminosity Functions of AGN and their Evolution with Redshift</title>
       <link>https://nebula0.github.io/article/a_new_method_to_determine_x-ray_luminosity_functions_of_agn_and_their_evolution_with_redshift/</link>

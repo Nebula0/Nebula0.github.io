@@ -6,125 +6,25 @@
     <description>Recent content in chemical evolution on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/chemical-evolution/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/chemical-evolution/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>An analytic solution to measure the gas size in protoplanetary discs in the viscous self-similar scenario</title>
-      <link>https://nebula0.github.io/new_article/an_analytic_solution_to_measure_the_gas_size_in_protoplanetary_discs_in_the_viscous_self-similar_scenario/</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      <title>Simulations of high-redshift $[OIII]$ emitters: Chemical evolution and multi-line diagnostics</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.02416/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/an_analytic_solution_to_measure_the_gas_size_in_protoplanetary_discs_in_the_viscous_self-similar_scenario/</guid>
-      <description>First author: Claudia Toci
-In order to understand which mechanism is responsible for accretion in protoplanetary discs, a robust knowledge of the observed disc radius using gas tracers such as $^{12}$CO and other CO isotopologues is pivotal. Indeed, the two main theories proposed, viscous accretion and wind-driven accretion, predict different time evolution for the disc radii. In this Letter, we present an analytical solution for the evolution of the disc radii in viscously evolving protoplanetary discs using $^{12}$CO as a tracer, under the assumption that the $^{12}$CO radius is the radius where the surface density of the disc is equal to the threshold for CO photo-dissociation.</description>
+      <guid>https://nebula0.github.io/article/arxiv.2301.02416/</guid>
+      <description>Yurina Nakazato
+Recent observations by James Webb Space Telescope discovered a number of high-redshift galaxies with strong emission lines from doubly ionized oxygen. Combined with ALMA observations of far-infrared lines, multi-line diagnostics can be applied to the high-redshift galaxies in order to probe the physical conditions of the inter-stellar medium. We study the formation and evolution of galaxies using the FirstLight simulation suite, which provides outputs of 62 high-resolution, zoom-in galaxy simulations.</description>
     </item>
     
     <item>
-      <title>Peeking beneath the precision floor I: metallicity spreads and multiple elemental dispersions in the globular clusters NGC 288 and NGC 362</title>
-      <link>https://nebula0.github.io/new_article/peeking_beneath_the_precision_floor_i_metallicity_spreads_and_multiple_elemental_dispersions_in_the_globular_clusters_ngc_288_and_ngc_362/</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      <title>GalCEM I -- An Open-Source Detailed Isotopic Chemical Evolution Code</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.02257/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://nebula0.github.io/new_article/peeking_beneath_the_precision_floor_i_metallicity_spreads_and_multiple_elemental_dispersions_in_the_globular_clusters_ngc_288_and_ngc_362/</guid>
-      <description>First author: Stephanie Monty
-The view of globular clusters (GCs) as simple systems continues to unravel, revealing complex objects hosting multiple chemical peculiarities. Using differential abundance analysis, we probe the chemistry of the Type I GC, NGC 288 and the Type II GC, NGC 362 at the 2% level for the first time. We measure 20 elements and find differential measurement uncertainties on the order 0.01-0.02 dex in both clusters.</description>
-    </item>
-    
-    <item>
-      <title>Accretion variability in RU Lup</title>
-      <link>https://nebula0.github.io/new_article/accretion_variability_in_ru_lup/</link>
-      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/accretion_variability_in_ru_lup/</guid>
-      <description>First author: Camille Stock
-The process of accretion in classical T Tauri stars (CTTSs) has been observed to vary on different timescales. Studying this variability is vital to understanding a star&amp;rsquo;s evolution and provides insight into the complex processes at work within. Understanding the dichotomy between continuum veiling and emission line veiling is integral to accurately measuring the amount of veiling present in stellar spectra. Here, 15 roughly consecutive nights of optical spectroscopic data from the spectropolarimeter ESPaDOnS are utilised to characterise the short-term accretion activity in the CTTS, RU Lup, and investigate its relationship with the veiling in the LiI 6707A absorption line.</description>
-    </item>
-    
-    <item>
-      <title>Bars and boxy/peanut bulges in thin and thick discs. II. Can bars form in hot thick discs?</title>
-      <link>https://nebula0.github.io/new_article/bars_and_boxy_peanut_bulges_in_thin_and_thick_discs._ii._can_bars_form_in_hot_thick_discs/</link>
-      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/bars_and_boxy_peanut_bulges_in_thin_and_thick_discs._ii._can_bars_form_in_hot_thick_discs/</guid>
-      <description>First author: Soumavo Ghosh
-The Milky Way as well as external galaxies possess a thick disc. However, the dynamical role of the (geometrically) thick disc on the bar formation and evolution is not fully understood. Here, we investigate the effect of thick discs in bar formation and evolution by means of a suite of $N$-body models of (kinematically cold) thin-(kinematically hot) thick discs. We systematically vary the mass fraction of the thick disc, the thin-to-thick disc scale length ratio as well as thick disc&amp;rsquo;s scale height to examine the bar formation under diverse dynamical scenarios.</description>
-    </item>
-    
-    <item>
-      <title>Towards a reliable calculation of relic radiation from primordial gravitational waves</title>
-      <link>https://nebula0.github.io/new_article/towards_a_reliable_calculation_of_relic_radiation_from_primordial_gravitational_waves/</link>
-      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/towards_a_reliable_calculation_of_relic_radiation_from_primordial_gravitational_waves/</guid>
-      <description>First author: William Giarè
-Inflationary gravitational waves, behaving as additional radiation in the Early Universe, can increase the effective number of relativistic species ($N_{\rm eff}$) by a further correction that depends on the integrated energy-density in gravitational waves over all scales. This effect is typically used to constrain (blue-tilted) models of inflation in light of the bounds resulting from the Big Bang Nucleosynthesis. In this paper, we recompute this contribution, discussing some caveats of the state-of-the-art analyses.</description>
-    </item>
-    
-    <item>
-      <title>Averaged Solar Torque Rotational Dynamics for Defunct Satellites</title>
-      <link>https://nebula0.github.io/new_article/averaged_solar_torque_rotational_dynamics_for_defunct_satellites/</link>
-      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/averaged_solar_torque_rotational_dynamics_for_defunct_satellites/</guid>
-      <description>First author: Conor J. Benson
-Spin state predictions for defunct satellites in geosynchronous earth orbit (GEO) are valuable for active debris removal and servicing missions as well as material shedding studies and attitude-dependent solar radiation pressure (SRP) modeling. Previous studies have shown that solar radiation torques can explain the observed spin state evolution of some GEO objects via the Yarkovsky-O&amp;rsquo;Keefe-Radzievskii-Paddack (YORP) effect. These studies have focused primarily on uniform rotation.</description>
-    </item>
-    
-    <item>
-      <title>Morphology driven evolution of barred galaxies in OMEGAWINGS Clusters</title>
-      <link>https://nebula0.github.io/new_article/morphology_driven_evolution_of_barred_galaxies_in_omegawings_clusters/</link>
-      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/morphology_driven_evolution_of_barred_galaxies_in_omegawings_clusters/</guid>
-      <description>First author: Amira A. Tawfeek
-We present a study of barred galaxies in the cluster environment, exploiting a sample of galaxies drawn from the extended WIde-field Nearby Galaxy-cluster Survey (OmegaWINGS) that covers up to the outer regions of 32 local X-ray selected clusters. Barred galaxies are identified through a semi-automatic analysis of ellipticity and position angle profiles. We find, in agreement with previous studies, a strong co-dependence of the bar fraction with the galaxy stellar mass and morphological type, being maximum for massive late-type galaxies.</description>
-    </item>
-    
-    <item>
-      <title>On the dust of tailless Oort-cloud comet C/2020 T2 (Palomar)</title>
-      <link>https://nebula0.github.io/new_article/on_the_dust_of_tailless_oort-cloud_comet_c_2020_t2_palomar/</link>
-      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/on_the_dust_of_tailless_oort-cloud_comet_c_2020_t2_palomar/</guid>
-      <description>First author: Yuna Grace Kwon
-We report our new analysis of Oort-cloud comet C/2020 T2 (Palomar) (T2) observed at 2.06 au from the Sun (phase angle of 28.5 deg) about two weeks before perihelion. T2 lacks a significant dust tail in scattered light, showing a strong central condensation of the coma throughout the apparition, reminiscent of so-called Manx comets. Its spectral slope of polarized light increases and decreases in the J (1.</description>
-    </item>
-    
-    <item>
-      <title>Spin State Evolution of (99942) Apophis during its 2029 Earth Encounter</title>
-      <link>https://nebula0.github.io/new_article/spin_state_evolution_of_99942_apophis_during_its_2029_earth_encounter/</link>
-      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/spin_state_evolution_of_99942_apophis_during_its_2029_earth_encounter/</guid>
-      <description>First author: C. J. Benson
-We explore the effects of the 2029 Earth encounter on asteroid (99942) Apophis&amp;rsquo; non-principal axis spin state, leveraging refined orbit, spin state, and inertia information provided by more recent optical and radar observations. Propagating the asteroids&amp;rsquo; coupled orbit and rigid body attitude dynamics through the flyby, we present the range of possible post-flyby spin states. These spin state distributions will be valuable for planning Apophis observation campaigns and spacecraft missions, most notably OSIRIS-APEX.</description>
-    </item>
-    
-    <item>
-      <title>Stellar age determination in the Mass-Luminosity Plane</title>
-      <link>https://nebula0.github.io/new_article/stellar_age_determination_in_the_mass-luminosity_plane/</link>
-      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/stellar_age_determination_in_the_mass-luminosity_plane/</guid>
-      <description>First author: Erin R. Higgins
-The ages of stars have historically relied on isochrone fitting of standardised grids of models. While these stellar models have provided key constraints on observational samples of massive stars, they inherit many systematic uncertainties, mainly in the internal mixing mechanisms applied throughout the grid, fundamentally undermining the isochrone method. In this work, we utilise the M-L plane of Higgins &amp;amp; Vink as a method of determining stellar age, with mixing-corrected models applying a calibrated core overshooting alpha_ov and rotation rate to fit the observational data.</description>
-    </item>
-    
-    <item>
-      <title>The influence of flux rope heating models on solar prominence formation</title>
-      <link>https://nebula0.github.io/new_article/the_influence_of_flux_rope_heating_models_on_solar_prominence_formation/</link>
-      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/the_influence_of_flux_rope_heating_models_on_solar_prominence_formation/</guid>
-      <description>First author: N. Brughmans
-Aims. We begin by exploring the influence of two classes of commonly adopted heating models on the formation behaviour of solar prominences. These models consider either an exponential variation dependent on height alone, or local density and magnetic field conditions. We highlight and address some of the limitations inherent to these early approximations by proposing a new, dynamic 2D flux rope heating model that qualitatively accounts for the 3D topology of the twisted flux rope field.</description>
-    </item>
-    
-    <item>
-      <title>Polyaromatic Hydrocarbons with an Imperfect Aromatic System as Catalysts of Interstellar H$_{2}$ Formation</title>
-      <link>https://nebula0.github.io/new_article/polyaromatic_hydrocarbons_with_an_imperfect_aromatic_system_as_catalysts_of_interstellar_h__2__formation/</link>
-      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/new_article/polyaromatic_hydrocarbons_with_an_imperfect_aromatic_system_as_catalysts_of_interstellar_h__2__formation/</guid>
-      <description>First author: David P. Jelenfi
-Although H${2}$ is the simplest and the most abundant molecule in the Universe, its formation in the interstellar medium, especially in the photodissociation regions is far from being fully understood. According to suggestions, the formation of H${2}$ is catalyzed by polyaromatic hydrocarbons (PAHs) on the surface of interstellar grains. In the present study, we have investigated the catalytic effect of small PAHs with an imperfect aromatic system.</description>
+      <guid>https://nebula0.github.io/article/arxiv.2301.02257/</guid>
+      <description>Eda Gjergo
+This is the first of a series of papers that will introduce a user-friendly, detailed, and modular GALactic Chemical Evolution Model, GalCEM, that tracks isotope masses as a function of time in a given galaxy. The list of tracked isotopes automatically adapts to the complete set provided by the input yields. The present iteration of GalCEM tracks 86 elements broken down in 451 isotopes. The prescription includes massive stars, low-to-intermediate mass stars, and Type Ia supernovae as enrichment channels.</description>
     </item>
     
   </channel>

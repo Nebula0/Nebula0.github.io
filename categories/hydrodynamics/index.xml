@@ -6,7 +6,27 @@
     <description>Recent content in hydrodynamics on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/hydrodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/hydrodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hot Spots in Sgr A* Accretion Disk: Hydrodynamic Insights</title>
+      <link>https://nebula0.github.io/article/hot_spots_in_sgr_a_accretion_disk_hydrodynamic_insights/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/hot_spots_in_sgr_a_accretion_disk_hydrodynamic_insights/</guid>
+      <description>First author: E. P. Tito
+The recent image of our galaxy&amp;rsquo;s supermassive black hole Sgr A* derived from the 7 April 2017 data of the Event Horizon Telescope Collaboration shows multiple hot spots in its accretion disk. Using the analytical framework, we demonstrate that the observed hot spots may not be disjoint elements but causally linked components (&amp;ldquo;petals&amp;rdquo;) of one rotating quasi-stationary macro-structure formed in the thermo-vorticial field within the accretion disk.</description>
+    </item>
+    
+    <item>
+      <title>A study of convective core overshooting as a function of stellar mass based on two-dimensional hydrodynamical simulations</title>
+      <link>https://nebula0.github.io/article/a_study_of_convective_core_overshooting_as_a_function_of_stellar_mass_based_on_two-dimensional_hydrodynamical_simulations/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/a_study_of_convective_core_overshooting_as_a_function_of_stellar_mass_based_on_two-dimensional_hydrodynamical_simulations/</guid>
+      <description>First author: I. Baraffe
+We perform two-dimensional numerical simulations of core convection for zero-age-main-sequence stars covering a mass range from 3 $M_\odot$ to 20 $M_\odot$. The simulations are performed with the fully compressible time-implicit code MUSIC. We study the efficiency of overshooting, which describes the ballistic process of convective flows crossing a convective boundary, as a function of stellar mass and luminosity. We also study the impact of artificially increasing the stellar luminosity for 3 $M_\odot$ models.</description>
+    </item>
+    
     <item>
       <title>Hydrodynamic turbulence in disks with embedded planets</title>
       <link>https://nebula0.github.io/article/hydrodynamic_turbulence_in_disks_with_embedded_planets/</link>
