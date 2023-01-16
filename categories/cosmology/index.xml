@@ -6,7 +6,37 @@
     <description>Recent content in cosmology on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Non-Gaussianity in the cosmic microwave background from loop quantum cosmology</title>
+      <link>https://nebula0.github.io/article/non-gaussianity_in_the_cosmic_microwave_background_from_loop_quantum_cosmology/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/non-gaussianity_in_the_cosmic_microwave_background_from_loop_quantum_cosmology/</guid>
+      <description>First author: Roshna K
+Primordial non-Gaussianity has set strong constraints on models of the early universe. Studies have shown that Loop Quantum Cosmology (LQC), which is an attempt to extend inflationary scenario to planck scales, leads to a strongly scale dependent and oscillatory non-Gaussianity. In particular, the non-Gaussianity function $f_{_{\rm NL}}(k_1,, k_2,, k_3)$ generated in LQC, though similar to that generated during slow roll inflation at small scales, is highly scale dependent and oscillatory at large wavelengths.</description>
+    </item>
+    
+    <item>
+      <title>Cosmological-Scale HI Distribution Around Galaxies and AGN Probed with the HETDEX and SDSS Spectroscopic Data</title>
+      <link>https://nebula0.github.io/article/cosmological-scale_hi_distribution_around_galaxies_and_agn_probed_with_the_hetdex_and_sdss_spectroscopic_data/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/cosmological-scale_hi_distribution_around_galaxies_and_agn_probed_with_the_hetdex_and_sdss_spectroscopic_data/</guid>
+      <description>First author: Dongsheng Sun
+We present cosmological-scale 3-dimensional (3D) neutral hydrogen ({\sc Hi}) tomographic maps at $z=2-3$ over a total of 837 deg$^2$ in two blank fields that are developed with Ly$\alpha$ forest absorptions of 14,736 background Sloan Digital Sky Survey (SDSS) quasars at $z$=2.08-3.67. Using the tomographic maps, we investigate the large-scale ($\gtrsim 10$ $h^{-1}$cMpc) average {\sc Hi} radial profiles and two-direction profiles of the line-of-sight (LoS) and transverse (TS) directions around galaxies and AGN at $z=2-3$ identified by the Hobby-Eberly Telescope Dark Energy eXperiment (HETDEX) and SDSS surveys, respectively.</description>
+    </item>
+    
+    <item>
+      <title>Statistical Analysis of the Probability of Interaction of Globular Clusters with Each Other and with the Galactic Center on the Cosmological Time Scale According to Gaia DR2 Data</title>
+      <link>https://nebula0.github.io/article/statistical_analysis_of_the_probability_of_interaction_of_globular_clusters_with_each_other_and_with_the_galactic_center_on_the_cosmological_time_scale_according_to_gaia_dr2_data/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/statistical_analysis_of_the_probability_of_interaction_of_globular_clusters_with_each_other_and_with_the_galactic_center_on_the_cosmological_time_scale_according_to_gaia_dr2_data/</guid>
+      <description>First author: Maryna Ishchenko
+This study is aimed at investigating the dynamic evolution of the orbits of stellar globular clusters (GCs). To integrate the orbits backward in time, the authors use models of the time-varying potentials derived from cosmological simulations, which are closest to the potential of the Galaxy. This allows for estimating the probability of close passages (collisions) of GCs with respect to each other and the Galactic center (GalC) in the Galaxy undergoing dynamic changes in the past.</description>
+    </item>
+    
     <item>
       <title>Constraining cosmological parameters from N-body simulations with Variational Bayesian Neural Networks</title>
       <link>https://nebula0.github.io/article/constraining_cosmological_parameters_from_n-body_simulations_with_variational_bayesian_neural_networks/</link>

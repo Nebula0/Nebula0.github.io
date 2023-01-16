@@ -6,11 +6,11 @@
     <description>Recent content in Categories on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1(month)</title>
       <link>https://nebula0.github.io/categories/1month/</link>
-      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nebula0.github.io/categories/1month/</guid>
       <description></description>
@@ -19,25 +19,16 @@
     <item>
       <title>2023(year)</title>
       <link>https://nebula0.github.io/categories/2023year/</link>
-      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nebula0.github.io/categories/2023year/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>galaxies</title>
-      <link>https://nebula0.github.io/categories/galaxies/</link>
-      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/categories/galaxies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>AGN</title>
       <link>https://nebula0.github.io/categories/agn/</link>
-      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nebula0.github.io/categories/agn/</guid>
       <description></description>
@@ -46,7 +37,7 @@
     <item>
       <title>cosmology</title>
       <link>https://nebula0.github.io/categories/cosmology/</link>
-      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nebula0.github.io/categories/cosmology/</guid>
       <description></description>
@@ -55,9 +46,54 @@
     <item>
       <title>dwarf galaxy</title>
       <link>https://nebula0.github.io/categories/dwarf-galaxy/</link>
-      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nebula0.github.io/categories/dwarf-galaxy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>galaxies</title>
+      <link>https://nebula0.github.io/categories/galaxies/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/categories/galaxies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>globular cluster</title>
+      <link>https://nebula0.github.io/categories/globular-cluster/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/categories/globular-cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>radiative transfer</title>
+      <link>https://nebula0.github.io/categories/radiative-transfer/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/categories/radiative-transfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>supernovae</title>
+      <link>https://nebula0.github.io/categories/supernovae/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/categories/supernovae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chemical evolution</title>
+      <link>https://nebula0.github.io/categories/chemical-evolution/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/categories/chemical-evolution/</guid>
       <description></description>
     </item>
     
@@ -71,29 +107,11 @@
     </item>
     
     <item>
-      <title>globular cluster</title>
-      <link>https://nebula0.github.io/categories/globular-cluster/</link>
-      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/categories/globular-cluster/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>hydrodynamics</title>
       <link>https://nebula0.github.io/categories/hydrodynamics/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nebula0.github.io/categories/hydrodynamics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>supernovae</title>
-      <link>https://nebula0.github.io/categories/supernovae/</link>
-      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/categories/supernovae/</guid>
       <description></description>
     </item>
     
@@ -107,29 +125,11 @@
     </item>
     
     <item>
-      <title>chemical evolution</title>
-      <link>https://nebula0.github.io/categories/chemical-evolution/</link>
-      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/categories/chemical-evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>galaxy merger</title>
       <link>https://nebula0.github.io/categories/galaxy-merger/</link>
       <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nebula0.github.io/categories/galaxy-merger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>radiative transfer</title>
-      <link>https://nebula0.github.io/categories/radiative-transfer/</link>
-      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/categories/radiative-transfer/</guid>
       <description></description>
     </item>
     

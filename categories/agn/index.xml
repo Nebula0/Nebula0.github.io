@@ -6,7 +6,27 @@
     <description>Recent content in AGN on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/agn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/agn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multiwavelength Analysis of a Nearby Heavily Obscured AGN in NGC 449</title>
+      <link>https://nebula0.github.io/article/multiwavelength_analysis_of_a_nearby_heavily_obscured_agn_in_ngc_449/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/multiwavelength_analysis_of_a_nearby_heavily_obscured_agn_in_ngc_449/</guid>
+      <description>First author: Xiaotong Guo
+We presented the multiwavelength analysis of a heavily obscured active galactic nucleus (AGN) in NGC 449. We first constructed a broadband X-ray spectrum using the latest NuSTAR and XMM-Newton data. Its column density ($\simeq 10^{24} \rm{cm}^{-2}$) and photon index ($\Gamma\simeq 2.4$) were reliably obtained by analyzing the broadband X-ray spectrum. However, the scattering fraction and the intrinsic X-ray luminosity could not be well constrained. Combined with the information obtained from the mid-infrared (mid-IR) spectrum and spectral energy distribution (SED) fitting, we derived its intrinsic X-ray luminosity ($\simeq 8.</description>
+    </item>
+    
+    <item>
+      <title>Extended Corona Models of X-ray Reverberation in the AGN 1H~0707-495 and IRAS 13224-3809</title>
+      <link>https://nebula0.github.io/article/extended_corona_models_of_x-ray_reverberation_in_the_agn_1h~0707-495_and_iras_13224-3809/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/extended_corona_models_of_x-ray_reverberation_in_the_agn_1h~0707-495_and_iras_13224-3809/</guid>
+      <description>First author: S. Hancock
+We fit a new vertically extended corona model to previously measured reverberation time lags observed by \emph{XMM-Newton} in two extremely variable Narrow Line Seyfert 1 Active Galactic Nuclei (AGN), 1H~0707-495 and IRAS~13224-3809, in a variety of similarly observed flux groups and explore the model in all observations over a 16 year period. The model employs two X-ray sources located along the black hole rotational axis at height, $h_1$ and $h_2$ respectively.</description>
+    </item>
+    
     <item>
       <title>AGN in post-mergers from the Ultraviolet Near Infrared Optical Northern Survey</title>
       <link>https://nebula0.github.io/article/agn_in_post-mergers_from_the_ultraviolet_near_infrared_optical_northern_survey/</link>

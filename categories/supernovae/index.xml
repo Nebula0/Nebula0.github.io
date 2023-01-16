@@ -6,7 +6,67 @@
     <description>Recent content in supernovae on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/supernovae/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/supernovae/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Numerical simulations of the random angular momentum in convection II: delayed explosions of red supergiants following &#34;failed&#39;&#39; supernovae</title>
+      <link>https://nebula0.github.io/article/numerical_simulations_of_the_random_angular_momentum_in_convection_ii_delayed_explosions_of_red_supergiants_following_failed_supernovae/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/numerical_simulations_of_the_random_angular_momentum_in_convection_ii_delayed_explosions_of_red_supergiants_following_failed_supernovae/</guid>
+      <description>First author: Andrea Antoni
+When collapse of the iron core in a massive red or yellow supergiant does not lead to a neutrino-driven explosion, a significant fraction of the convective hydrogen envelope will fall in towards the black hole formed from the collapsing core. The random velocity field in the convective envelope results in finite specific angular momentum in each infalling shell. Using 3D hydrodynamical simulations, we follow the infall of this material to small radii, resolving the circularization radii of the flow.</description>
+    </item>
+    
+    <item>
+      <title>The implications of large binding energies of massive stripped core collapse supernova progenitors on the explosion mechanism</title>
+      <link>https://nebula0.github.io/article/the_implications_of_large_binding_energies_of_massive_stripped_core_collapse_supernova_progenitors_on_the_explosion_mechanism/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_implications_of_large_binding_energies_of_massive_stripped_core_collapse_supernova_progenitors_on_the_explosion_mechanism/</guid>
+      <description>First author: Dmitry Shishkin
+We examine the binding energy of massive stripped-envelope core collapse supernova (SECCSN) progenitors with the stellar evolution code MESA, and find that only the jittering jets explosion mechanism can account for explosions where carbon-oxygen cores with masses of $&amp;gt;20M_\odot$ collapse to leave a neutron star (NS) remnant. We calculate the binding energy at core collapse under the assumption that the remnant is a NS. Namely, stellar gas above mass coordinate of $~1.</description>
+    </item>
+    
+    <item>
+      <title>The Path from the Chinese and Japanese Observations of Supernova 1181 AD, to a Type Iax Supernova, to the Merger of CO and ONe White Dwarfs</title>
+      <link>https://nebula0.github.io/article/the_path_from_the_chinese_and_japanese_observations_of_supernova_1181_ad_to_a_type_iax_supernova_to_the_merger_of_co_and_one_white_dwarfs/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_path_from_the_chinese_and_japanese_observations_of_supernova_1181_ad_to_a_type_iax_supernova_to_the_merger_of_co_and_one_white_dwarfs/</guid>
+      <description>First author: Bradley E. Schaefer
+In 1181 AD, Chinese and Japanese observers reported a bright Guest Star&#39; in the constellation Chuanshe, unmoving and visible for 185 days. In 2013, D. Patchick discovered a unique nebula surrounding a unique star, with two groups attributing this structure, named Pa 30&amp;rsquo;, to be the supernova remnant of SN 1181, as a sub-subclass of supernova, the low-luminosity Type Iax. Here, I provide a wide range of new observational evidence: First, a detailed analysis of the original Chinese and Japanese reports places the `Guest Star&amp;rsquo; of 1181 into a small region with the only interesting source being Pa 30.</description>
+    </item>
+    
+    <item>
+      <title>A Systematic Study of Ia-CSM Supernovae from the ZTF Bright Transient Survey</title>
+      <link>https://nebula0.github.io/article/a_systematic_study_of_ia-csm_supernovae_from_the_ztf_bright_transient_survey/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/a_systematic_study_of_ia-csm_supernovae_from_the_ztf_bright_transient_survey/</guid>
+      <description>First author: Yashvi Sharma
+Among the supernovae (SNe) that show strong interaction with the circumstellar medium, there is a rare subclass of Type Ia supernovae, SNe Ia-CSM, that show strong narrow hydrogen emission lines much like SNe IIn but on top of a diluted over-luminous Type Ia spectrum. In the only previous systematic study of this class (Silverman et al. 2013), 16 objects were identified, 8 historic and 8 from the Palomar Transient Factory (PTF).</description>
+    </item>
+    
+    <item>
+      <title>SN 2020bio: A Double-peaked Type IIb Supernova with Evidence of Early-time Circumstellar Interaction</title>
+      <link>https://nebula0.github.io/article/sn_2020bio_a_double-peaked_type_iib_supernova_with_evidence_of_early-time_circumstellar_interaction/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/sn_2020bio_a_double-peaked_type_iib_supernova_with_evidence_of_early-time_circumstellar_interaction/</guid>
+      <description>First author: C. Pellegrino
+We present photometric and spectroscopic observations of SN 2020bio, a double-peaked Type IIb supernova (SN) discovered within a day of explosion, primarily obtained by Las Cumbres Observatory and Swift. SN 2020bio displays a rapid and long-lasting initial decline throughout the first week of its light curve, similar to other well-studied Type IIb SNe. This early-time emission is thought to originate from the cooling of the extended outer envelope of the progenitor star that is shock-heated by the SN explosion.</description>
+    </item>
+    
+    <item>
+      <title>The Core Normal Type Ia Supernova 2019np: An Overall Spherical Explosion with an Aspherical Surface Layer and an Aspherical 56Ni Core</title>
+      <link>https://nebula0.github.io/article/the_core_normal_type_ia_supernova_2019np_an_overall_spherical_explosion_with_an_aspherical_surface_layer_and_an_aspherical_56ni_core/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_core_normal_type_ia_supernova_2019np_an_overall_spherical_explosion_with_an_aspherical_surface_layer_and_an_aspherical_56ni_core/</guid>
+      <description>First author: Peter Hoeflich
+Optical spectropolarimetry of the normal thermonuclear supernova SN2019np from -14.5 to +14.5 days relative to B-band maximum detected an intrinsic continuum polarization, p(cont), of 0.21+-0.09% at the first epoch. Between days -11.5 to +05, p(cont) remained about 0 and by day +14.5 was again significant at 0.19+-0.10%. Not considering the first epoch, the dominant axis of SiII(6355A) was roughly constant, staying close to the continuum until both rotated in opposite directions on day +14.</description>
+    </item>
+    
     <item>
       <title>Cosmic rate of type IIn supernovae and its evolution with redshift</title>
       <link>https://nebula0.github.io/article/cosmic_rate_of_type_iin_supernovae_and_its_evolution_with_redshift/</link>

@@ -6,7 +6,187 @@
     <description>Recent content in galaxies on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/galaxies/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/galaxies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Fornax3D project: Environmental effects on the assembly of dynamically cold disks in Fornax cluster galaxies</title>
+      <link>https://nebula0.github.io/article/the_fornax3d_project_environmental_effects_on_the_assembly_of_dynamically_cold_disks_in_fornax_cluster_galaxies/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_fornax3d_project_environmental_effects_on_the_assembly_of_dynamically_cold_disks_in_fornax_cluster_galaxies/</guid>
+      <description>First author: Y. Ding
+We apply a population-orbit superposition method to 16 galaxies in the Fornax cluster observed with MUSE/VLT in the context of the Fornax3D project. By fitting the luminosity distribution, stellar kinematics, and age and metallicity maps simultaneously, we obtained the internal stellar orbit distribution, as well as the age and metallicity distribution of stars on different orbits for each galaxy. Based on the model, we decompose each galaxy into a dynamically cold disk (orbital circularity $\lambda_z\ge0.</description>
+    </item>
+    
+    <item>
+      <title>The rebrightening of a ROSAT-selected tidal disruption event: repeated weak partial disruption flares from a quiescent galaxy?</title>
+      <link>https://nebula0.github.io/article/the_rebrightening_of_a_rosat-selected_tidal_disruption_event_repeated_weak_partial_disruption_flares_from_a_quiescent_galaxy/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_rebrightening_of_a_rosat-selected_tidal_disruption_event_repeated_weak_partial_disruption_flares_from_a_quiescent_galaxy/</guid>
+      <description>First author: A. Malyali
+The ROSAT-selected tidal disruption event (TDE) candidate RX J133157.6-324319.7 (J1331), was detected in 1993 as a bright (0.2-2 keV flux of $(1.0 \pm 0.1) \times 10^{-12}$ erg s$^{-1}$ cm$^{-2}$), ultra-soft ($kT=0.11 \pm 0.03$ keV) X-ray flare from a quiescent galaxy ($z=0.05189$). During its fifth All-Sky survey (eRASS5) in 2022, SRG/eROSITA detected the repeated flaring of J1331, where it had rebrightened to an observed 0.2-2 keV flux of $(6.</description>
+    </item>
+    
+    <item>
+      <title>The splashback radius of groups and clusters of galaxies at low redshifts</title>
+      <link>https://nebula0.github.io/article/the_splashback_radius_of_groups_and_clusters_of_galaxies_at_low_redshifts/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_splashback_radius_of_groups_and_clusters_of_galaxies_at_low_redshifts/</guid>
+      <description>First author: Flera G. Kopylova
+We present a study of the distribution of galaxies along the radius of 157 groups and clusters of galaxies (200~km~s$^{-1}$ &amp;lt; $\sigma$ &amp;lt; 1100~km~s$^{-1}$) of the local Universe (0.01 &amp;lt; $z$ &amp;lt; 0.1). We introduced a new boundary of galaxy systems and identified it with the splashback radius $R_{sp}$. We also identified the central region of galaxy systems with a radius of $R_c$. These radii are defined by the observed integrated distribution of the total number of galaxies depending on the squared distance from the center of the groups/clusters coinciding, as a rule, with the brightest galaxy.</description>
+    </item>
+    
+    <item>
+      <title>Toward accurate measurement of property-dependent galaxy clustering: II. Tests of the smoothed density-corrected $V_{\rm max}$ method</title>
+      <link>https://nebula0.github.io/article/toward_accurate_measurement_of_property-dependent_galaxy_clustering_ii._tests_of_the_smoothed_density-corrected__v__rm_max__method/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/toward_accurate_measurement_of_property-dependent_galaxy_clustering_ii._tests_of_the_smoothed_density-corrected__v__rm_max__method/</guid>
+      <description>First author: Lei Yang
+We present a smoothed density-corrected $V_{\rm max}$ technique for building a random catalog for property-dependent galaxy clustering estimation. This approach is essentially based on the density-corrected $V_{\rm max}$ method of Cole(2011), with three improvements to the original method. To validate the improved method, we generate two sets of flux-limited samples from two independent mock catalogs with different $k+e$ corrections. By comparing the two-point correlation functions, our results demonstrate that the random catalog created by the smoothed density-corrected $V_{\rm max}$ approach provides a more accurate and precise measurement for both sets of mock samples than the commonly used $V_{\rm max}$ method and redshift shuffled method.</description>
+    </item>
+    
+    <item>
+      <title>Black hole and galaxy co-evolution in radio-loud AGN at z ~ 0.3-4</title>
+      <link>https://nebula0.github.io/article/black_hole_and_galaxy_co-evolution_in_radio-loud_agn_at_z_~_0.3-4/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/black_hole_and_galaxy_co-evolution_in_radio-loud_agn_at_z_~_0.3-4/</guid>
+      <description>First author: R. Poitevineau
+There exists a well known relation between the mass of the supermassive black hole (SMBH) in the center of galaxies and their bulge mass or central velocity dispersion. This suggests a co-evolution between SMBH and their galaxy hosts. Our aim is to study this relation specifically for radio loud galaxies, and as a function of redshift $z$. We selected a sample of radio-galaxies and AGN by cross-matching the low radio frequency sources from VLA FIRST with spectroscopically confirmed sources from wide field surveys including SDSS DR14 ugriz and DES DR2 grzY in optical, WISE in infrared, and the Galaxy And Mass Assembly (GAMA) spectroscopic survey.</description>
+    </item>
+    
+    <item>
+      <title>CO Excitation in High-z Main Sequence Analogues: Resolved CO(4-3)/CO(3-2) Line Ratios in DYNAMO Galaxies</title>
+      <link>https://nebula0.github.io/article/co_excitation_in_high-z_main_sequence_analogues_resolved_co4-3_co3-2_line_ratios_in_dynamo_galaxies/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/co_excitation_in_high-z_main_sequence_analogues_resolved_co4-3_co3-2_line_ratios_in_dynamo_galaxies/</guid>
+      <description>First author: Laura Lenkić
+The spectral line energy distribution of carbon monoxide contains information about the physical conditions of the star forming molecular hydrogen gas; however, the relation to local radiation field properties is poorly constrained. Using ~ 1-2 kpc scale ALMA observations of CO(3-2) and CO(4-3), we characterize the CO(4-3)/CO(3-2) line ratios of local analogues of main sequence galaxies at z ~ 1-2, drawn from the DYNAMO sample. We measure CO(4-3)/CO(3-2) across the disk of each galaxy and find a median line ratio of $R_{43} = 0.</description>
+    </item>
+    
+    <item>
+      <title>Co-evolution of Dust and Chemistry in Galaxy Simulations with a Resolved Interstellar Medium</title>
+      <link>https://nebula0.github.io/article/co-evolution_of_dust_and_chemistry_in_galaxy_simulations_with_a_resolved_interstellar_medium/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/co-evolution_of_dust_and_chemistry_in_galaxy_simulations_with_a_resolved_interstellar_medium/</guid>
+      <description>First author: Chia-Yu Hu
+Nearby dwarf irregular galaxies are ideal laboratories for studying the interstellar medium (ISM) at low metallicity, which is expected to be common for galaxies at very high redshift that will be observed by the James Webb Space Telescope. We present the first high-resolution (~0.2 pc) hydrodynamical simulations of an isolated low-metallicity ($0.1~Z_\odot$) dwarf galaxy coupled with a time-dependent chemistry network and a dust evolution model where dust is locally produced and destroyed by various processes.</description>
+    </item>
+    
+    <item>
+      <title>FLARES IX: The Physical Mechanisms Driving Compact Galaxy Formation and Evolution</title>
+      <link>https://nebula0.github.io/article/flares_ix_the_physical_mechanisms_driving_compact_galaxy_formation_and_evolution/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/flares_ix_the_physical_mechanisms_driving_compact_galaxy_formation_and_evolution/</guid>
+      <description>First author: William J. Roper
+In the FLARES (First Light And Reionisation Epoch Simulations) suite of hydrodynamical simulations, we find the high redshift ($z&amp;gt;5$) intrinsic size-luminosity relation is, surprisingly, negatively sloped. However, after including the effects of dust attenuation we find a positively sloped UV observed size-luminosity relation in good agreement with other simulated and observational studies. In this work, we extend this analysis to probe the underlying physical mechanisms driving the formation and evolution of the compact galaxies driving the negative size-mass/size-luminosity relation.</description>
+    </item>
+    
+    <item>
+      <title>How the origin of stars in the Galaxy impacts the composition of planetary building blocks</title>
+      <link>https://nebula0.github.io/article/how_the_origin_of_stars_in_the_galaxy_impacts_the_composition_of_planetary_building_blocks/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/how_the_origin_of_stars_in_the_galaxy_impacts_the_composition_of_planetary_building_blocks/</guid>
+      <description>First author: N. Cabral
+Context. Our Galaxy is composed of different stellar populations with varying chemical abundances, which are thought to imprint the composition of planet building blocks (PBBs). As such, the properties of stars should affect the properties of planets and small bodies formed in their systems. In this context, high-resolution spectroscopic surveys open a window into the chemical links between and their host stars. Aims. We aim to determine the PBB composition trends for various stellar populations across the Galaxy by comparing the two large spectroscopic surveys APOGEE and GALAH.</description>
+    </item>
+    
+    <item>
+      <title>Kinematics and Origin of Gas in the Disk Galaxy NGC 2655</title>
+      <link>https://nebula0.github.io/article/kinematics_and_origin_of_gas_in_the_disk_galaxy_ngc_2655/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/kinematics_and_origin_of_gas_in_the_disk_galaxy_ngc_2655/</guid>
+      <description>First author: Olga K. Sil&amp;rsquo;chenko
+The new observational data concerning distribution, excitation, and kinematics of the ionized gas in the giant early-type disk galaxy NGC 2655 obtained at the 6m telescope of the Special Astrophysical Observatory (SAO RAS) and at the 2.5m telescope of the Caucasian Mountain Observatory of the Sternberg Astronomical Institute (CMO SAI MSU) are presented in this work. The joint analysis of these and earlier spectral observations has allowed us to make a conclusion about multiple nature of the gas in NGC 2655.</description>
+    </item>
+    
+    <item>
+      <title>The many reasons that the rotation curves of low-mass galaxies can fail as tracers of their matter distributions</title>
+      <link>https://nebula0.github.io/article/the_many_reasons_that_the_rotation_curves_of_low-mass_galaxies_can_fail_as_tracers_of_their_matter_distributions/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_many_reasons_that_the_rotation_curves_of_low-mass_galaxies_can_fail_as_tracers_of_their_matter_distributions/</guid>
+      <description>First author: Eleanor R. Downing
+It is routinely assumed that galaxy rotation curves are equal to their circular velocity curves (modulo some corrections) such that they are good dynamical mass tracers. We take a visualisation-driven approach to exploring the limits of the validity of this assumption for a sample of $33$ low-mass galaxies ($60&amp;lt;v_\mathrm{max}/\mathrm{km},\mathrm{s}^{-1}&amp;lt;120$) from the APOSTLE suite of cosmological hydrodynamical simulations. Only $3$ of these have rotation curves nearly equal to their circular velocity curves at $z=0$, the rest are undergoing a wide variety of dynamical perturbations.</description>
+    </item>
+    
+    <item>
+      <title>The satellite population around luminous red galaxies in the 25 square degree DESI Legacy Imaging Surveys Early Data Release</title>
+      <link>https://nebula0.github.io/article/the_satellite_population_around_luminous_red_galaxies_in_the_25_square_degree_desi_legacy_imaging_surveys_early_data_release/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_satellite_population_around_luminous_red_galaxies_in_the_25_square_degree_desi_legacy_imaging_surveys_early_data_release/</guid>
+      <description>First author: Melinda Townsend
+Luminous Red Galaxies, or LRGs, are representative of the most massive galaxies and were originally selected in the Sloan Digital Sky Survey as good tracers of large scale structure. They are dominated by by uniformly old stellar populations, have low star formation rates, early type morphologies, and little cold gas. Despite having old stellar populations and little in situ star formation, studies have shown that they have grown their stellar mass since z=1, implying that they grow predominantly via the accretion of satellites.</description>
+    </item>
+    
+    <item>
+      <title>Inhomogeneous enrichment of radioactive nuclei in the Galaxy: Deposition of live Mn-53, Fe-60, Hf-182, and Pu-244 into deep-sea archives. Surfing the wave?</title>
+      <link>https://nebula0.github.io/article/inhomogeneous_enrichment_of_radioactive_nuclei_in_the_galaxy_deposition_of_live_mn-53_fe-60_hf-182_and_pu-244_into_deep-sea_archives._surfing_the_wave/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/inhomogeneous_enrichment_of_radioactive_nuclei_in_the_galaxy_deposition_of_live_mn-53_fe-60_hf-182_and_pu-244_into_deep-sea_archives._surfing_the_wave/</guid>
+      <description>First author: Benjamin Wehmeyer
+While modelling the galactic chemical evolution (GCE) of stable elements provides insights to the formation history of the Galaxy and the relative contributions of nucleosynthesis sites, modelling the evolution of short-lived radioisotopes (SLRs) can provide supplementary timing information on recent nucleosynthesis. To study the evolution of SLRs, we need to understand their spatial distribution. Using a 3-dimensional GCE model, we investigated the evolution of four SLRs: Mn-53, Fe-60, Hf-182, and Pu-244 with the aim of explaining detections of recent (within the last $\approx$1-20 Myr) deposition of live Mn-53, Fe-60, and Pu-244 of extrasolar origin into deep-sea reservoirs.</description>
+    </item>
+    
+    <item>
+      <title>Simulations of Precessing Jets and the Formation of X-shaped Radio Galaxies</title>
+      <link>https://nebula0.github.io/article/simulations_of_precessing_jets_and_the_formation_of_x-shaped_radio_galaxies/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/simulations_of_precessing_jets_and_the_formation_of_x-shaped_radio_galaxies/</guid>
+      <description>First author: Chris Nolting
+Jet precession is sometimes invoked to explain asymmetries in radio galaxy (RG) jets and &amp;ldquo;X/S/Z-shape&amp;rdquo; radio galaxies, caused by the presence of a binary black hole companion to the source active galactic nucleus (AGN) or by accretion instabilities. We present a series of simulations of radio galaxy jet precession to examine how these sources would evolve over time, including a passive distribution of cosmic ray electrons (CRe) so we can model radio synchrotron emissions and create synthetic radio maps of the sources.</description>
+    </item>
+    
+    <item>
+      <title>Stellar mass dependent galaxy size-dark matter halo radius relation unveiled by Subaru-HSC survey weak lensing measurements</title>
+      <link>https://nebula0.github.io/article/stellar_mass_dependent_galaxy_size-dark_matter_halo_radius_relation_unveiled_by_subaru-hsc_survey_weak_lensing_measurements/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/stellar_mass_dependent_galaxy_size-dark_matter_halo_radius_relation_unveiled_by_subaru-hsc_survey_weak_lensing_measurements/</guid>
+      <description>First author: Preetish K. Mishra
+We investigate the stellar mass-dependence of the galaxy size-dark matter halo radius relation for low redshift galaxies using weak gravitational lensing measurements. Our sample consists of $\sim$38,000 galaxies more massive than $10^{8} {\rm M}{\odot}h^{-2}$ and within $z&amp;lt;0.3$ drawn from the overlap of GAMA survey DR4 and HSC-SSP PDR2. We divide our sample into a number of stellar mass bins and measure stacked weak lensing signals.</description>
+    </item>
+    
+    <item>
+      <title>Strong 21-cm fluctuations and anisotropy due to the line-of-sight effect of radio galaxies at cosmic dawn</title>
+      <link>https://nebula0.github.io/article/strong_21-cm_fluctuations_and_anisotropy_due_to_the_line-of-sight_effect_of_radio_galaxies_at_cosmic_dawn/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/strong_21-cm_fluctuations_and_anisotropy_due_to_the_line-of-sight_effect_of_radio_galaxies_at_cosmic_dawn/</guid>
+      <description>First author: Sudipta Sikder
+The reported detection of the global 21-cm signal by the EDGES collaboration is significantly stronger than standard astrophysical predictions. One possible explanation is an early radio excess above the cosmic microwave background. Such a radio background could have been produced by high redshift galaxies, if they were especially efficient in producing low-frequency synchrotron radiation. We have previously studied the effects of such an inhomogeneous radio background on the 21-cm signal; however, we made a simplifying assumption of isotropy of the background seen by each hydrogen cloud.</description>
+    </item>
+    
+    <item>
+      <title>The alignment of galaxies at the Baryon Acoustic Oscillation scale</title>
+      <link>https://nebula0.github.io/article/the_alignment_of_galaxies_at_the_baryon_acoustic_oscillation_scale/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_alignment_of_galaxies_at_the_baryon_acoustic_oscillation_scale/</guid>
+      <description>First author: Dennis van Dompseler
+Massive elliptical galaxies align pointing towards each other in the structure of the Universe. Such alignments are well-described at large scales through a linear relation with respect to the tidal field of the large-scale structure. At such scales, galaxy alignments are sensitive to the presence of baryon acoustic oscillations (BAO). The shape of the BAO feature in galaxy alignment correlations differs from the traditional peak in the clustering correlation function.</description>
+    </item>
+    
+    <item>
+      <title>Unravelling the mass spectrum of destroyed dwarf galaxies with the metallicity distribution function</title>
+      <link>https://nebula0.github.io/article/unravelling_the_mass_spectrum_of_destroyed_dwarf_galaxies_with_the_metallicity_distribution_function/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/unravelling_the_mass_spectrum_of_destroyed_dwarf_galaxies_with_the_metallicity_distribution_function/</guid>
+      <description>First author: Alis J. Deason
+Accreted stellar populations are comprised of the remnants of destroyed galaxies, and often dominate the `stellar haloes&amp;rsquo; of galaxies such as the Milky Way (MW). This ensemble of external contributors is a key indicator of the past assembly history of a galaxy. We introduce a novel statistical method that uses the unbinned metallicity distribution function (MDF) of a stellar population to estimate the mass spectrum of its progenitors.</description>
+    </item>
+    
     <item>
       <title>Constraints on dark energy from the abundance of massive galaxies</title>
       <link>https://nebula0.github.io/article/constraints_on_dark_energy_from_the_abundance_of_massive_galaxies/</link>
