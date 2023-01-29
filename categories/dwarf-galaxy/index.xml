@@ -6,15 +6,125 @@
     <description>Recent content in dwarf galaxy on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/dwarf-galaxy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/dwarf-galaxy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The viability of ultralight bosonic dark matter in dwarf galaxies</title>
+      <link>https://nebula0.github.io/article/arxiv.2206.05244/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2206.05244/</guid>
+      <description>Isabelle S. Goldstein
+The dark matter distribution in dwarf galaxies holds a wealth of information on the fundamental properties and interactions of the dark matter particle. In this paper, we study whether ultralight bosonic dark matter is consistent with the gravitational potential extracted from stellar kinematics. We use velocity dispersion measurements to constrain models for halo mass and particle mass. The posterior likelihood is multimodal. Particle masses of order $m\sim 10^{-22} {\rm{eV}}$ require halos of mass in excess of $\sim 10^{10} M_\odot$, while particle mass of order $m \gtrsim 10^{-20}{\rm{eV}}$ are favored by halos of mass $\sim [10^{8} - 10^{9}] M_\odot$, with a similar behavior to cold dark matter.</description>
+    </item>
+    
+    <item>
+      <title>Globular cluster metallicity distributions in the E-MOSAICS simulations</title>
+      <link>https://nebula0.github.io/article/arxiv.2210.00398/</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2210.00398/</guid>
+      <description>Joel Pfeffer
+The metallicity distributions of globular cluster (GC) systems in galaxies are a critical test of any GC formation scenario. In this work, we investigate the predicted GC metallicity distributions of galaxies in the MOdelling Star cluster population Assembly In Cosmological Simulations within EAGLE (E-MOSAICS) simulation of a representative cosmological volume ($L = 34.4$ comoving Mpc). We find that the predicted GC metallicity distributions and median metallicities from the fiducial E-MOSAICS GC formation model agree well the observed distributions, except for galaxies with masses $M_\ast \sim 2 \times 10^{10}$ M$_\odot$, which contain an overabundance of metal-rich GCs.</description>
+    </item>
+    
     <item>
       <title>Pegasus W: An Ultra-Faint Dwarf Galaxy Outside the Halo of M31 Not Quenched by Reionization</title>
       <link>https://nebula0.github.io/article/arxiv.2301.04157/</link>
-      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nebula0.github.io/article/arxiv.2301.04157/</guid>
       <description>Kristen. B. W. McQuinn
 We report the discovery of an ultrafaint dwarf (UFD) galaxy, Pegasus W, located on the far side of the Milky Way-M31 system and outside the virial radius of M31. The distance to the galaxy is 915 (+60/-91) kpc, measured using the luminosity of horizontal branch (HB) stars identified in Hubble Space Telescope optical imaging. The galaxy has a half-light radius (r_h) of 100 (+11/-13) pc, M_V = -7.</description>
+    </item>
+    
+    <item>
+      <title>Star Formation Histories of Dwarf Spheroidal and Dwarf Elliptical Galaxies in the Local Universe </title>
+      <link>https://nebula0.github.io/article/arxiv.2301.10386/</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2301.10386/</guid>
+      <description>Mira Seo
+We present the star formation histories (SFHs) of early-type dwarf galaxies, dSphs and dEs, in the local universe within z=0.01. The SFHs of early-type dwarf galaxies are characterized by pre-enriched, metal-poor old stellar populations, absence of moderately old stars that have ages of a few Gyr. There are some differences in the SFHs of dSphs and dEs. In particular, dSphs formed old ($\gtrsim10$ Gyr old) metal-poor stars $\sim2$ times more than dEs.</description>
+    </item>
+    
+    <item>
+      <title>A burst storm from the repeating FRB 20200120E in an M81 globular cluster</title>
+      <link>https://nebula0.github.io/article/arxiv.2206.03759/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2206.03759/</guid>
+      <description>K. Nimmo
+The repeating fast radio burst (FRB) source FRB 20200120E is exceptional because of its proximity and association with a globular cluster. Here we report $60$ bursts detected with the Effelsberg telescope at 1.4 GHz. We observe large variations in the burst rate, and report the first FRB 20200120E `burst storm&amp;amp;#39;, where the source suddenly became active and 53 bursts (fluence $\geq 0.04$ Jy ms) occurred within only 40 minutes.</description>
+    </item>
+    
+    <item>
+      <title>Globular clusters as indicators of Galactic evolution</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.08535/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2301.08535/</guid>
+      <description>N. R. Arakelyan
+We have studied the system of globular clusters (GCs) that formed in other galaxies and eventually accreted onto the Milky Way. Thus, the samples of GCs belonging to different tidal streams, obtained on the basis of the latest data from the Gaia observatory, were taken from the literature. We measured the anisotropy of the distribution of these GCs using the gyration tensor and found that the distribution of GCs in the streams is isotropic.</description>
+    </item>
+    
+    <item>
+      <title>Formation of globular clusters in dwarf galaxies of the Local Group</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.08218/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2301.08218/</guid>
+      <description>Yingtian Chen
+The existence of globular clusters (GCs) in a few satellite galaxies, and their absence in majority of dwarf galaxies, present a challenge for models attempting to understand the origins of GCs. In addition to GC presence appearing stochastic and difficult to describe with average trends, in the smallest satellite galaxies GCs contribute a substantial fraction of total stellar mass. We investigate the stochasticity and number of GCs in dwarf galaxies using an updated version of our model that links the formation of GCs to the growth of the host galaxy mass.</description>
+    </item>
+    
+    <item>
+      <title>Chrono-chemodynamical analysis of the globular cluster NGC 6355: Looking for the fundamental bricks of the Bulge</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.05227/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2301.05227/</guid>
+      <description>Stefano O. Souza
+The information on Galactic assembly time is imprinted on the chemodynamics of globular clusters. This makes them important probes that help us to understand the formation and evolution of the Milky Way. Discerning between in-situ and ex-situ origin of these objects is difficult when we study the Galactic bulge, which is the most complex and mixed component of the Milky Way. To investigate the early evolution of the Galactic bulge, we analysed the globular cluster NGC 6355.</description>
+    </item>
+    
+    <item>
+      <title>The Neon Gap: Probing Ionization with Dwarf Galaxies at z~1</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.07444/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2301.07444/</guid>
+      <description>John Pharo,
+We present measurements of $[NeIII]$ λ3869 emission in z~1 low-mass galaxies taken from the Keck/DEIMOS spectroscopic surveys HALO7D and DEEPWinds. We identify 167 individual galaxies with significant $[NeIII]$ emission lines, including 112 &amp;amp;#34;dwarf&amp;amp;#34; galaxies with log(M_{\star}/M_{\odot}) &amp;amp;lt; 9.5, with 0.3 &amp;amp;lt; z &amp;amp;lt; 1.4. We also measure $[NeIII]$ emission from composite spectra derived from all $[OII]$λλ3727,3729 line emitters in this range. This provides a unique sample of $[NeIII]$-emitters in the gap between well-studied emitters at z = 0 and 2 &amp;amp;lt; z &amp;amp;lt; 3.</description>
+    </item>
+    
+    <item>
+      <title>Classifying the satellite plane membership of Centaurus A&#39;s dwarf galaxies using orbital alignment constraints</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.07113/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2301.07113/</guid>
+      <description>Kristen. B. W. McQuinn
+The flattened, possibly co-rotating plane of satellite galaxies around Centaurus A, if more than a fortuitous alignment, adds to the pre-existing tension between the well-studied Milky Way and M31 planes and the $Λ$CDM model of structure formation. It was recently reported that the Centaurus A satellite plane (CASP) may be rotationally supported, but a further understanding of the system&amp;amp;#39;s kinematics is elusive in the absence of full three-dimensional velocities.</description>
+    </item>
+    
+    <item>
+      <title>Detailed chemical abundances of stars in the outskirts of the Tucana II ultra-faint dwarf galaxy</title>
+      <link>https://nebula0.github.io/article/arxiv.2205.01740/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2205.01740/</guid>
+      <description>Anirudh Chiti
+We present chemical abundances and velocities of five stars between 0.3 kpc to 1.1 kpc from the center of the Tucana II ultra-faint dwarf galaxy (UFD) from high-resolution Magellan/MIKE spectroscopy. We find that every star is deficient in metals (-3.6 &amp;amp;lt; $[Fe/H]$ &amp;amp;lt; -1.9) and in neutron-capture elements as is characteristic of UFD stars, unambiguously confirming their association with Tucana II. Other chemical abundances (e.g., C, iron-peak) largely follow UFD trends and suggest that faint core-collapse supernovae (SNe) dominated the early evolution of Tucana II.</description>
+    </item>
+    
+    <item>
+      <title>Kinematic characteristics of the Milky Way globular clusters based on Gaia DR2 data</title>
+      <link>https://nebula0.github.io/article/arxiv.2201.07221/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2201.07221/</guid>
+      <description>I. V. Chemerynska
+Using the data from Gaia (ESA) Data Release 2 we performed the orbital calculations of globular clusters (GCs) of the Milky Way. To explore possible close encounters (or collisions) between the GCs, using our own developed high-order phi-GRAPE code, we integrated backward and forward the orbits of 119 objects with reliable positions and proper motions. In calculations, we adopted a realistic axisymmetric Galactic potential (bulge + disk + halo).</description>
     </item>
     
     <item>

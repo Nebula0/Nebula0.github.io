@@ -6,7 +6,57 @@
     <description>Recent content in AGN on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/agn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/agn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Update of the INTEGRAL/IBIS AGN catalogue: deeper on the Galactic plane and wider beyond</title>
+      <link>https://nebula0.github.io/article/update_of_the_integral_ibis_agn_catalogue_deeper_on_the_galactic_plane_and_wider_beyond/</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/update_of_the_integral_ibis_agn_catalogue_deeper_on_the_galactic_plane_and_wider_beyond/</guid>
+      <description>First author: A. Malizia
+In this work we have updated the list of AGN detected by INTEGRAL taking into account the new objects listed in the last published INTEGRAL/IBIS survey. We have collected 83 new AGN increasing the number of INTEGRAL detected active galaxies (436) by 19%. Half of these new additions are located behind the Galactic plane; for most of them we have full X-ray coverage obtained through archival data from Swift/XRT, XMM-Newton and NuSTAR.</description>
+    </item>
+    
+    <item>
+      <title>A New Mid-Infrared and X-ray Machine Learning Algorithm to Discover Compton-thick AGN</title>
+      <link>https://nebula0.github.io/article/a_new_mid-infrared_and_x-ray_machine_learning_algorithm_to_discover_compton-thick_agn/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/a_new_mid-infrared_and_x-ray_machine_learning_algorithm_to_discover_compton-thick_agn/</guid>
+      <description>First author: Ross Silver
+We present a new method to predict the line-of-sight column density (NH) values of active galactic nuclei (AGN) based on mid-infrared (MIR), soft, and hard X-ray data. We developed a multiple linear regression machine learning algorithm trained with WISE colors, Swift-BAT count rates, soft X-ray hardness ratios, and an MIR-soft X-ray flux ratio. Our algorithm was trained off 451 AGN from the Swift-BAT sample with known NH and has the ability to accurately predict NH values for AGN of all levels of obscuration, as evidenced by its Spearman correlation coefficient value of 0.</description>
+    </item>
+    
+    <item>
+      <title>Detection of AGNs and quasars having significant proper motions according to Gaia data within SRG/eRosita X-Ray sources catalog</title>
+      <link>https://nebula0.github.io/article/detection_of_agns_and_quasars_having_significant_proper_motions_according_to_gaia_data_within_srg_erosita_x-ray_sources_catalog/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/detection_of_agns_and_quasars_having_significant_proper_motions_according_to_gaia_data_within_srg_erosita_x-ray_sources_catalog/</guid>
+      <description>First author: I. M. Khamitov
+Based on a comparison of the SRG/eROSITA catalog of X-ray active stars and the Gaia catalog, a sample of 502 peculiar objects was obtained for which Gaia, on one hand, detects statistically significant values of parallax or proper motion and, on the other hand, registers signs of the non zero source extent in the optical band. In the log ($F_X/F_{\rm opt}$) - (G-RP) color diagram these objects are separated from the balk of X-ray active stars and are located in the region typical for the galaxies with active nuclei.</description>
+    </item>
+    
+    <item>
+      <title>The SOUX AGN Sample: SDSS-XMM-Newton Optical, Ultraviolet and X-ray selected active galactic nuclei spanning a wide range of parameter space -- Sample definition</title>
+      <link>https://nebula0.github.io/article/the_soux_agn_sample_sdss-xmm-newton_optical_ultraviolet_and_x-ray_selected_active_galactic_nuclei_spanning_a_wide_range_of_parameter_space_--_sample_definition/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_soux_agn_sample_sdss-xmm-newton_optical_ultraviolet_and_x-ray_selected_active_galactic_nuclei_spanning_a_wide_range_of_parameter_space_--_sample_definition/</guid>
+      <description>First author: Daniel Kynoch
+We assemble a sample of 696 type 1 AGN up to a redshift of $z=2.5$, all of which have an SDSS spectrum containing at least one broad emission line (H $\alpha$, H $\beta$ or Mg II) and an XMM-Newton X-ray spectrum containing at least 250 counts in addition to simultaneous optical/ultraviolet photometry from the XMM Optical Monitor. Our sample includes quasars and narrow-line Seyfert 1s: thus our AGN span a wide range in luminosity, black hole mass and accretion rate.</description>
+    </item>
+    
+    <item>
+      <title>Hydrogen Column Density Variability in a Sample of Local Compton-Thin AGN</title>
+      <link>https://nebula0.github.io/article/hydrogen_column_density_variability_in_a_sample_of_local_compton-thin_agn/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/hydrogen_column_density_variability_in_a_sample_of_local_compton-thin_agn/</guid>
+      <description>First author: N. Torres-Albà
+We present the analysis of multiepoch observations of a set of 12 variable, Compton-thin, local (z&amp;lt;0.1) active galactic nuclei (AGN) selected from the 100-month BAT catalog. We analyze all available X-ray data from \chandra, \xmm, and \nustar, adding up to a total of 53 individual observations. This corresponds to between 3 and 7 observations per source, probing variability timescales between a few days and $\sim 20$~yr.</description>
+    </item>
+    
     <item>
       <title>Multiwavelength Analysis of a Nearby Heavily Obscured AGN in NGC 449</title>
       <link>https://nebula0.github.io/article/multiwavelength_analysis_of_a_nearby_heavily_obscured_agn_in_ngc_449/</link>

@@ -6,7 +6,197 @@
     <description>Recent content in cosmology on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cosmological Evolution in Bimetric Gravity: Observational Constraints and LSS Signatures</title>
+      <link>https://nebula0.github.io/article/cosmological_evolution_in_bimetric_gravity_observational_constraints_and_lss_signatures/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/cosmological_evolution_in_bimetric_gravity_observational_constraints_and_lss_signatures/</guid>
+      <description>First author: Ajay Bassi
+Bimetric gravity is an interesting alternative to standard GR given its potential to provide a concrete theoretical framework for a ghost-free massive gravity theory. Here we investigate a class of Bimetric gravity models for their cosmological implications. We study the background expansion as well as the growth of matter perturbations at linear and second order. We use low-redshift observations from SnIa (Pantheon+ and SH0ES), Baryon Acoustic Oscillations (BAO), the growth ($f\sigma_{8}$) measurements and the measurement from Megamaser Cosmology Project to constrain the Bimetric model.</description>
+    </item>
+    
+    <item>
+      <title>Divergence of the local large-scale structure velocity field and its implications for Tilted Cosmology</title>
+      <link>https://nebula0.github.io/article/divergence_of_the_local_large-scale_structure_velocity_field_and_its_implications_for_tilted_cosmology/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/divergence_of_the_local_large-scale_structure_velocity_field_and_its_implications_for_tilted_cosmology/</guid>
+      <description>First author: Erick Pastén
+We characterize the peculiar velocity field of the local large-scale structure reconstructed from the $2M++$ survey, by treating it as a fluid, extracting the gradient and the divergence via different approximations. This reconstructed field is important for cosmology, since it was used to correct the peculiar redshifts of the last SNIA compilation Pantheon+. We conclude that the local velocity field can be described on average as a slightly contracting fluid, with intriguing implications for the ``Tilted Cosmology&amp;rsquo;&amp;rsquo; model.</description>
+    </item>
+    
+    <item>
+      <title>The XXL Survey L. AGN contamination in galaxy clusters: detection and cosmological impact</title>
+      <link>https://nebula0.github.io/article/the_xxl_survey_l._agn_contamination_in_galaxy_clusters_detection_and_cosmological_impact/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_xxl_survey_l._agn_contamination_in_galaxy_clusters_detection_and_cosmological_impact/</guid>
+      <description>First author: Sunayana Bhargava
+X-ray observations of galaxy clusters are impacted by the presence of active galactic nuclei (AGN) in a manner that is challenging to quantify, leading to biases in the detection and measurement of cluster properties for both astrophysics and cosmological applications. Using automated X-ray pipeline techniques, we introduce a new automated class for AGN-contaminated (AC) clusters in the XXL source detection software. The majority of these systems are otherwise missed by current X-ray cluster detection methods.</description>
+    </item>
+    
+    <item>
+      <title>SALT2 Versus SALT3: Updated Model Surfaces and Their Impacts on Type Ia Supernova Cosmology</title>
+      <link>https://nebula0.github.io/article/salt2_versus_salt3_updated_model_surfaces_and_their_impacts_on_type_ia_supernova_cosmology/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/salt2_versus_salt3_updated_model_surfaces_and_their_impacts_on_type_ia_supernova_cosmology/</guid>
+      <description>First author: G. Taylor
+For the past decade, SALT2 has been the most common model used to fit Type Ia supernova (SN Ia) light curves for dark energy analyses. Recently, the SALT3 model was released, which upgraded a number of model features but has not yet been used for measurements of dark energy. Here, we evaluate the impact of switching from SALT2 to SALT3 for a SN cosmology analysis. We train SALT2 and SALT3 on an identical training sample of 1083 well-calibrated Type Ia supernovae, ensuring that any differences found come from the underlying model framework.</description>
+    </item>
+    
+    <item>
+      <title>Testing $Λ$CDM cosmology in a binned universe: anomalies in the deceleration parameter</title>
+      <link>https://nebula0.github.io/article/testing__%CE%BB_cdm_cosmology_in_a_binned_universe_anomalies_in_the_deceleration_parameter/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/testing__%CE%BB_cdm_cosmology_in_a_binned_universe_anomalies_in_the_deceleration_parameter/</guid>
+      <description>First author: Erick Pastén
+We study the reconstructed deceleration parameter splitting the data in different redshift bins, fitting both a cosmographic luminosity distance and also assuming a flat $\Lambda$CDM model, using the Pantheon+ sample of type Ia supernova data (SNIA). We observe tensions $\sim 2\sigma-3\sigma$ for different redshift and distance indicators if the full sample is used. However, those tensions disappear when the SNIA at $z&amp;lt;0.008$ are removed. If the data is splitted in 2 hemispheres according to our movement w.</description>
+    </item>
+    
+    <item>
+      <title>The Hubble constant tension: current status and future perspectives through new cosmological probes</title>
+      <link>https://nebula0.github.io/article/the_hubble_constant_tension_current_status_and_future_perspectives_through_new_cosmological_probes/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_hubble_constant_tension_current_status_and_future_perspectives_through_new_cosmological_probes/</guid>
+      <description>First author: Maria Dainotti
+The Hubble constant ($H_0$) tension is one of the major open problems in modern cosmology. This tension is the discrepancy, ranging from 4 to 6 $\sigma$, between the $H_0$ value estimated locally with the combination of Supernovae Ia (SNe Ia) + Cepheids and the cosmological $H_0$ obtained through the study of the Cosmic Microwave Background (CMB) radiation. The approaches adopted in Dainotti et al. 2021 (ApJ) and Dainotti et al.</description>
+    </item>
+    
+    <item>
+      <title>Cosmic Web Dissection in Fuzzy Dark Matter Cosmologies</title>
+      <link>https://nebula0.github.io/article/cosmic_web_dissection_in_fuzzy_dark_matter_cosmologies/</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/cosmic_web_dissection_in_fuzzy_dark_matter_cosmologies/</guid>
+      <description>First author: Tibor Dome
+On large cosmological scales, anisotropic gravitational collapse is manifest in the dark cosmic web. Its statistical properties are well known for the standard $\Lambda$CDM cosmology, yet become modified for alternative dark matter models such as fuzzy dark matter (FDM). In this work, we assess for the first time the relative importance of cosmic nodes, filaments, walls and voids in a cosmology with small-scale suppression of power such as FDM.</description>
+    </item>
+    
+    <item>
+      <title>Cosmological Structure Formation and Soliton Phase Transition in Fuzzy Dark Matter with Axion Self-Interactions</title>
+      <link>https://nebula0.github.io/article/cosmological_structure_formation_and_soliton_phase_transition_in_fuzzy_dark_matter_with_axion_self-interactions/</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/cosmological_structure_formation_and_soliton_phase_transition_in_fuzzy_dark_matter_with_axion_self-interactions/</guid>
+      <description>First author: Philip Mocz
+We investigate cosmological structure formation in Fuzzy Dark Matter (FDM) with an attractive self-interaction (SI) with numerical simulations. Such a SI would arise if the FDM boson were an ultra-light axion, which has a strong CP symmetry-breaking scale (decay constant). Although weak, the attractive SI may be strong enough to counteract the quantum &amp;lsquo;pressure&amp;rsquo; and alter structure formation. We find in our simulations that the SI can enhance small-scale structure formation, and soliton cores above a critical mass undergo a phase transition, transforming from dilute to dense solitons.</description>
+    </item>
+    
+    <item>
+      <title>A Whole Cosmology View of the Hubble Constant</title>
+      <link>https://nebula0.github.io/article/a_whole_cosmology_view_of_the_hubble_constant/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/a_whole_cosmology_view_of_the_hubble_constant/</guid>
+      <description>First author: Eric V. Linder
+The Hubble constant $H_0$ is the value of the cosmic expansion rate at one time (the present), and cannot be adjusted successfully without taking into account the entire expansion history and cosmology. We outline some conditions, that if not quite no go&#39;&#39; are no thanks&amp;rsquo;&amp;rsquo;, showing that changing the expansion history, e.g. employing dynamical dark energy, cannot reconcile disparate deductions of $H_0$ without upsetting some other cosmological measurement.</description>
+    </item>
+    
+    <item>
+      <title>Perturbation-theory informed integrators for cosmological simulations</title>
+      <link>https://nebula0.github.io/article/perturbation-theory_informed_integrators_for_cosmological_simulations/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/perturbation-theory_informed_integrators_for_cosmological_simulations/</guid>
+      <description>First author: Florian List
+Large-scale cosmological simulations are an indispensable tool for modern cosmology. To enable model-space exploration, fast and accurate predictions are critical. In this paper, we show that the performance of such simulations can be further improved with time-stepping schemes that use input from cosmological perturbation theory. Specifically, we introduce a class of time-stepping schemes derived by matching the particle trajectories in a single leapfrog/Verlet drift-kick-drift step to those predicted by Lagrangian perturbation theory (LPT).</description>
+    </item>
+    
+    <item>
+      <title>Wasserstein distance as a new tool for discriminating cosmologies through the topology of large scale structure</title>
+      <link>https://nebula0.github.io/article/wasserstein_distance_as_a_new_tool_for_discriminating_cosmologies_through_the_topology_of_large_scale_structure/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/wasserstein_distance_as_a_new_tool_for_discriminating_cosmologies_through_the_topology_of_large_scale_structure/</guid>
+      <description>First author: Maksym Tsizh
+In this work we test Wasserstein distance in conjunction with persistent homology, as a tool for discriminating large scale structures of simulated universes with different values of $\sigma_8$ cosmological parameter (present root-mean-square matter fluctuation averaged over a sphere of radius 8 Mpc comoving). The Wasserstein distance (a.k.a. the pair-matching distance) was proposed to measure the difference between two networks in terms of persistent homology. The advantage of this approach consists in its non-parametric way of probing the topology of the Cosmic web, in contrast to graph-theoretical approach depending on linking length.</description>
+    </item>
+    
+    <item>
+      <title>Modelling the cosmological Lyman-Werner background radiation field in the Early Universe</title>
+      <link>https://nebula0.github.io/article/modelling_the_cosmological_lyman-werner_background_radiation_field_in_the_early_universe/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/modelling_the_cosmological_lyman-werner_background_radiation_field_in_the_early_universe/</guid>
+      <description>First author: Andrea Incatasciato
+The Lyman-Werner (LW) radiation field is a key ingredient in the chemo-thermal evolution of gas in the Early Universe, as it dissociates H2 molecules, the primary cooling channel in an environment devoid of metals and dust. Despite its important role, it is still not implemented in cosmological simulations on a regular basis, in contrast to the general UV background. This is in part due to uncertainty in the source modelling, their spectra and abundance, as well as the detailed physics involved in the propagation of the photons and their interactions with the molecules.</description>
+    </item>
+    
+    <item>
+      <title>NSC&#43;&#43;: Non-Standard Cosmologies in C&#43;&#43;</title>
+      <link>https://nebula0.github.io/article/nsc&#43;&#43;_non-standard_cosmologies_in_c&#43;&#43;/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/nsc&#43;&#43;_non-standard_cosmologies_in_c&#43;&#43;/</guid>
+      <description>First author: Dimitrios Karamitros
+We introduce NSC++, a C++ library that simulates the evolution of the plasma and a fluid that deposits energy to the plasma in the early Universe. There is no special installation process or external dependencies, and the library comes with example programs that can be easily modified to handle several cases. NSC++ also includes a python interface that allows calling it directly from python scripts.</description>
+    </item>
+    
+    <item>
+      <title>A semi-model-independent approach to describe a cosmological database</title>
+      <link>https://nebula0.github.io/article/a_semi-model-independent_approach_to_describe_a_cosmological_database/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/a_semi-model-independent_approach_to_describe_a_cosmological_database/</guid>
+      <description>First author: Ahmad Mehrabi
+A model-independent or non-parametric approach for modeling a database has been widely used in cosmology. In these scenarios, the data has been used directly to reconstruct an underlying function. In this work, we introduce a novel semi-model-independent method to do the task. The new approach not only removes some drawbacks of previous methods but also has some remarkable advantages. We combine the well-known Gaussian linear model with a neural network and introduce a procedure for the reconstruction of an arbitrary function.</description>
+    </item>
+    
+    <item>
+      <title>The Atacama Cosmology Telescope: Flux Upper Limits from a Targeted Search for Extragalactic Transients</title>
+      <link>https://nebula0.github.io/article/the_atacama_cosmology_telescope_flux_upper_limits_from_a_targeted_search_for_extragalactic_transients/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_atacama_cosmology_telescope_flux_upper_limits_from_a_targeted_search_for_extragalactic_transients/</guid>
+      <description>First author: Carlos Hervías-Caimapo
+We have performed targeted searches of known, extragalactic transient events at millimetre wavelengths using nine seasons (2013&amp;ndash;2021) of 98, 150, and 229 GHz Atacama Cosmology Telescope (ACT) observations that mapped ${\sim}40$ per cent of the sky for most of the data volume. We observe at least once 88 gamma-ray bursts (GRBs), 12 tidal disruption events (TDEs) and 203 other transients, including supernovae (SNe). We stack our ACT observations to increase the signal-to-noise ratio of the maps.</description>
+    </item>
+    
+    <item>
+      <title>Arkenstone I: A Novel Method for Robustly Capturing High Specific Energy Outflows In Cosmological Simulations</title>
+      <link>https://nebula0.github.io/article/arkenstone_i_a_novel_method_for_robustly_capturing_high_specific_energy_outflows_in_cosmological_simulations/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arkenstone_i_a_novel_method_for_robustly_capturing_high_specific_energy_outflows_in_cosmological_simulations/</guid>
+      <description>First author: Matthew C. Smith
+Arkenstone is a new model for multiphase, stellar feedback driven galactic winds designed for inclusion in coarse resolution cosmological simulations. In this first paper of a series, we describe the features that allow Arkenstone to properly treat high specific energy wind components and demonstrate them using idealised non-cosmological simulations of a galaxy with a realistic CGM, using the Arepo code. Hot, fast gas phases with low mass loadings are predicted to dominate the energy content of multiphase outflows.</description>
+    </item>
+    
+    <item>
+      <title>Constraining minimally extended varying speed of light by cosmological chronometers</title>
+      <link>https://nebula0.github.io/article/constraining_minimally_extended_varying_speed_of_light_by_cosmological_chronometers/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/constraining_minimally_extended_varying_speed_of_light_by_cosmological_chronometers/</guid>
+      <description>First author: Seokcheon Lee
+At least one dimensionless physical constant (i.e., a physically observable) must change for the cosmic time to make the varying speed of light (VSL) models phenomenologically feasible. Various physical constants and quantities also should be functions of cosmic time to satisfy all known local laws of physics, including special relativity, thermodynamics, and electromagnetism. Adiabaticity is another necessary condition to keep the homogeneity and isotropy of three-dimensional space [1].</description>
+    </item>
+    
+    <item>
+      <title>Joint constraints on cosmological parameters using future multi-band gravitational wave standard siren observations</title>
+      <link>https://nebula0.github.io/article/joint_constraints_on_cosmological_parameters_using_future_multi-band_gravitational_wave_standard_siren_observations/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/joint_constraints_on_cosmological_parameters_using_future_multi-band_gravitational_wave_standard_siren_observations/</guid>
+      <description>First author: Shang-Jie Jin
+Gravitational waves (GWs) from the compact binary coalescences can be used as standard sirens to explore the cosmic expansion history. In the next decades, it is anticipated that we could obtain the multi-band GW standard siren data (from nanohertz to a few hundred hertz), which are expected to play an important role in cosmological parameter estimation. In this work, we give for the first time the joint constraints on cosmological parameters using the future multi-band GW standard siren observations.</description>
+    </item>
+    
+    <item>
+      <title>Testing Linearly Coasting Cosmology by Strong Lensing System</title>
+      <link>https://nebula0.github.io/article/testing_linearly_coasting_cosmology_by_strong_lensing_system/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/testing_linearly_coasting_cosmology_by_strong_lensing_system/</guid>
+      <description>First author: Savita Gahlaut
+The standard model of cosmology ($\Lambda$CDM) is facing a serious crisis caused by the inconsistencies in the measurements of some fundamental cosmological parameters (Hubble constant $H_{0}$ and cosmic curvature parameter $\Omega_{k}$ for example). On the other hand a strictly linear evolution of the cosmological scale factor is found to be an excellent fit to a host of observations. Any model that can support such a coasting presents itself as a falsifiable model as far as the cosmological tests are concerned.</description>
+    </item>
+    
     <item>
       <title>Non-Gaussianity in the cosmic microwave background from loop quantum cosmology</title>
       <link>https://nebula0.github.io/article/non-gaussianity_in_the_cosmic_microwave_background_from_loop_quantum_cosmology/</link>

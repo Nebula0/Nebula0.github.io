@@ -6,7 +6,27 @@
     <description>Recent content in intergalactic on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/intergalactic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/intergalactic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A new limit on intergalactic magnetic fields on sub-kpc scales from fast radio bursts</title>
+      <link>https://nebula0.github.io/article/a_new_limit_on_intergalactic_magnetic_fields_on_sub-kpc_scales_from_fast_radio_bursts/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/a_new_limit_on_intergalactic_magnetic_fields_on_sub-kpc_scales_from_fast_radio_bursts/</guid>
+      <description>First author: Hamsa Padmanabhan
+We use the measured scattering timescales of Fast Radio Bursts (FRBs) from the CHIME catalog to derive an upper limit on the magnetic field on sub-kpc scales in the intergalactic medium (IGM). A nonmagnetized, photoionized IGM is insufficient to explain the turbulent scattering at all redshifts, with a Warm-Hot component being marginally consistent with the data at $z \sim 1$. Accounting for the lower envelope of the temporal smearing distribution with a nonzero magnetic field leads to upper limits $B &amp;lt; 10$ nG on scales of 0.</description>
+    </item>
+    
+    <item>
+      <title>Cosmic metal invaders: Intergalactic OVII as a tracer of the warm-hot intergalactic medium within cosmic filaments in the EAGLE simulation</title>
+      <link>https://nebula0.github.io/article/cosmic_metal_invaders_intergalactic_ovii_as_a_tracer_of_the_warm-hot_intergalactic_medium_within_cosmic_filaments_in_the_eagle_simulation/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/cosmic_metal_invaders_intergalactic_ovii_as_a_tracer_of_the_warm-hot_intergalactic_medium_within_cosmic_filaments_in_the_eagle_simulation/</guid>
+      <description>First author: T. Tuominen
+The current observational status of the hot (log T(K) &amp;gt; 5.5) warm-hot intergalactic medium (WHIM) remains incomplete. While recent observations from stacking large numbers of Cosmic Web filaments have yielded statistically significant detections, direct measurements of single objects remain scarce. The lack of such a sample currently prevents a robust analysis of the cosmic baryon content composed of the hot WHIM, which could help solve the cosmological missing baryons problem.</description>
+    </item>
+    
     <item>
       <title>Quasars and the Intergalactic Medium at Cosmic Dawn</title>
       <link>https://nebula0.github.io/article/quasars_and_the_intergalactic_medium_at_cosmic_dawn/</link>

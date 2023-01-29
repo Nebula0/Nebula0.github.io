@@ -6,7 +6,17 @@
     <description>Recent content in Population III on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/population-iii/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/population-iii/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The JWST Resolved Stellar Populations Early Release Science Program III: Photometric Star-Galaxy Separations for NIRCam</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.07218/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2301.07218/</guid>
+      <description>Jack T. Warfield
+We present criteria for separately classifying stars and unresolved background galaxies in photometric catalogs generated with the point spread function (PSF) fitting photometry software DOLPHOT from images taken of Draco II, WLM, and M92 with the Near Infrared Camera (NIRCam) on JWST. Photometric quality metrics from DOLPHOT in one or two filters can recover a pure sample of stars. Conversely, colors formed between short-wavelength (SW) and long-wavelength (LW) filters can be used to effectively identify pure samples of galaxies.</description>
+    </item>
+    
     <item>
       <title>On the population III binary black hole mergers with intermediate mass black holes: dependence on common envelope parameter</title>
       <link>https://nebula0.github.io/article/arxiv.2211.07496/</link>

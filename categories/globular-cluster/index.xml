@@ -6,7 +6,27 @@
     <description>Recent content in globular cluster on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/globular-cluster/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/globular-cluster/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multiple Stellar Populations in Globular Clusters with JWST: a NIRCam view of 47 Tucanae</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.10889/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2301.10889/</guid>
+      <description>A. P. Milone
+We use images collected with the near-infrared camera (NIRCam) on board the James Webb Space Telescope and with the Hubble Space Telescope (HST) to investigate multiple populations at the bottom of the main sequence (MS) of 47 Tucanae. The F115W vs. F115W-F322W2 CMD from NIRCam shows that, below the knee, the MS stars span a wide color range, where the majority of M-dwarfs exhibit blue colors, and a tail of stars are distributed toward the red.</description>
+    </item>
+    
+    <item>
+      <title>Kinematic differences between multiple populations in Galactic globular clusters</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.08675/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2301.08675/</guid>
+      <description>Sven Martens
+The formation process of multiple populations in globular clusters is still up for debate. Kinematic differences between the populations are particularly interesting in this respect, because they allow us to distinguish between single-epoch formation scenarios and multi-epoch formation scenarios. We analyze the kinematics of 25 globular clusters and aim to find kinematic differences between multiple populations to constrain their formation process. We split red-giant branch (RGB) stars in each cluster into three populations (P1, P2, P3) for the type-II clusters and two populations (P1 and P2) otherwise using Hubble photometry.</description>
+    </item>
+    
     <item>
       <title>Globular Clusters in NGC 4839 Falling into Coma: Evidence for the Second Infall?</title>
       <link>https://nebula0.github.io/article/arxiv.2301.05269/</link>
@@ -25,16 +45,6 @@ NGC 4839 is the brightest galaxy (cD) of the NGC 4839 group at $R\approx 1$ Mpc 
       <guid>https://nebula0.github.io/article/arxiv.2301.05410/</guid>
       <description>Yue Wang
 Multiple populations (MPs), characterized by variations in light elemental abundances, have been found in stellar clusters in the Milky Way, Magellanic Clouds, as well as several other dwarf galaxies. Based on a large amount of observations, mass has been suggested to be a key parameter affecting the presence and appearance of MPs in stellar clusters. To further investigate the existence of MPs in low-mass clusters and explore the mass threshold for MP formation, we carried out a project studying the stellar population composition in several low-mass Galactic globular clusters.</description>
-    </item>
-    
-    <item>
-      <title>Chrono-chemodynamical analysis of the globular cluster NGC 6355: Looking for the fundamental bricks of the Bulge</title>
-      <link>https://nebula0.github.io/article/arxiv.2301.05227/</link>
-      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/arxiv.2301.05227/</guid>
-      <description>Stefano O. Souza
-The information on Galactic assembly time is imprinted on the chemodynamics of globular clusters. This makes them important probes that help us to understand the formation and evolution of the Milky Way. Discerning between in-situ and ex-situ origin of these objects is difficult when we study the Galactic bulge, which is the most complex and mixed component of the Milky Way. To investigate the early evolution of the Galactic bulge, we analysed the globular cluster NGC 6355.</description>
     </item>
     
     <item>

@@ -6,7 +6,17 @@
     <description>Recent content in galaxy merger on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/galaxy-merger/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/galaxy-merger/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tracing the Evolution of SMBHs and Stellar Objects in Galaxy Mergers: An Multi-mass Direct N-body Model</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.08640/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2301.08640/</guid>
+      <description>Shuo Li
+By using direct N-body numerical simulations, we model the dynamical co-evolution of two supermassive black holes (SMBHs) and the surrounding stars in merging galaxies. In order to investigate how different stellar components evolve during the merger, we generate evolved stellar distributions with an initial mass function. Special schemes have also been developed to deal with some rare but interesting events, such as tidal disruption of main sequence stars, the plunge of low mass stars, white dwarfs, neutron stars and stellar mass black holes, and the partial tidal disruption of red giants or asymptotic giant branch stars.</description>
+    </item>
+    
     <item>
       <title>Ionizing radiation escape enabled by galaxy merger in reionization-era analog galaxy</title>
       <link>https://nebula0.github.io/article/arxiv.2301.02676/</link>

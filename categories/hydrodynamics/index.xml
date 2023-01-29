@@ -6,7 +6,17 @@
     <description>Recent content in hydrodynamics on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/hydrodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/hydrodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Role of ionizing background on the statistics of metal absorbers in hydrodynamical simulations</title>
+      <link>https://nebula0.github.io/article/role_of_ionizing_background_on_the_statistics_of_metal_absorbers_in_hydrodynamical_simulations/</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/role_of_ionizing_background_on_the_statistics_of_metal_absorbers_in_hydrodynamical_simulations/</guid>
+      <description>First author: Sukanya Mallik
+We study the statistical properties of O VI, C IV, and Ne VIII absorbers at low-$z$ (i.e., $z&amp;lt;0.5$) using Sherwood simulations with &amp;ldquo;WIND&amp;rdquo; only and &amp;ldquo;WIND+AGN&amp;rdquo; feedback and Massive black simulation that incorporates both &amp;ldquo;WIND&amp;rdquo; and AGN feedbacks. For each simulation, by considering a wide range of metagalactic ionizing UV background (UVB), we show the statistical properties such as distribution functions of column density ($N$), $b$-paramerer and velocity spread ($\Delta V_{90}$), the relationship between $N$ and $b$-parameter and the fraction of Lya absorbers showing detectable metal lines as a function of $N$(H I) are influenced by the UVB used.</description>
+    </item>
+    
     <item>
       <title>Hot Spots in Sgr A* Accretion Disk: Hydrodynamic Insights</title>
       <link>https://nebula0.github.io/article/hot_spots_in_sgr_a_accretion_disk_hydrodynamic_insights/</link>

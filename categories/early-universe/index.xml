@@ -6,7 +6,47 @@
     <description>Recent content in early universe on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/early-universe/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/early-universe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First emergence of cold accretion and supermassive star formation in the early universe</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.10263/</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2301.10263/</guid>
+      <description>Masaki Kiyuna
+We investigate the first emergence of the so-called cold accretion, the accretion flows deeply penetrating a halo, in the early universe with cosmological N-body/SPH simulations. We study the structure of the accretion flow and its evolution within small halos with $\lesssim 10^8~{\rm M}_\odot$ with sufficiently high spatial resolutions down to $\sim 1 \ {\rm pc}$ scale. While previous studies only follow the evolution for a short period after the primordial cloud collapse, we follow the long-term evolution until the cold accretion first appears, employing the sink particle method.</description>
+    </item>
+    
+    <item>
+      <title>Modelling the cosmological Lyman-Werner background radiation field in the Early Universe</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.08242/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2301.08242/</guid>
+      <description>Andrea Incatasciato
+The Lyman-Werner (LW) radiation field is a key ingredient in the chemo-thermal evolution of gas in the Early Universe, as it dissociates H2 molecules, the primary cooling channel in an environment devoid of metals and dust. Despite its important role, it is still not implemented in cosmological simulations on a regular basis, in contrast to the general UV background. This is in part due to uncertainty in the source modelling, their spectra and abundance, as well as the detailed physics involved in the propagation of the photons and their interactions with the molecules.</description>
+    </item>
+    
+    <item>
+      <title>2102&#43;6015: an Intriguing Radio-loud Active Galactic Nucleus in the Early Universe</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.07355/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2301.07355/</guid>
+      <description>S. Frey
+The powerful high-redshift quasar J2102+6015 (at z=4.575) may provide useful information for studying supermassive black hole growth, galaxy evolution and feedback in the early Universe. The source has so far been imaged with very long baseline interferometry (VLBI) at 2/8 GHz (S/X) bands only, showing complex compact structure. Its total radio spectrum peaks at ~6 GHz in the rest frame. There is no sign of Doppler-boosted jet emission, and the separation of the two major features in its east-west oriented structure spanning ~10 milliarcsec does not change significantly on a timescale longer than a decade.</description>
+    </item>
+    
+    <item>
+      <title>Hubble tension as a guide for refining the early Universe: Cosmologies with explicit local Lorentz and diffeomorphism violation</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.03883/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2301.03883/</guid>
+      <description>Mohsen Khodadi
+This paper is dedicated to assessing modified cosmological settings based on the gravitational Standard-Model Extension (SME). Our analysis rests upon the Hubble tension (HT), which is a discrepancy between the observational determination of the Hubble parameter via data from the Cosmic Microwave Background (CMB) and Type Ia supernovae, respectively. While the latter approach is model-independent, the former highly depends on the model used to describe the physics of the early Universe.</description>
+    </item>
+    
     <item>
       <title>FLARES VIII. The Emergence of Passive Galaxies in the Early Universe (z&gt;5)</title>
       <link>https://nebula0.github.io/article/arxiv.2211.07540/</link>
