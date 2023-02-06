@@ -6,7 +6,17 @@
     <description>Recent content in galactic disk on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/galactic-disk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/galactic-disk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The role of radial migration on tracing lithium evolution in the Galactic disk</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.12404/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2301.12404/</guid>
+      <description>Haopeng Zhang
+With the calculated guiding center radius $R_{guiding}$ and birth radius $R_{birth}$, we investigate the role of radial migration on the description of lithium evolution in the Galactic disk based on the upper envelope of the A(Li) vs. $[Fe/H]$ diagram. Using migration distances, we find that stars in the solar neighborhood are born at different locations in the galactic disk, and cannot all be explained by models of chemical evolution in the solar neighborhood.</description>
+    </item>
+    
     <item>
       <title>The hydrodynamic evolution of binary black holes embedded within the vertically stratified disks of active galactic nuclei</title>
       <link>https://nebula0.github.io/article/arxiv.2103.12088/</link>

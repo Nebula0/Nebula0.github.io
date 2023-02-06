@@ -6,7 +6,27 @@
     <description>Recent content in galaxy merger on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/galaxy-merger/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/galaxy-merger/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Molecular gas and star formation in nearby starburst galaxy mergers</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.13250/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2301.13250/</guid>
+      <description>Hao He
+We employ the Feedback In Realistic Environments (FIRE-2) physics model to study how the properties of giant molecular clouds (GMCs) evolve during galaxy mergers. We conduct a pixel-by-pixel analysis of molecular gas properties in both the simulated control galaxies and galaxy major mergers. The simulated GMC-pixels in the control galaxies follow a similar trend in a diagram of velocity dispersion ($σ_v$) versus gas surface density ($Σ_{\mathrm{mol}}$) to the one observed in local spiral galaxies in the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) survey.</description>
+    </item>
+    
+    <item>
+      <title>The impact of magnetic fields on cosmological galaxy mergers -- II. Modified angular momentum transport and feedback</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.13208/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2301.13208/</guid>
+      <description>Joseph Whittingham
+The role of magnetic fields in galaxy evolution is still an unsolved question in astrophysics. We have previously shown that magnetic fields play a crucial role in major mergers between disc galaxies; in hydrodynamic simulations of such mergers, the Auriga model produces compact remnants with a distinctive bar and ring morphology. In contrast, in magnetohydrodynamic (MHD) simulations, remnants form radially-extended discs with prominent spiral arm structure. In this paper, we analyse a series of cosmological &amp;amp;#34;zoom-in&amp;amp;#34; simulations of major mergers and identify exactly $\textit{how}$ magnetic fields are able to alter the outcome of the merger.</description>
+    </item>
+    
     <item>
       <title>Tracing the Evolution of SMBHs and Stellar Objects in Galaxy Mergers: An Multi-mass Direct N-body Model</title>
       <link>https://nebula0.github.io/article/arxiv.2301.08640/</link>

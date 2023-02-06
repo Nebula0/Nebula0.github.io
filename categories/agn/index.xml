@@ -6,7 +6,87 @@
     <description>Recent content in AGN on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/agn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/agn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A complex dust morphology in the high-luminosity AGN Mrk 876</title>
+      <link>https://nebula0.github.io/article/a_complex_dust_morphology_in_the_high-luminosity_agn_mrk_876/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/a_complex_dust_morphology_in_the_high-luminosity_agn_mrk_876/</guid>
+      <description>First author: Hermine Landt
+Recent models for the inner structure of active galactic nuclei (AGN) advocate the presence of a radiatively accelerated, dusty outflow launched from the outer regions of the accretion disk. Here we present the first near-infrared (near-IR) variable (rms) spectrum for the high-luminosity, nearby AGN Mrk 876. We find that it tracks the accretion disk spectrum out to longer wavelengths than the mean spectrum due to a reduced dust emission.</description>
+    </item>
+    
+    <item>
+      <title>The miniJPAS survey: AGN &amp; host galaxy co-evolution of X-ray selected sources</title>
+      <link>https://nebula0.github.io/article/the_minijpas_survey_agn__host_galaxy_co-evolution_of_x-ray_selected_sources/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_minijpas_survey_agn__host_galaxy_co-evolution_of_x-ray_selected_sources/</guid>
+      <description>First author: I. E. López
+Studies indicate strong evidence of a scaling relation in the local Universe between the supermassive black hole mass ($M_\rm{BH}$) and the stellar mass of their host galaxies ($M_\star$). They even show similar histories across cosmic times of their differential terms: star formation rate (SFR) and black hole accretion rate (BHAR). However, a clear picture of this coevolution is far from being understood. We select an X-ray sample of active galactic nuclei (AGN) up to $z=2.</description>
+    </item>
+    
+    <item>
+      <title>Comparing the host galaxy ages of X-ray selected AGN in COSMOS: Obscured AGN are associated with older galaxies</title>
+      <link>https://nebula0.github.io/article/comparing_the_host_galaxy_ages_of_x-ray_selected_agn_in_cosmos_obscured_agn_are_associated_with_older_galaxies/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/comparing_the_host_galaxy_ages_of_x-ray_selected_agn_in_cosmos_obscured_agn_are_associated_with_older_galaxies/</guid>
+      <description>First author: I. Georgantopoulos
+We explore the properties of the host galaxies of X-ray selected AGN in the COSMOS field using the Chandra Legacy sample and the LEGA-C survey VLT optical spectra. Our main goal is to compare the relative ages of the host galaxies of the obscured and unobscured AGN by means of the calcium break Dn(4000) and the Hdelta Balmer line. The host galaxy ages are examined in conjunction with other properties such as the galaxy stellar mass, and star-formation rate as well as the AGN Eddington ratio.</description>
+    </item>
+    
+    <item>
+      <title>Hidden Little Monsters: Spectroscopic Identification of Low-Mass, Broad-Line AGN at $z&gt;5$ with CEERS</title>
+      <link>https://nebula0.github.io/article/hidden_little_monsters_spectroscopic_identification_of_low-mass_broad-line_agn_at__z5__with_ceers/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/hidden_little_monsters_spectroscopic_identification_of_low-mass_broad-line_agn_at__z5__with_ceers/</guid>
+      <description>First author: Dale D. Kocevski
+We report on the discovery of two low-luminosity, broad-line AGN at $z&amp;gt;5$ identified using JWST NIRSpec spectroscopy from the CEERS Survey. We detect broad H$\alpha$ emission from both sources, with FWHM of $2038\pm286$ and $1807\pm207$ km s$^{-1}$, resulting in black hole (BH) masses that are 1-2 dex below that of existing samples of luminous quasars at $z&amp;gt;5$. The first source, CEERS 1670 at $z=5.242$, is 2-3 dex fainter than known quasars at similar redshifts and was previously identified as a candidate low-luminosity AGN based on its rest-frame optical SED.</description>
+    </item>
+    
+    <item>
+      <title>Theory of Gamma-Ray Loud AGNs</title>
+      <link>https://nebula0.github.io/article/theory_of_gamma-ray_loud_agns/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/theory_of_gamma-ray_loud_agns/</guid>
+      <description>First author: Frank M. Rieger
+The last decade has seen tremendous developments in gamma-ray astronomy with the extragalactic sky becoming highly populated by Active Galactic Nuclei (AGNs). This brief review highlights some of the progress in AGN research achieved over the years, and discusses exemplary advances in the theory and physics of gamma-ray loud AGNs, including black-hole magnetospheric processes, the physics of pc-scales jets, as well as particle acceleration and high-energy emission in the large-scale jets of AGNs.</description>
+    </item>
+    
+    <item>
+      <title>$[OIII]$ 5007A Emission Line Width as a Surrogate for stellar dispersion in Type 1 AGNs?</title>
+      <link>https://nebula0.github.io/article/oiii_5007a_emission_line_width_as_a_surrogate_for_stellar_dispersion_in_type_1_agns/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/oiii_5007a_emission_line_width_as_a_surrogate_for_stellar_dispersion_in_type_1_agns/</guid>
+      <description>First author: Huynh Anh N. Le
+We present a study of the relation between the $[OIII]$ 5007A emission line width (sigma_{$[OIII]$}) and stellar velocity dispersion (sigma_{}), utilizing a sample of 740 type 1 active galactic nuclei (AGNs) with high-quality spectra at redshift z &amp;lt; 1.0. We find the broad correlation between the core component of $[OIII]$ emission line width (sigma_{$[OIII,core]$}) and sigma_{} with a scatter of 0.11~dex for the low redshift (z &amp;lt; 0.</description>
+    </item>
+    
+    <item>
+      <title>A Catalog of 71 Coronal Line Galaxies in MaNGA: [NeV] is an Effective AGN Tracer</title>
+      <link>https://nebula0.github.io/article/a_catalog_of_71_coronal_line_galaxies_in_manga_nev_is_an_effective_agn_tracer/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/a_catalog_of_71_coronal_line_galaxies_in_manga_nev_is_an_effective_agn_tracer/</guid>
+      <description>First author: James Negus
+Despite the importance of AGN in galaxy evolution, accurate AGN identification is often challenging, as common AGN diagnostics can be confused by contributions from star formation and other effects (e.g., Baldwin-Phillips-Terlevich diagrams). However, one promising avenue for identifying AGNs are coronal emission lines&amp;quot; (CLs&amp;quot;), which are highly ionized species of gas with ionization potentials $\ge$ 100 eV. These CLs may serve as excellent signatures for the strong ionizing continuum of AGN.</description>
+    </item>
+    
+    <item>
+      <title>The NuSTAR view of the changing look AGN ESO 323-G77</title>
+      <link>https://nebula0.github.io/article/the_nustar_view_of_the_changing_look_agn_eso_323-g77/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_nustar_view_of_the_changing_look_agn_eso_323-g77/</guid>
+      <description>First author: Roberto Serafinelli
+The presence of an obscuring torus at pc-scale distances from the central black hole is the main ingredient for the Unified Model of Active Galactic Nuclei (AGN), as obscured sources are thought to be seen through this structure. However, the Unified Model fails to describe a class of sources that undergo dramatic spectral changes, transitioning from obscured to unobscured and vice-versa through time. The variability in such sources, so-called Changing Look AGN (CLAGN), is thought to be produced by a clumpy medium at much smaller distances than the conventional obscuring torus.</description>
+    </item>
+    
     <item>
       <title>Update of the INTEGRAL/IBIS AGN catalogue: deeper on the Galactic plane and wider beyond</title>
       <link>https://nebula0.github.io/article/update_of_the_integral_ibis_agn_catalogue_deeper_on_the_galactic_plane_and_wider_beyond/</link>

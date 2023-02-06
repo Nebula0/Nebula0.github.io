@@ -6,7 +6,77 @@
     <description>Recent content in supernovae on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/supernovae/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/supernovae/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fermi-LAT Gamma-ray Emission Discovered from the Composite Supernova Remnant B0453-685 in the Large Magellanic Cloud</title>
+      <link>https://nebula0.github.io/article/fermi-lat_gamma-ray_emission_discovered_from_the_composite_supernova_remnant_b0453-685_in_the_large_magellanic_cloud/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/fermi-lat_gamma-ray_emission_discovered_from_the_composite_supernova_remnant_b0453-685_in_the_large_magellanic_cloud/</guid>
+      <description>First author: Jordan Eagle
+We report the second extragalactic pulsar wind nebula (PWN) to be detected in the MeV-GeV band by the Fermi-LAT, located within the Large Magellanic Cloud (LMC). The only other known PWN to emit in the Fermi band outside of the Milky Way Galaxy is N 157B which lies to the west of the newly detected gamma-ray emission at an angular distance of 4 degrees. Faint, point-like gamma-ray emission is discovered at the location of the composite supernova remnant (SNR) B0453-685 with a ~ 4 sigma significance from energies 300 MeV - 2 TeV.</description>
+    </item>
+    
+    <item>
+      <title>Two-population Bayesian hierarchical model of type Ia supernovae</title>
+      <link>https://nebula0.github.io/article/two-population_bayesian_hierarchical_model_of_type_ia_supernovae/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/two-population_bayesian_hierarchical_model_of_type_ia_supernovae/</guid>
+      <description>First author: Radosław Wojtak
+The currently used standardisation of type Ia supernovae results in Hubble residuals whose physical origin is unaccounted for. This poses a limitation to the accuracy and precision of distances that can be derived from supernova observations. Here, we present a complete physical interpretation of the Hubble residuals based on a novel Bayesian hierarchical model of type Ia supernovae in which latent variables describing intrinsic and extrinsic (dust related) supernova properties originate from two populations.</description>
+    </item>
+    
+    <item>
+      <title>Long-term gravitational wave asteroseismology of supernova: from core collapse to 20 seconds postbounce</title>
+      <link>https://nebula0.github.io/article/long-term_gravitational_wave_asteroseismology_of_supernova_from_core_collapse_to_20_seconds_postbounce/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/long-term_gravitational_wave_asteroseismology_of_supernova_from_core_collapse_to_20_seconds_postbounce/</guid>
+      <description>First author: Masamitsu Mori
+We use an asteroseismology method to calculate the frequencies of gravitational waves in a long-term core-collapse supernova simulation, with a mass of 9.6 $M_\odot$. The simulation, which includes neutrino transport in general relativity is performed from core-collapse, bounce, explosion and cooling of protoneutron stars (PNSs) up to 20 s after the bounce self-consistently. Based on the hydrodynamics background, we calculate eigenmodes of the PNS oscillation through a perturbation analysis on fluid and metric.</description>
+    </item>
+    
+    <item>
+      <title>3D-Spatiotemporal Forecasting the Expansion of Supernova Shells Using Deep Learning toward High-Resolution Galaxy Simulations</title>
+      <link>https://nebula0.github.io/article/3d-spatiotemporal_forecasting_the_expansion_of_supernova_shells_using_deep_learning_toward_high-resolution_galaxy_simulations/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/3d-spatiotemporal_forecasting_the_expansion_of_supernova_shells_using_deep_learning_toward_high-resolution_galaxy_simulations/</guid>
+      <description>First author: Keiya Hirashima
+Small integration timesteps for a small fraction of short-timescale regions are bottlenecks for high-resolution galaxy simulations using massively parallel computing. This is an urgent issue that needs to be resolved for future higher-resolution galaxy simulations. One possible solution is to use an (approximate) Hamiltonian splitting method, in which only regions requiring small timesteps are integrated with small timesteps, separated from the entire galaxy. In particular, gas affected by supernova (SN) explosions often requires the smallest timestep in such a simulation.</description>
+    </item>
+    
+    <item>
+      <title>A high-mass X-ray binary descended from an ultra-stripped supernova</title>
+      <link>https://nebula0.github.io/article/a_high-mass_x-ray_binary_descended_from_an_ultra-stripped_supernova/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/a_high-mass_x-ray_binary_descended_from_an_ultra-stripped_supernova/</guid>
+      <description>First author: Noel D. Richardson
+Ultra-stripped supernovae are different from other terminal explosions of massive stars, as they show little or no ejecta from the actual supernova event. They are thought to occur in massive binary systems after the exploding star has lost its surface through interactions with its companion. Such supernovae produce little to no kick, leading to the formation of a neutron star without loss of the binary companion, which itself may also evolve into another neutron star.</description>
+    </item>
+    
+    <item>
+      <title>Supernova connection of unidentified ultra high energy gamma-ray source LHAASO J2108&#43;5157</title>
+      <link>https://nebula0.github.io/article/supernova_connection_of_unidentified_ultra_high_energy_gamma-ray_source_lhaaso_j2108&#43;5157/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/supernova_connection_of_unidentified_ultra_high_energy_gamma-ray_source_lhaaso_j2108&#43;5157/</guid>
+      <description>First author: Agnibha De Sarkar
+We present a simple phenomenological model of hadronic interaction between protons accelerated in an old supernova remnant (SNR) and cold protons situated within the associated molecular clouds (MCs). The accelerated protons from the old SNR escaped the SNR shock front, and got injected into the MCs at an earlier time, producing ultra high energy gamma-rays and neutrinos through inelastic proton-proton interaction. We also take into account the acceleration and subsequent escape of electrons from the SNR shock front.</description>
+    </item>
+    
+    <item>
+      <title>Negative Dark Energy Density from High Redshift Pantheon&#43; Supernovae</title>
+      <link>https://nebula0.github.io/article/negative_dark_energy_density_from_high_redshift_pantheon&#43;_supernovae/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/negative_dark_energy_density_from_high_redshift_pantheon&#43;_supernovae/</guid>
+      <description>First author: Mohammad Malekjani
+Given a \textit{model building} assumption on the (effective) equation of state (EoS) of the Universe, the Hubble constant $H_0$ arises as an integration constant when one solves the Friedmann equations. Therefore, while $H_0$ is \textit{mathematically} a constant, it need not be a constant \textit{observationally}, unless the EoS or model accurately describes the Universe. Building on earlier results, we show that redshift evolution of flat $\Lambda$CDM cosmological parameters $(H_0, \Omega_{m})$ persists in the most up-to-date Pantheon+ sample.</description>
+    </item>
+    
     <item>
       <title>JWST Discovery of Dust Reservoirs in Nearby Type IIP Supernovae 2004et and 2017eaw</title>
       <link>https://nebula0.github.io/article/jwst_discovery_of_dust_reservoirs_in_nearby_type_iip_supernovae_2004et_and_2017eaw/</link>

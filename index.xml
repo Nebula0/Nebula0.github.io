@@ -6,7 +6,557 @@
     <description>Recent content on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A complex dust morphology in the high-luminosity AGN Mrk 876</title>
+      <link>https://nebula0.github.io/article/a_complex_dust_morphology_in_the_high-luminosity_agn_mrk_876/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/a_complex_dust_morphology_in_the_high-luminosity_agn_mrk_876/</guid>
+      <description>First author: Hermine Landt
+Recent models for the inner structure of active galactic nuclei (AGN) advocate the presence of a radiatively accelerated, dusty outflow launched from the outer regions of the accretion disk. Here we present the first near-infrared (near-IR) variable (rms) spectrum for the high-luminosity, nearby AGN Mrk 876. We find that it tracks the accretion disk spectrum out to longer wavelengths than the mean spectrum due to a reduced dust emission.</description>
+    </item>
+    
+    <item>
+      <title>Constraints on compensated isocurvature perturbations from BOSS DR12 galaxy data</title>
+      <link>https://nebula0.github.io/article/constraints_on_compensated_isocurvature_perturbations_from_boss_dr12_galaxy_data/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/constraints_on_compensated_isocurvature_perturbations_from_boss_dr12_galaxy_data/</guid>
+      <description>First author: Alexandre Barreira
+We use the BOSS DR12 galaxy power spectrum to constrain compensated isocurvature perturbations (CIP), which are opposite-sign primordial baryon and dark matter perturbations that leave the total matter density unchanged. Long-wavelength CIP $\sigma(\vec{x})$ enter the galaxy density contrast as $\delta_g(\vec{x}) \supset b_\sigma\sigma(\vec{x})$, with $b_\sigma$ the linear CIP galaxy bias parameter. We parameterize the CIP spectra as $P_{\sigma\sigma} = A^2P_{\mathcal{R}\mathcal{R}}$ and $P_{\sigma\mathcal{R}} = \xi\sqrt{P_{\sigma\sigma}P_{\mathcal{R}\mathcal{R}}}$, where $A$ is the CIP amplitude and $\xi$ is the correlation with the curvature perturbations $\mathcal{R}$.</description>
+    </item>
+    
+    <item>
+      <title>Fermi-LAT Gamma-ray Emission Discovered from the Composite Supernova Remnant B0453-685 in the Large Magellanic Cloud</title>
+      <link>https://nebula0.github.io/article/fermi-lat_gamma-ray_emission_discovered_from_the_composite_supernova_remnant_b0453-685_in_the_large_magellanic_cloud/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/fermi-lat_gamma-ray_emission_discovered_from_the_composite_supernova_remnant_b0453-685_in_the_large_magellanic_cloud/</guid>
+      <description>First author: Jordan Eagle
+We report the second extragalactic pulsar wind nebula (PWN) to be detected in the MeV-GeV band by the Fermi-LAT, located within the Large Magellanic Cloud (LMC). The only other known PWN to emit in the Fermi band outside of the Milky Way Galaxy is N 157B which lies to the west of the newly detected gamma-ray emission at an angular distance of 4 degrees. Faint, point-like gamma-ray emission is discovered at the location of the composite supernova remnant (SNR) B0453-685 with a ~ 4 sigma significance from energies 300 MeV - 2 TeV.</description>
+    </item>
+    
+    <item>
+      <title>A low frequency sub-arcsecond view of powerful radio galaxies in rich-cluster environments: 3C 34 and 3C 320</title>
+      <link>https://nebula0.github.io/article/a_low_frequency_sub-arcsecond_view_of_powerful_radio_galaxies_in_rich-cluster_environments_3c_34_and_3c_320/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/a_low_frequency_sub-arcsecond_view_of_powerful_radio_galaxies_in_rich-cluster_environments_3c_34_and_3c_320/</guid>
+      <description>First author: V. H. Mahatma
+Models of radio galaxy physics have been primarily based on high frequency ($\geqslant$1 GHz) observations of their jets, hotspots, and lobes. Without highly resolved low frequency observations, which provide information on older plasma, our understanding of the dynamics of radio galaxies and their interaction with their environment is limited. Here, we present the first sub-arcsecond (0.3&amp;quot;) resolution images at 144 MHz of two powerful radio galaxies situated in rich cluster environments, namely 3C 34 and 3C 320, using the International Low Frequency Array Telescope.</description>
+    </item>
+    
+    <item>
+      <title>Do current cosmological observations hint at the speed of light variability?</title>
+      <link>https://nebula0.github.io/article/do_current_cosmological_observations_hint_at_the_speed_of_light_variability/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/do_current_cosmological_observations_hint_at_the_speed_of_light_variability/</guid>
+      <description>First author: Purba Mukherjee
+The fundamental constants in Nature play a crucial role in the understanding of physical phenomena. Hence, it is of paramount importance to measure them with exquisite precision and to examine whether they present any variability across cosmic time, as a means to test the standard model of Cosmology, as well as fundamental physics. We revisit a consistency test of the speed of light variability proposed by Cai {\it et al.</description>
+    </item>
+    
+    <item>
+      <title>Does a radio jet drive the massive multi-phase outflow in the ultra-luminous infrared galaxy IRAS 10565&#43;2448?</title>
+      <link>https://nebula0.github.io/article/does_a_radio_jet_drive_the_massive_multi-phase_outflow_in_the_ultra-luminous_infrared_galaxy_iras_10565&#43;2448/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/does_a_radio_jet_drive_the_massive_multi-phase_outflow_in_the_ultra-luminous_infrared_galaxy_iras_10565&#43;2448/</guid>
+      <description>First author: Renzhi Su
+We present new upgraded Giant Metrewave Radio Telescope (uGMRT) HI 21-cm observations of the ultra-luminous infrared galaxy IRAS 10565+2448, previously reported to show blueshifted, broad, and shallow HI absorption indicating an outflow. Our higher spatial resolution observations have localised this blueshifted outflow, which is $\sim$ 1.36 kpc southwest of the radio centre and has a blueshifted velocity of $\sim 148,\rm km,s^{-1}$ and a full width at half maximum (FWHM) of $\sim 581,\rm km,s^{-1}$.</description>
+    </item>
+    
+    <item>
+      <title>Evidence for suppression of structure growth in the concordance cosmological model</title>
+      <link>https://nebula0.github.io/article/evidence_for_suppression_of_structure_growth_in_the_concordance_cosmological_model/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/evidence_for_suppression_of_structure_growth_in_the_concordance_cosmological_model/</guid>
+      <description>First author: Nhat-Minh Nguyen
+We present evidence for a suppressed growth rate of large-scale structure during the dark-energy dominated era. Modeling the growth rate of perturbations with the ``growth index&amp;rsquo;&amp;rsquo; $\gamma$, we find that current cosmological data strongly prefer a higher growth index than the value $\gamma=0.55$ predicted by general relativity in a flat $\Lambda$CDM cosmology. Both the cosmic microwave background data from Planck and the large-scale structure data from weak lensing, galaxy clustering, and cosmic velocities separately favor growth suppression.</description>
+    </item>
+    
+    <item>
+      <title>Search for Nonthermal X-ray Emission in the Ophiuchus Galaxy Cluster</title>
+      <link>https://nebula0.github.io/article/search_for_nonthermal_x-ray_emission_in_the_ophiuchus_galaxy_cluster/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/search_for_nonthermal_x-ray_emission_in_the_ophiuchus_galaxy_cluster/</guid>
+      <description>First author: Roman Krivonos
+We present the results of our study of the X-ray emission from the Ophiuchus galaxy cluster based on INTEGRAL/IBIS data in the energy range 20-120 keV. Our goal is the search for a nonthermal emission component from the cluster. Using the INTEGRAL data over the period of observations 2003-2009, we have constructed the images of the Ophiuchus galaxy cluster in different energy bands from 20 to 120~keV with the extraction of spectral information.</description>
+    </item>
+    
+    <item>
+      <title>The Density Parity Model for the Evolution of the Galaxy Inner Spin Alignments with the Cosmic Web</title>
+      <link>https://nebula0.github.io/article/the_density_parity_model_for_the_evolution_of_the_galaxy_inner_spin_alignments_with_the_cosmic_web/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_density_parity_model_for_the_evolution_of_the_galaxy_inner_spin_alignments_with_the_cosmic_web/</guid>
+      <description>First author: Jun-Sung Moon
+We develop a new model within which the radius-dependent transition of the galaxy inner spins with respect to the cosmic web and the variation of the transition threshold radius ($r_{\rm th}$) with galaxy mass ($M_{\rm vir}$), smoothing scale ($r_{f}$), and redshift ($z$) can be coherently explained. The key tenet of this model is that the competition between the pressure effect of the inner mass and the compression effect of the local tidal field determines which principal direction of the tidal field the inner spins are aligned with.</description>
+    </item>
+    
+    <item>
+      <title>The miniJPAS survey: AGN &amp; host galaxy co-evolution of X-ray selected sources</title>
+      <link>https://nebula0.github.io/article/the_minijpas_survey_agn__host_galaxy_co-evolution_of_x-ray_selected_sources/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_minijpas_survey_agn__host_galaxy_co-evolution_of_x-ray_selected_sources/</guid>
+      <description>First author: I. E. López
+Studies indicate strong evidence of a scaling relation in the local Universe between the supermassive black hole mass ($M_\rm{BH}$) and the stellar mass of their host galaxies ($M_\star$). They even show similar histories across cosmic times of their differential terms: star formation rate (SFR) and black hole accretion rate (BHAR). However, a clear picture of this coevolution is far from being understood. We select an X-ray sample of active galactic nuclei (AGN) up to $z=2.</description>
+    </item>
+    
+    <item>
+      <title>The Non-Axisymmetric Influence: Radius and Angle-Dependent Trends in a Barred Galaxy</title>
+      <link>https://nebula0.github.io/article/the_non-axisymmetric_influence_radius_and_angle-dependent_trends_in_a_barred_galaxy/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_non-axisymmetric_influence_radius_and_angle-dependent_trends_in_a_barred_galaxy/</guid>
+      <description>First author: Carrie Filion
+Many disc galaxies host galactic bars, which exert time-dependent, non-axisymmetric forces that can alter the orbits of stars. There should be both angle and radius-dependence in the resulting radial re-arrangement of stars (&amp;lsquo;radial mixing&amp;rsquo;) due to a bar; we present here novel results and trends through analysis of the joint impact of these factors. We use an N-body simulation to investigate the changes in the radial locations of star particles in a disc after a bar forms by quantifying the change in orbital radii in a series of annuli at different times post bar-formation.</description>
+    </item>
+    
+    <item>
+      <title>Topological data analysis reveals differences between simulated galaxies and dark matter haloes</title>
+      <link>https://nebula0.github.io/article/topological_data_analysis_reveals_differences_between_simulated_galaxies_and_dark_matter_haloes/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/topological_data_analysis_reveals_differences_between_simulated_galaxies_and_dark_matter_haloes/</guid>
+      <description>First author: Aaron Ouellette
+We use topological summaries based on Betti curves to characterize the large-scale spatial distribution of simulated dark matter haloes and galaxies. Using the IllustrisTNG and CAMELS-SAM simulations, we show that the topology of the galaxy distribution is significantly different from the topology of the dark matter halo distribution. Further, there are significant differences between the distributions of star-forming and quiescent galaxies. These topological differences are broadly consistent across all simulations, while at the same time there are noticeable differences when comparing between different models.</description>
+    </item>
+    
+    <item>
+      <title>Two-population Bayesian hierarchical model of type Ia supernovae</title>
+      <link>https://nebula0.github.io/article/two-population_bayesian_hierarchical_model_of_type_ia_supernovae/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/two-population_bayesian_hierarchical_model_of_type_ia_supernovae/</guid>
+      <description>First author: Radosław Wojtak
+The currently used standardisation of type Ia supernovae results in Hubble residuals whose physical origin is unaccounted for. This poses a limitation to the accuracy and precision of distances that can be derived from supernova observations. Here, we present a complete physical interpretation of the Hubble residuals based on a novel Bayesian hierarchical model of type Ia supernovae in which latent variables describing intrinsic and extrinsic (dust related) supernova properties originate from two populations.</description>
+    </item>
+    
+    <item>
+      <title>Comparing the host galaxy ages of X-ray selected AGN in COSMOS: Obscured AGN are associated with older galaxies</title>
+      <link>https://nebula0.github.io/article/comparing_the_host_galaxy_ages_of_x-ray_selected_agn_in_cosmos_obscured_agn_are_associated_with_older_galaxies/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/comparing_the_host_galaxy_ages_of_x-ray_selected_agn_in_cosmos_obscured_agn_are_associated_with_older_galaxies/</guid>
+      <description>First author: I. Georgantopoulos
+We explore the properties of the host galaxies of X-ray selected AGN in the COSMOS field using the Chandra Legacy sample and the LEGA-C survey VLT optical spectra. Our main goal is to compare the relative ages of the host galaxies of the obscured and unobscured AGN by means of the calcium break Dn(4000) and the Hdelta Balmer line. The host galaxy ages are examined in conjunction with other properties such as the galaxy stellar mass, and star-formation rate as well as the AGN Eddington ratio.</description>
+    </item>
+    
+    <item>
+      <title>Dwarf Galaxies United by Dark Bosons</title>
+      <link>https://nebula0.github.io/article/dwarf_galaxies_united_by_dark_bosons/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/dwarf_galaxies_united_by_dark_bosons/</guid>
+      <description>First author: Alvaro Pozo
+Low mass galaxies in the Local Group are dominated by dark matter and comprise the well studied dwarf Spheroidal&amp;quot; (dSph) class, with typical masses of $10^{9-10}M_\odot$ and also the equally numerous ultra faint dwarfs&amp;quot; (UFD), discovered recently, that are distinctly smaller and denser with masses of only $10^{7-8}M_\odot$. This bimodality amongst low mass galaxies contrasts with the scale free continuity expected for galaxies formed under gravity, as in the standard Cold Dark Matter (CDM) model for heavy particles.</description>
+    </item>
+    
+    <item>
+      <title>Euclid preparation. XXX. Evaluating the weak lensing cluster mass biases using the Three Hundred Project hydrodynamical simulations</title>
+      <link>https://nebula0.github.io/article/arxiv.2302.00687/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2302.00687/</guid>
+      <description>Euclid Collaboration,
+The photometric catalogue of galaxy clusters extracted from ESA Euclid data is expected to be very competitive for cosmological studies. Using state-of-the-art hydrodynamical simulations, we present systematic analyses simulating the expected weak lensing profiles from clusters in a variety of dynamic states and at wide range of redshifts. In order to derive cluster masses, we use a model consistent with the implementation within the Euclid Consortium of the dedicated processing function and find that, when jointly modelling mass and the concentration parameter of the Navarro-Frenk-White halo profile, the weak lensing masses tend to be, on average, biased low with respect to the true mass.</description>
+    </item>
+    
+    <item>
+      <title>Euclid preparation. XXX. Evaluating the weak lensing cluster mass biases using the Three Hundred Project hydrodynamical simulations</title>
+      <link>https://nebula0.github.io/article/euclid_preparation._xxx._evaluating_the_weak_lensing_cluster_mass_biases_using_the_three_hundred_project_hydrodynamical_simulations/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/euclid_preparation._xxx._evaluating_the_weak_lensing_cluster_mass_biases_using_the_three_hundred_project_hydrodynamical_simulations/</guid>
+      <description>First author: Euclid Collaboration
+The photometric catalogue of galaxy clusters extracted from ESA Euclid data is expected to be very competitive for cosmological studies. Using state-of-the-art hydrodynamical simulations, we present systematic analyses simulating the expected weak lensing profiles from clusters in a variety of dynamic states and at wide range of redshifts. In order to derive cluster masses, we use a model consistent with the implementation within the Euclid Consortium of the dedicated processing function and find that, when jointly modelling mass and the concentration parameter of the Navarro-Frenk-White halo profile, the weak lensing masses tend to be, on average, biased low with respect to the true mass.</description>
+    </item>
+    
+    <item>
+      <title>Long-term gravitational wave asteroseismology of supernova: from core collapse to 20 seconds postbounce</title>
+      <link>https://nebula0.github.io/article/long-term_gravitational_wave_asteroseismology_of_supernova_from_core_collapse_to_20_seconds_postbounce/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/long-term_gravitational_wave_asteroseismology_of_supernova_from_core_collapse_to_20_seconds_postbounce/</guid>
+      <description>First author: Masamitsu Mori
+We use an asteroseismology method to calculate the frequencies of gravitational waves in a long-term core-collapse supernova simulation, with a mass of 9.6 $M_\odot$. The simulation, which includes neutrino transport in general relativity is performed from core-collapse, bounce, explosion and cooling of protoneutron stars (PNSs) up to 20 s after the bounce self-consistently. Based on the hydrodynamics background, we calculate eigenmodes of the PNS oscillation through a perturbation analysis on fluid and metric.</description>
+    </item>
+    
+    <item>
+      <title>Probing sub-galactic mass structure with the power spectrum of surface-brightness anomalies in high-resolution observations of galaxy-galaxy strong gravitational lenses. I. Power-spectrum measurement and feasibility study</title>
+      <link>https://nebula0.github.io/article/probing_sub-galactic_mass_structure_with_the_power_spectrum_of_surface-brightness_anomalies_in_high-resolution_observations_of_galaxy-galaxy_strong_gravitational_lenses._i._power-spectrum_measurement_and_feasibility_study/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/probing_sub-galactic_mass_structure_with_the_power_spectrum_of_surface-brightness_anomalies_in_high-resolution_observations_of_galaxy-galaxy_strong_gravitational_lenses._i._power-spectrum_measurement_and_feasibility_study/</guid>
+      <description>First author: D. Bayer
+While the direct detection of the dark-matter particle remains very challenging, the nature of dark matter could be possibly constrained by comparing the observed abundance and properties of small-scale sub-galactic mass structures with predictions from the phenomenological dark-matter models, such as cold, warm or hot dark matter. Galaxy-galaxy strong gravitational lensing provides a unique opportunity to search for tiny surface-brightness anomalies in the extended lensed images (i.</description>
+    </item>
+    
+    <item>
+      <title>Sub-kiloparsec empirical relations and excitation conditions of HCN and HCO&#43; J=3-2 in nearby star-forming galaxies</title>
+      <link>https://nebula0.github.io/article/sub-kiloparsec_empirical_relations_and_excitation_conditions_of_hcn_and_hco&#43;_j3-2_in_nearby_star-forming_galaxies/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/sub-kiloparsec_empirical_relations_and_excitation_conditions_of_hcn_and_hco&#43;_j3-2_in_nearby_star-forming_galaxies/</guid>
+      <description>First author: Axel Garcia-Rodriguez
+We present new HCN and HCO$^+$ ($J$=3-2) images of the nearby star-forming galaxies (SFGs) NGC 3351, NGC 3627, and NGC 4321. The observations, obtained with the Morita ALMA Compact Array, have a spatial resolution of $\sim$290-440 pc and resolve the inner $R_\textrm{gal} \lesssim$ 0.6-1 kpc of the targets, as well as the southern bar end of NGC 3627. We complement this data set with publicly available images of lower excitation lines of HCN, HCO$^+$, and CO and analyse the behaviour of a representative set of line ratios: HCN(3-2)/HCN(1-0), HCN(3-2)/HCO$^+$(3-2), HCN(1-0)/CO(2-1), and HCN(3-2)/CO(2-1).</description>
+    </item>
+    
+    <item>
+      <title>The cool circumgalactic medium of low-redshift star-forming galaxies: I -- Empirical model and mean properties</title>
+      <link>https://nebula0.github.io/article/the_cool_circumgalactic_medium_of_low-redshift_star-forming_galaxies_i_--_empirical_model_and_mean_properties/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_cool_circumgalactic_medium_of_low-redshift_star-forming_galaxies_i_--_empirical_model_and_mean_properties/</guid>
+      <description>First author: Yakov Faerman
+We present an analytic model for the cool, $T \approx 10^4$ K, circumgalactic medium (CGM), describing the gas distribution, thermal and ionization state. Our model assumes (total) pressure equilibrium with the ambient warm/hot CGM, photoionization by the metagalactic radiation field, and allows for non-thermal pressure support, parametrized by the ratio of thermal pressures, $\eta = P_{\rm hot,th}/P_{\rm cool,th}$. We apply the model to the COS-Halos data set and find that a nominal model with $\eta = 3$, gas distribution out to $r \approx 0.</description>
+    </item>
+    
+    <item>
+      <title>The role of radial migration on tracing lithium evolution in the Galactic disk</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.12404/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2301.12404/</guid>
+      <description>Haopeng Zhang
+With the calculated guiding center radius $R_{guiding}$ and birth radius $R_{birth}$, we investigate the role of radial migration on the description of lithium evolution in the Galactic disk based on the upper envelope of the A(Li) vs. $[Fe/H]$ diagram. Using migration distances, we find that stars in the solar neighborhood are born at different locations in the galactic disk, and cannot all be explained by models of chemical evolution in the solar neighborhood.</description>
+    </item>
+    
+    <item>
+      <title>3D-Spatiotemporal Forecasting the Expansion of Supernova Shells Using Deep Learning toward High-Resolution Galaxy Simulations</title>
+      <link>https://nebula0.github.io/article/3d-spatiotemporal_forecasting_the_expansion_of_supernova_shells_using_deep_learning_toward_high-resolution_galaxy_simulations/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/3d-spatiotemporal_forecasting_the_expansion_of_supernova_shells_using_deep_learning_toward_high-resolution_galaxy_simulations/</guid>
+      <description>First author: Keiya Hirashima
+Small integration timesteps for a small fraction of short-timescale regions are bottlenecks for high-resolution galaxy simulations using massively parallel computing. This is an urgent issue that needs to be resolved for future higher-resolution galaxy simulations. One possible solution is to use an (approximate) Hamiltonian splitting method, in which only regions requiring small timesteps are integrated with small timesteps, separated from the entire galaxy. In particular, gas affected by supernova (SN) explosions often requires the smallest timestep in such a simulation.</description>
+    </item>
+    
+    <item>
+      <title>A high-mass X-ray binary descended from an ultra-stripped supernova</title>
+      <link>https://nebula0.github.io/article/a_high-mass_x-ray_binary_descended_from_an_ultra-stripped_supernova/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/a_high-mass_x-ray_binary_descended_from_an_ultra-stripped_supernova/</guid>
+      <description>First author: Noel D. Richardson
+Ultra-stripped supernovae are different from other terminal explosions of massive stars, as they show little or no ejecta from the actual supernova event. They are thought to occur in massive binary systems after the exploding star has lost its surface through interactions with its companion. Such supernovae produce little to no kick, leading to the formation of a neutron star without loss of the binary companion, which itself may also evolve into another neutron star.</description>
+    </item>
+    
+    <item>
+      <title>Chemical diversity of gas in distant galaxies: The metal and dust enrichment and variations within absorbing galaxies</title>
+      <link>https://nebula0.github.io/article/chemical_diversity_of_gas_in_distant_galaxies_the_metal_and_dust_enrichment_and_variations_within_absorbing_galaxies/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/chemical_diversity_of_gas_in_distant_galaxies_the_metal_and_dust_enrichment_and_variations_within_absorbing_galaxies/</guid>
+      <description>First author: T. Ramburuth-Hurt
+The chemical composition of gas in galaxies can be measured in detail from absorption spectroscopy. By studying gas in galaxies in this way, it is possible to investigate the small and faint galaxies, which are the most numerous in the universe. In particular, the chemical distribution of gas in absorbing systems gives us insight into cycles of gas in and around galaxies. Here we study chemical enrichment within 64 Damped Lyman-alpha Absorption (DLA) systems between $1.</description>
+    </item>
+    
+    <item>
+      <title>Cold gas disks in main-sequence galaxies at cosmic noon: Low turbulence, flat rotation curves, and disk-halo degeneracy</title>
+      <link>https://nebula0.github.io/article/cold_gas_disks_in_main-sequence_galaxies_at_cosmic_noon_low_turbulence_flat_rotation_curves_and_disk-halo_degeneracy/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/cold_gas_disks_in_main-sequence_galaxies_at_cosmic_noon_low_turbulence_flat_rotation_curves_and_disk-halo_degeneracy/</guid>
+      <description>First author: Federico Lelli
+We study the dynamics of cold molecular gas in two main-sequence galaxies at cosmic noon (zC-488879 at $z\simeq1.47$ and zC-400569 at $z\simeq2.24$) using new high-resolution ALMA observations of multiple $^{12}$CO transitions. For zC-400569 we also re-analyze high-quality H$\alpha$ data from the SINS/zC-SINF survey. We find that (1) Both galaxies have regularly rotating CO disks and their rotation curves are flat out to $\sim$8 kpc contrary to previous results pointing to outer declines in the rotation speed $V_{\rm rot}$; (2) The intrinsic velocity dispersions are low ($\sigma_{\rm CO}\lesssim15$ km/s for CO and $\sigma_{\rm H\alpha}\lesssim37$ km/s for H$\alpha$) and imply $V_{\rm rot}/\sigma_{\rm CO}\gtrsim17-22$ yielding no significant pressure support; (3) Mass models using HST images display a severe disk-halo degeneracy: models with inner baryon dominance and models with &amp;ldquo;cuspy&amp;rdquo; dark matter halos can fit the rotation curves equally well due to the uncertainties on stellar and gas masses; (4) Milgromian dynamics (MOND) can successfully fit the rotation curves with the same acceleration scale $a_0$ measured at $z\simeq0$.</description>
+    </item>
+    
+    <item>
+      <title>Combining the CLAUDS &amp; HSC-SSP surveys: U&#43;grizy(&#43;YJHKs) photometry and photometric redshifts for 18M galaxies in the 20 deg2 of the HSC-SSP Deep and ultraDeep fields</title>
+      <link>https://nebula0.github.io/article/combining_the_clauds__hsc-ssp_surveys_u&#43;grizy&#43;yjhks_photometry_and_photometric_redshifts_for_18m_galaxies_in_the_20_deg2_of_the_hsc-ssp_deep_and_ultradeep_fields/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/combining_the_clauds__hsc-ssp_surveys_u&#43;grizy&#43;yjhks_photometry_and_photometric_redshifts_for_18m_galaxies_in_the_20_deg2_of_the_hsc-ssp_deep_and_ultradeep_fields/</guid>
+      <description>First author: G. Desprez
+We present the combination of the Canada-France-Hawaii Telescope (CHFT) Large Area $U$-bands Deep Survey (CLAUDS) and the Hyper-Suprime-Cam (HSC) Subaru Strategic Program (HSC-SSP) data over their four deep fields. We provide photometric catalogs for $u$, $u^*$ (CFHT&amp;ndash;MegaCam), $g$, $r$, $i$, $z$, and $y$ (Subaru&amp;ndash;HSC) bands over $\sim 20~{\rm deg}^2$, complemented in two fields by data from the Visible and Infrared Survey Telescope for Astronomy (VISTA) Deep Extragalactic Observations (VIDEO) survey and the UltraVISTA survey, thus extending the wavelength coverage toward near-infrared with VIRCAM $Y$, $J$, $H$, and $K_s$ observations over $5.</description>
+    </item>
+    
+    <item>
+      <title>DESI and DECaLS (D&amp;D): galaxy-galaxy lensing measurements with 1% survey and its forecast</title>
+      <link>https://nebula0.github.io/article/desi_and_decals_dd_galaxy-galaxy_lensing_measurements_with_1_survey_and_its_forecast/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/desi_and_decals_dd_galaxy-galaxy_lensing_measurements_with_1_survey_and_its_forecast/</guid>
+      <description>First author: Ji Yao
+The shear measurement from DECaLS (Dark Energy Camera Legacy Survey) provides an excellent opportunity for galaxy-galaxy lensing study with DESI (Dark Energy Spectroscopic Instrument) galaxies, given the large ($\sim 9000$ deg$^2$) sky overlap. We explore this potential by combining the DESI 1% survey and DECaLS DR8. With $\sim 106$ deg$^2$ sky overlap, we achieve significant detection of galaxy-galaxy lensing for BGS and LRG as lenses. Scaled to the full BGS sample, we expect the statistical errors to improve from $18(12)%$ to a promising level of $2(1.</description>
+    </item>
+    
+    <item>
+      <title>Dwarf Galaxies United by Dark Bosons</title>
+      <link>https://nebula0.github.io/article/arxiv.2302.00181/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2302.00181/</guid>
+      <description>Alvaro Pozo,
+Low mass galaxies in the Local Group are dominated by dark matter and comprise the well studied ``dwarf Spheroidal&amp;amp;#34; (dSph) class, with typical masses of $10^{9-10}M_\odot$ and also the equally numerous ``ultra faint dwarfs&amp;amp;#34; (UFD), discovered recently, that are distinctly smaller and denser with masses of only $10^{7-8}M_\odot$. This bimodality amongst low mass galaxies contrasts with the scale free continuity expected for galaxies formed under gravity, as in the standard Cold Dark Matter (CDM) model for heavy particles.</description>
+    </item>
+    
+    <item>
+      <title>Emergent Unparticles Dark Energy can restore cosmological concordance</title>
+      <link>https://nebula0.github.io/article/emergent_unparticles_dark_energy_can_restore_cosmological_concordance/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/emergent_unparticles_dark_energy_can_restore_cosmological_concordance/</guid>
+      <description>First author: Ido Ben-Dayan
+Addressing the discrepancy between the late and early time measurements of the Hubble parameter, $H_0$, and the so-called $S_8$ parameter has been a challenge in precision cosmology. Several models are present to address these tensions, but very few of them can do so simultaneously. In the past, we have suggested Banks-Zaks/Unparticles as an emergent Dark Energy model and claimed that it can ameliorate the Hubble tension.</description>
+    </item>
+    
+    <item>
+      <title>Hidden Little Monsters: Spectroscopic Identification of Low-Mass, Broad-Line AGN at $z&gt;5$ with CEERS</title>
+      <link>https://nebula0.github.io/article/hidden_little_monsters_spectroscopic_identification_of_low-mass_broad-line_agn_at__z5__with_ceers/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/hidden_little_monsters_spectroscopic_identification_of_low-mass_broad-line_agn_at__z5__with_ceers/</guid>
+      <description>First author: Dale D. Kocevski
+We report on the discovery of two low-luminosity, broad-line AGN at $z&amp;gt;5$ identified using JWST NIRSpec spectroscopy from the CEERS Survey. We detect broad H$\alpha$ emission from both sources, with FWHM of $2038\pm286$ and $1807\pm207$ km s$^{-1}$, resulting in black hole (BH) masses that are 1-2 dex below that of existing samples of luminous quasars at $z&amp;gt;5$. The first source, CEERS 1670 at $z=5.242$, is 2-3 dex fainter than known quasars at similar redshifts and was previously identified as a candidate low-luminosity AGN based on its rest-frame optical SED.</description>
+    </item>
+    
+    <item>
+      <title>MUSE Analysis of Gas around Galaxies (MAGG) -- V: Linking ionized gas traced by CIV and SiIV absorbers to Ly$α$ emitting galaxies at $z\approx 3.0-4.5$</title>
+      <link>https://nebula0.github.io/article/muse_analysis_of_gas_around_galaxies_magg_--_v_linking_ionized_gas_traced_by_civ_and_siiv_absorbers_to_ly_%CE%B1__emitting_galaxies_at__z_approx_3.0-4.5_/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/muse_analysis_of_gas_around_galaxies_magg_--_v_linking_ionized_gas_traced_by_civ_and_siiv_absorbers_to_ly_%CE%B1__emitting_galaxies_at__z_approx_3.0-4.5_/</guid>
+      <description>First author: Marta Galbiati
+We use 28 quasar fields with high-resolution (HIRES and UVES) spectroscopy from the MUSE Analysis of Gas Around Galaxies survey to study the connection between Ly${\alpha}$ emitters (LAEs) and metal-enriched ionized gas traced by CIV in absorption at redshift $z\approx3-4$. In a sample of 220 CIV absorbers, we identify 143 LAEs connected to CIV gas within a line-of-sight separation ${\rm \pm 500,km,s^{-1}}$, equal to a detection rate of $36\pm 5$ per cent once we account for multiple LAEs connected to the same CIV absorber.</description>
+    </item>
+    
+    <item>
+      <title>Reconstruction of $f(R)$ Gravity from Cosmological Unified Dark Fluid Model</title>
+      <link>https://nebula0.github.io/article/reconstruction_of__fr__gravity_from_cosmological_unified_dark_fluid_model/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/reconstruction_of__fr__gravity_from_cosmological_unified_dark_fluid_model/</guid>
+      <description>First author: Esraa Ali Elkhateeb
+In this work, we reconstruct the cosmological unified dark fluid model proposed previously by Elkhateeb \cite{Elkhateeb:2017oqy} in the framework of $f(R)$ gravity. Utilizing the equivalence between the scalar-tensor theory and the $f(R)$ gravity theory, the scalar field for the dark fluid is obtained, whence the $f(R)$ function is extracted and its viability is discussed. The linear growth of matter perturbations on the low redshifts is studied in our constructed $f(R)$ function, and the results are in good agreement with those from the $\Lambda$CDM model for the dark universe.</description>
+    </item>
+    
+    <item>
+      <title>Runaway dilaton models: improved constraints from the full cosmological evolution</title>
+      <link>https://nebula0.github.io/article/runaway_dilaton_models_improved_constraints_from_the_full_cosmological_evolution/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/runaway_dilaton_models_improved_constraints_from_the_full_cosmological_evolution/</guid>
+      <description>First author: Léo Vacher
+One of the few firm predictions of string theory is the existence of a massless scalar field coupled to gravity, the dilaton. In its presence, the value of the fundamental constants of the universe, such as the fine-structure constant, will vary with the time-dependent vacuum expectation value of this field, in direct violation of the Einstein Equivalence Principle. The \emph{runaway dilaton} proposed by Damour, Piazza, and Veneziano provides a physically motivated cosmological scenario which reconciles the existence of a massless dilaton with observations, while still providing non-standard and testable predictions.</description>
+    </item>
+    
+    <item>
+      <title>Supernova connection of unidentified ultra high energy gamma-ray source LHAASO J2108&#43;5157</title>
+      <link>https://nebula0.github.io/article/supernova_connection_of_unidentified_ultra_high_energy_gamma-ray_source_lhaaso_j2108&#43;5157/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/supernova_connection_of_unidentified_ultra_high_energy_gamma-ray_source_lhaaso_j2108&#43;5157/</guid>
+      <description>First author: Agnibha De Sarkar
+We present a simple phenomenological model of hadronic interaction between protons accelerated in an old supernova remnant (SNR) and cold protons situated within the associated molecular clouds (MCs). The accelerated protons from the old SNR escaped the SNR shock front, and got injected into the MCs at an earlier time, producing ultra high energy gamma-rays and neutrinos through inelastic proton-proton interaction. We also take into account the acceleration and subsequent escape of electrons from the SNR shock front.</description>
+    </item>
+    
+    <item>
+      <title>Theory of Gamma-Ray Loud AGNs</title>
+      <link>https://nebula0.github.io/article/theory_of_gamma-ray_loud_agns/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/theory_of_gamma-ray_loud_agns/</guid>
+      <description>First author: Frank M. Rieger
+The last decade has seen tremendous developments in gamma-ray astronomy with the extragalactic sky becoming highly populated by Active Galactic Nuclei (AGNs). This brief review highlights some of the progress in AGN research achieved over the years, and discusses exemplary advances in the theory and physics of gamma-ray loud AGNs, including black-hole magnetospheric processes, the physics of pc-scales jets, as well as particle acceleration and high-energy emission in the large-scale jets of AGNs.</description>
+    </item>
+    
+    <item>
+      <title>$[OIII]$ 5007A Emission Line Width as a Surrogate for stellar dispersion in Type 1 AGNs?</title>
+      <link>https://nebula0.github.io/article/oiii_5007a_emission_line_width_as_a_surrogate_for_stellar_dispersion_in_type_1_agns/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/oiii_5007a_emission_line_width_as_a_surrogate_for_stellar_dispersion_in_type_1_agns/</guid>
+      <description>First author: Huynh Anh N. Le
+We present a study of the relation between the $[OIII]$ 5007A emission line width (sigma_{$[OIII]$}) and stellar velocity dispersion (sigma_{}), utilizing a sample of 740 type 1 active galactic nuclei (AGNs) with high-quality spectra at redshift z &amp;lt; 1.0. We find the broad correlation between the core component of $[OIII]$ emission line width (sigma_{$[OIII,core]$}) and sigma_{} with a scatter of 0.11~dex for the low redshift (z &amp;lt; 0.</description>
+    </item>
+    
+    <item>
+      <title>A Catalog of 71 Coronal Line Galaxies in MaNGA: [NeV] is an Effective AGN Tracer</title>
+      <link>https://nebula0.github.io/article/a_catalog_of_71_coronal_line_galaxies_in_manga_nev_is_an_effective_agn_tracer/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/a_catalog_of_71_coronal_line_galaxies_in_manga_nev_is_an_effective_agn_tracer/</guid>
+      <description>First author: James Negus
+Despite the importance of AGN in galaxy evolution, accurate AGN identification is often challenging, as common AGN diagnostics can be confused by contributions from star formation and other effects (e.g., Baldwin-Phillips-Terlevich diagrams). However, one promising avenue for identifying AGNs are coronal emission lines&amp;quot; (CLs&amp;quot;), which are highly ionized species of gas with ionization potentials $\ge$ 100 eV. These CLs may serve as excellent signatures for the strong ionizing continuum of AGN.</description>
+    </item>
+    
+    <item>
+      <title>Characterizing the galaxy shape effect on the Euclid slitless spectroscopy using simulations</title>
+      <link>https://nebula0.github.io/article/characterizing_the_galaxy_shape_effect_on_the_euclid_slitless_spectroscopy_using_simulations/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/characterizing_the_galaxy_shape_effect_on_the_euclid_slitless_spectroscopy_using_simulations/</guid>
+      <description>First author: Louis Gabarra
+The next generation of wide spectroscopic surveys such as Euclid will scan the sky in the near-infrared to obtain both photometry and spectroscopy. For this purpose, the Euclid telescope will rely on a Near-Infrared Spectrometer and Photometer (NISP) instrument whose spectroscopic channel has been designed to operate in slitless configuration. This powerful and easy to operate configuration makes it possible to avoid any prior selection on the targeted galaxies while covering the entire field of view.</description>
+    </item>
+    
+    <item>
+      <title>Constraining Co-Varying Coupling Constants from Globular Cluster Age</title>
+      <link>https://nebula0.github.io/article/arxiv.2302.00552/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2302.00552/</guid>
+      <description>Rajendra P. Gupta
+Equations governing the evolution of a star involve multiple coupling constants. Thus, the time it spends as a main-sequence star can be expected to depend on whether or not such constants vary over the time scale of stellar evolution. When the star belongs to a globular cluster, the star&amp;amp;#39;s age cannot exceed that of the globular cluster, and the latter cannot exceed the age of the Universe.</description>
+    </item>
+    
+    <item>
+      <title>Construction of spectral libraries of star-forming galaxies at 0.3 &lt;= z &lt;= 2.5</title>
+      <link>https://nebula0.github.io/article/construction_of_spectral_libraries_of_star-forming_galaxies_at_0.3__z__2.5/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/construction_of_spectral_libraries_of_star-forming_galaxies_at_0.3__z__2.5/</guid>
+      <description>First author: Louis Gabarra
+Spectral energy distribution (SED) models of galaxies at 0.3 &amp;lt;= z &amp;lt;= 2.5 were constructed to be processed by the Euclid spectroscopic channel simulator in order to investigate the Euclid Near- Infrared Spectrometer and Photometer (NISP) capabilities. We developed a solid methodology to build a realistic and representative synthetic SED library of star-forming galaxies, including reliable emission line fluxes and widths. The construction of the SEDs consists in computing the continuum using the Bruzual &amp;amp; Charlot (2003) models, calling out SED fitting parameters available in publicly released multi-wavelength catalogues.</description>
+    </item>
+    
+    <item>
+      <title>First Light And Reionisation Epoch Simulations (FLARES) XI: $[OIII]$ emitting galaxies at $5&lt;z&lt;10$</title>
+      <link>https://nebula0.github.io/article/first_light_and_reionisation_epoch_simulations_flares_xi_oiii_emitting_galaxies_at__5z10_/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/first_light_and_reionisation_epoch_simulations_flares_xi_oiii_emitting_galaxies_at__5z10_/</guid>
+      <description>First author: Stephen M. Wilkins
+JWST has now made it possible to probe the rest-frame optical line emission of high-redshift galaxies extending to z~9, and potentially beyond. To aid in the interpretation of these emerging constraints, in this work we explore predictions for $[OIII]$ emission in high-redshift galaxies using the First Light and Reionisation Epoch Simulations (FLARES). We produce predictions for the $[OIII]$ luminosity function, its correlation with the UV luminosity, and the distribution of equivalent widths (EWs).</description>
+    </item>
+    
+    <item>
+      <title>High-resolution X-ray spectroscopy of clusters of galaxies</title>
+      <link>https://nebula0.github.io/article/high-resolution_x-ray_spectroscopy_of_clusters_of_galaxies/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/high-resolution_x-ray_spectroscopy_of_clusters_of_galaxies/</guid>
+      <description>First author: Jeremy S. Sanders
+High-spectral resolution observations of clusters of galaxies are a powerful tool to understand the physical processes taking place in these massive objects. Their hot multi-million-degree X-ray emitting cluster atmospheres, containing most of the baryons in these systems, are enriched to around 1/3 of the solar metallicity. Therefore, cluster spectra host a variety of spectral lines, in particular, the Fe-L complex around 1 keV typically emitted from cooler systems and Fe-K at 6.</description>
+    </item>
+    
+    <item>
+      <title>Likely detection of gamma-ray pulsations of PSR~J1717&#43;4308A in NGC~6341 and implication of the gamma-ray millisecond pulsars in globular clusters</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.12697/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2301.12697/</guid>
+      <description>P. Zhang
+We report our analysis results for the globular cluster (GC) NGC~6341 (M92), as a millisecond pulsar (MSP) J1717$+$4308A has recently been reported found in this GC. The data used are from the Large Area Telescope onboard the {\it Fermi Gamma-ray Space Telescope (Fermi)}. We detect $γ$-ray pulsations of the MSP at a $4.4σ$ confidence level (the corresponding weighted H-test value is $\sim$28.4). This MSP, the fourth $γ$-ray pulsar found in a GC, does not have significant off-pulse emission and has $γ$-ray luminosity and efficiency $1.</description>
+    </item>
+    
+    <item>
+      <title>Molecular gas and star formation in nearby starburst galaxy mergers</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.13250/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2301.13250/</guid>
+      <description>Hao He
+We employ the Feedback In Realistic Environments (FIRE-2) physics model to study how the properties of giant molecular clouds (GMCs) evolve during galaxy mergers. We conduct a pixel-by-pixel analysis of molecular gas properties in both the simulated control galaxies and galaxy major mergers. The simulated GMC-pixels in the control galaxies follow a similar trend in a diagram of velocity dispersion ($σ_v$) versus gas surface density ($Σ_{\mathrm{mol}}$) to the one observed in local spiral galaxies in the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) survey.</description>
+    </item>
+    
+    <item>
+      <title>Molecular gas and star formation in nearby starburst galaxy mergers</title>
+      <link>https://nebula0.github.io/article/molecular_gas_and_star_formation_in_nearby_starburst_galaxy_mergers/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/molecular_gas_and_star_formation_in_nearby_starburst_galaxy_mergers/</guid>
+      <description>First author: Hao He
+We employ the Feedback In Realistic Environments (FIRE-2) physics model to study how the properties of giant molecular clouds (GMCs) evolve during galaxy mergers. We conduct a pixel-by-pixel analysis of molecular gas properties in both the simulated control galaxies and galaxy major mergers. The simulated GMC-pixels in the control galaxies follow a similar trend in a diagram of velocity dispersion ($\sigma_v$) versus gas surface density ($\Sigma_{\mathrm{mol}}$) to the one observed in local spiral galaxies in the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) survey.</description>
+    </item>
+    
+    <item>
+      <title>Negative Dark Energy Density from High Redshift Pantheon&#43; Supernovae</title>
+      <link>https://nebula0.github.io/article/negative_dark_energy_density_from_high_redshift_pantheon&#43;_supernovae/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/negative_dark_energy_density_from_high_redshift_pantheon&#43;_supernovae/</guid>
+      <description>First author: Mohammad Malekjani
+Given a \textit{model building} assumption on the (effective) equation of state (EoS) of the Universe, the Hubble constant $H_0$ arises as an integration constant when one solves the Friedmann equations. Therefore, while $H_0$ is \textit{mathematically} a constant, it need not be a constant \textit{observationally}, unless the EoS or model accurately describes the Universe. Building on earlier results, we show that redshift evolution of flat $\Lambda$CDM cosmological parameters $(H_0, \Omega_{m})$ persists in the most up-to-date Pantheon+ sample.</description>
+    </item>
+    
+    <item>
+      <title>Resolved CO(1-0) emission and gas properties in luminous dusty star forming galaxies at z=2-4</title>
+      <link>https://nebula0.github.io/article/resolved_co1-0_emission_and_gas_properties_in_luminous_dusty_star_forming_galaxies_at_z2-4/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/resolved_co1-0_emission_and_gas_properties_in_luminous_dusty_star_forming_galaxies_at_z2-4/</guid>
+      <description>First author: F. Stanley
+We present the results of a survey of CO(1-0) emission in 14 infrared luminous dusty star forming galaxies (DSFGs) at 2 &amp;lt; z &amp;lt; 4 with the NSF&amp;rsquo;s Karl G. Jansky Very Large Array. All sources are detected in CO(1-0), with an ~1arcsec angular resolution. Seven sources show extended and complex structure. We measure CO luminosities of $({\mu})L&amp;rsquo;{CO(1-0)}=0.4-2.9x10^{11}$ K km s$^{-1}$ pc$^2$, and molecular gas masses of (${\mu}$)M${H2}$ = 1.</description>
+    </item>
+    
+    <item>
+      <title>The extended &#34;stellar halo&#34; of the Ursa Minor dwarf galaxy</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.13214/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2301.13214/</guid>
+      <description>Federico Sestito
+Five stars in the extreme outskirts (from $\sim5$ to $\sim12$ elliptical half-light radii, r$_h$) of the Ursa Minor (UMi) dwarf galaxy have been identified as potential new members using a Bayesian algorithm applied to \textit{Gaia} EDR3 data. These targets were observed with the GRACES spectrograph, resulting in precise radial velocities and metallicities that confirm their association with UMi. For the brightest and outermost star (Target~1, at $\sim12$ r$_h$), the chemical abundances of $α$- (Mg, Ca, Ti), odd-Z (Na, K, Sc), Fe-peak (Fe, Ni, Cr), and neutron-capture process (Ba) elements have also been determined.</description>
+    </item>
+    
+    <item>
+      <title>The extended &#34;stellar halo&#34; of the Ursa Minor dwarf galaxy</title>
+      <link>https://nebula0.github.io/article/the_extended_stellar_halo_of_the_ursa_minor_dwarf_galaxy/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_extended_stellar_halo_of_the_ursa_minor_dwarf_galaxy/</guid>
+      <description>First author: Federico Sestito
+Five stars in the extreme outskirts (from $\sim5$ to $\sim12$ elliptical half-light radii, r$_h$) of the Ursa Minor (UMi) dwarf galaxy have been identified as potential new members using a Bayesian algorithm applied to \textit{Gaia} EDR3 data. These targets were observed with the GRACES spectrograph, resulting in precise radial velocities and metallicities that confirm their association with UMi. For the brightest and outermost star (Target~1, at $\sim12$ r$_h$), the chemical abundances of $\alpha$- (Mg, Ca, Ti), odd-Z (Na, K, Sc), Fe-peak (Fe, Ni, Cr), and neutron-capture process (Ba) elements have also been determined.</description>
+    </item>
+    
+    <item>
+      <title>The impact of magnetic fields on cosmological galaxy mergers -- II. Modified angular momentum transport and feedback</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.13208/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2301.13208/</guid>
+      <description>Joseph Whittingham
+The role of magnetic fields in galaxy evolution is still an unsolved question in astrophysics. We have previously shown that magnetic fields play a crucial role in major mergers between disc galaxies; in hydrodynamic simulations of such mergers, the Auriga model produces compact remnants with a distinctive bar and ring morphology. In contrast, in magnetohydrodynamic (MHD) simulations, remnants form radially-extended discs with prominent spiral arm structure. In this paper, we analyse a series of cosmological &amp;amp;#34;zoom-in&amp;amp;#34; simulations of major mergers and identify exactly $\textit{how}$ magnetic fields are able to alter the outcome of the merger.</description>
+    </item>
+    
+    <item>
+      <title>The impact of magnetic fields on cosmological galaxy mergers -- II. Modified angular momentum transport and feedback</title>
+      <link>https://nebula0.github.io/article/the_impact_of_magnetic_fields_on_cosmological_galaxy_mergers_--_ii._modified_angular_momentum_transport_and_feedback/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_impact_of_magnetic_fields_on_cosmological_galaxy_mergers_--_ii._modified_angular_momentum_transport_and_feedback/</guid>
+      <description>First author: Joseph Whittingham
+The role of magnetic fields in galaxy evolution is still an unsolved question in astrophysics. We have previously shown that magnetic fields play a crucial role in major mergers between disc galaxies; in hydrodynamic simulations of such mergers, the Auriga model produces compact remnants with a distinctive bar and ring morphology. In contrast, in magnetohydrodynamic (MHD) simulations, remnants form radially-extended discs with prominent spiral arm structure.</description>
+    </item>
+    
+    <item>
+      <title>The NuSTAR view of the changing look AGN ESO 323-G77</title>
+      <link>https://nebula0.github.io/article/the_nustar_view_of_the_changing_look_agn_eso_323-g77/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_nustar_view_of_the_changing_look_agn_eso_323-g77/</guid>
+      <description>First author: Roberto Serafinelli
+The presence of an obscuring torus at pc-scale distances from the central black hole is the main ingredient for the Unified Model of Active Galactic Nuclei (AGN), as obscured sources are thought to be seen through this structure. However, the Unified Model fails to describe a class of sources that undergo dramatic spectral changes, transitioning from obscured to unobscured and vice-versa through time. The variability in such sources, so-called Changing Look AGN (CLAGN), is thought to be produced by a clumpy medium at much smaller distances than the conventional obscuring torus.</description>
+    </item>
+    
+    <item>
+      <title>Universal gravity-driven isothermal turbulence cascade in disk galaxies</title>
+      <link>https://nebula0.github.io/article/universal_gravity-driven_isothermal_turbulence_cascade_in_disk_galaxies/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/universal_gravity-driven_isothermal_turbulence_cascade_in_disk_galaxies/</guid>
+      <description>First author: Jérémy Fensch
+While interstellar gas is known to be supersonically turbulent, the injection processes of this turbulence are still unclear. Many studies suggest a dominant role of gravitational instabilities. However, their effect on galaxy morphology and large-scale dynamics vary across cosmic times, in particular due to the evolution of the gas fraction of galaxies. In this paper, we propose numerical simulations to follow the isothermal turbulent cascade of purely gravitationally-driven turbulence from its injection scale down to 0.</description>
+    </item>
+    
+    <item>
+      <title>Dark matter and dark radiation from the early universe with a modulus coupled to the PQMSSM</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.12546/</link>
+      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2301.12546/</guid>
+      <description>Howard Baer,
+The supersymmetrized DFSZ axion model is especially compelling in that it contains 1. the SUSY solution to the gauge hierarchy problem, 2. the Peccei-Quinn (PQ) solution to the strong CP problem and 3. the Kim-Nilles solution to the SUSY mu problem. In a string setting, where a discrete R-symmetry ({\bf Z}_{24}^R for example) may emerge from the compactification process, a high-quality accidental axion (accion) can emerge from the accidental, approximate remnant global U(1)_{PQ} symmetry where the decay constant f_a is linked to the SUSY breaking scale, and is within the cosmological sweet zone.</description>
+    </item>
+    
     <item>
       <title>A new step forward in realistic cluster lens mass modelling: Analysis of Hubble Frontier Field Cluster Abell S1063 from joint lensing, X-ray and galaxy kinematics data</title>
       <link>https://nebula0.github.io/article/a_new_step_forward_in_realistic_cluster_lens_mass_modelling_analysis_of_hubble_frontier_field_cluster_abell_s1063_from_joint_lensing_x-ray_and_galaxy_kinematics_data/</link>

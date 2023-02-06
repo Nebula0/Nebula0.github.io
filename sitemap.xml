@@ -2,64 +2,253 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nebula0.github.io/categories/1month/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+    <loc>https://nebula0.github.io/categories/2month/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nebula0.github.io/categories/2023year/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nebula0.github.io/article/a_new_step_forward_in_realistic_cluster_lens_mass_modelling_analysis_of_hubble_frontier_field_cluster_abell_s1063_from_joint_lensing_x-ray_and_galaxy_kinematics_data/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+    <loc>https://nebula0.github.io/article/a_complex_dust_morphology_in_the_high-luminosity_agn_mrk_876/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/categories/agn/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nebula0.github.io/article/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nebula0.github.io/tags/arxiv/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nebula0.github.io/categories/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/constraints_on_compensated_isocurvature_perturbations_from_boss_dr12_galaxy_data/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/fermi-lat_gamma-ray_emission_discovered_from_the_composite_supernova_remnant_b0453-685_in_the_large_magellanic_cloud/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/categories/galaxies/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/tags/most-recent-update-tue-feb-7-2023/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/categories/supernovae/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/tags/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/a_low_frequency_sub-arcsecond_view_of_powerful_radio_galaxies_in_rich-cluster_environments_3c_34_and_3c_320/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/categories/cosmology/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/do_current_cosmological_observations_hint_at_the_speed_of_light_variability/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/does_a_radio_jet_drive_the_massive_multi-phase_outflow_in_the_ultra-luminous_infrared_galaxy_iras_10565&#43;2448/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/evidence_for_suppression_of_structure_growth_in_the_concordance_cosmological_model/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/search_for_nonthermal_x-ray_emission_in_the_ophiuchus_galaxy_cluster/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/the_density_parity_model_for_the_evolution_of_the_galaxy_inner_spin_alignments_with_the_cosmic_web/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/the_minijpas_survey_agn__host_galaxy_co-evolution_of_x-ray_selected_sources/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/the_non-axisymmetric_influence_radius_and_angle-dependent_trends_in_a_barred_galaxy/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/topological_data_analysis_reveals_differences_between_simulated_galaxies_and_dark_matter_haloes/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/two-population_bayesian_hierarchical_model_of_type_ia_supernovae/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/categories/1month/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/categories/cluster-simulation/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/comparing_the_host_galaxy_ages_of_x-ray_selected_agn_in_cosmos_obscured_agn_are_associated_with_older_galaxies/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/dwarf_galaxies_united_by_dark_bosons/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/arxiv.2302.00687/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/euclid_preparation._xxx._evaluating_the_weak_lensing_cluster_mass_biases_using_the_three_hundred_project_hydrodynamical_simulations/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/categories/galactic-disk/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/categories/hydrodynamics/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/long-term_gravitational_wave_asteroseismology_of_supernova_from_core_collapse_to_20_seconds_postbounce/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/probing_sub-galactic_mass_structure_with_the_power_spectrum_of_surface-brightness_anomalies_in_high-resolution_observations_of_galaxy-galaxy_strong_gravitational_lenses._i._power-spectrum_measurement_and_feasibility_study/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/sub-kiloparsec_empirical_relations_and_excitation_conditions_of_hcn_and_hco&#43;_j3-2_in_nearby_star-forming_galaxies/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/the_cool_circumgalactic_medium_of_low-redshift_star-forming_galaxies_i_--_empirical_model_and_mean_properties/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/arxiv.2301.12404/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/3d-spatiotemporal_forecasting_the_expansion_of_supernova_shells_using_deep_learning_toward_high-resolution_galaxy_simulations/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/a_high-mass_x-ray_binary_descended_from_an_ultra-stripped_supernova/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/categories/chemical/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/chemical_diversity_of_gas_in_distant_galaxies_the_metal_and_dust_enrichment_and_variations_within_absorbing_galaxies/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/cold_gas_disks_in_main-sequence_galaxies_at_cosmic_noon_low_turbulence_flat_rotation_curves_and_disk-halo_degeneracy/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/combining_the_clauds__hsc-ssp_surveys_u&#43;grizy&#43;yjhks_photometry_and_photometric_redshifts_for_18m_galaxies_in_the_20_deg2_of_the_hsc-ssp_deep_and_ultradeep_fields/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/desi_and_decals_dd_galaxy-galaxy_lensing_measurements_with_1_survey_and_its_forecast/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/arxiv.2302.00181/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/categories/dwarf-galaxy/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/emergent_unparticles_dark_energy_can_restore_cosmological_concordance/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/hidden_little_monsters_spectroscopic_identification_of_low-mass_broad-line_agn_at__z5__with_ceers/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/muse_analysis_of_gas_around_galaxies_magg_--_v_linking_ionized_gas_traced_by_civ_and_siiv_absorbers_to_ly_%CE%B1__emitting_galaxies_at__z_approx_3.0-4.5_/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/reconstruction_of__fr__gravity_from_cosmological_unified_dark_fluid_model/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/runaway_dilaton_models_improved_constraints_from_the_full_cosmological_evolution/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/supernova_connection_of_unidentified_ultra_high_energy_gamma-ray_source_lhaaso_j2108&#43;5157/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/theory_of_gamma-ray_loud_agns/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/oiii_5007a_emission_line_width_as_a_surrogate_for_stellar_dispersion_in_type_1_agns/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/a_catalog_of_71_coronal_line_galaxies_in_manga_nev_is_an_effective_agn_tracer/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/characterizing_the_galaxy_shape_effect_on_the_euclid_slitless_spectroscopy_using_simulations/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/arxiv.2302.00552/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/construction_of_spectral_libraries_of_star-forming_galaxies_at_0.3__z__2.5/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/first_light_and_reionisation_epoch_simulations_flares_xi_oiii_emitting_galaxies_at__5z10_/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/categories/galaxy-merger/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/categories/globular-cluster/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/high-resolution_x-ray_spectroscopy_of_clusters_of_galaxies/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/arxiv.2301.12697/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/arxiv.2301.13250/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/molecular_gas_and_star_formation_in_nearby_starburst_galaxy_mergers/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/negative_dark_energy_density_from_high_redshift_pantheon&#43;_supernovae/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/resolved_co1-0_emission_and_gas_properties_in_luminous_dusty_star_forming_galaxies_at_z2-4/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/arxiv.2301.13214/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/the_extended_stellar_halo_of_the_ursa_minor_dwarf_galaxy/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/arxiv.2301.13208/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/the_impact_of_magnetic_fields_on_cosmological_galaxy_mergers_--_ii._modified_angular_momentum_transport_and_feedback/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/the_nustar_view_of_the_changing_look_agn_eso_323-g77/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/universal_gravity-driven_isothermal_turbulence_cascade_in_disk_galaxies/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/arxiv.2301.12546/</loc>
+    <lastmod>2023-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/categories/early-universe/</loc>
+    <lastmod>2023-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nebula0.github.io/article/a_new_step_forward_in_realistic_cluster_lens_mass_modelling_analysis_of_hubble_frontier_field_cluster_abell_s1063_from_joint_lensing_x-ray_and_galaxy_kinematics_data/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nebula0.github.io/article/cosmological_evolution_in_bimetric_gravity_observational_constraints_and_lss_signatures/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nebula0.github.io/categories/cosmology/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nebula0.github.io/article/divergence_of_the_local_large-scale_structure_velocity_field_and_its_implications_for_tilted_cosmology/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nebula0.github.io/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nebula0.github.io/categories/galaxies/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nebula0.github.io/article/hubble_constant_measurement_from_three_large-separation_quasars_strongly_lensed_by_galaxy_clusters/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nebula0.github.io/tags/most-recent-update-sun-jan-29-2023/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nebula0.github.io/article/spectroscopy_of_cassowary_gravitationally-lensed_galaxies_in_sdss_characterisation_of_an_extremely_bright_reionization-era_analog_at__z1.42_/</loc>
-    <lastmod>2023-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nebula0.github.io/tags/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nebula0.github.io/article/the_xxl_survey_l._agn_contamination_in_galaxy_clusters_detection_and_cosmological_impact/</loc>
     <lastmod>2023-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nebula0.github.io/categories/dwarf-galaxy/</loc>
-    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nebula0.github.io/categories/globular-cluster/</loc>
-    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nebula0.github.io/article/hubble_space_telescope_imaging_of_the_compact_elliptical_galaxy_m32_reveals_a_dearth_of_carbon_stars/</loc>
-    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nebula0.github.io/categories/hydrodynamics/</loc>
     <lastmod>2023-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nebula0.github.io/article/jwst_discovery_of_dust_reservoirs_in_nearby_type_iip_supernovae_2004et_and_2017eaw/</loc>
@@ -86,9 +275,6 @@
     <loc>https://nebula0.github.io/article/star_formation_histories_of_dwarf_spheroidal_and_dwarf_elliptical_galaxies_in_the_local_universe/</loc>
     <lastmod>2023-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nebula0.github.io/categories/supernovae/</loc>
-    <lastmod>2023-01-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nebula0.github.io/article/testing__%CE%BB_cdm_cosmology_in_a_binned_universe_anomalies_in_the_deceleration_parameter/</loc>
     <lastmod>2023-01-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -107,9 +293,6 @@
     <loc>https://nebula0.github.io/article/arxiv.2206.05244/</loc>
     <lastmod>2023-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nebula0.github.io/categories/agn/</loc>
-    <lastmod>2023-01-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nebula0.github.io/article/constraining_coupling_constants_variation_with_supernovae_quasars_and_grbs/</loc>
     <lastmod>2023-01-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -117,9 +300,6 @@
     <lastmod>2023-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nebula0.github.io/article/cosmological_structure_formation_and_soliton_phase_transition_in_fuzzy_dark_matter_with_axion_self-interactions/</loc>
-    <lastmod>2023-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nebula0.github.io/categories/early-universe/</loc>
     <lastmod>2023-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nebula0.github.io/article/arxiv.2301.10263/</loc>
@@ -197,13 +377,7 @@
     <loc>https://nebula0.github.io/article/cosmos2020_discovery_of_a_protocluster_of_massive_quiescent_galaxies_at__z2.77_/</loc>
     <lastmod>2023-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nebula0.github.io/categories/chemical/</loc>
-    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://nebula0.github.io/article/constraints_on__s_8__from_a_full-scale_and_full-shape_analysis_of_redshift-space_clustering_and_galaxy-galaxy_lensing_in_boss/</loc>
-    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nebula0.github.io/categories/galaxy-merger/</loc>
     <lastmod>2023-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nebula0.github.io/article/arxiv.2301.08535/</loc>
@@ -558,9 +732,6 @@
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nebula0.github.io/article/evidence_for_a_low_lyman_continuum_escape_fraction_in_three_massive_uv-bright_galaxies_at_z__7/</loc>
-    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nebula0.github.io/categories/galactic-disk/</loc>
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nebula0.github.io/article/galaxy_quenching_timescales_from_a_forensic_reconstruction_of_their_colour_evolution/</loc>
@@ -1632,9 +1803,6 @@
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nebula0.github.io/article/circumbinary_accretion_from_binary_stars_to_massive_binary_black_holes/</loc>
-    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://nebula0.github.io/categories/cluster-simulation/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nebula0.github.io/article/continuing_to_hide_signatures_of_gravitational_instability_in_protoplanetary_discs_with_planets/</loc>

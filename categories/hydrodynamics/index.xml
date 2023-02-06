@@ -6,7 +6,17 @@
     <description>Recent content in hydrodynamics on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/hydrodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/hydrodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Euclid preparation. XXX. Evaluating the weak lensing cluster mass biases using the Three Hundred Project hydrodynamical simulations</title>
+      <link>https://nebula0.github.io/article/euclid_preparation._xxx._evaluating_the_weak_lensing_cluster_mass_biases_using_the_three_hundred_project_hydrodynamical_simulations/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/euclid_preparation._xxx._evaluating_the_weak_lensing_cluster_mass_biases_using_the_three_hundred_project_hydrodynamical_simulations/</guid>
+      <description>First author: Euclid Collaboration
+The photometric catalogue of galaxy clusters extracted from ESA Euclid data is expected to be very competitive for cosmological studies. Using state-of-the-art hydrodynamical simulations, we present systematic analyses simulating the expected weak lensing profiles from clusters in a variety of dynamic states and at wide range of redshifts. In order to derive cluster masses, we use a model consistent with the implementation within the Euclid Consortium of the dedicated processing function and find that, when jointly modelling mass and the concentration parameter of the Navarro-Frenk-White halo profile, the weak lensing masses tend to be, on average, biased low with respect to the true mass.</description>
+    </item>
+    
     <item>
       <title>Role of ionizing background on the statistics of metal absorbers in hydrodynamical simulations</title>
       <link>https://nebula0.github.io/article/role_of_ionizing_background_on_the_statistics_of_metal_absorbers_in_hydrodynamical_simulations/</link>
