@@ -6,7 +6,27 @@
     <description>Recent content in chemical on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/chemical/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/chemical/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chemical characterisation of the X-shooter Spectral Library (XSL): $[Mg/Fe]$ and $[Ca/Fe]$ abundances</title>
+      <link>https://nebula0.github.io/article/chemical_characterisation_of_the_x-shooter_spectral_library_xsl_mg_fe_and_ca_fe_abundances/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/chemical_characterisation_of_the_x-shooter_spectral_library_xsl_mg_fe_and_ca_fe_abundances/</guid>
+      <description>First author: Pablo Santos-Peral
+The X-shooter Spectral Library (XSL) is a large empirical stellar library used as a benchmark for the development of stellar population models. The inclusion of $\alpha$-elements abundances is crucial to disentangling the chemical evolution of any stellar system. The aim of this paper is to provide a catalogue of high-precision and accurate magnesium and calcium abundances from a wide variety of stars well distributed in the Hertzsprung-Russell (HR) diagram.</description>
+    </item>
+    
+    <item>
+      <title>Chemical enrichment of the ICM within the Virgo cluster I: radial profiles</title>
+      <link>https://nebula0.github.io/article/chemical_enrichment_of_the_icm_within_the_virgo_cluster_i_radial_profiles/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/chemical_enrichment_of_the_icm_within_the_virgo_cluster_i_radial_profiles/</guid>
+      <description>First author: Efrain Gatuzz
+We present a detailed analysis of the elemental abundances distribution of the Virgo cluster using {\it XMM-Newton} observations. We included in the analysis a new EPIC-pn energy scale calibration which allow us to measure velocities with uncertainties down to $\Delta v \sim 150$ km/s. We investigate the radial distribution of O, Ne, Mg, Si, Ar, S, Ca, Ni and Fe. We found that the best-fit model is close to a single-temperature component for distances $&amp;gt;80$~kpc and the cooler gas is more metal-rich.</description>
+    </item>
+    
     <item>
       <title>Chemical diversity of gas in distant galaxies: The metal and dust enrichment and variations within absorbing galaxies</title>
       <link>https://nebula0.github.io/article/chemical_diversity_of_gas_in_distant_galaxies_the_metal_and_dust_enrichment_and_variations_within_absorbing_galaxies/</link>

@@ -6,7 +6,157 @@
     <description>Recent content in cosmology on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Induced non-local cosmology</title>
+      <link>https://nebula0.github.io/article/induced_non-local_cosmology/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/induced_non-local_cosmology/</guid>
+      <description>First author: Leonardo Giani
+We investigate the cosmological implications of an effective gravitational action, inspired by Sakharov&amp;rsquo;s idea of induced gravity, containing non-local contributions from the operator $\left(\Box +\beta \right)^{-1} R$. The $\beta$ term is a novel feature in the panorama of non-local models of gravity, and arises naturally within Sakharov theory from the potential of a non-minimally coupled scalar field after a spontaneous symmetry breaking takes place. In this class of models the non-local contribution can acquire an oscillatory behaviour, thereby avoiding the divergence of the Hubble parameter at late times, which is another characteristic feature of the non-local models treated in the literature.</description>
+    </item>
+    
+    <item>
+      <title>Quark nuggets, QCD vacuum and the cosmological $^7$Li, Dark Matter and Dark Energy problems</title>
+      <link>https://nebula0.github.io/article/quark_nuggets_qcd_vacuum_and_the_cosmological__7_li_dark_matter_and_dark_energy_problems/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/quark_nuggets_qcd_vacuum_and_the_cosmological__7_li_dark_matter_and_dark_energy_problems/</guid>
+      <description>First author: Rachid Ouyed
+We propose a non-exotic electromagnetic solution to the cosmological $^7$Li problem based upon a 2 MeV photo-emission line from color superconducting quark nuggets (CSCQN) that destroys Big-Bang nucleosynthesis (BBN) $^7$Be without affecting other abundances or Cosmic Microwave Background (CMB) physics. Conversion of CSCQN gluonic (rest-mass) energy to 2 MeV photons in the radiation-dominated post-BBN epoch reduces the primordial abundance of $^7$Be (and thus cosmological $^7$Li) by 2/3, provided the combined mass of the nuggets is greater than the total baryonic mass in the Universe.</description>
+    </item>
+    
+    <item>
+      <title>The foreground transfer function for HI intensity mapping signal reconstruction: MeerKLASS and precision cosmology applications</title>
+      <link>https://nebula0.github.io/article/the_foreground_transfer_function_for_hi_intensity_mapping_signal_reconstruction_meerklass_and_precision_cosmology_applications/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_foreground_transfer_function_for_hi_intensity_mapping_signal_reconstruction_meerklass_and_precision_cosmology_applications/</guid>
+      <description>First author: Steven Cunnington
+Blind cleaning methods are currently the preferred strategy for handling foreground contamination in single-dish HI intensity mapping surveys. Despite the increasing sophistication of blind techniques, some signal loss will be inevitable across all scales. Constructing a corrective transfer function using mock signal injection into the contaminated data has been a practice relied on for HI intensity mapping experiments. However, assessing whether this approach is viable for future intensity mapping surveys where precision cosmology is the aim, remains unexplored.</description>
+    </item>
+    
+    <item>
+      <title>Cosmological forecast of the 21-cm power spectrum using the halo model of reionization</title>
+      <link>https://nebula0.github.io/article/cosmological_forecast_of_the_21-cm_power_spectrum_using_the_halo_model_of_reionization/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/cosmological_forecast_of_the_21-cm_power_spectrum_using_the_halo_model_of_reionization/</guid>
+      <description>First author: Aurel Schneider
+The 21-cm power spectrum of reionization is a promising probe for cosmology and fundamental physics. Exploiting this new observable, however, requires fast predictors capable of efficiently scanning the very large parameter space of cosmological and astrophysical uncertainties. In this paper, we introduce the halo model of reionization (HMreio), a new analytical tool that combines the halo model of the cosmic dawn with the excursion-set bubble model for reionization, assuming an empirical correction factor to deal with overlapping ionization bubbles.</description>
+    </item>
+    
+    <item>
+      <title>On cosmological Inflation In Palatini $F(R,φ)$ Gravity</title>
+      <link>https://nebula0.github.io/article/on_cosmological_inflation_in_palatini__fr%CF%86__gravity/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/on_cosmological_inflation_in_palatini__fr%CF%86__gravity/</guid>
+      <description>First author: Mahmoud AlHallak
+Single field inflationary models are investigated within Palatini quadratic gravity represented by $R+\alpha R^2$ along with a non-minimal coupling of the form $f(\phi) R$ between the inflaton field $\phi$ and the gravity. The treatment is performed in the Einstein frame, where the minimal coupling to gravity is recovered through conformal transformation. We consider various limits of the model with different inflationary scenarios characterized as canonical slow-roll inflation in the limit $\alpha \dot{\phi}^2\ll (1+f(\phi)) $, constant-roll k-inflation for $\alpha \ll 1$, and slow-roll K-inflation for$ \alpha \gg 1$ .</description>
+    </item>
+    
+    <item>
+      <title>JAX-COSMO: An End-to-End Differentiable and GPU Accelerated Cosmology Library</title>
+      <link>https://nebula0.github.io/article/jax-cosmo_an_end-to-end_differentiable_and_gpu_accelerated_cosmology_library/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/jax-cosmo_an_end-to-end_differentiable_and_gpu_accelerated_cosmology_library/</guid>
+      <description>First author: Jean-Eric Campagne
+We present jax-cosmo, a library for automatically differentiable cosmological theory calculations. It uses the JAX library, which has created a new coding ecosystem, especially in probabilistic programming. As well as batch acceleration, just-in-time compilation, and automatic optimization of code for different hardware modalities (CPU, GPU, TPU), JAX exposes an automatic differentiation (autodiff) mechanism. Thanks to autodiff, jax-cosmo gives access to the derivatives of cosmological likelihoods with respect to any of their parameters, and thus enables a range of powerful Bayesian inference algorithms, otherwise impractical in cosmology, such as Hamiltonian Monte Carlo and Variational Inference.</description>
+    </item>
+    
+    <item>
+      <title>Lyman-$α$ polarization from cosmological ionization fronts: II. Implications for intensity mapping</title>
+      <link>https://nebula0.github.io/article/lyman-_%CE%B1__polarization_from_cosmological_ionization_fronts_ii._implications_for_intensity_mapping/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/lyman-_%CE%B1__polarization_from_cosmological_ionization_fronts_ii._implications_for_intensity_mapping/</guid>
+      <description>First author: Emily Koivu
+This is the second paper in a series whose aim is to predict the power spectrum of intensity and polarized intensity from cosmic reionization fronts. After building the analytic models for intensity and polarized intensity calculations in paper I, here we apply these models to simulations of reionization. We construct a geometric model for identifying front boundaries, calculate the intensity and polarized intensity for each front, and compute a power spectrum of these results.</description>
+    </item>
+    
+    <item>
+      <title>Lyman-α polarization from cosmological ionization fronts: I. Radiative transfer simulations</title>
+      <link>https://nebula0.github.io/article/lyman-%CE%B1_polarization_from_cosmological_ionization_fronts_i._radiative_transfer_simulations/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/lyman-%CE%B1_polarization_from_cosmological_ionization_fronts_i._radiative_transfer_simulations/</guid>
+      <description>First author: Yuanyuan Yang
+In this paper, we present the formalism of simulating Lyman-$\alpha$ emission and polarization around reionization ($z$ = 8) from a plane-parallel ionization front. We accomplish this by using a Monte Carlo method to simulate the production of a Lyman-$\alpha$ photon, its propagation through an ionization front, and the eventual escape of this photon. This paper focuses on the relation of the input parameters of ionization front speed $U$, blackbody temperature $T_{\rm bb}$, and neutral hydrogen density $n_{\rm HI}$, on intensity $I$ and polarized intensity $P$ as seen by a distant observer.</description>
+    </item>
+    
+    <item>
+      <title>Phantom scalar-tensor models and cosmological tensions</title>
+      <link>https://nebula0.github.io/article/phantom_scalar-tensor_models_and_cosmological_tensions/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/phantom_scalar-tensor_models_and_cosmological_tensions/</guid>
+      <description>First author: M. Ballardini
+We study three different extended scalar-tensor theories of gravity by also allowing a negative sign for the kinetic term for the scalar field in the Jordan frame. Our scope is to understand how the observational constraints for these models cope with the volume of the parameter space in which the theory is healthy. Models with a negative kinetic term lead to decreasing effective gravitational constant with redshift and behave as an effective relativistic component with a negative energy density as opposite to their corresponding version with a standard kinetic term.</description>
+    </item>
+    
+    <item>
+      <title>The influence of the effective number of active and sterile neutrinos on the determination of the values of cosmological parameters</title>
+      <link>https://nebula0.github.io/article/the_influence_of_the_effective_number_of_active_and_sterile_neutrinos_on_the_determination_of_the_values_of_cosmological_parameters/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_influence_of_the_effective_number_of_active_and_sterile_neutrinos_on_the_determination_of_the_values_of_cosmological_parameters/</guid>
+      <description>First author: P. A. Chernikov
+In the presented work we consider the influence of a hypothetical sterile neutrino (with eV-scale mass) on the determination of cosmological parameters. If it is detected, it will be necessary to include it into the $\Lambda \rm CDM$ model with the fixed values of its mass $m_{\rm s}$ and mixing angle $\theta_{s}$, which is the main method used through this paper. Apart from that, the seesaw mechanism requires there to be at least two sterile states, one of them being much heavier than the active ones.</description>
+    </item>
+    
+    <item>
+      <title>Cosmological gravitational particle production of massive spin-2 particles</title>
+      <link>https://nebula0.github.io/article/cosmological_gravitational_particle_production_of_massive_spin-2_particles/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/cosmological_gravitational_particle_production_of_massive_spin-2_particles/</guid>
+      <description>First author: Edward W. Kolb
+The phenomenon of cosmological gravitational particle production (CGPP) is expected to occur during the period of inflation and the transition into a hot big bang cosmology. Particles may be produced even if they only couple directly to gravity, and so CGPP provides a natural explanation for the origin of dark matter. In this work we study the gravitational production of massive spin-2 particles assuming two different couplings to matter.</description>
+    </item>
+    
+    <item>
+      <title>Comparisons between fast algorithms for the continuous wavelet transform and applications in cosmology: the one-dimensional case</title>
+      <link>https://nebula0.github.io/article/comparisons_between_fast_algorithms_for_the_continuous_wavelet_transform_and_applications_in_cosmology_the_one-dimensional_case/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/comparisons_between_fast_algorithms_for_the_continuous_wavelet_transform_and_applications_in_cosmology_the_one-dimensional_case/</guid>
+      <description>First author: Yun Wang
+The continuous wavelet transform (CWT) is very useful for processing signals with intricate and irregular structures in astrophysics and cosmology. It is crucial to propose precise and fast algorithms for the CWT. In this work, we review and compare four different fast CWT algorithms for the 1D signals, including the FFTCWT, the V97CWT, the M02CWT, and the A19CWT. The FFTCWT algorithm implements the CWT using the Fast Fourier Transform (FFT) with a computational complexity of $\mathcal{O}(N\log_2N)$ per scale.</description>
+    </item>
+    
+    <item>
+      <title>Deep Machine Learning in Cosmology: Evolution or Revolution?</title>
+      <link>https://nebula0.github.io/article/deep_machine_learning_in_cosmology_evolution_or_revolution/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/deep_machine_learning_in_cosmology_evolution_or_revolution/</guid>
+      <description>First author: Ofer Lahav
+Could Machine Learning (ML) make fundamental discoveries and tackle unsolved problems in Cosmology? Detailed observations of the present contents of the universe are consistent with the Cosmological Constant Lambda and Cold Dark Matter model, subject to some unresolved inconsistencies (&amp;rsquo;tensions&amp;rsquo;) among observations of the Hubble Constant and the clumpiness factor. To understand these issues further, large surveys of billions of galaxies and other probes require new statistical approaches.</description>
+    </item>
+    
+    <item>
+      <title>On Cosmological Low Entropy After the Big Bang: Universal Expansion and Nucleosynthesis</title>
+      <link>https://nebula0.github.io/article/on_cosmological_low_entropy_after_the_big_bang_universal_expansion_and_nucleosynthesis/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/on_cosmological_low_entropy_after_the_big_bang_universal_expansion_and_nucleosynthesis/</guid>
+      <description>First author: Charlie F. Sharpe
+We investigate the sensitivity of a universe&amp;rsquo;s nuclear entropy after Big Bang nucleosynthesis (BBN) to variations in both the baryon-to-photon ratio and the temporal evolution of cosmological expansion. Specifically, we construct counterfactual cosmologies to quantify the degree by which these two parameters must vary from those in our Universe before we observe a substantial change in the degree of fusion, and thus nuclear entropy, during BBN.</description>
+    </item>
+    
+    <item>
+      <title>Perspectives on fundamental cosmology from Low Earth Orbit and the Moon</title>
+      <link>https://nebula0.github.io/article/perspectives_on_fundamental_cosmology_from_low_earth_orbit_and_the_moon/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/perspectives_on_fundamental_cosmology_from_low_earth_orbit_and_the_moon/</guid>
+      <description>First author: Gianfranco Bertone
+The next generation of space-based experiments will go hunting for answers to cosmology&amp;rsquo;s key open questions which revolve around inflation, dark matter and dark energy. Low earth orbit and lunar missions within the European Space Agency&amp;rsquo;s Human and Robotic Exploration programme can push our knowledge forward in all of these three fields. A radio interferometer on the Moon, a cold atom interferometer in low earth orbit and a gravitational wave interferometer on the Moon are highlighted as the most fruitful missions to plan and execute in the mid-term.</description>
+    </item>
+    
     <item>
       <title>Do current cosmological observations hint at the speed of light variability?</title>
       <link>https://nebula0.github.io/article/do_current_cosmological_observations_hint_at_the_speed_of_light_variability/</link>

@@ -6,7 +6,47 @@
     <description>Recent content in globular cluster on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/globular-cluster/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/globular-cluster/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Peeking beneath the precision floor -- II. Probing the chemo-dynamical histories of the potential globular cluster siblings, NGC 288 and NGC 362</title>
+      <link>https://nebula0.github.io/article/arxiv.2302.06644/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2302.06644/</guid>
+      <description>Stephanie Monty
+The assembly history of the Milky Way (MW) is a rapidly evolving subject, with numerous small accretion events and at least one major merger proposed in the MW&amp;amp;#39;s history. Accreted alongside these dwarf galaxies are globular clusters (GCs), which act as spatially coherent remnants of these past events. Using high precision differential abundance measurements from our recently published study, we investigate the likelihood that the MW clusters NGC 362 and NGC 288 are galactic siblings, accreted as part of the Gaia-Sausage-Enceladus (GSE) merger.</description>
+    </item>
+    
+    <item>
+      <title>Dynamics of intermediate mass black holes in globular cluster. Wander radius and anisotropy profiles</title>
+      <link>https://nebula0.github.io/article/arxiv.2302.05542/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2302.05542/</guid>
+      <description>Pierfrancesco Di Cintio
+We recently introduced a new method for simulating collisional gravitational N-body systems with approximately linear time scaling with $N$, based on the Multi-Particle Collision (MPC) scheme, previously applied in Plasma Physics. We simulate globular clusters with a realistic number of stellar particles (at least up to several times $10^6$) on a standard workstation. We simulate clusters hosting an intermediate mass black hole (IMBH), probing a broad range of BH-cluster and BH-average-star mass ratios, unrestricted by the computational constraints affecting direct N-body codes.</description>
+    </item>
+    
+    <item>
+      <title>Stellar collisions in globular clusters: Constraints on the initial mass function of the first generation of stars</title>
+      <link>https://nebula0.github.io/article/arxiv.2203.11288/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2203.11288/</guid>
+      <description>Sami Dib
+Globular clusters display an anticorrelation between the fraction of the first generation of stars ($N({\rm G1})/N({\rm tot})$) and the slope of the present-day mass function of the clusters ($α_{pd}$), which is particularly significant for massive clusters. In the framework of the binary-mediated collision scenario for the formation of the second-generation stars in globular clusters, we test the effect of a varying stellar initial mass function (IMF) of the G1 stars on the $(N({\rm G1})/N({\rm tot}))-α_{pd}$ anticorrelation.</description>
+    </item>
+    
+    <item>
+      <title>Probability of forming gaps in the GD-1 stream by close encounters of globular clusters</title>
+      <link>https://nebula0.github.io/article/arxiv.2203.15481/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2203.15481/</guid>
+      <description>Yuka Doke
+One of the most intriguing properties of the GD-1 stellar stream is the existence of three gaps. If these gaps were formed by close encounters with dark matter subhalos, the GD-1 stream opens an exciting window through which we can see the size, mass, and velocity distributions of the dark matter subhalos in the Milky Way. However, in order to use the GD-1 stream as a probe of the dark matter substructure, we need to disprove that these gaps are not due to the perturbations from baryonic components of the Milky Way.</description>
+    </item>
+    
     <item>
       <title>Constraining Co-Varying Coupling Constants from Globular Cluster Age</title>
       <link>https://nebula0.github.io/article/arxiv.2302.00552/</link>

@@ -6,7 +6,17 @@
     <description>Recent content in chemical evolution on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/chemical-evolution/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/chemical-evolution/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Predicting interstellar radiation fields from chemical evolution models</title>
+      <link>https://nebula0.github.io/article/arxiv.2203.04782/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2203.04782/</guid>
+      <description>Mario Romero
+We present a self-consistent prediction of the interstellar radiation field (ISRF), from the extreme ultraviolet (EUV) to sub-mm range, based on two chemical evolution models of a Milky Way-like galaxy (MWG). To this end, we develop a new tool called Mixclask to include gas emission, absorption and scattering from the photoionization code Cloudy into the Monte Carlo radiative transfer code Skirt. Both algorithms are invoked iteratively, until the physical properties of the ISM converge.</description>
+    </item>
+    
     <item>
       <title>The Gaia-ESO Survey: Preparing the ground for 4MOST &amp; WEAVE galactic surveys. Chemical evolution of lithium with machine learning</title>
       <link>https://nebula0.github.io/article/arxiv.2208.08874/</link>

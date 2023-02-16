@@ -6,7 +6,17 @@
     <description>Recent content in intergalactic on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/intergalactic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/intergalactic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A framework to measure the properties of intergalactic metal systems with two-point flux statistics</title>
+      <link>https://nebula0.github.io/article/a_framework_to_measure_the_properties_of_intergalactic_metal_systems_with_two-point_flux_statistics/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/a_framework_to_measure_the_properties_of_intergalactic_metal_systems_with_two-point_flux_statistics/</guid>
+      <description>First author: Naim Göksel Karaçaylı
+The abundance, temperature, and clustering of metals in the intergalactic medium are important parameters for understanding their cosmic evolution and quantifying their impact on cosmological analysis with the Ly $\alpha$ forest. The properties of these systems are typically measured from individual quasar spectra redward of the quasar&amp;rsquo;s Ly $\alpha$ emission line, yet that approach may provide biased results due to selection effects. We present an alternative approach to measure these properties in an unbiased manner with the two-point statistics commonly employed to quantify large-scale structure.</description>
+    </item>
+    
     <item>
       <title>A new limit on intergalactic magnetic fields on sub-kpc scales from fast radio bursts</title>
       <link>https://nebula0.github.io/article/a_new_limit_on_intergalactic_magnetic_fields_on_sub-kpc_scales_from_fast_radio_bursts/</link>

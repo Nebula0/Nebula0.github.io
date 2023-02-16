@@ -6,7 +6,17 @@
     <description>Recent content in hydrodynamics on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/hydrodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/hydrodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boundary conditions in hydrodynamic simulations of isolated galaxies and their impact on the gas-loss processes</title>
+      <link>https://nebula0.github.io/article/boundary_conditions_in_hydrodynamic_simulations_of_isolated_galaxies_and_their_impact_on_the_gas-loss_processes/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/boundary_conditions_in_hydrodynamic_simulations_of_isolated_galaxies_and_their_impact_on_the_gas-loss_processes/</guid>
+      <description>First author: Anderson Caproni
+Three-dimensional hydrodynamic simulations are commonly used to study the evolution of the gaseous content in isolated galaxies, besides its connection with galactic star formation histories. Stellar winds, supernova blasts, and black hole feedback are mechanisms usually invoked to drive galactic outflows and decrease the initial galactic gas reservoir. However, any simulation imposes the need of choosing the limits of the simulated volume, which depends, for instance, on the size of the galaxy and the required numerical resolution, besides the available computational capability to perform it.</description>
+    </item>
+    
     <item>
       <title>Euclid preparation. XXX. Evaluating the weak lensing cluster mass biases using the Three Hundred Project hydrodynamical simulations</title>
       <link>https://nebula0.github.io/article/euclid_preparation._xxx._evaluating_the_weak_lensing_cluster_mass_biases_using_the_three_hundred_project_hydrodynamical_simulations/</link>

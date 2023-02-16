@@ -6,7 +6,67 @@
     <description>Recent content in AGN on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/agn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/agn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Looking for Signatures of AGN Feedback in Radio-Quiet AGN</title>
+      <link>https://nebula0.github.io/article/looking_for_signatures_of_agn_feedback_in_radio-quiet_agn/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/looking_for_signatures_of_agn_feedback_in_radio-quiet_agn/</guid>
+      <description>First author: Preeti Kharb
+(Abridged) In this article, we discuss the state of AGN feedback&#39;&#39; in radio-quiet (RQ) AGN. This study involves heterogeneous samples of nearby Seyfert and LINER galaxies as well as QSOs that have been observed at low radio frequencies (few ~100 MHz) with the GMRT and ~GHz frequencies with the VLA and VLBA. These multi-frequency, multi-resolution observations detect a range of arcsecond-scale radio spectral indices that are consistent with the presence of multiple contributors including starburst winds and AGN jets or winds; steep spectrum relic&amp;rsquo;&amp;rsquo; emission is observed as well.</description>
+    </item>
+    
+    <item>
+      <title>A massive black hole in a low-metallicity AGN at $z\sim5.55$ revealed by JWST/NIRSpec IFS</title>
+      <link>https://nebula0.github.io/article/a_massive_black_hole_in_a_low-metallicity_agn_at__z_sim5.55__revealed_by_jwst_nirspec_ifs/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/a_massive_black_hole_in_a_low-metallicity_agn_at__z_sim5.55__revealed_by_jwst_nirspec_ifs/</guid>
+      <description>First author: Hannah Übler
+We present JWST/NIRSpec Integral Field Spectrograph rest-frame optical data of the compact $z=5.55$ galaxy GS_3073. Its prominent broad components in several hydrogen and helium lines (while absent in the forbidden lines), and the detection of a large equivalent width of He II $\lambda4686$, EW(He II) $\sim20$ Angstrom, unambiguously identify it as an active galactic nucleus (AGN). We measure a gas-phase metallicity of $Z_{\rm gas}/Z_\odot\sim0.21^{+0.08}{-0.04}$, lower than what has been inferred for both more luminous AGN at similar redshift and lower redshift AGN.</description>
+    </item>
+    
+    <item>
+      <title>AGN candidates in the VVV near-IR galaxy catalogue</title>
+      <link>https://nebula0.github.io/article/agn_candidates_in_the_vvv_near-ir_galaxy_catalogue/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/agn_candidates_in_the_vvv_near-ir_galaxy_catalogue/</guid>
+      <description>First author: Laura D. Baravalle
+The goal of this work is to search for Active Galactic Nuclei (AGN) in the Galactic disc at very low latitudes with |b| $&amp;lt;$ 2$^\circ$. For this, we studied the five sources from the VVV near-infrared galaxy catalogue that have also WISE counterparts and present variability in the VIrac VAriable Classification Ensemble (VIVACE) catalogue. In the near-infrared colour-colour diagrams, these objects have in general redder colours compared to the rest of the sources in the field.</description>
+    </item>
+    
+    <item>
+      <title>Estimating AGN Black Hole Masses via Continuum Reverberation Mapping in the Era of LSST</title>
+      <link>https://nebula0.github.io/article/estimating_agn_black_hole_masses_via_continuum_reverberation_mapping_in_the_era_of_lsst/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/estimating_agn_black_hole_masses_via_continuum_reverberation_mapping_in_the_era_of_lsst/</guid>
+      <description>First author: Shu Wang
+Spectroscopic reverberation mapping (RM) is a direct approach widely used to estimate the mass of black holes (BHs) in active galactic nuclei (AGNs). However, it is very time-consuming and difficult to apply to a large AGN sample. The empirical relation between the broad-line region (BLR) size and luminosity (H$\beta$ $R_{\rm BLR}\unicode{x2013}L_{\rm}$) provides a practical alternative yet subject to large scatter and systematic bias. AGN continuum RM (CRM) recently discovered a similar relation between the continuum emitting region (CER) size and luminosity ($R_{\rm CER}\unicode{x2013}L$).</description>
+    </item>
+    
+    <item>
+      <title>Jet power, intrinsic $γ$-ray luminosity and accretion in jetted AGN</title>
+      <link>https://nebula0.github.io/article/jet_power_intrinsic__%CE%B3_-ray_luminosity_and_accretion_in_jetted_agn/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/jet_power_intrinsic__%CE%B3_-ray_luminosity_and_accretion_in_jetted_agn/</guid>
+      <description>First author: Chen Yonhyun
+The correlation between the kinetic jet power $P_{\rm jet}$, intrinsic $\gamma$-ray luminosity ($L^{\rm int}$) and accretion ($L_{\rm disk}$) may reveal the underlying jet physics in various black hole systems. We study the relation between kinetic jet power, intrinsic $\gamma$-ray luminosity, and accretion by using a large sample of jetted AGN, including flat-spectrum radio quasars (FSRQs), BL Lacertae objects (BL Lacs), gamma-ray Narrow-line Seyfert 1 galaxies ($\gamma$NLS1s) and radio galaxies.</description>
+    </item>
+    
+    <item>
+      <title>Extended hard X-ray emission in highly obscured AGN</title>
+      <link>https://nebula0.github.io/article/extended_hard_x-ray_emission_in_highly_obscured_agn/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/extended_hard_x-ray_emission_in_highly_obscured_agn/</guid>
+      <description>First author: Jingzhe Ma
+Kilo-parsec scale hard ($&amp;gt;$ 3 keV) X-ray continuum and fluorescent Fe K$\alpha$ line emission has been recently discovered in nearby Compton-thick (CT) active galactic nuclei (AGN), which opens new opportunities to improve AGN torus modeling and investigate how the central supermassive black hole interacts with and impacts the host galaxy. Following a pilot Chandra survey of nearby CT AGN, we present in this paper the Chandra spatial analysis results of five uniformly selected non-CT but still heavily obscured AGN to investigate the extended hard X-ray emission by measuring the excess emission counts, excess fractions, and physical scales.</description>
+    </item>
+    
     <item>
       <title>A complex dust morphology in the high-luminosity AGN Mrk 876</title>
       <link>https://nebula0.github.io/article/a_complex_dust_morphology_in_the_high-luminosity_agn_mrk_876/</link>
