@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Exploring binary black hole mergers and host galaxies with {\sc Shark} and COMPAS - Explosion Group Paper collection</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="Exploring binary black hole mergers and host galaxies with {\sc Shark} and COMPAS" />
+<meta property="og:description" content="First author: Liana Rauf
+In this work, we explore the connection between the gravitational wave (GW) merger rates of stellar-mass binary black holes (BBH) and galaxy properties. We do this by generating populations of stars using the binary synthesis code COMPAS and evolving them in galaxies from the semi-analytic galaxy formation model {\sc Shark}, to determine the number of mergers occurring in each simulation time-step. We find that large, metal-rich galaxies with high star formation rates are more likely to have gravitational wave (GW) events compared to younger, more metal poor galaxies." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://nebula0.github.io/article/exploring_binary_black_hole_mergers_and_host_galaxies_with__sc_shark_and_compas/" /><meta property="article:section" content="article" />
+<meta property="article:published_time" content="2023-02-16T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-02-16T00:00:00+00:00" />
+
+
+		<meta itemprop="name" content="Exploring binary black hole mergers and host galaxies with {\sc Shark} and COMPAS">
+<meta itemprop="description" content="First author: Liana Rauf
+In this work, we explore the connection between the gravitational wave (GW) merger rates of stellar-mass binary black holes (BBH) and galaxy properties. We do this by generating populations of stars using the binary synthesis code COMPAS and evolving them in galaxies from the semi-analytic galaxy formation model {\sc Shark}, to determine the number of mergers occurring in each simulation time-step. We find that large, metal-rich galaxies with high star formation rates are more likely to have gravitational wave (GW) events compared to younger, more metal poor galaxies."><meta itemprop="datePublished" content="2023-02-16T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2023-02-16T00:00:00+00:00" />
+<meta itemprop="wordCount" content="271">
+<meta itemprop="keywords" content="arxiv,most recent update (Wed Feb 22 2023)," />
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	<link rel="stylesheet" href="/css/custom.css">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo logo--mixed">
+		<a class="logo__link" href="/" title="Explosion Group" rel="home">
+			<div class="logo__item logo__imagebox">
+					<img class="logo__img" src="/img/cat.jpg">
+				</div><div class="logo__item logo__text">
+					<div class="logo__title">Explosion Group</div>
+					<div class="logo__tagline">research field related paper collection</div>
+				</div>
+		</a>
+	</div>
+		
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">Menu</span>
+	</button>
+	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/posts/test_post/">
+				
+				<span class="menu__text">README</span>
+				
+			</a>
+		</li>
+	</ul>
+</nav>
+
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Exploring binary black hole mergers and host galaxies with {\sc Shark} and COMPAS</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2023-02-16T00:00:00Z">2023-02-16</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/galaxies/" rel="category">galaxies</a>, <a class="meta__link" href="/categories/2023year/" rel="category">2023(year)</a>, <a class="meta__link" href="/categories/2month/" rel="category">2(month)</a>
+	</span>
+</div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<blockquote>
+<p>First author: Liana Rauf</p>
+</blockquote>
+<p>In this work, we explore the connection between the gravitational wave (GW)
+merger rates of stellar-mass binary black holes (BBH) and galaxy properties. We
+do this by generating populations of stars using the binary synthesis code
+COMPAS and evolving them in galaxies from the semi-analytic galaxy formation
+model {\sc Shark}, to determine the number of mergers occurring in each
+simulation time-step. We find that large, metal-rich galaxies with high star
+formation rates are more likely to have gravitational wave (GW) events compared
+to younger, more metal poor galaxies. Our simulation with the default input
+parameters predicts a higher local merger rate density compared to the third
+gravitational wave transient catalogue (GWTC-3) prediction from LIGO, VIRGO and
+KAGRA. This is due to short coalescence times, low metallicities and an high
+formation rate of stars at low redshift in the galaxy simulation, which
+produces more BBHs that merge within the age of the Universe compared to
+observations. We identify alternate remnant mass models that more accurately
+reproduce the observed volumetric rate and provide updated fits to the merger
+rate distribution as a function of redshift. We then investigate the relative
+fraction of GW events in our simulation volume that are in observable host
+galaxies from different upcoming photometric and spectroscopic surveys,
+determining which of those are more ideal for tracing host galaxies with high
+merger rates. The implications of this work can be utilised for numerous
+applications, including for constraining stellar evolution models, better
+informing follow-up programs, and placing more informative priors on potential
+host galaxies when measuring cosmological parameters such as the Hubble
+constant.</p>
+<hr>
+<p><a href="http://arxiv.org/abs/2302.08172v1">arxiv link</a></p>
+<p><a href="http://arxiv.org/pdf/2302.08172v1">pdf link</a></p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/arxiv/" rel="tag">arxiv</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/most-recent-update-wed-feb-22-2023/" rel="tag">most recent update (Wed Feb 22 2023)</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/article/initial_fabrication_and_characterization_of_chemically-etched_silicon_slits_for_kosmos/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Previous</span>
+			<p class="pager__title">Initial Fabrication and Characterization of Chemically-Etched Silicon Slits for KOSMOS</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/article/arxiv.2302.08516/" rel="next">
+			<span class="pager__subtitle">Next&thinsp;»</span>
+			<p class="pager__title">Evidence for globular clusters collapse after a dwarf-dwarf merger: A nuclear star-cluster in formation?</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-categories widget">
+	<h4 class="widget__title">Categories</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/10month/">10(month)</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">179</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/11month/">11(month)</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">159</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/12month/">12(month)</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">209</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/1month/">1(month)</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">265</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/2022year/">2022(year)</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">547</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/2023year/">2023(year)</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">422</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/2month/">2(month)</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">157</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/agn/">AGN</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">67</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/blackhole/">blackhole</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">3</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/chemical/">chemical</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">25</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/chemical-evolution/">chemical evolution</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">4</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/cluster-simulation/">cluster simulation</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">47</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/cosmology/">cosmology</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">101</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/dwarf-galaxy/">dwarf galaxy</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">50</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/early-universe/">early universe</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">29</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/galactic-bugle/">galactic bugle</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">8</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/galactic-disk/">galactic disk</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">8</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/galaxies/">galaxies</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">420</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/galaxy-merger/">galaxy merger</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">18</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/globular-cluster/">globular cluster</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">29</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/globular-clusterchemical/">globular clusterchemical</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">4</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/hii-region-simulation/">HII region simulation</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">2</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/hydrodynamics/">hydrodynamics</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">12</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/intergalactic/">intergalactic</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">8</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/intergalactic-medium/">intergalactic medium</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">2</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/nuclear-reactions/">nuclear reactions</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">7</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/picture/">picture</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">1</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/population-iii/">Population III</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">8</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/radiative-transfer/">radiative transfer</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">18</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/smbh/">SMBH</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">2</span>
+				</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/supernovae/">supernovae</a>&nbsp;
+				<span class="widget__counter widget__counter--bubble">97</span>
+				</li>
+		</ul>
+	</div>
+</div>
+<div class="widget-taglist widget">
+	<h4 class="widget__title">Tags</h4>
+	<div class="widget__content">
+		<a class="widget-taglist__link widget__link btn" href="/tags/arxiv/" title="arxiv">arxiv (969)</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/most-recent-update-wed-feb-22-2023/" title="most recent update (Wed Feb 22 2023)">most recent update (Wed Feb 22 2023) (49)</a>
+	</div>
+</div>
+<div class="widget-recent widget">
+	<h4 class="widget__title">Recent Posts</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/article/3d_radiation_hydrodynamic_simulations_of_gravitational_instability_in_agn_accretion_disks_effects_of_radiation_pressure/">3D Radiation Hydrodynamic Simulations of Gravitational Instability in AGN Accretion Disks: Effects of Radiation Pressure</a></li>
+			<li class="widget__item"><a class="widget__link" href="/article/hst_imaging_of_star-forming_clumps_in_6_gasp_ram-pressure_stripped_galaxies/">HST imaging of star-forming clumps in 6 GASP ram-pressure stripped galaxies</a></li>
+			<li class="widget__item"><a class="widget__link" href="/article/limits_on_compression_of_cosmic_rays_in_supernova_remnants/">Limits on compression of cosmic rays in supernova remnants</a></li>
+			<li class="widget__item"><a class="widget__link" href="/article/uv-fir_sed_modeling_of_agn_in_ir-luminous_galaxies_up_to_z~2.5_understanding_the_effects_of_torus_models/">UV-FIR SED modeling of AGN in IR-luminous galaxies up to z~2.5: Understanding the effects of torus models</a></li>
+			<li class="widget__item"><a class="widget__link" href="/article/a_physically-motivated_perspective_of_the_fanaroff-riley_classification_of_radio_galaxies/">A physically-motivated perspective of the Fanaroff-Riley classification of radio galaxies</a></li>
+		</ul>
+	</div>
+</div><div class="widget-search widget">
+	<form class="widget-search__form" role="search" method="get" action="https://google.com/search">
+		<label>
+			<input class="widget-search__field" type="search" placeholder="SEARCH…" value="" name="q" aria-label="SEARCH…">
+		</label>
+		<input class="widget-search__submit" type="submit" value="Search">
+		<input type="hidden" name="sitesearch" value="https://nebula0.github.io/">
+	</form>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2023 nebula0.
+			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
+		</div>
+	</div>
+	<script type="text/javascript"
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+<script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+          tex2jax: {
+                inlineMath: [['$','$'], ['\\(','\\)']],
+                displayMath: [['$$','$$'], ['\[','\]']],
+                processEscapes: true,
+                processEnvironments: true,
+                skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+                TeX: { equationNumbers: { autoNumber: "AMS" },
+                         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+          }
+        });
+        </script>
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+<script src="/js/custom.js"></script></body>
+</html>

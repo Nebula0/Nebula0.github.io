@@ -6,7 +6,77 @@
     <description>Recent content in AGN on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/agn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/agn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D Radiation Hydrodynamic Simulations of Gravitational Instability in AGN Accretion Disks: Effects of Radiation Pressure</title>
+      <link>https://nebula0.github.io/article/3d_radiation_hydrodynamic_simulations_of_gravitational_instability_in_agn_accretion_disks_effects_of_radiation_pressure/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/3d_radiation_hydrodynamic_simulations_of_gravitational_instability_in_agn_accretion_disks_effects_of_radiation_pressure/</guid>
+      <description>First author: Yi-Xian Chen
+We perform 3D radiation hydrodynamic local shearing box simulations to study the outcome of gravitational instability (GI) in optically thick Active Galactic Nuclei (AGN) accretion disks. GI develops when the Toomre parameter QT \leq 1, and may lead to turbulent heating that balances radiative cooling. However, when radiative cooling is too efficient, the disk may undergo runaway gravitational fragmentation. In the fully gas-pressure-dominated case, we confirm the classical result that such a thermal balance holds when the Shakura-Sunyaev viscosity parameter (alpha) due to the gravitationally-driven turbulence is \sim 0.</description>
+    </item>
+    
+    <item>
+      <title>UV-FIR SED modeling of AGN in IR-luminous galaxies up to z~2.5: Understanding the effects of torus models</title>
+      <link>https://nebula0.github.io/article/uv-fir_sed_modeling_of_agn_in_ir-luminous_galaxies_up_to_z~2.5_understanding_the_effects_of_torus_models/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/uv-fir_sed_modeling_of_agn_in_ir-luminous_galaxies_up_to_z~2.5_understanding_the_effects_of_torus_models/</guid>
+      <description>First author: Alyssa D. Sokol
+UV-FIR SED modeling is an effective way to disentangle emission between star formation (SF) and active galactic nuclei (AGN) in galaxies; however, this approach becomes uncertain for composite AGN/SF galaxies that comprise 50-70% of IR-samples. Cosmic X-ray background (XRB) models require a large fraction of obscured AGN to reproduce the observed XRB peak, motivating reliable SED analyses in objects where the AGN may be ``buried&amp;quot; in the galaxy and in the mid-IR to far-IR SED.</description>
+    </item>
+    
+    <item>
+      <title>Systematic research of low redshift optically selected SDSS Type-2 AGN but with apparent long-term optical variabilities from Catalina Sky Survey, I: data sample and basic results</title>
+      <link>https://nebula0.github.io/article/systematic_research_of_low_redshift_optically_selected_sdss_type-2_agn_but_with_apparent_long-term_optical_variabilities_from_catalina_sky_survey_i_data_sample_and_basic_results/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/systematic_research_of_low_redshift_optically_selected_sdss_type-2_agn_but_with_apparent_long-term_optical_variabilities_from_catalina_sky_survey_i_data_sample_and_basic_results/</guid>
+      <description>First author: Zhang XueGuang
+The main objective of the paper, the first paper in a dedicated series, is to report basic results on systematic research of low-redshift optically selected SDSS Type-2 AGN but with apparent optical variabilities. For all the pipeline classified Type-2 AGN in SDSS DR16 with $z&amp;lt;0.3$ and $SN&amp;gt;10$, long-term optical V-band light curves are collected from Catalina Sky Survey. Through all light curves described by Damped Random Walk process with process parameters of $\sigma/(mag/days^{0.</description>
+    </item>
+    
+    <item>
+      <title>The Messy Nature of Fiber Spectra: Star-Quasar Pairs Masquerading as Dual Type 1 AGNs</title>
+      <link>https://nebula0.github.io/article/the_messy_nature_of_fiber_spectra_star-quasar_pairs_masquerading_as_dual_type_1_agns/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_messy_nature_of_fiber_spectra_star-quasar_pairs_masquerading_as_dual_type_1_agns/</guid>
+      <description>First author: Ryan W. Pfeifle
+Theoretical studies predict that the most significant growth of supermassive black holes occurs in late-stage mergers, coinciding with the manifestation of dual active galactic nuclei (AGNs), and both major and minor mergers are expected to be important for dual AGN growth. In fact, dual AGNs in minor mergers should be signposts for efficient minor merger-induced SMBH growth for both the more and less massive progenitor.</description>
+    </item>
+    
+    <item>
+      <title>Classifying the full SDSS-IV MaNGA Survey using optical diagnostic diagrams: presentation of AGN catalogs in flexible apertures</title>
+      <link>https://nebula0.github.io/article/classifying_the_full_sdss-iv_manga_survey_using_optical_diagnostic_diagrams_presentation_of_agn_catalogs_in_flexible_apertures/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/classifying_the_full_sdss-iv_manga_survey_using_optical_diagnostic_diagrams_presentation_of_agn_catalogs_in_flexible_apertures/</guid>
+      <description>First author: Marco Albán
+Accurate active galactic nucleus (AGN) identifications in large galaxy samples are crucial to assess the role of AGN and AGN feedback in the coevolution of galaxies and their central supermassive black holes. Emission line flux ratio diagnostics are the most common technique for identifying AGN in optical spectra. New large samples of integral field unit observations allow The exploration of the role of aperture size used for the classification.</description>
+    </item>
+    
+    <item>
+      <title>Probing IC/CMB Interpretation for the X-ray knots of AGN through VHE observations</title>
+      <link>https://nebula0.github.io/article/probing_ic_cmb_interpretation_for_the_x-ray_knots_of_agn_through_vhe_observations/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/probing_ic_cmb_interpretation_for_the_x-ray_knots_of_agn_through_vhe_observations/</guid>
+      <description>First author: Amal A. Rahman
+Detection of hard X-ray spectrum from the kilo-parsec scale jet of active galactic nuclei cannot be accounted to the synchrotron emission mechanism from the electron distribution responsible for the radio/optical emission. Alternate explanations are the inverse Compton scattering of cosmic microwave background photons (IC/CMB) or synchrotron emission from a second electron population. When the X-ray emission is interpreted as IC/CMB process, the Compton spectrum peak at GeV energy and were predicted to be the Fermi candidate sources.</description>
+    </item>
+    
+    <item>
+      <title>The universal shape of the X-ray variability power spectrum of AGN up to $z\sim 3$</title>
+      <link>https://nebula0.github.io/article/the_universal_shape_of_the_x-ray_variability_power_spectrum_of_agn_up_to__z_sim_3_/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_universal_shape_of_the_x-ray_variability_power_spectrum_of_agn_up_to__z_sim_3_/</guid>
+      <description>First author: M. Paolillo
+We study the ensemble X-ray variability properties of Active Galactic Nuclei (AGN) over a large range of timescales (20 ks $\leq T\leq$ 14 yrs), redshift ($0\leq z \lesssim 3$), luminosities ($10^{40}$ erg s$^{-1}\leq L_X\leq 10^{46}$ erg s$^{-1}$) and black hole (BH) masses ($10^6 \leq $M$_\odot \leq 10^9$). We propose the use of the variance-frequency diagram, as a viable alternative to the study of the power spectral density (PSD), which is not yet accessible for distant, faint and/or sparsely sampled AGN.</description>
+    </item>
+    
     <item>
       <title>Looking for Signatures of AGN Feedback in Radio-Quiet AGN</title>
       <link>https://nebula0.github.io/article/looking_for_signatures_of_agn_feedback_in_radio-quiet_agn/</link>

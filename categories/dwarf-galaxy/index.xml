@@ -6,7 +6,47 @@
     <description>Recent content in dwarf galaxy on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/dwarf-galaxy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/dwarf-galaxy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Observations of R-Process Stars in the Milky Way and Dwarf Galaxies</title>
+      <link>https://nebula0.github.io/article/arxiv.2302.09188/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2302.09188/</guid>
+      <description>Anna Frebel
+This chapter presents an overview of the recent progress on spectroscopic observations of metal-poor stars with r-process element signatures found in the Milky Way&amp;amp;#39;s stellar halo and satellite dwarf galaxies. Major empirical lessons related to the origins of the r-process are discussed, including the universality of the observed r-process pattern and deviations from universality among the light r-process elements and actinides. Different astrophysical sites of the r-process based on theoretical expectations are presented, including common and rare supernovae and neutron star mergers.</description>
+    </item>
+    
+    <item>
+      <title>Search for Ultraheavy Dark Matter from Observations of Dwarf Spheroidal Galaxies with VERITAS</title>
+      <link>https://nebula0.github.io/article/arxiv.2302.08784/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2302.08784/</guid>
+      <description>VERITAS collaboration
+Dark matter is a key piece of the current cosmological scenario, with weakly interacting massive particles (WIMPs) a leading dark matter candidate. WIMPs have not been detected in their conventional parameter space (100 GeV $\lesssim M_χ \lesssim$ 100 TeV), a mass range accessible with current Imaging Atmospheric Cherenkov Telescopes. As ultraheavy dark matter (UHDM; $M_χ \gtrsim$ 100 TeV) has been suggested as an under-explored alternative to the WIMP paradigm, we search for an indirect dark matter annihilation signal in a higher mass range (up to 30 PeV) with the VERITAS gamma-ray observatory.</description>
+    </item>
+    
+    <item>
+      <title>The Isaac Newton Telescope Monitoring Survey of Local Group Dwarf Galaxies. VI. The Star Formation History and Dust Production in Andromeda IX</title>
+      <link>https://nebula0.github.io/article/arxiv.2302.07674/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2302.07674/</guid>
+      <description>Hedieh Abdollahi
+We present a photometric study of the resolved stellar populations in And IX, the closest satellite to the M31, a metal-poor and low-mass dwarf spheroidal galaxy. We estimate a distance modulus of $24.56_{-0.15}^{+0.05}$ mag based on the tip of the red giant branch (TRGB). By probing the variability of asymptotic giant branch stars (AGB), we study the star formation history of And IX. We identified 50 long period variables (LPVs) in And IX using the Isaac Newton Telescope (INT) in two filters, Sloan $i&amp;amp;#39;$ and Harris $V$.</description>
+    </item>
+    
+    <item>
+      <title>Merging Black Holes in Dwarf Galaxies: Calculating Binary Black Hole Coalescence Timescales from Simulations for LISA Detection</title>
+      <link>https://nebula0.github.io/article/arxiv.2111.15035/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2111.15035/</guid>
+      <description>Victoria I. De Cun
+Supermassive black holes (SMBHs) merging in dwarf galaxies will be detectable by the Laser Interferometer Space Antenna (LISA) in the mid-2030s. Previous cosmological hydrodynamic simulations have shown the prediction of massive black holes merging in dwarf galaxies, but these simulations are limited by their resolution and cannot follow black hole pairs all the way to coalescence. We calculate the delay time between black hole pairing and merger based on the properties of the black holes and their host galaxies, and use these properties to calculate gravitational wave strains for eleven different binary black holes that merge inside dwarf galaxies from eight cosmological simulations.</description>
+    </item>
+    
     <item>
       <title>Intermediate-mass black holes: finding of episodic, large-scale and powerful jet activity in a dwarf galaxy</title>
       <link>https://nebula0.github.io/article/arxiv.2302.06214/</link>

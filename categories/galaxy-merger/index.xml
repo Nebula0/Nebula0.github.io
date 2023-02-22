@@ -6,7 +6,17 @@
     <description>Recent content in galaxy merger on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/galaxy-merger/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/galaxy-merger/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modelling the accretion and feedback of supermassive black hole binaries in gas-rich galaxy mergers</title>
+      <link>https://nebula0.github.io/article/arxiv.2211.11788/</link>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2211.11788/</guid>
+      <description>Shihong Liao
+We introduce a new model for the accretion and feedback of supermassive black hole (SMBH) binaries to the KETJU code, which enables us to resolve the evolution of SMBH binaries down to separations of tens of Schwarzschild radii in gas-rich galaxy mergers. Our subgrid binary accretion model extends the widely used Bondi--Hoyle--Lyttleton accretion into the binary phase and incorporates preferential mass accretion onto the secondary SMBH, which is motivated by results from small-scale hydrodynamical circumbinary disc simulations.</description>
+    </item>
+    
     <item>
       <title>Remnants of recent mergers in nearby early-type galaxies and their classification</title>
       <link>https://nebula0.github.io/article/arxiv.2302.04471/</link>

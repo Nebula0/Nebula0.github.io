@@ -6,7 +6,17 @@
     <description>Recent content in galactic disk on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/galactic-disk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/galactic-disk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LISC Catalog of Open Clusters.III. 83 Newly found Galactic disk open clusters using Gaia EDR3</title>
+      <link>https://nebula0.github.io/article/arxiv.2302.08926/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2302.08926/</guid>
+      <description>Huanbin Chi
+As groups of coeval stars born from the same molecular cloud, an Open cluster (OC) is an ideal laboratory for studying the structure and dynamical evolution of the Milky Way. The release of High-Precision Gaia Early Data Release 3 (Gaia EDR3) and modern machine-learning methods offer unprecedented opportunities to identify OCs. In this study, we extended conventional HDBSCAN (e-HDBSCAN) for searching for new OCs in Gaia EDR3. A pipeline was developed based on the parallel computing technique to blindly search for open clusters from Gaia EDR3 within Galactic latitudes $\left| b \right|$ $&amp;amp;lt;$25 $^\circ$.</description>
+    </item>
+    
     <item>
       <title>The role of radial migration on tracing lithium evolution in the Galactic disk</title>
       <link>https://nebula0.github.io/article/arxiv.2301.12404/</link>

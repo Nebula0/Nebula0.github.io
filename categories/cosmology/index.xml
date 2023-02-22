@@ -6,7 +6,17 @@
     <description>Recent content in cosmology on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Improving initialization and evolution accuracy of cosmological neutrino simulations</title>
+      <link>https://nebula0.github.io/article/improving_initialization_and_evolution_accuracy_of_cosmological_neutrino_simulations/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/improving_initialization_and_evolution_accuracy_of_cosmological_neutrino_simulations/</guid>
+      <description>First author: James M. Sullivan
+Neutrino mass constraints are a primary focus of current and future large-scale structure (LSS) surveys. Non-linear LSS models rely heavily on cosmological simulations &amp;ndash; the impact of massive neutrinos should therefore be included in these simulations in a realistic, computationally tractable, and controlled manner. A recent proposal to reduce the related computational cost employs a symmetric neutrino momentum sampling strategy in the initial conditions. We implement a modified version of this strategy into the Hardware/Hybrid Accelerated Cosmology Code (HACC) and perform convergence tests on its internal parameters.</description>
+    </item>
+    
     <item>
       <title>Induced non-local cosmology</title>
       <link>https://nebula0.github.io/article/induced_non-local_cosmology/</link>

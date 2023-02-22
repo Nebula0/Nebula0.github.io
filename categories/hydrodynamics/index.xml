@@ -6,7 +6,17 @@
     <description>Recent content in hydrodynamics on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/hydrodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/hydrodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hydrodynamic Simulations and Time-dependent Photoionization Modeling of Starburst-driven Superwinds</title>
+      <link>https://nebula0.github.io/article/hydrodynamic_simulations_and_time-dependent_photoionization_modeling_of_starburst-driven_superwinds/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/hydrodynamic_simulations_and_time-dependent_photoionization_modeling_of_starburst-driven_superwinds/</guid>
+      <description>First author: A. Danehkar
+Thermal energies deposited by OB stellar clusters in starburst galaxies lead to the formation of galactic superwinds. Multi-wavelength observations of starburst-driven superwinds pointed at complex thermal and ionization structures which cannot adequately be explained by simple adiabatic assumptions. In this study, we perform hydrodynamic simulations of a fluid model coupled to radiative cooling functions, and generate time-dependent non-equilibrium photoionization models to predict physical conditions and ionization structures of superwinds using the MAIHEM atomic and cooling package built on the program FLASH.</description>
+    </item>
+    
     <item>
       <title>Boundary conditions in hydrodynamic simulations of isolated galaxies and their impact on the gas-loss processes</title>
       <link>https://nebula0.github.io/article/boundary_conditions_in_hydrodynamic_simulations_of_isolated_galaxies_and_their_impact_on_the_gas-loss_processes/</link>
