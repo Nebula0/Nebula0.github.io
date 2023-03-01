@@ -6,7 +6,57 @@
     <description>Recent content in cosmology on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spatial Curvature from Super-Hubble Cosmological Fluctuations</title>
+      <link>https://nebula0.github.io/article/spatial_curvature_from_super-hubble_cosmological_fluctuations/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/spatial_curvature_from_super-hubble_cosmological_fluctuations/</guid>
+      <description>First author: Baptiste Blachier
+We revisit how super-Hubble cosmological fluctuations induce, at any time in the cosmic history, a non-vanishing spatial curvature of the local background metric. The random nature of these fluctuations promotes the curvature density parameter to a stochastic quantity for which we derive novel non-perturbative expressions for its mean, variance, higher moments and full probability distribution. For scale-invariant Gaussian perturbations, such as those favored by cosmological observations, we find that the most probable value for the curvature density parameter $\Omega_\mathrm{K}$ today is $-10^{-9}$, that its mean is $+10^{-9}$, both being overwhelmed by a standard deviation of order $10^{-5}$.</description>
+    </item>
+    
+    <item>
+      <title>Mass bias and cosmological constraints from Planck cluster clustering</title>
+      <link>https://nebula0.github.io/article/mass_bias_and_cosmological_constraints_from_planck_cluster_clustering/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/mass_bias_and_cosmological_constraints_from_planck_cluster_clustering/</guid>
+      <description>First author: G. F. Lesci
+We analysed the 3D clustering of the Planck sample of Sunyaev-Zeldovich (SZ) selected galaxy clusters, focusing on the redshift-space two-point correlation function (2PCF). We compared our measurements to theoretical predictions of the standard $\Lambda$ cold dark matter ($\Lambda$CDM) cosmological model, deriving an estimate of the Planck mass bias, $b_{\mathrm SZ}$, and cosmological parameters. We measured the 2PCF of the sample in the cluster-centric radial range $r\in[10,150]$ $h^{-1}$Mpc, considering 920 galaxy clusters with redshift $z\leq0.</description>
+    </item>
+    
+    <item>
+      <title>CMB constraints on the early universe independent of late time cosmology</title>
+      <link>https://nebula0.github.io/article/cmb_constraints_on_the_early_universe_independent_of_late_time_cosmology/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/cmb_constraints_on_the_early_universe_independent_of_late_time_cosmology/</guid>
+      <description>First author: Pablo Lemos
+The CMB is a powerful probe of early-universe physics but is only observed after passing through large-scale structure, which changes the observed spectra in important model-dependent ways. This is of particular concern given recent claims of significant discrepancies with low redshift data sets when a standard $\Lambda$CDM model is assumed. By using empirical measurements of the CMB lensing reconstruction, combined with weak priors on the smoothness of the lensing spectrum, foregrounds, and shape of any additional integrated Sachs-Wolfe effect, we show how the early-universe parameters can be constrained from CMB observations almost independently of the late-time evolution.</description>
+    </item>
+    
+    <item>
+      <title>Constraints on the Cosmological Coupling of Black Holes from the Globular Cluster NGC 3201</title>
+      <link>https://nebula0.github.io/article/constraints_on_the_cosmological_coupling_of_black_holes_from_the_globular_cluster_ngc_3201/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/constraints_on_the_cosmological_coupling_of_black_holes_from_the_globular_cluster_ngc_3201/</guid>
+      <description>First author: Carl L. Rodriguez
+Globular clusters are among the oldest stellar populations in the Milky Way; consequently, they also host some of the oldest known stellar-mass black holes, providing insight into black hole formation and evolution in the early ($z\gtrsim 2$) Universe. Recent observations of supermassive black holes in elliptical galaxies have been invoked to suggest the possibility of a cosmological coupling between astrophysical black holes and the surrounding expanding Universe, offering a mechanism for black holes to grow over cosmic time, and potentially explaining the origin of dark energy.</description>
+    </item>
+    
+    <item>
+      <title>GEAR-RT: Towards Exa-Scale Moment Based Radiative Transfer For Cosmological Simulations Using Task-Based Parallelism And Dynamic Sub-Cycling with SWIFT</title>
+      <link>https://nebula0.github.io/article/gear-rt_towards_exa-scale_moment_based_radiative_transfer_for_cosmological_simulations_using_task-based_parallelism_and_dynamic_sub-cycling_with_swift/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/gear-rt_towards_exa-scale_moment_based_radiative_transfer_for_cosmological_simulations_using_task-based_parallelism_and_dynamic_sub-cycling_with_swift/</guid>
+      <description>First author: Mladen Ivkovic
+The development and implementation of GEAR-RT, a radiative transfer solver using the M1 closure in the open source code SWIFT, is presented, and validated using standard tests for radiative transfer. GEAR-RT is modeled after RAMSES-RT (Rosdahl et al. 2013) with some key differences. Firstly, while RAMSES-RT uses Finite Volume methods and an Adaptive Mesh Refinement (AMR) strategy, GEAR-RT employs particles as discretization elements and solves the equations using a Finite Volume Particle Method (FVPM).</description>
+    </item>
+    
     <item>
       <title>Improving initialization and evolution accuracy of cosmological neutrino simulations</title>
       <link>https://nebula0.github.io/article/improving_initialization_and_evolution_accuracy_of_cosmological_neutrino_simulations/</link>

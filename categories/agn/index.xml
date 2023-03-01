@@ -6,7 +6,87 @@
     <description>Recent content in AGN on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/agn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/agn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AGN STORM 2. III. A NICER view of the variable X-ray obscurer in Mrk 817</title>
+      <link>https://nebula0.github.io/article/agn_storm_2._iii._a_nicer_view_of_the_variable_x-ray_obscurer_in_mrk_817/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/agn_storm_2._iii._a_nicer_view_of_the_variable_x-ray_obscurer_in_mrk_817/</guid>
+      <description>First author: Ethan R. Partington
+The AGN STORM 2 collaboration targeted the Seyfert 1 galaxy Mrk 817 for a year-long multiwavelength, coordinated reverberation mapping campaign including HST, Swift, XMM-Newton, NICER, and ground-based observatories. Early observations with NICER and XMM revealed an X-ray state ten times fainter than historical observations, consistent with the presence of a new dust-free, ionized obscurer. The following analysis of NICER spectra attributes variability in the observed X-ray flux to changes in both the column density of the obscurer by at least one order of magnitude ($N_\mathrm{H}$ ranges from $2.</description>
+    </item>
+    
+    <item>
+      <title>Assessing model-based carbon and oxygen abundance derivation from ultraviolet emission lines in AGNs</title>
+      <link>https://nebula0.github.io/article/assessing_model-based_carbon_and_oxygen_abundance_derivation_from_ultraviolet_emission_lines_in_agns/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/assessing_model-based_carbon_and_oxygen_abundance_derivation_from_ultraviolet_emission_lines_in_agns/</guid>
+      <description>First author: Enrique Pérez-Montero
+We present an adapted version of the code HII-CHI-Mistry-UV (P&#39;erez-Montero &amp;amp; Amor&#39;in 2017) to derive chemical abundances from emission lines in the ultraviolet, for use in narrow line regions (NLR) of Active Galactic Nuclei (AGN). We evaluate different ultraviolet emission line ratios and how different assumptions about the models, including the presence of dust grains, the shape of the incident spectral energy distribution, or the thickness of the gas envelope around the central source, may affect the final estimates as a function of the set of emission lines used.</description>
+    </item>
+    
+    <item>
+      <title>Constraining AGN Torus Sizes with Optical and Mid-Infrared Ensemble Structure Functions</title>
+      <link>https://nebula0.github.io/article/constraining_agn_torus_sizes_with_optical_and_mid-infrared_ensemble_structure_functions/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/constraining_agn_torus_sizes_with_optical_and_mid-infrared_ensemble_structure_functions/</guid>
+      <description>First author: Junyao Li
+We propose a new method to constrain the size of the dusty torus in broad-line active galactic nuclei (AGNs) using optical and mid-infrared (MIR) ensemble structure functions (SFs). Because of the geometric dilution of the torus, the mid-infrared response to optical continuum variations has suppressed variability with respect to the optical that depends on the geometry (e.g., size, orientation and opening angle) of the torus. More extended tori have steeper MIR SFs with respect to the optical SF.</description>
+    </item>
+    
+    <item>
+      <title>Galactic bulge-black hole co-evolution, feeding and feedback of AGNs</title>
+      <link>https://nebula0.github.io/article/galactic_bulge-black_hole_co-evolution_feeding_and_feedback_of_agns/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/galactic_bulge-black_hole_co-evolution_feeding_and_feedback_of_agns/</guid>
+      <description>First author: Francoise Combes
+Since the 1990s, we have known that there is a super-massive black hole in every galaxy, and that its mass is proportional to the mass of the bulge. To better understand how these black holes were formed, in symbiosis with their galaxies, we will look at their demography, the scaling relations between properties of black holes and host galaxies, and their evolution in a Hubble time.</description>
+    </item>
+    
+    <item>
+      <title>The eROSITA Final Equatorial-Depth Survey (eFEDS): Host-galaxy Demographics of X-ray AGNs with Subaru Hyper Suprime-Cam</title>
+      <link>https://nebula0.github.io/article/the_erosita_final_equatorial-depth_survey_efeds_host-galaxy_demographics_of_x-ray_agns_with_subaru_hyper_suprime-cam/</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_erosita_final_equatorial-depth_survey_efeds_host-galaxy_demographics_of_x-ray_agns_with_subaru_hyper_suprime-cam/</guid>
+      <description>First author: Junyao Li
+We investigate the physical properties, such as star-forming activity, disk vs. bulge nature, galaxy size, and obscuration of 3796 X-ray selected AGNs at $0.2&amp;lt;z&amp;lt;0.8$ in the eFEDS field. Using Subaru Hyper Suprime-Cam imaging data in the $grizy$ bands for SRG/eROSITA-detected AGNs, we measure the structural parameters for AGN host galaxies by performing a 2D AGN-host image decomposition. We then conduct spectral energy distribution fitting to derive stellar mass and rest-frame colors for AGN hosts.</description>
+    </item>
+    
+    <item>
+      <title>AGN feedback in an infant galaxy cluster: the LOFAR-Chandra view of the giant FRII radio galaxy J103025&#43;052430 at z=1.7</title>
+      <link>https://nebula0.github.io/article/agn_feedback_in_an_infant_galaxy_cluster_the_lofar-chandra_view_of_the_giant_frii_radio_galaxy_j103025&#43;052430_at_z1.7/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/agn_feedback_in_an_infant_galaxy_cluster_the_lofar-chandra_view_of_the_giant_frii_radio_galaxy_j103025&#43;052430_at_z1.7/</guid>
+      <description>First author: M. Brienza
+In the nearby universe jets from AGN are observed to have a dramatic impact on their surrounding extragalactic environment. Their effect at the cosmic noon&#39; (z&amp;gt;1.5), the epoch when star formation and AGN activity peak, is instead much less constrained. Here we present a study of the giant (750 kpc) radio galaxy 103025+052430 located at the centre of a protocluster at redshift z=1.7, with a focus on its interaction with the external medium.</description>
+    </item>
+    
+    <item>
+      <title>AGN STORM 2: II. Ultraviolet Observations of Mrk817 with the Cosmic Origins Spectrograph on the Hubble Space Telescope</title>
+      <link>https://nebula0.github.io/article/agn_storm_2_ii._ultraviolet_observations_of_mrk817_with_the_cosmic_origins_spectrograph_on_the_hubble_space_telescope/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/agn_storm_2_ii._ultraviolet_observations_of_mrk817_with_the_cosmic_origins_spectrograph_on_the_hubble_space_telescope/</guid>
+      <description>First author: Y. Homayouni
+We present reverberation mapping measurements for the prominent ultraviolet broad emission lines of the active galactic nucleus Mrk817 using 165 spectra obtained with the Cosmic Origins Spectrograph on the Hubble Space Telescope. Our ultraviolet observations are accompanied by X-ray, optical, and near-infrared observations as part of the AGN Space Telescope and Optical Reverberation Mapping Program 2 (AGN STORM 2). Using the cross-correlation lag analysis method, we find significant correlated variations in the continuum and emission-line light curves.</description>
+    </item>
+    
+    <item>
+      <title>Curvature of the spectral energy distribution, Compton dominance and synchrotron peak frequency in jetted AGNs</title>
+      <link>https://nebula0.github.io/article/curvature_of_the_spectral_energy_distribution_compton_dominance_and_synchrotron_peak_frequency_in_jetted_agns/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/curvature_of_the_spectral_energy_distribution_compton_dominance_and_synchrotron_peak_frequency_in_jetted_agns/</guid>
+      <description>First author: Chen Yongyun
+We collect a large sample with a reliable redshift detected by the Fermi satellite after 10 years of data (4FGL-DR2), including blazars, $\gamma$-ray Narrow-line Seyfert 1 galaxies ($\gamma$NLS1s), and radio galaxies. The spectral energy distributions (SEDs) of these Fermi sources are fitted by using a second-degree polynomial, and some important parameters including spectral curvature, synchrotron peak frequency, and peak luminosity are obtained. Based on those parameters, we discuss the Fermi blazar sequence and the particle acceleration mechanism.</description>
+    </item>
+    
     <item>
       <title>3D Radiation Hydrodynamic Simulations of Gravitational Instability in AGN Accretion Disks: Effects of Radiation Pressure</title>
       <link>https://nebula0.github.io/article/3d_radiation_hydrodynamic_simulations_of_gravitational_instability_in_agn_accretion_disks_effects_of_radiation_pressure/</link>
