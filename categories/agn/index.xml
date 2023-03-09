@@ -6,7 +6,47 @@
     <description>Recent content in AGN on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/agn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/agn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Can observations of 511 keV line from the M31 galaxy shed light on the AGN jet composition?</title>
+      <link>https://nebula0.github.io/article/can_observations_of_511_kev_line_from_the_m31_galaxy_shed_light_on_the_agn_jet_composition/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/can_observations_of_511_kev_line_from_the_m31_galaxy_shed_light_on_the_agn_jet_composition/</guid>
+      <description>First author: B. A. Nizamov
+Positron annihilation line at 511~keV is a known component of the gamma-ray diffuse emission. It is believed to be produced in the Galaxy, but there could be possible extragalactic contribution as well. E.g., positrons can be produced in jets of active galactic nuclei (AGN) and after that accumulate and gradually annihilate in hot gaseous halos around galaxies. In this work we test this hypothesis in application to an individual object &amp;ndash; the Andromeda galaxy (M31) which is close and has a supermassive black hole in its center, which powered an AGN before.</description>
+    </item>
+    
+    <item>
+      <title>Excitation of Langmuir waves in the magnetospheres of AGN</title>
+      <link>https://nebula0.github.io/article/excitation_of_langmuir_waves_in_the_magnetospheres_of_agn/</link>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/excitation_of_langmuir_waves_in_the_magnetospheres_of_agn/</guid>
+      <description>First author: Z. N. Osmanov
+In the paper we study the process of excitation of Langmuir waves in the magnetospheres of active galactic nuclei (AGN), by taking a general-relativistic expression of the Goldreich-Julian density into account. We considered the linearised set of equations which describe dynamics of the studied mechanism: the Euler equation, the continuity equation and the Poisson equation. After solving the dispersion relation and obtaining the instability growth rate, we explored it versus several physical parameters: electron&amp;rsquo;s and proton&amp;rsquo;s relativistic factors and the mass and luminosity of AGN, which are supposed to be Kerr black holes.</description>
+    </item>
+    
+    <item>
+      <title>Measuring the properties of active galactic nuclei disks with gravitational waves</title>
+      <link>https://nebula0.github.io/article/arxiv.2111.03992/</link>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2111.03992/</guid>
+      <description>Avi Vajpeyi
+Active galactic nuclei (AGN) are promising environments for the assembly of merging binary black hole (BBH) systems. Interest in AGNs as nurseries for merging BBH is rising following the detection of gravitational waves from a BBH system from the purported pair-instability mass gap, most notably, GW190521. Active galactic nuclei have also been invoked to explain the formation of the high-mass-ratio system, GW190814. We draw on simulations of BBH systems in AGN to propose a phenomenological model for the distribution of black hole spins of merging binaries in AGN disks.</description>
+    </item>
+    
+    <item>
+      <title>Quenching star formation with low-luminosity AGN winds</title>
+      <link>https://nebula0.github.io/article/quenching_star_formation_with_low-luminosity_agn_winds/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/quenching_star_formation_with_low-luminosity_agn_winds/</guid>
+      <description>First author: Ivan Almeida
+We present a simple model for low-luminosity active galactic nucleus (LLAGN) feedback through thermal winds produced by a hot accretion flow. The wind carries considerable energy and deposits it on the host galaxy at kiloparsec scales and beyond, heating the galactic gas thereby quenching star formation. Our model predicts that the typical LLAGN can quench more than $10%$ of star formation in its host galaxy. We find that long-lived LLAGN winds from supermassive black holes (SMBH) with masses $\geq 10^8 M_{\odot}$ and mass accretion rates $\dot{M} &amp;gt; 10^{-3}\dot{M}{\rm Edd}$ can prevent gas collapse and significantly quench galactic star formation compared to a scenario without AGN, if the wind persists over 1 Myr.</description>
+    </item>
+    
     <item>
       <title>AGN STORM 2. III. A NICER view of the variable X-ray obscurer in Mrk 817</title>
       <link>https://nebula0.github.io/article/agn_storm_2._iii._a_nicer_view_of_the_variable_x-ray_obscurer_in_mrk_817/</link>

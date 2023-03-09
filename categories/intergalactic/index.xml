@@ -6,7 +6,27 @@
     <description>Recent content in intergalactic on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/intergalactic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/intergalactic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intergalactic magnetic field studies by means of $γ$-ray emission from GRB 190114C</title>
+      <link>https://nebula0.github.io/article/intergalactic_magnetic_field_studies_by_means_of__%CE%B3_-ray_emission_from_grb_190114c/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/intergalactic_magnetic_field_studies_by_means_of__%CE%B3_-ray_emission_from_grb_190114c/</guid>
+      <description>First author: Paolo Da Vela
+The presence of delayed GeV emission after a strong transient, such as a GRB (Gamma-Ray Burst), in the VHE (Very-High Energy, $E&amp;gt;100$ GeV) band can be the signature of a non-zero magnetic field in the intergalactic medium. We used a synchrotron self-Compton multiwavelength model to infer an analytical description of the intrinsic VHE spectrum (corrected for absorption by the Extragalactic Background Light, EBL) of GRB$,$190114C to predict the lightcurves and SEDs of the delayed emission with Monte Carlo simulations for different IGMF (Intergalactic Magnetic Field) configurations (strengths $B=8\times10^{-21}$ G, $10^{-20}$ G, $3\times 10^{-20}$G and correlation length $\lambda&amp;gt;1$ Mpc), and compared them with the Fermi-LAT (Fermi Large Area Telescope) limits computed for several exposure times.</description>
+    </item>
+    
+    <item>
+      <title>Searching for the warm-hot intergalactic medium using XMM-Newton high-resolution X-ray spectra</title>
+      <link>https://nebula0.github.io/article/searching_for_the_warm-hot_intergalactic_medium_using_xmm-newton_high-resolution_x-ray_spectra/</link>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/searching_for_the_warm-hot_intergalactic_medium_using_xmm-newton_high-resolution_x-ray_spectra/</guid>
+      <description>First author: E. Gatuzz
+The problem of missing baryons in the local universe remains an open question. One propose alternative is that at low redshift missing baryons are in the form of the Warm Hot Intergalactic Medium (WHIM). In order to test this idea, we present a detailed analysis of X-ray high-resolution spectra of six extragalactic sources, Mrk 421, 1ES 1028+511, 1ES 1553+113, H2356-309, PKS 0558-504 and PG 1116+215, obtained with the XMM-Newton Reflection Grating Spectrometer to search for signals of WHIM and/or circumgalactic medium (CGM) X-ray absorbing gas.</description>
+    </item>
+    
     <item>
       <title>A framework to measure the properties of intergalactic metal systems with two-point flux statistics</title>
       <link>https://nebula0.github.io/article/a_framework_to_measure_the_properties_of_intergalactic_metal_systems_with_two-point_flux_statistics/</link>

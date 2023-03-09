@@ -6,7 +6,67 @@
     <description>Recent content in supernovae on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/supernovae/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/supernovae/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Constraining High-Energy Neutrino Emission from Supernovae with IceCube</title>
+      <link>https://nebula0.github.io/article/constraining_high-energy_neutrino_emission_from_supernovae_with_icecube/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/constraining_high-energy_neutrino_emission_from_supernovae_with_icecube/</guid>
+      <description>First author: R. Abbasi
+Core-collapse supernovae are a promising potential high-energy neutrino source class. We test for correlation between seven years of IceCube neutrino data and a catalog containing more than 1000 core-collapse supernovae of types IIn and IIP and a sample of stripped-envelope supernovae. We search both for neutrino emission from individual supernovae, and for combined emission from the whole supernova sample through a stacking analysis. No significant spatial or temporal correlation of neutrinos with the cataloged supernovae was found.</description>
+    </item>
+    
+    <item>
+      <title>Rapid Expansion of the Young Type Ia Supernova Remnant 0519-69.0: More Evidence for a Circumstellar Shell</title>
+      <link>https://nebula0.github.io/article/rapid_expansion_of_the_young_type_ia_supernova_remnant_0519-69.0_more_evidence_for_a_circumstellar_shell/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/rapid_expansion_of_the_young_type_ia_supernova_remnant_0519-69.0_more_evidence_for_a_circumstellar_shell/</guid>
+      <description>First author: Benson T. Guest
+The nature of Type Ia supernovae remains controversial. The youngest remnants of Ia supernovae hold clues to the explosion and to the immediate surroundings. We present a third epoch of Chandra observations of the $\sim600$-year-old Type Ia remnant 0519-69.0 in the Large Magellanic Cloud, extending the time baseline to 21 years from the initial 2000 observations. We find rapid expansion of X-ray emitting material, with an average velocity of 4760 km s$^{-1}$.</description>
+    </item>
+    
+    <item>
+      <title>SN2017egm: A Helium-rich Superluminous Supernova with Multiple Bumps in the Light Curves</title>
+      <link>https://nebula0.github.io/article/sn2017egm_a_helium-rich_superluminous_supernova_with_multiple_bumps_in_the_light_curves/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/sn2017egm_a_helium-rich_superluminous_supernova_with_multiple_bumps_in_the_light_curves/</guid>
+      <description>First author: Jiazheng Zhu
+When discovered, SN~2017egm was the closest (redshift $z=0.03$) hydrogen-poor superluminous supernova (SLSN-I) and a rare case that exploded in a massive and metal-rich galaxy. Thus, it has since been extensively observed and studied. We report spectroscopic data showing strong emission at around He~I $\lambda$10,830 and four He~I absorption lines in the optical. Consequently, we classify SN~2017egm as a member of an emerging population of helium-rich SLSNe-I (i.</description>
+    </item>
+    
+    <item>
+      <title>An archival search for type Ia supernova siblings</title>
+      <link>https://nebula0.github.io/article/an_archival_search_for_type_ia_supernova_siblings/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/an_archival_search_for_type_ia_supernova_siblings/</guid>
+      <description>First author: L. Kelsey
+By searching the Open Supernova Catalog, an extra-galactic transient host galaxy database, and literature analyses, I present the largest sample of type Ia supernova (SN Ia) siblings to date. The sample comprises 158 galaxies, consisting of 327 confirmed SNe Ia - over 10 times larger than existing sibling SN Ia samples. SN siblings share host galaxies, and thus share global environmental properties and associated systematic uncertainties.</description>
+    </item>
+    
+    <item>
+      <title>Growth-rate measurement with type-Ia supernovae using ZTF survey simulations</title>
+      <link>https://nebula0.github.io/article/growth-rate_measurement_with_type-ia_supernovae_using_ztf_survey_simulations/</link>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/growth-rate_measurement_with_type-ia_supernovae_using_ztf_survey_simulations/</guid>
+      <description>First author: Bastien Carreres
+Measurements of the growth rate of structures at $z &amp;lt; 0.1$ with peculiar velocity surveys have the potential of testing the validity of general relativity on cosmic scales. In this work, we present growth-rate measurements from realistic simulated sets of type-Ia supernovae (SNe Ia) from the Zwicky Transient Facility (ZTF). We describe our simulation methodology, the light-curve fitting and peculiar velocity estimation. Using the maximum likelihood method, we derive constraints on $f\sigma_8$ using only ZTF SN Ia peculiar velocities.</description>
+    </item>
+    
+    <item>
+      <title>Synthetic red supergiant explosion model grid for systematic characterization of Type II supernovae</title>
+      <link>https://nebula0.github.io/article/synthetic_red_supergiant_explosion_model_grid_for_systematic_characterization_of_type_ii_supernovae/</link>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/synthetic_red_supergiant_explosion_model_grid_for_systematic_characterization_of_type_ii_supernovae/</guid>
+      <description>First author: Takashi J. Moriya
+A new model grid containing 228,016 synthetic red supergiant explosions (Type II supernovae) is introduced. Time evolution of spectral energy distributions from 1 A to 50,000 A (100 frequency bins in a log scale) is computed at each time step up to 500 days after explosion in each model. We provide light curves for the filters of the Vera C. Rubin Observatory&amp;rsquo;s Legacy Survey of Space and Time (LSST), Zwicky Transient Facility (ZTF), Sloan Digital Sky Servey (SDSS), and the Neil Gehrels Swift Observatory, but light curves for any photometric filters can be constructed by convolving any filter response functions to the synthetic spectral energy distributions.</description>
+    </item>
+    
     <item>
       <title>The restframe ultraviolet of superluminous supernovae -- I. Potential as cosmological probes</title>
       <link>https://nebula0.github.io/article/the_restframe_ultraviolet_of_superluminous_supernovae_--_i._potential_as_cosmological_probes/</link>

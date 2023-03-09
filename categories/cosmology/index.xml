@@ -6,7 +6,67 @@
     <description>Recent content in cosmology on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primordial Gravitational Waves Assisted by Cosmological Scalar Perturbations</title>
+      <link>https://nebula0.github.io/article/primordial_gravitational_waves_assisted_by_cosmological_scalar_perturbations/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/primordial_gravitational_waves_assisted_by_cosmological_scalar_perturbations/</guid>
+      <description>First author: Yan-Heng Yu
+Primordial gravitational waves are one of the most important predictions of inflation theory, and measurements of their imprints on the cosmic microwave background are actively pursued, but not yet succeed until now. Here we point out that measurements of primordial gravitational waves could be conceivable through searching for a signal of second-order tensor perturbations, which were produced due to nonlinear couplings between the linear tensor and scalar perturbations in the early universe.</description>
+    </item>
+    
+    <item>
+      <title>Using entropy bounds to avoid the cosmological singularity and constrain particle production</title>
+      <link>https://nebula0.github.io/article/using_entropy_bounds_to_avoid_the_cosmological_singularity_and_constrain_particle_production/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/using_entropy_bounds_to_avoid_the_cosmological_singularity_and_constrain_particle_production/</guid>
+      <description>First author: Hao Yu
+In this work, we study the applications of entropy bounds in two toy cosmological models with particle production (annihilation), i.e., radiation-dominated universe and dust-dominated universe. Since entropy bounds are involved in the volume of the thermodynamc system, we need to specify the thermodynamc system in the universe in advance. We consider the co-moving volume and the volume covered by the particle horizon as the target thermodynamic system.</description>
+    </item>
+    
+    <item>
+      <title>Gravitational Matter Creation, Multi-fluid Cosmology and Kinetic Theory</title>
+      <link>https://nebula0.github.io/article/gravitational_matter_creation_multi-fluid_cosmology_and_kinetic_theory/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/gravitational_matter_creation_multi-fluid_cosmology_and_kinetic_theory/</guid>
+      <description>First author: S. R. G. Trevisani
+A macroscopic and kinetic relativistic description for a decoupled multi-fluid cosmology endowed with gravitationally induced particle production of all components is proposed. The temperature law for each decoupled particle species is also kinetically derived. The present approach points to the possibility of an exact (semi-classical) quantum-gravitational kinetic treatment by incorporating back reaction effects for an arbitrary set of dominant decoupled components. As an illustration we show that a cosmology driven by creation of cold dark matter and baryons (without dark energy) evolves like $\Lambda$CDM.</description>
+    </item>
+    
+    <item>
+      <title>High-accuracy emulators for observables in $Λ$CDM, $N_\mathrm{eff}$, $Σm_ν$, and $w$ cosmologies</title>
+      <link>https://nebula0.github.io/article/high-accuracy_emulators_for_observables_in__%CE%BB_cdm__n__mathrmeff___%CF%83m_%CE%BD__and__w__cosmologies/</link>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/high-accuracy_emulators_for_observables_in__%CE%BB_cdm__n__mathrmeff___%CF%83m_%CE%BD__and__w__cosmologies/</guid>
+      <description>First author: Boris Bolliet
+We use the emulation framework CosmoPower to construct and publicly release neural network emulators of cosmological observables, including the Cosmic Microwave Background (CMB) temperature and polarization power spectra, matter power spectrum, distance-redshift relation, baryon acoustic oscillation (BAO) and redshift-space distortion (RSD) observables, and derived parameters. We train our emulators on Einstein-Boltzmann calculations obtained with high-precision numerical convergence settings, for a wide range of cosmological models including $\Lambda$CDM, $w$CDM, $\Lambda$CDM+$N_\mathrm{eff}$, and $\Lambda$CDM+$\Sigma m_\nu$.</description>
+    </item>
+    
+    <item>
+      <title>Canonical Hubble-Tension-Resolving Early Dark Energy Cosmologies are Inconsistent with the Lyman-$α$ Forest</title>
+      <link>https://nebula0.github.io/article/canonical_hubble-tension-resolving_early_dark_energy_cosmologies_are_inconsistent_with_the_lyman-_%CE%B1__forest/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/canonical_hubble-tension-resolving_early_dark_energy_cosmologies_are_inconsistent_with_the_lyman-_%CE%B1__forest/</guid>
+      <description>First author: Samuel Goldstein
+Current cosmological data exhibit discordance between indirect and some direct inferences of the present-day expansion rate, $H_0$. Early dark energy (EDE), which briefly increases the cosmic expansion rate prior to recombination, is a leading scenario for resolving this &amp;ldquo;Hubble tension&amp;rsquo;&amp;rsquo; while preserving a good fit to cosmic microwave background (CMB) data. However, this comes at the cost of changes in parameters that affect structure formation in the late-time universe, including the spectral index of scalar perturbations, $n_s$.</description>
+    </item>
+    
+    <item>
+      <title>Numerical Discreteness Errors in Multi-Species Cosmological N-body Simulations</title>
+      <link>https://nebula0.github.io/article/numerical_discreteness_errors_in_multi-species_cosmological_n-body_simulations/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/numerical_discreteness_errors_in_multi-species_cosmological_n-body_simulations/</guid>
+      <description>First author: Xin Liu
+We present a detailed analysis of numerical discreteness errors in two-species, gravity-only, cosmological simulations using the density power spectrum as a diagnostic probe. In a simple setup where both species are initialized with the same total matter transfer function, biased growth of power forms on small scales when the solver force resolution is finer than the mean interparticle separation. The artificial bias is more severe when individual density and velocity transfer functions are applied.</description>
+    </item>
+    
     <item>
       <title>Spatial Curvature from Super-Hubble Cosmological Fluctuations</title>
       <link>https://nebula0.github.io/article/spatial_curvature_from_super-hubble_cosmological_fluctuations/</link>

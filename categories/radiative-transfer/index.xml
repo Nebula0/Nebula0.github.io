@@ -6,7 +6,17 @@
     <description>Recent content in radiative transfer on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/radiative-transfer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/radiative-transfer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>General-relativistic radiation transport scheme in Gmunu I: Implementation of two-moment based multi-frequency radiative transfer and code tests</title>
+      <link>https://nebula0.github.io/article/arxiv.2303.03261/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2303.03261/</guid>
+      <description>Patrick Chi-Kit Cheong
+We present the implementation of two-moment based general-relativistic multi-group radiation transport module in the $\texttt{G}$eneral-relativistic $\texttt{mu}$ltigrid $\texttt{nu}$merical ($\texttt{Gmunu}$) code. On top of solving the general-relativistic magnetohydrodynamics and the Einstein equations with conformally flat approximations, the code solves the evolution equations of the zeroth- and first-order moments of the radiations. Analytic closure relation is used to obtain the higher order moments and close the system. The finite-volume discretisation has been adopted for the radiation moments.</description>
+    </item>
+    
     <item>
       <title>Lyman-α polarization from cosmological ionization fronts: I. Radiative transfer simulations</title>
       <link>https://nebula0.github.io/article/arxiv.2302.05369/</link>

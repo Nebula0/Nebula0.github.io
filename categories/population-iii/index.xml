@@ -6,7 +6,17 @@
     <description>Recent content in Population III on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/population-iii/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/population-iii/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Population III X-ray Binaries and their Impact on the Early Universe</title>
+      <link>https://nebula0.github.io/article/arxiv.2303.03435/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2303.03435/</guid>
+      <description>Nina S. Sartorio
+The first population of X-ray binaries (XRBs) is expected to affect the thermal and ionization states of the gas in the early Universe. Although these X-ray sources are predicted to have important implications for high-redshift observable signals, such as the hydrogen 21-cm signal from cosmic dawn and the cosmic X-ray background, their properties are poorly explored, leaving theoretical models largely uninformed. In this paper we model a population of X-ray binaries arising from zero metallicity stars.</description>
+    </item>
+    
     <item>
       <title>The most massive Population III stars</title>
       <link>https://nebula0.github.io/article/arxiv.2302.09763/</link>
@@ -15,16 +25,6 @@
       <guid>https://nebula0.github.io/article/arxiv.2302.09763/</guid>
       <description>Teeraparb Chantavat
 Recent data from the James Webb Space Telescope suggest that there are realistic prospects for detecting the earliest generation of stars at redshift ~20. These metal-poor, gaseous Population III stars are likely in the mass range $10-10^3 M_\odot$. We develop a framework for calculating the abundances of Pop III stars as well as the distribution of the most massive Pop III stars based on an application of extreme-value statistics.</description>
-    </item>
-    
-    <item>
-      <title>Evolution of Rotating 25 M⊙ Population III star: Physical Properties and Resulting Supernovae</title>
-      <link>https://nebula0.github.io/article/untitled/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/untitled/</guid>
-      <description>Amar Aryan
-In this Letter, we report the outcomes of 1-D modelling of a rotating 25 M$_{\odot}$ zero-age main-sequence Population III star up to the stage of the onset of core collapse. Rapidly rotating models display violent and sporadic mass losses after the Main-Sequence stage. In comparison to the solar metallicity model, Pop III models show very small pre-supernova radii. Further, with models at the stage of the onset of core collapse, we simulate the hydrodynamic simulations of resulting supernovae.</description>
     </item>
     
     <item>

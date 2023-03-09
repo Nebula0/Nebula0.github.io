@@ -6,7 +6,46 @@
     <description>Recent content in early universe on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/early-universe/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/early-universe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>General-relativistic radiation transport scheme in Gmunu I: Implementation of two-moment based multi-frequency radiative transfer and code tests</title>
+      <link>https://nebula0.github.io/article/arxiv.2303.03261/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2303.03261/</guid>
+      <description>Patrick Chi-Kit Cheong
+We present the implementation of two-moment based general-relativistic multi-group radiation transport module in the $\texttt{G}$eneral-relativistic $\texttt{mu}$ltigrid $\texttt{nu}$merical ($\texttt{Gmunu}$) code. On top of solving the general-relativistic magnetohydrodynamics and the Einstein equations with conformally flat approximations, the code solves the evolution equations of the zeroth- and first-order moments of the radiations. Analytic closure relation is used to obtain the higher order moments and close the system. The finite-volume discretisation has been adopted for the radiation moments.</description>
+    </item>
+    
+    <item>
+      <title>Population III X-ray Binaries and their Impact on the Early Universe</title>
+      <link>https://nebula0.github.io/article/arxiv.2303.03435/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2303.03435/</guid>
+      <description>Nina S. Sartorio
+The first population of X-ray binaries (XRBs) is expected to affect the thermal and ionization states of the gas in the early Universe. Although these X-ray sources are predicted to have important implications for high-redshift observable signals, such as the hydrogen 21-cm signal from cosmic dawn and the cosmic X-ray background, their properties are poorly explored, leaving theoretical models largely uninformed. In this paper we model a population of X-ray binaries arising from zero metallicity stars.</description>
+    </item>
+    
+    <item>
+      <title>Population III X-ray Binaries and their Impact on the Early Universe</title>
+      <link>https://nebula0.github.io/article/untitled-1/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/untitled-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reoriented Memory of Galaxy Spins for the Early Universe</title>
+      <link>https://nebula0.github.io/article/reoriented_memory_of_galaxy_spins_for_the_early_universe/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/reoriented_memory_of_galaxy_spins_for_the_early_universe/</guid>
+      <description>First author: Jun-Sung Moon
+Galaxy spins are believed to retain initially acquired tendency of being aligned with the intermediate principal axes of the linear tidal field, which disseminates a prospect of using them as a probe of the early universe physics. This roseate prospect, however, is contingent upon the key assumption that the observable stellar spins of the present galaxies measured at inner radii have the same alignment tendency toward the initial tidal field as their dark matter counterparts measured at virial limits.</description>
+    </item>
+    
     <item>
       <title>Gravitational capture of magnetic monopoles by primordial black holes in the early universe</title>
       <link>https://nebula0.github.io/article/arxiv.2302.07002/</link>

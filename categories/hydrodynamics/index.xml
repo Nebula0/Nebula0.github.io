@@ -6,7 +6,17 @@
     <description>Recent content in hydrodynamics on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/hydrodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/hydrodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hydrodynamic Simulations of a Relativistic Jet Interacting with the Intracluster Medium: Application to Cygnus A</title>
+      <link>https://nebula0.github.io/article/hydrodynamic_simulations_of_a_relativistic_jet_interacting_with_the_intracluster_medium_application_to_cygnus_a/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/hydrodynamic_simulations_of_a_relativistic_jet_interacting_with_the_intracluster_medium_application_to_cygnus_a/</guid>
+      <description>First author: John A. ZuHone
+The Fanaroff-Riley class II radio galaxy Cygnus A hosts jets which produce radio emission, X-ray cavities, cocoon shocks, and X-ray hotspots where the jet interacts with the ICM. Surrounding one hotspot is a peculiar &amp;ldquo;hole&amp;rdquo; feature which appears as a deficit in X-ray emission. We use relativistic hydrodynamic simulations of a collimated jet interacting with an inclined interface between lobe and cluster plasma to model the basic processes which may lead to such a feature.</description>
+    </item>
+    
     <item>
       <title>Hydrodynamic Simulations and Time-dependent Photoionization Modeling of Starburst-driven Superwinds</title>
       <link>https://nebula0.github.io/article/hydrodynamic_simulations_and_time-dependent_photoionization_modeling_of_starburst-driven_superwinds/</link>
