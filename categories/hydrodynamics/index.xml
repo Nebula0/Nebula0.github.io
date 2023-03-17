@@ -6,7 +6,37 @@
     <description>Recent content in hydrodynamics on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/hydrodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/hydrodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D hydrodynamics simulations of internal gravity waves in red giant branch stars</title>
+      <link>https://nebula0.github.io/article/3d_hydrodynamics_simulations_of_internal_gravity_waves_in_red_giant_branch_stars/</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/3d_hydrodynamics_simulations_of_internal_gravity_waves_in_red_giant_branch_stars/</guid>
+      <description>First author: Simon Blouin
+We present the first 3D hydrodynamics simulations of the excitation and propagation of internal gravity waves (IGWs) in the radiative interiors of low-mass stars on the red giant branch (RGB). We use the PPMstar explicit gas dynamics code to simulate a portion of the convective envelope and all the radiative zone down to the hydrogen-burning shell of a 1.2$M_{\odot}$ upper RGB star. We perform simulations for different grid resolutions (768$^3$, 1536$^3$ and 2880$^3$), a range of driving luminosities, and two different stratifications (corresponding to the bump luminosity and the tip of the RGB).</description>
+    </item>
+    
+    <item>
+      <title>3D hydrodynamic simulations of massive main-sequence stars II. Convective excitation and spectra of internal gravity waves</title>
+      <link>https://nebula0.github.io/article/3d_hydrodynamic_simulations_of_massive_main-sequence_stars_ii._convective_excitation_and_spectra_of_internal_gravity_waves/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/3d_hydrodynamic_simulations_of_massive_main-sequence_stars_ii._convective_excitation_and_spectra_of_internal_gravity_waves/</guid>
+      <description>First author: William Thompson
+Recent photometric observations of massive stars have identified a low-frequency power excess which appears as stochastic low-frequency variability in light curve observations. We present the oscillation properties of high resolution hydrodynamic simulations of a 25 $\mathrm{M}\odot$ star performed with the PPMStar code. The model star has a convective core mass of $\approx, 12, \mathrm{M}\odot$ and approximately half of the envelope simulated. From this simulation, we extract light curves from several directions, average them over each hemisphere, and process them as if they were real photometric observations.</description>
+    </item>
+    
+    <item>
+      <title>3D hydrodynamic simulations of massive main-sequence stars. I. Dynamics and mixing of convection and internal gravity waves</title>
+      <link>https://nebula0.github.io/article/3d_hydrodynamic_simulations_of_massive_main-sequence_stars._i._dynamics_and_mixing_of_convection_and_internal_gravity_waves/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/3d_hydrodynamic_simulations_of_massive_main-sequence_stars._i._dynamics_and_mixing_of_convection_and_internal_gravity_waves/</guid>
+      <description>First author: Falk Herwig
+We performed 3D hydrodynamic simulations of the inner $\approx 50%$ radial extent of a $25\ \mathrm{M_\odot}$ star in the early phase of the main sequence and investigate core convection and internal gravity waves in the core-envelope boundary region. Simulations for different grid resolutions and driving luminosities establish scaling relations to constrain models of mixing for 1D applications. As in previous works, the turbulent mass entrainment rate extrapolated to nominal heating is unrealistically high ($1.</description>
+    </item>
+    
     <item>
       <title>Hydrodynamic Simulations of a Relativistic Jet Interacting with the Intracluster Medium: Application to Cygnus A</title>
       <link>https://nebula0.github.io/article/hydrodynamic_simulations_of_a_relativistic_jet_interacting_with_the_intracluster_medium_application_to_cygnus_a/</link>

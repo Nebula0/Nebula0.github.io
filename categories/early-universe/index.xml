@@ -6,7 +6,67 @@
     <description>Recent content in early universe on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/early-universe/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/early-universe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Early results from GLASS-JWST XVI: Discovering a bluer z~4-7 Universe through UV slopes</title>
+      <link>https://nebula0.github.io/article/arxiv.2207.13860/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2207.13860/</guid>
+      <description>Themiya Nanayakkara
+We use the GLASS-JWST Early Release Science NIRCam parallel observations to provide a first view of the UV continuum properties of NIRCam/F444W selected galaxies at 4&amp;amp;lt;z&amp;amp;lt;7. By combining multiwavelength NIRCam observations, we constrain the UV continuum slope for a sample of 401 galaxies with stringent quality controls. We find that &amp;amp;gt;99% of the galaxies are blue star-forming galaxies with very low levels of dust (Avbeta~0.01+/-0.33). We find no statistically significant correlation for UV slope with redshift or UV magnitude.</description>
+    </item>
+    
+    <item>
+      <title>Exotic energy injection in the early universe I: a novel treatment for low-energy electrons and photons</title>
+      <link>https://nebula0.github.io/article/arxiv.2303.07366/</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2303.07366/</guid>
+      <description>Hongwan Liu,
+Decaying or annihilating dark matter and other exotic energy injections can modify the spectrum of the universe&amp;amp;#39;s photon bath, resulting in e.g. new contributions to spectral distortions of the cosmic microwave background blackbody spectrum and modifications to the temperature and ionization history of the universe. Here, we present an improved version of the $\texttt{DarkHistory}$ code, which is now capable of consistently calculating the spectrum of low-energy photons by properly treating the interactions of these photons with the levels of hydrogen atoms.</description>
+    </item>
+    
+    <item>
+      <title>Exotic energy injection in the early universe II: CMB spectral distortions and constraints on light dark matter</title>
+      <link>https://nebula0.github.io/article/arxiv.2303.07370/</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2303.07370/</guid>
+      <description>Hongwan Liu
+We calculate the post-recombination contribution to the Cosmic Microwave Background (CMB) spectral distortion due to general exotic energy injections, including dark matter (DM) decaying or annihilating to Standard Model particles. Upon subtracting the background distortion that would be present even without such energy injections, we find residual distortions that are still potentially large enough to be detectable by future experiments such as PIXIE. The distortions also have a high-energy spectral feature that is a unique signature of the injection of high-energy particles.</description>
+    </item>
+    
+    <item>
+      <title>First emergence of cold accretion and supermassive star formation in the early universe</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.10263/</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2301.10263/</guid>
+      <description>Masaki Kiyuna
+We investigate the first emergence of the so-called cold accretion, the accretion flows deeply penetrating a halo, in the early universe with cosmological N-body/SPH simulations. We study the structure of the accretion flow and its evolution within small halos with $\lesssim 10^8~{\rm M}_\odot$ with sufficiently high spatial resolutions down to $\sim 1 \ {\rm pc}$ scale. While previous studies only follow the evolution for a short period after the primordial cloud collapse, we follow the long-term evolution until the cold accretion first appears, employing the sink particle method.</description>
+    </item>
+    
+    <item>
+      <title>Metal Factories in the Early Universe</title>
+      <link>https://nebula0.github.io/article/arxiv.2303.07376/</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2303.07376/</guid>
+      <description>Stephen Eales
+We have measured the mass of metals in 13 submillimetre galaxies at z~4 in which the gas, based on previous observations, lies in a cold rotating disk. We measured the metal masses using either the submillimetre line or continuum emission from three tracers of the overall metal content - carbon atoms, carbon monoxide molecules and dust grains - using the first calibration of this technique that treats all three tracers simultaneously (Dunne et al.</description>
+    </item>
+    
+    <item>
+      <title>Gravitational capture of magnetic monopoles by primordial black holes in the early universe</title>
+      <link>https://nebula0.github.io/article/arxiv.2302.07002/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2302.07002/</guid>
+      <description>Chen Zhang
+It is intriguing to ask whether the existence of primordial black holes (PBHs) in the early universe could significantly reduce the abundance of certain stable massive particles (SMP) via gravitational capture, after which the PBHs evaporate before BBN to avoid conflict with stringent bounds. For example, this mechanism is relevant to an alternative solution of the monopole problem proposed by Stojkovic and Freese, in which magnetic monopoles produced in the early universe are captured by PBHs, thus freeing inflation from having to occur during or after the corresponding phase transitions that produced the monopoles.</description>
+    </item>
+    
     <item>
       <title>General-relativistic radiation transport scheme in Gmunu I: Implementation of two-moment based multi-frequency radiative transfer and code tests</title>
       <link>https://nebula0.github.io/article/arxiv.2303.03261/</link>
@@ -28,15 +88,6 @@ The first population of X-ray binaries (XRBs) is expected to affect the thermal 
     </item>
     
     <item>
-      <title>Population III X-ray Binaries and their Impact on the Early Universe</title>
-      <link>https://nebula0.github.io/article/untitled-1/</link>
-      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/untitled-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Reoriented Memory of Galaxy Spins for the Early Universe</title>
       <link>https://nebula0.github.io/article/reoriented_memory_of_galaxy_spins_for_the_early_universe/</link>
       <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
@@ -44,16 +95,6 @@ The first population of X-ray binaries (XRBs) is expected to affect the thermal 
       <guid>https://nebula0.github.io/article/reoriented_memory_of_galaxy_spins_for_the_early_universe/</guid>
       <description>First author: Jun-Sung Moon
 Galaxy spins are believed to retain initially acquired tendency of being aligned with the intermediate principal axes of the linear tidal field, which disseminates a prospect of using them as a probe of the early universe physics. This roseate prospect, however, is contingent upon the key assumption that the observable stellar spins of the present galaxies measured at inner radii have the same alignment tendency toward the initial tidal field as their dark matter counterparts measured at virial limits.</description>
-    </item>
-    
-    <item>
-      <title>Gravitational capture of magnetic monopoles by primordial black holes in the early universe</title>
-      <link>https://nebula0.github.io/article/arxiv.2302.07002/</link>
-      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/arxiv.2302.07002/</guid>
-      <description>Chen Zhang
-It is intriguing to ask whether the existence of primordial black holes (PBHs) in the early universe could significantly reduce the abundance of certain stable massive particles (SMP) via gravitational capture, after which the PBHs evaporate before BBN to avoid conflict with stringent bounds. For example, this mechanism is relevant to an alternative solution of the monopole problem proposed by Stojkovic and Freese, in which magnetic monopoles produced in the early universe are captured by PBHs, thus freeing inflation from having to occur during or after the corresponding phase transitions that produced the monopoles.</description>
     </item>
     
     <item>
@@ -74,16 +115,6 @@ It is expected that cosmic rays (CRs) escape from high-redshift galaxies at reds
       <guid>https://nebula0.github.io/article/arxiv.2301.12546/</guid>
       <description>Howard Baer,
 The supersymmetrized DFSZ axion model is especially compelling in that it contains 1. the SUSY solution to the gauge hierarchy problem, 2. the Peccei-Quinn (PQ) solution to the strong CP problem and 3. the Kim-Nilles solution to the SUSY mu problem. In a string setting, where a discrete R-symmetry ({\bf Z}_{24}^R for example) may emerge from the compactification process, a high-quality accidental axion (accion) can emerge from the accidental, approximate remnant global U(1)_{PQ} symmetry where the decay constant f_a is linked to the SUSY breaking scale, and is within the cosmological sweet zone.</description>
-    </item>
-    
-    <item>
-      <title>First emergence of cold accretion and supermassive star formation in the early universe</title>
-      <link>https://nebula0.github.io/article/arxiv.2301.10263/</link>
-      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nebula0.github.io/article/arxiv.2301.10263/</guid>
-      <description>Masaki Kiyuna
-We investigate the first emergence of the so-called cold accretion, the accretion flows deeply penetrating a halo, in the early universe with cosmological N-body/SPH simulations. We study the structure of the accretion flow and its evolution within small halos with $\lesssim 10^8~{\rm M}_\odot$ with sufficiently high spatial resolutions down to $\sim 1 \ {\rm pc}$ scale. While previous studies only follow the evolution for a short period after the primordial cloud collapse, we follow the long-term evolution until the cold accretion first appears, employing the sink particle method.</description>
     </item>
     
     <item>

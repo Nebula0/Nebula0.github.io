@@ -6,7 +6,37 @@
     <description>Recent content in radiative transfer on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/radiative-transfer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/radiative-transfer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Frequency-dependent Discrete Implicit Monte-Carlo Scheme for the Radiative Transfer Equation</title>
+      <link>https://nebula0.github.io/article/arxiv.2303.06634/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2303.06634/</guid>
+      <description>Elad Steinberg
+This work generalizes the discrete implicit Monte-Carlo (DIMC) method for modeling the radiative transfer equation from a gray treatment to an frequency-dependent one. The classic implicit Monte-Carlo (IMC) algorithm, that has been used for several decades, suffers from a well-known numerical problem, called teleportation, where the photons might propagate faster than the exact solution due to the finite size of the spatial and temporal resolution. The Semi-analog Monte-Carlo algorithm proposed the use of two kinds of particles, photons and material particles that are born when a photon is absorbed.</description>
+    </item>
+    
+    <item>
+      <title>A New Versatile Code for Gamma-Ray Monte-Carlo Radiative Transfer</title>
+      <link>https://nebula0.github.io/article/arxiv.2205.04450/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2205.04450/</guid>
+      <description>Shing-Chi Leung
+Ongoing MeV telescopes such as INTEGRAL/SPI and Fermi/GBM, and proposed telescopes including the recently accepted COSI and the e-ASTROGAM and AMEGO missions, provide another window in understanding transients. Their signals contain information about the stellar explosion mechanisms and their corresponding nucleosynthesis of short-lived radioactive isotopes. This raises the need of a radiative transfer code which may efficiently explore different types of astrophysical $γ$-ray sources and their dependence on model parameters and input physics.</description>
+    </item>
+    
+    <item>
+      <title>PINION: Physics-informed neural network for accelerating radiative transfer simulations for cosmic reionization</title>
+      <link>https://nebula0.github.io/article/arxiv.2208.13803/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2208.13803/</guid>
+      <description>Damien Korber
+With the advent of the Square Kilometre Array Observatory (SKAO), scientists will be able to directly observe the Epoch of Reionization by mapping the distribution of neutral hydrogen at different redshifts. While physically motivated results can be simulated with radiative transfer codes, these simulations are computationally expensive and can not readily produce the required scale and resolution simultaneously. Here we introduce the Physics-Informed neural Network for reIONization (PINION), which can accurately and swiftly predict the complete 4-D hydrogen fraction evolution from the smoothed gas and mass density fields from pre-computed N-body simulation.</description>
+    </item>
+    
     <item>
       <title>General-relativistic radiation transport scheme in Gmunu I: Implementation of two-moment based multi-frequency radiative transfer and code tests</title>
       <link>https://nebula0.github.io/article/arxiv.2303.03261/</link>

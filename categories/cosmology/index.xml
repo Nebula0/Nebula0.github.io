@@ -6,7 +6,97 @@
     <description>Recent content in cosmology on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The e-MANTIS emulator: fast predictions of the non-linear matter power spectrum in $f(R)$CDM cosmology</title>
+      <link>https://nebula0.github.io/article/the_e-mantis_emulator_fast_predictions_of_the_non-linear_matter_power_spectrum_in__fr_cdm_cosmology/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_e-mantis_emulator_fast_predictions_of_the_non-linear_matter_power_spectrum_in__fr_cdm_cosmology/</guid>
+      <description>First author: Iñigo Sáez-Casares
+In order to probe modifications of gravity at cosmological scales, one needs accurate theoretical predictions. N-body simulations are required to explore the non-linear regime of structure formation but are very time consuming. In this work, we build an emulator, dubbed e-MANTIS, that performs an accurate and fast interpolation between the predictions of a given set of cosmological simulations, in $f(R)$ modified gravity, run with ECOSMOG. We sample a wide 3D parameter space given by the current background scalar field value $10^{-7} &amp;lt; \left|f_{R_0} \right| &amp;lt; 10^{-4}$, matter density $0.</description>
+    </item>
+    
+    <item>
+      <title>The halo model for cosmology: a pedagogical review</title>
+      <link>https://nebula0.github.io/article/the_halo_model_for_cosmology_a_pedagogical_review/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_halo_model_for_cosmology_a_pedagogical_review/</guid>
+      <description>First author: Marika Asgari
+We present a pedagogical review of the halo model, a flexible framework that can describe the distribution of matter and its tracers on non-linear scales for both conventional and exotic cosmological models. We start with the premise that the complex structure of the cosmic web can be described by the sum of its individual components: dark matter, gas, and galaxies, all distributed within spherical haloes with a range of masses.</description>
+    </item>
+    
+    <item>
+      <title>Vorticity generation in cosmology and the role of shell crossing</title>
+      <link>https://nebula0.github.io/article/vorticity_generation_in_cosmology_and_the_role_of_shell_crossing/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/vorticity_generation_in_cosmology_and_the_role_of_shell_crossing/</guid>
+      <description>First author: Obinna Umeh
+There is no source for cosmic vorticity within the cold dark matter cosmology. However, vorticity has been observed in the universe, especially on the scales of clusters, filaments, galaxies, etc. Recent results from high-resolution general relativistic N-body simulation show that the vorticity power spectrum dominates over the power spectrum of the divergence of the peculiar velocity field on scales where the effective field theory of large-scale structure breaks down.</description>
+    </item>
+    
+    <item>
+      <title>$S_8$ increases with effective redshift in $Λ$CDM cosmology</title>
+      <link>https://nebula0.github.io/article/_s_8__increases_with_effective_redshift_in__%CE%BB_cdm_cosmology/</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/_s_8__increases_with_effective_redshift_in__%CE%BB_cdm_cosmology/</guid>
+      <description>First author: Shahnawaz A. Adil
+Hubble constant $H_0$ and weighted amplitude of matter fluctuations $S_8$ determinations are biased to higher and lower values, respectively, in the late Universe with respect to early Universe values inferred by the Planck collaboration within flat $\Lambda$CDM cosmology. If these anomalies are physical, i.e. not due to systematics, they naively suggest that $H_0$ decreases and $S_8$ increases with effective redshift. Here, on the assumption that matter density parameter today $\Omega_{m}$ is a constant, we show that $S_8$ determinations from $f \sigma_8(z)$ constraints increase with effective redshift, thereby providing corroborating support for an $S_8$ discrepancy that is physical in origin.</description>
+    </item>
+    
+    <item>
+      <title>Phantom dark energy as a natural selection of evolutionary processes $\hat{\rm a}$ $\textit{la}$ $\textit{genetic algorithm}$ and cosmological tensions</title>
+      <link>https://nebula0.github.io/article/phantom_dark_energy_as_a_natural_selection_of_evolutionary_processes___hat_rm_a____textitla____textitgenetic_algorithm__and_cosmological_tensions/</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/phantom_dark_energy_as_a_natural_selection_of_evolutionary_processes___hat_rm_a____textitla____textitgenetic_algorithm__and_cosmological_tensions/</guid>
+      <description>First author: Mayukh R. Gangopadhyay
+We employ a machine learning (ML) algorithm to analyze cosmological background data and the linear red-shift space distortion (RSD) data in a model-independent way, with specific focus on the Hubble expansion rate and the growth of large-scale structure. We find strong evidence that the natural enhancement in the Hubble parameter at low redshifts is due to the underlying phantom nature of dark energy, rather than low matter density.</description>
+    </item>
+    
+    <item>
+      <title>Dark Matter Cosmology with Varying Viscosity: a Possible Resolution to the $ S_8 $ Tension</title>
+      <link>https://nebula0.github.io/article/dark_matter_cosmology_with_varying_viscosity_a_possible_resolution_to_the___s_8___tension/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/dark_matter_cosmology_with_varying_viscosity_a_possible_resolution_to_the___s_8___tension/</guid>
+      <description>First author: Amjad Ashoorioon
+We study varying forms of viscous dark matter and try to address the intriguing tensions of the standard model of cosmology with the recent cosmological data, including the Hubble and $S_8$ tensions. We note that assuming the dark matter viscosity depends on the Hubble parameter, dark matter density, or both, one can improve the statistics. Although the models tend to aggravate the Hubble tension a bit, they tend to reduce the $S_8$ tension, even in comparison with the constant viscosity case.</description>
+    </item>
+    
+    <item>
+      <title>Testing Gravity on Cosmological Scales: Theoretical Predictions with the COLA Method</title>
+      <link>https://nebula0.github.io/article/testing_gravity_on_cosmological_scales_theoretical_predictions_with_the_cola_method/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/testing_gravity_on_cosmological_scales_theoretical_predictions_with_the_cola_method/</guid>
+      <description>First author: Bartolomeo Fiorini
+One of the main objectives of stage IV galaxy surveys is to constrain gravity on cosmological scales. To this end, it is crucial to make accurate theoretical predictions in the nonlinear regime of structure formation in order to maximise the scientific return. This is possible at a relatively low computational cost thanks to COLA simulations, an approximate and much faster alternative to full $N$-body simulations. In this thesis, we focus on two modified gravity theories, $f(R)$ and nDGP, and present an analysis of how COLA simulations can be combined with empirical models for the galaxy-halo connection to produce realistic mock galaxy catalogues in modified gravity.</description>
+    </item>
+    
+    <item>
+      <title>DES Y3 cosmic shear down to small scales: constraints on cosmology and baryons</title>
+      <link>https://nebula0.github.io/article/des_y3_cosmic_shear_down_to_small_scales_constraints_on_cosmology_and_baryons/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/des_y3_cosmic_shear_down_to_small_scales_constraints_on_cosmology_and_baryons/</guid>
+      <description>First author: Giovanni Aricò
+We present the first analysis of cosmic shear measured in DES Y3 that employs the entire range of angular scales in the data. To achieve this, we build upon recent advances in the theoretical modelling of weak lensing provided by a combination of $N$-body simulations, physical models of baryonic processes, and neural networks. Specifically, we use BACCOemu to model the linear and nonlinear matter power spectrum including baryonic physics, allowing us to robustly exploit scales smaller than those used by the DES Collaboration.</description>
+    </item>
+    
+    <item>
+      <title>Discordance of dipole asymmetries seen in recent large radio surveys with the Cosmological Principle</title>
+      <link>https://nebula0.github.io/article/discordance_of_dipole_asymmetries_seen_in_recent_large_radio_surveys_with_the_cosmological_principle/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/discordance_of_dipole_asymmetries_seen_in_recent_large_radio_surveys_with_the_cosmological_principle/</guid>
+      <description>First author: Ashok K. Singal
+In recent years, large radio surveys of Active Galactic Nuclei (AGNs), comprising millions of sources, have become available where one could investigate dipole asymmetries, assumedly arising due to a peculiar motion of the Solar system. Investigations of such dipoles have yielded in past much larger amplitudes (a factor of 2 to 20) than that of the CMB dipole, though their inferred directions in sky seem to lie, within statistical uncertainties, close to the CMB dipole.</description>
+    </item>
+    
     <item>
       <title>Primordial Gravitational Waves Assisted by Cosmological Scalar Perturbations</title>
       <link>https://nebula0.github.io/article/primordial_gravitational_waves_assisted_by_cosmological_scalar_perturbations/</link>

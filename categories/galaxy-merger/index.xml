@@ -6,7 +6,27 @@
     <description>Recent content in galaxy merger on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/galaxy-merger/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/galaxy-merger/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Nature of LoBAL QSOs: II. HST/WFC3 Observations Reveal Host Galaxies Dominated by Mergers</title>
+      <link>https://nebula0.github.io/article/the_nature_of_lobal_qsos_ii._hst_wfc3_observations_reveal_host_galaxies_dominated_by_mergers/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_nature_of_lobal_qsos_ii._hst_wfc3_observations_reveal_host_galaxies_dominated_by_mergers/</guid>
+      <description>First author: Mariana S. Lazarova
+Low-ionization Broad Absorption Line QSOs (LoBALs) are suspected to be merging systems in which extreme, AGN-driven outflows have been triggered. Whether or not LoBALs are uniquely associated with mergers, however, has yet to be established. To characterize the morphologies of LoBALs, we present the first high-resolution morphological analysis of a volume-limited sample of 22 SDSS-selected LoBALs at 0.5 &amp;lt; z &amp;lt; 0.6 from Hubble Space Telescope Wide Field Camera 3 observations.</description>
+    </item>
+    
+    <item>
+      <title>Evolution in the orbital structure of quiescent galaxies from MAGPI, LEGA-C and SAMI surveys: direct evidence for merger-driven growth over the last 7 Gy</title>
+      <link>https://nebula0.github.io/article/evolution_in_the_orbital_structure_of_quiescent_galaxies_from_magpi_lega-c_and_sami_surveys_direct_evidence_for_merger-driven_growth_over_the_last_7_gy/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/evolution_in_the_orbital_structure_of_quiescent_galaxies_from_magpi_lega-c_and_sami_surveys_direct_evidence_for_merger-driven_growth_over_the_last_7_gy/</guid>
+      <description>First author: Francesco D&amp;rsquo;Eugenio
+We present the first study of spatially integrated higher-order stellar kinematics over cosmic time. We use deep rest-frame optical spectroscopy of quiescent galaxies at redshifts z=0.05, 0.3 and 0.8 from the SAMI, MAGPI and LEGA-C surveys to measure the excess kurtosis $h_4$ of the stellar velocity distribution, the latter parametrised as a Gauss-Hermite series. Conservatively using a redshift-independent cut in stellar mass ($M_\star = 10^{11},{\rm M}_\odot$), and matching the stellar-mass distributions of our samples, we find 7 $\sigma$ evidence of $h_4$ increasing with cosmic time, from a median value of 0.</description>
+    </item>
+    
     <item>
       <title>Impact of Galaxy Mergers on Stellar Population Profiles of Early-type Galaxies</title>
       <link>https://nebula0.github.io/article/arxiv.2303.00559/</link>
@@ -75,6 +95,16 @@ By using direct N-body numerical simulations, we model the dynamical co-evolutio
       <guid>https://nebula0.github.io/article/arxiv.2301.02676/</guid>
       <description>Alexandra Le Reste
 Around 400 million years after the big bang, ultraviolet emission (Lyman Continuum, LyC) from star-forming galaxies drove the reionization of the Universe. How this radiation escapes the cold neutral gas (HI) of galaxies with sufficiently little absorption to reionize the intergalactic medium is poorly understood. HI has never been mapped in confirmed LyC-emitters, leaving major uncertainties on how LyC photons escape galaxies and ionize the intergalactic medium.</description>
+    </item>
+    
+    <item>
+      <title>VINTERGATAN-GM: The cosmological imprints of early mergers on Milky-Way-mass galaxies</title>
+      <link>https://nebula0.github.io/article/vintergatan-gm_the_cosmological_imprints_of_early_mergers_on_milky-way-mass_galaxies/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/vintergatan-gm_the_cosmological_imprints_of_early_mergers_on_milky-way-mass_galaxies/</guid>
+      <description>First author: Martin P. Rey
+We present a new suite of cosmological zoom-in hydrodynamical ($\approx 20, \mathrm{pc}$) simulations of Milky-Way mass galaxies to study how a varying mass ratio for a Gaia-Sausage-Enceladus (GSE) progenitor impacts the $z=0$ chemodynamics of halo stars. Using the genetic modification approach, we create five cosmological histories for a Milky-Way-mass dark matter halo ($M_{200} \approx 10^{12} , M_\mathrm{\odot}$), incrementally increasing the stellar mass ratio of a $z\approx2$ merger from 1:25 to 1:2, while fixing the galaxy&amp;rsquo;s final dynamical, stellar mass and large-scale environment.</description>
     </item>
     
     <item>

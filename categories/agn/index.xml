@@ -6,7 +6,27 @@
     <description>Recent content in AGN on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/agn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/agn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>X-HESS: a large sample of highly accreting serendipitous AGN under the XMM-Newton microscope</title>
+      <link>https://nebula0.github.io/article/x-hess_a_large_sample_of_highly_accreting_serendipitous_agn_under_the_xmm-newton_microscope/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/x-hess_a_large_sample_of_highly_accreting_serendipitous_agn_under_the_xmm-newton_microscope/</guid>
+      <description>First author: M. Laurenti
+The bulk of X-ray spectroscopic studies of active galactic nuclei (AGN) are focused on local ($z &amp;lt; 0.1$) sources with low-to-moderate ($&amp;lt; 0.3$) Eddington ratio ($\lambda_\mathrm{Edd}$). It is then mandatory to overcome this limitation and improve our understanding of highly accreting AGN. In this work we present the preliminary results from the analysis of a sample of $\sim70$ high-$\lambda_\mathrm{Edd}$ radio-quiet AGN at $0.06 \leq z \leq 3.</description>
+    </item>
+    
+    <item>
+      <title>Spatially resolved observations of outflows in the radio loud AGN of UGC 8782</title>
+      <link>https://nebula0.github.io/article/spatially_resolved_observations_of_outflows_in_the_radio_loud_agn_of_ugc_8782/</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/spatially_resolved_observations_of_outflows_in_the_radio_loud_agn_of_ugc_8782/</guid>
+      <description>First author: Rogemar A. Riffel
+We use optical Integral Field Spectroscopy (IFU) to study the gas emission structure and kinematics in the inner 3.4$\times$4.9 kpc$^2$ region of the galaxy UGC 8782 (3C 293), host of a radio loud Active Galactic Nucleus (AGN). The observations were performed with the GMOS-IFU on the Gemini North telescope, resulting in a spatial resolution of $\sim725$ pc at the distance of the galaxy. While the stars present ordered rotation following the orientation of the large scale disc, the gas shows a disturbed kinematics.</description>
+    </item>
+    
     <item>
       <title>Can observations of 511 keV line from the M31 galaxy shed light on the AGN jet composition?</title>
       <link>https://nebula0.github.io/article/can_observations_of_511_kev_line_from_the_m31_galaxy_shed_light_on_the_agn_jet_composition/</link>
