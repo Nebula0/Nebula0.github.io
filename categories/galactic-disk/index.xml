@@ -6,7 +6,67 @@
     <description>Recent content in galactic disk on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/galactic-disk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/galactic-disk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GRB 191019A: a short gamma-ray burst in disguise from the disk of an active galactic nucleus</title>
+      <link>https://nebula0.github.io/article/arxiv.2303.12935/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2303.12935/</guid>
+      <description>Davide Lazzati
+Long and short gamma-ray bursts (GRBs), canonically separated at around 2 seconds duration, are associated with different progenitors: the collapse of a massive star and the merger of two compact objects, respectively. GRB 191019A was a long GRB ($T_{90}\sim64$ s). Despite the relatively small redshift z=0.248 and HST followup observations, an accompanying supernova was not detected. In addition, the host galaxy did not have significant star formation activity.</description>
+    </item>
+    
+    <item>
+      <title>The formation of globular clusters with top-heavy initial mass functions</title>
+      <link>https://nebula0.github.io/article/arxiv.2303.12405/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2303.12405/</guid>
+      <description>Hajime Fukushima
+We study the formation of globular clusters in massive compact clouds with the low-metallicity of $Z=10^{-3}~Z_{\odot}$ by performing three-dimensional radiative-hydrodynamics simulations. Considering the uncertainty of the initial mass function (IMF) of stars formed in low-metallicity and high-density clouds, we investigate the impacts of the IMF on the cloud condition for the GC formation with the range of the power-law index of IMF as $γ= 1-2.35$. We find that the threshold surface density ($Σ_{\rm thr}$) for the GC formation increases from $800~M_{\odot} \; {\rm pc^{-2}}$ at $γ= 2.</description>
+    </item>
+    
+    <item>
+      <title>A Trail of the Invisible: Blue Globular Clusters Trace the Radial Density Distribution of the Dark Matter -- Case Study of NGC 4278</title>
+      <link>https://nebula0.github.io/article/arxiv.2301.02292/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2301.02292/</guid>
+      <description>Matthias Kluge
+We present new, deep optical observations of the early-type galaxy NGC 4278, which is located in a small loose group. We find that the galaxy lacks fine substructure, i.e., it appears relaxed, out to a radius of $\sim$70 kpc. Our $g$- and $i$-band surface brightness profiles are uniform down to our deepest levels of $\sim$28 mag arcsec$^{-2}$. This spans an extremely large radial range of more than 14 half-mass radii.</description>
+    </item>
+    
+    <item>
+      <title>A young white dwarf orbiting PSR J1835-3259B in the bulge globular cluster NGC 6652</title>
+      <link>https://nebula0.github.io/article/arxiv.2303.11263/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2303.11263/</guid>
+      <description>J. Chen
+We report on the discovery of the companion star to the millisecond pulsar PSR J1835-3259B in the Galactic globular cluster NGC 6652. Taking advantage of deep photometric archival observations acquired through the Hubble Space Telescope in near-ultraviolet and optical bands, we identified a bright and blue object at a position compatible with that of the radio pulsar. The companion is located along the helium-core white dwarf cooling sequence and the comparison with binary evolution models provides a mass of $0.</description>
+    </item>
+    
+    <item>
+      <title>On the Reionization-Era Globular Cluster in Low-Mass Galaxy Eridanus II</title>
+      <link>https://nebula0.github.io/article/arxiv.2303.11348/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2303.11348/</guid>
+      <description>Daniel R. Weisz
+Using color-magnitude diagrams from deep archival Hubble Space Telescope imaging, we self-consistently measure the star formation history of Eridanus II (Eri II), the lowest-mass galaxy ($M_{\star}(z=0) \sim 10^5 M_{\odot}$) known to host a globular cluster (GC), and the age, mass, and metallicity of its GC. The GC ($\sim13.2\pm0.4$ Gyr, $\langle[Fe/H]\rangle = -2.75\pm0.2$ dex) and field (mean age $\sim13.5\pm0.3$ Gyr, $\langle[Fe/H]\rangle = -2.6\pm0.15$ dex) have similar ages and metallicities.</description>
+    </item>
+    
+    <item>
+      <title>Blind Search of The Solar Neighborhood Galactic Disk within 5kpc: 1,179 new Star clusters found in Gaia DR3</title>
+      <link>https://nebula0.github.io/article/arxiv.2303.10380/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/arxiv.2303.10380/</guid>
+      <description>Huanbin Chi
+Studying open clusters (OCs) is essential for a comprehensive understanding of the structure and evolution of the Milky Way. Many previous studies have systematically searched for OCs near the solar system within 1.2 kpc or 20 degrees of galactic latitude. However, few studies searched for OCs at higher galactic latitudes and deeper distances. In this study, based on a hybrid unsupervised clustering algorithm (Friends-of-Friends and pyUPMASK) and a binary classification algorithm (Random Forest), we extended the search region (i.</description>
+    </item>
+    
     <item>
       <title>The Role of Outflow Feedback on Accretion of Compact Objects in Accretion Disk of Active Galactic Nuclei</title>
       <link>https://nebula0.github.io/article/arxiv.2303.07639/</link>

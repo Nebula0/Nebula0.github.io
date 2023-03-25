@@ -6,7 +6,57 @@
     <description>Recent content in dwarf galaxy on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/dwarf-galaxy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/dwarf-galaxy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A LOFAR sample of luminous compact sources coincident with nearby dwarf galaxies</title>
+      <link>https://nebula0.github.io/article/a_lofar_sample_of_luminous_compact_sources_coincident_with_nearby_dwarf_galaxies/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/a_lofar_sample_of_luminous_compact_sources_coincident_with_nearby_dwarf_galaxies/</guid>
+      <description>First author: D. Vohl
+The vast majority of extragalactic, compact continuum radio sources are associated with star formation or jets from (super)massive black holes and, as such, are more likely to be found in association with starburst galaxies or early type galaxies. Recently, two new populations of radio sources have been identified: (a) compact and persistent sources (PRS) associated with fast radio bursts (FRB) in dwarf galaxies and (b) compact sources in dwarf galaxies that could belong to the long-sought population of intermediate-mass black holes.</description>
+    </item>
+    
+    <item>
+      <title>Evolution of binary stars in the early evolutionary phases of ultra-faint dwarf galaxies</title>
+      <link>https://nebula0.github.io/article/evolution_of_binary_stars_in_the_early_evolutionary_phases_of_ultra-faint_dwarf_galaxies/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/evolution_of_binary_stars_in_the_early_evolutionary_phases_of_ultra-faint_dwarf_galaxies/</guid>
+      <description>First author: Alexander R. Livernois
+The dynamics of binary stars provides a unique avenue to gather insight into the study of the structure and dynamics of star clusters and galaxies. In this paper, we present the results of a set of $N$-body simulations aimed at exploring the evolution of binary stars during the early evolutionary phases of ultra-faint dwarf galaxies (UFD). In our simulations, we assume that the stellar component of the UFD is initially dynamically cold and evolves towards its final equilibrium after undergoing the violent relaxation phase.</description>
+    </item>
+    
+    <item>
+      <title>Inhomogeneous Galactic Chemical Evolution: Modelling Ultra-Faint Dwarf Galaxies of the Large Magellanic Cloud</title>
+      <link>https://nebula0.github.io/article/inhomogeneous_galactic_chemical_evolution_modelling_ultra-faint_dwarf_galaxies_of_the_large_magellanic_cloud/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/inhomogeneous_galactic_chemical_evolution_modelling_ultra-faint_dwarf_galaxies_of_the_large_magellanic_cloud/</guid>
+      <description>First author: Ryan K. Alexander
+Ultra-faint dwarf galaxies are among the oldest and most metal-poor galaxies in the cosmos, observed to contain no traces of gas at the present time and a high dark matter mass fraction. Understanding the chemical abundance dispersion in such extreme environments could shed light on the properties of the first generations of stars in the cosmos. We present a novel inhomogeneous chemical evolution model, i-GEtool, that we apply to two ultra-faint dwarf galaxies, Carina II (Car II) and Reticulum II (Ret II), which are satellites of the Large Magellanic Cloud.</description>
+    </item>
+    
+    <item>
+      <title>Searching for FRB persistent radio source counterparts in dwarf galaxies using LOFAR</title>
+      <link>https://nebula0.github.io/article/searching_for_frb_persistent_radio_source_counterparts_in_dwarf_galaxies_using_lofar/</link>
+      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/searching_for_frb_persistent_radio_source_counterparts_in_dwarf_galaxies_using_lofar/</guid>
+      <description>First author: D. Vohl
+The repeating FRB 20121102A was localized to a star-forming region in a dwarf galaxy and found to be co-located with a persistent radio source (PRS). FRB 20190520B is only the second known source sharing phenomenology akin to FRB 20121102A&amp;rsquo;s, with similar burst activity, host galaxy properties, as well as being associated with a PRS. PRS emission is potentially a calorimeter, allowing us to estimate the energy output of the central FRB engine.</description>
+    </item>
+    
+    <item>
+      <title>WIMP cross-section limits from LOFAR observations of dwarf spheroidal galaxies</title>
+      <link>https://nebula0.github.io/article/wimp_cross-section_limits_from_lofar_observations_of_dwarf_spheroidal_galaxies/</link>
+      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/wimp_cross-section_limits_from_lofar_observations_of_dwarf_spheroidal_galaxies/</guid>
+      <description>First author: L. Gajović
+Weakly interacting massive particles (WIMPs) can self-annihilate and thus provide us with the possibility for an indirect detection of Dark Matter (DM). Dwarf spheroidal (dSph) galaxies are excellent places to search for annihilation signals because they are rich in DM and background emission is low. If magnetic fields in dSph exist, the particles produced in DM annihilation emit synchrotron radiation. We use the non-detection of 150 MHz radio continuum emission from dSph galaxies with the LOw Frequency ARray (LOFAR) to derive constraints on the annihilation cross-section of WIMPs into electron-positron pairs.</description>
+    </item>
+    
     <item>
       <title>On the Dynamical Heating of Dwarf Galaxies in a Fuzzy Dark Matter Halo</title>
       <link>https://nebula0.github.io/article/on_the_dynamical_heating_of_dwarf_galaxies_in_a_fuzzy_dark_matter_halo/</link>

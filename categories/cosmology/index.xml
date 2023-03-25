@@ -6,7 +6,97 @@
     <description>Recent content in cosmology on Explosion Group Paper collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nebula0.github.io/categories/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Constraining f(Q) Cosmology with Standard Sirens</title>
+      <link>https://nebula0.github.io/article/constraining_fq_cosmology_with_standard_sirens/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/constraining_fq_cosmology_with_standard_sirens/</guid>
+      <description>First author: José Ferreira
+In this dissertation, we study two cosmological models based on $f(Q)$ gravity. We resort to mock catalogs of standard siren (SS) events to see whether data from future gravitational wave (GWs) observatories will be able to distinguish these models from $\Lambda$CDM. The first model is the most general $f(Q)$ formulation that replicates a $\Lambda$CDM background, with deviations appearing only at the perturbative level. It has one additional free parameter compared to $\Lambda$CDM, $\alpha$, which when set to zero falls back to $\Lambda$CDM.</description>
+    </item>
+    
+    <item>
+      <title>Cosmological studies with VLBI</title>
+      <link>https://nebula0.github.io/article/cosmological_studies_with_vlbi/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/cosmological_studies_with_vlbi/</guid>
+      <description>First author: C. Spingola
+Current cosmological controversies can be solved if a sufficient level of precision is achieved by observations. Future surveys with the next generation of telescopes will offer significantly improved depth and angular resolution with respect to existing observations, opening the so-called &amp;ldquo;era of precision cosmology&amp;rdquo;. But, that era can be considered already started at the radio wavelengths with Very Long Baseline Interferometry (VLBI). In this paper, we give an overview on how VLBI is contributing to some open questions in contemporary cosmology by reaching simultaneously the largest distances and the smallest scales.</description>
+    </item>
+    
+    <item>
+      <title>Barrow nearly-extensive Gibbs-like entropy favoured by the full dynamical and geometrical data set in cosmology</title>
+      <link>https://nebula0.github.io/article/barrow_nearly-extensive_gibbs-like_entropy_favoured_by_the_full_dynamical_and_geometrical_data_set_in_cosmology/</link>
+      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/barrow_nearly-extensive_gibbs-like_entropy_favoured_by_the_full_dynamical_and_geometrical_data_set_in_cosmology/</guid>
+      <description>First author: Tomasz Denkiewicz
+We apply the full set of most update dynamical and geometrical data in cosmology to the nonextensive Barrow entropic holographic dark energy. We show that the data point towards an extensive Gibbs-like entropic behaviour for the cosmological horizons, which is the extreme case of the Barrow entropy, with the entropy parameter being $\Delta &amp;gt; 0.86$, close to the maximum threshold of $\Delta =1$ where the fractal dimension of the area-horizon becomes almost or just the volume and the intensivity is recovered.</description>
+    </item>
+    
+    <item>
+      <title>Emulating radiation transport on cosmological scale using a denoising Unet</title>
+      <link>https://nebula0.github.io/article/emulating_radiation_transport_on_cosmological_scale_using_a_denoising_unet/</link>
+      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/emulating_radiation_transport_on_cosmological_scale_using_a_denoising_unet/</guid>
+      <description>First author: Mosima P. Masipa
+Semi-numerical simulations are the leading candidates for evolving reionization on cosmological scales. These semi-numerical models are efficient in generating large-scale maps of the 21cm signal, but they are too slow to enable inference at the field level. We present different strategies to train a U-Net to accelerate these simulations. We derive the ionization field directly from the initial density field without using the ionizing sources&amp;rsquo; location, and hence emulating the radiative transfer process.</description>
+    </item>
+    
+    <item>
+      <title>Astrophysical and Cosmological Searches for Lorentz Invariance Violation</title>
+      <link>https://nebula0.github.io/article/astrophysical_and_cosmological_searches_for_lorentz_invariance_violation/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/astrophysical_and_cosmological_searches_for_lorentz_invariance_violation/</guid>
+      <description>First author: Shantanu Desai
+Lorentz invariance is one of the fundamental tenets of Special Relativity, and has been extensively tested with laboratory and astrophysical observations. However, many quantum gravity models and theories beyond the Standard Model of Particle Physics predict a violation of Lorentz invariance at energies close to Planck scale. This article reviews observational and experimental tests of Lorentz invariance violation (LIV) with photons, neutrinos and gravitational waves. Most astrophysical tests of LIV using photons are based on searching for a correlation of the spectral lag data with redshift and energy.</description>
+    </item>
+    
+    <item>
+      <title>Cosmological constraints with the linear point from the BOSS survey</title>
+      <link>https://nebula0.github.io/article/cosmological_constraints_with_the_linear_point_from_the_boss_survey/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/cosmological_constraints_with_the_linear_point_from_the_boss_survey/</guid>
+      <description>First author: Mengfan He
+The {\it Linear Point} (LP), defined as the midpoint between the BAO peak and the associated left dip of the two-point correlation function (2PCF), $\xi(s)$, is proposed as a new standard ruler which is insensitive to nonlinear effects. In this paper, we use a Bayesian sampler to measure the LP and estimate the corresponding statistical uncertainty, and then perform cosmological parameter constraints with LP measurements. Using the Patchy mock catalogues, we find that the measured LPs are consistent with theoretical predictions at 0.</description>
+    </item>
+    
+    <item>
+      <title>Dark siren cosmology with binary black holes in the era of third-generation gravitational wave detectors</title>
+      <link>https://nebula0.github.io/article/dark_siren_cosmology_with_binary_black_holes_in_the_era_of_third-generation_gravitational_wave_detectors/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/dark_siren_cosmology_with_binary_black_holes_in_the_era_of_third-generation_gravitational_wave_detectors/</guid>
+      <description>First author: Niccolò Muttoni
+Third-generation (3G) gravitational wave detectors, in particular Einstein Telescope (ET) and Cosmic Explorer (CE), will explore unprecedented cosmic volumes in search for compact binary mergers, providing us with tens of thousands of detections per year. In this study, we simulate and employ binary black holes detected by 3G interferometers as dark sirens, to extract and infer cosmological parameters by cross-matching gravitational wave data with electromagnetic information retrieved from a simulated galaxy catalog.</description>
+    </item>
+    
+    <item>
+      <title>Cosmology inference at the field level from biased tracers in redshift-space</title>
+      <link>https://nebula0.github.io/article/cosmology_inference_at_the_field_level_from_biased_tracers_in_redshift-space/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/cosmology_inference_at_the_field_level_from_biased_tracers_in_redshift-space/</guid>
+      <description>First author: Julia Stadler
+Cosmology inference of galaxy clustering at the field level with the EFT likelihood in principle allows for extracting all non-Gaussian information from quasi-linear scales, while robustly marginalizing over any astrophysical uncertainties. A pipeline in this spirit is implemented in the \texttt{LEFTfield} code, which we extend in this work to describe the clustering of galaxies in redshift space. Our main additions are: the computation of the velocity field in the LPT gravity model, the fully nonlinear displacement of the evolved, biased density field to redshift space, and a systematic expansion of velocity bias.</description>
+    </item>
+    
+    <item>
+      <title>The Pantheon Sample analysis of cosmological constraints under new models</title>
+      <link>https://nebula0.github.io/article/the_pantheon_sample_analysis_of_cosmological_constraints_under_new_models/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nebula0.github.io/article/the_pantheon_sample_analysis_of_cosmological_constraints_under_new_models/</guid>
+      <description>First author: Peifeng Peng
+In this project, the cosmological parameters are determined by applying six cosmological models to fit the magnitude-redshift relation of the Pantheon Sample consisting of 1048 Type Ia supernovae (SNe Ia) in the range of $0.01 &amp;lt; z &amp;lt; 2.26$. Apart from the well-known flat $\Lambda$CDM model as well as other models that have been broadly studied, this project includes two new models, which are the $\textit{o}\textit{w}$CDM model and the $\textit{o}\textit{w}0\textit{w}a$CDM model, to fully evaluate the correlations between the cosmological parameters by performing the MCMC algorithm and to explore the geometry and mass content of the Universe.</description>
+    </item>
+    
     <item>
       <title>The e-MANTIS emulator: fast predictions of the non-linear matter power spectrum in $f(R)$CDM cosmology</title>
       <link>https://nebula0.github.io/article/the_e-mantis_emulator_fast_predictions_of_the_non-linear_matter_power_spectrum_in__fr_cdm_cosmology/</link>
